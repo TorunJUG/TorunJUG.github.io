@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://torun.jug.pl/blog/2014/03/18/startujemy/</loc>
+        <lastmod>2014-03-18T20:07:13+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/about.html</loc>
         <lastmod>2014-03-18T12:00:13+01:00</lastmod>
     </url>
@@ -22,7 +26,7 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/</loc>
-        <lastmod>2014-03-18T12:00:13+01:00</lastmod>
+        <lastmod>2014-03-18T20:07:13+01:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/javascript.html</loc>
@@ -34,11 +38,11 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/blog/archives/</loc>
-        <lastmod>2014-03-18T15:17:15+01:00</lastmod>
+        <lastmod>2014-03-18T20:07:13+01:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/</loc>
-        <lastmod>2014-03-18T15:30:40+01:00</lastmod>
+        <lastmod>2014-03-18T20:13:34+01:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/robots.txt</loc>

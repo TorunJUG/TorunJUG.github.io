@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-03-18T19:14:35+01:00</updated>
+  <updated>2014-03-18T20:16:17+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,5 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Startujemy!]]></title>
+    <link href="http://torun.jug.pl/blog/2014/03/18/startujemy/"/>
+    <updated>2014-03-18T19:31:25+01:00</updated>
+    <id>http://torun.jug.pl/blog/2014/03/18/startujemy</id>
+    <content type="html"><![CDATA[<p>Witamy wszystkich entuzjastów zarówno języka Java jak i innych języków opartych o JVM. Wyszliśmy z inicjatywą stworzenia grupy użytkowników Java (popularnego JUG-a) w Toruniu mającej na celu rozwój lokalnej społeczności programistów Java i pokrewnych. Projekt nabiera rozpędu i niedługo zostanie zorganizowane pierwsze spotkanie.</p>
+
+<p>Pomysł został zainicjowany na <a href="https://www.facebook.com/tak.dla.juga.w.toruniu">Facebooku</a> i tam aktualnie możecie znaleźć najwięcej informacji na jego temat. Z biegiem czasu postaramy się zamieścić wszystkie niezbędne informacje na tej stronie, a także na innych popularnych portalach społecznościowych.</p>
+
+<p>Jeśli macie ochotę pomóc nam w organizacji grupy lub chcielibyście podzielić się swoją wiedzą i wystąpić w roli prelegenta &ndash; piszcie do <a href="https://www.facebook.com/tak.dla.juga.w.toruniu">nas</a>!</p>
+]]></content>
+  </entry>
   
 </feed>

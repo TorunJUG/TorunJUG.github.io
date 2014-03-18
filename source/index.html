@@ -1,0 +1,37 @@
+---
+layout: default
+navbar: News
+---
+
+<div class="row">
+  <div class="page-content {% unless site.default_asides == empty and site.blog_index_asides == empty %}col-md-9{% else %}col-md-12{% endunless %}">
+    <div class="blog-index">
+      {% assign index = true %}
+      {% for post in paginator.posts %}
+      {% assign content = post.content %}
+        <article class="post">
+          {% include article.html %}
+        </article>
+      {% endfor %}
+    </div>
+
+    <ul class="pager">
+      {% if paginator.next_page %}
+        <li class="previous"><a href="{{paginator.next_page}}">&larr;&nbsp;Starsze</a></li>
+      {% endif %}
+      {% if paginator.previous_page %}
+        <li class="next"><a href="{{paginator.previous_page}}">Nowsze&nbsp;&rarr;</a></li>
+      {% endif %}
+    </ul>
+  </div>
+
+  {% unless site.default_asides == empty and site.blog_index_asides == empty %}
+    <aside class="sidebar col-md-3">
+      {% if site.blog_index_asides.size %}
+        {% include_array blog_index_asides %}
+      {% else %}
+        {% include_array default_asides %}
+      {% endif %}
+    </aside>
+  {% endunless %}
+</div>

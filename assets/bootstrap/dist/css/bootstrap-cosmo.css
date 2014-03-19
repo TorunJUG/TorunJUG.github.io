@@ -4801,8 +4801,8 @@ a.list-group-item-danger.active:focus {
 }
 .panel > .list-group:last-child .list-group-item:last-child {
   border-bottom: 0;
-  border-bottom-right-radius: -1;
-  border-bottom-left-radius: -1;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
 }
 .panel-heading + .list-group .list-group-item:first-child {
   border-top-width: 0;

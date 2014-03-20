@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Toruń JUG]]></title>
-  <link href="http://torun.jug.pl/atom.xml" rel="self"/>
+  <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
+  <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
   <updated>2014-03-20T22:13:57+01:00</updated>
   <id>http://torun.jug.pl/</id>
@@ -24,7 +24,7 @@
 
 <p>W Javie częstym problemem jest potrzeba wylistowania podklas danej klasy. Choć oficjalnie Java nie wspiera tej funkcjonalności, istnieje wiele bibliotek implementujących skanowanie klas. W tej prezentacji chciałbym przedstawić dużo szybszą alternatywę &ndash; autorski projekt oparty na mechanizmach procesowana adnotacji.</p>
 
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/piotrowski.slawek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/piotrowski.slawek.jpg" /></p>
 
 <h4>Sławek Piotrowski</h4>
 
@@ -38,24 +38,11 @@
 
 <p>Poziom trudności prezentowanych zagadnień &ndash; raczej podstawowy, będzie dużo kodu przedstawiającego konkretne zastosowania.</p>
 
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/stepniak.szymon.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/stepniak.szymon.jpg" /></p>
 
 <h4>Szymon Stępniak</h4>
 
 <p>Za dnia próbuje pogodzić obowiązki Java/Groovy developera oraz lokalnego szamana w Ideazone. Pasjonat czystego kodu, entuzjasta programowania funkcyjnego, Test-Driven Development stosowałby nawet programując pralki. Z programowaniem związany zawodowo od 2007 roku.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Startujemy!]]></title>
-    <link href="http://torun.jug.pl/news/2014/03/18/startujemy/"/>
-    <updated>2014-03-18T19:31:25+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/03/18/startujemy</id>
-    <content type="html"><![CDATA[<p>Witamy wszystkich entuzjastów zarówno języka Java jak i innych języków opartych o JVM. Wyszliśmy z inicjatywą stworzenia grupy użytkowników Java (popularnego JUG-a) w Toruniu mającej na celu rozwój lokalnej społeczności programistów Java i pokrewnych. Projekt nabiera rozpędu i niedługo zostanie zorganizowane pierwsze spotkanie.</p>
-
-<p>Pomysł został zainicjowany na <a href="https://www.facebook.com/tak.dla.juga.w.toruniu" target="_blank">Facebooku</a> i tam aktualnie możecie znaleźć najwięcej informacji na jego temat. Z biegiem czasu postaramy się zamieścić wszystkie niezbędne informacje na tej stronie, a także na innych popularnych portalach społecznościowych.</p>
-
-<p>Jeśli macie ochotę pomóc nam w organizacji grupy lub chcielibyście podzielić się swoją wiedzą i wystąpić w roli prelegenta &ndash; piszcie do <a href="https://www.facebook.com/tak.dla.juga.w.toruniu" target="_blank">nas</a>!</p>
 ]]></content>
   </entry>
   

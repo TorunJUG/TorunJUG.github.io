@@ -7,6 +7,8 @@
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 
   <meta name="author" content="{{ site.author }}">
+  
+	<meta property="og:image" 	content="http://torun.jug.pl/images/duke/duke-torun-jug-big.png" />
 
   {% if page.description %}<meta name="description" content="{{ page.description | strip_html | condense_spaces | truncate:150 }}">{% endif %}
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}

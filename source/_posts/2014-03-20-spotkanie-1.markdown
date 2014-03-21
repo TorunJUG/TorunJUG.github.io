@@ -15,7 +15,7 @@ W Javie częstym problemem jest potrzeba wylistowania podklas danej klasy. Choć
 
 <span class="clearfix"></span>
 ### Wprowadzenie do wybranych zagadnień JDK 8
-Premiera JDK 8 za nami, nie milkną echa dyskusji trwających już od pierwszej publicznej wersji M1. Java z numerem 8 wprowadza liczne zmiany i udogodnienia, których brak do tej pory zachęcał do korzystania z bardziej nowożytnych języków programowania opartych na JVM (np. Scala, Groovy, Clojure, Ceylon) lub posiłkowania się dodatkowymi bibliotekami (np. Guava). 
+Premiera JDK 8 za nami, nie milkną echa dyskusji trwających już od pierwszej publicznej wersji M1. Java z&nbsp;numerem 8 wprowadza liczne zmiany i udogodnienia, których brak do tej pory zachęcał do korzystania z bardziej nowożytnych języków programowania opartych na JVM (np. Scala, Groovy, Clojure, Ceylon) lub posiłkowania się dodatkowymi bibliotekami (np. Guava). 
 
 Prezentacja koncentrować się będzie na kilku wybranych nowościach (m.in. wyrażenia lambda, streams, type annotations), spojrzymy na nie również z perspektywy dotychczasowych rozwiązań oferowanych przez JDK. 
 

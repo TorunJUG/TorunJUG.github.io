@@ -12,7 +12,8 @@
 }
 
 .navbar {
-  .subscribe-rss {
+  .search {
+    margin-left: -15px;
     margin-right: -15px;
   }
 }
@@ -28,4 +29,10 @@
   .fb-like > span {
     vertical-align: baseline !important;
   }
+}
+
+.fa-1-5x {
+  font-size: 1.5em;
+  line-height: 0.7em;
+  vertical-align: -20%;
 }

@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Spotkanie #1 [2014-03-26]"
+date: 2014-03-20 19:57:30 +0100
+comments: true
+categories: Spotkania
+---
+Mamy ogroną przyjemność zaprosić wszystkich na pierwsze spotkanie toruńskiej grupy użytkowników Java! Odbędzie się ono **w najbliższą środę, 26 marca 2014 roku o godzinie 18:00 w sali S3 na Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>). Wstęp na spotkanie jest wolny. <!-- more -->
+
+### ClassIndex - szybka alternatywa dla skanowania klas
+W Javie częstym problemem jest potrzeba wylistowania podklas danej klasy. Choć oficjalnie Java nie wspiera tej funkcjonalności, istnieje wiele bibliotek implementujących skanowanie klas. W tej prezentacji chciałbym przedstawić dużo szybszą alternatywę - autorski projekt oparty na mechanizmach procesowana adnotacji.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski.slawek.jpg" />
+#### Sławek Piotrowski
+
+<span class="clearfix"></span>
+### Wprowadzenie do wybranych zagadnień JDK 8
+Premiera JDK 8 za nami, nie milkną echa dyskusji trwających już od pierwszej publicznej wersji M1. Java z numerem 8 wprowadza liczne zmiany i udogodnienia, których brak do tej pory zachęcał do korzystania z bardziej nowożytnych języków programowania opartych na JVM (np. Scala, Groovy, Clojure, Ceylon) lub posiłkowania się dodatkowymi bibliotekami (np. Guava). 
+
+Prezentacja koncentrować się będzie na kilku wybranych nowościach (m.in. wyrażenia lambda, streams, type annotations), spojrzymy na nie również z perspektywy dotychczasowych rozwiązań oferowanych przez JDK. 
+
+Poziom trudności prezentowanych zagadnień - raczej podstawowy, będzie dużo kodu przedstawiającego konkretne zastosowania.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/stepniak.szymon.jpg" />
+#### Szymon Stępniak
+Za dnia próbuje pogodzić obowiązki Java/Groovy developera oraz lokalnego szamana w Ideazone. Pasjonat czystego kodu, entuzjasta programowania funkcyjnego, Test-Driven Development stosowałby nawet programując pralki. Z programowaniem związany zawodowo od 2007 roku.

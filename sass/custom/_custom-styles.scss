@@ -23,3 +23,9 @@
   width: 100px;
   margin-right: 15px;
 }
+
+.sharing {
+  .fb-like > span {
+    vertical-align: baseline !important;
+  }
+}

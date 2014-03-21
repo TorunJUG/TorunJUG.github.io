@@ -69,21 +69,29 @@
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a class="subscribe-rss" href="/atom.xml" title="subscribe via RSS">
+                    <a href="https://www.facebook.com/tak.dla.juga.w.toruniu" target="_blank" title="Facebook">
+                      <span class="visible-xs">Facebook</span>
+                      <span class="hidden-xs fa fa-facebook-square fa-1-5x"></span>
+                    </a>
+                </li>
+                
+                <li>
+                    <form class="search navbar-form navbar-right" action="https://www.google.com/search" method="GET">
+                        <input type="hidden" name="q" value="site:torun.jug.pl">
+                        <div class="form-group">
+                            <input class="form-control" type="text" name="q" placeholder="Szukaj">
+                        </div>
+                    </form>
+                </li>
+                
+                <li>
+                    <a class="subscribe-rss" href="/atom.xml" title="Subscribe via RSS">
                         <span class="visible-xs">RSS</span>
-                        <img class="hidden-xs" src="/images/rss.png" alt="RSS">
+                        <span class="hidden-xs fa fa-rss fa-1-5x"></span>
                     </a>
                 </li>
                 
             </ul>
-            
-                <form class="search navbar-form navbar-right" action="https://www.google.com/search" method="GET">
-                    <input type="hidden" name="q" value="site:torun.jug.pl">
-                    <div class="form-group">
-                        <input class="form-control" type="text" name="q" placeholder="Szukaj">
-                    </div>
-                </form>
-            
         </div>
     </div>
 </nav>
@@ -142,7 +150,7 @@
 
 <h3>Wprowadzenie do wybranych zagadnień JDK 8</h3>
 
-<p>Premiera JDK 8 za nami, nie milkną echa dyskusji trwających już od pierwszej publicznej wersji M1. Java z numerem 8 wprowadza liczne zmiany i udogodnienia, których brak do tej pory zachęcał do korzystania z bardziej nowożytnych języków programowania opartych na JVM (np. Scala, Groovy, Clojure, Ceylon) lub posiłkowania się dodatkowymi bibliotekami (np. Guava).</p>
+<p>Premiera JDK 8 za nami, nie milkną echa dyskusji trwających już od pierwszej publicznej wersji M1. Java z&nbsp;numerem 8 wprowadza liczne zmiany i udogodnienia, których brak do tej pory zachęcał do korzystania z bardziej nowożytnych języków programowania opartych na JVM (np. Scala, Groovy, Clojure, Ceylon) lub posiłkowania się dodatkowymi bibliotekami (np. Guava).</p>
 
 <p>Prezentacja koncentrować się będzie na kilku wybranych nowościach (m.in. wyrażenia lambda, streams, type annotations), spojrzymy na nie również z perspektywy dotychczasowych rozwiązań oferowanych przez JDK.</p>
 
@@ -229,7 +237,7 @@
     <h3 class="panel-title">O nas</h3>
   </div>
   <div id="duke-image">
-    <img src="/images/duke_torun_medium.png" />
+    <img src="/images/duke/duke-torun-jug-medium.png" />
   </div>
   <div class="panel-body">
     Jesteśmy grupą pasjonatów technologii opartych o Java Virtual Machine, dla których programowanie to nie tylko praca, ale przede wszystkim hobby i&nbsp;dobra zabawa.

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-03-21T07:44:42+01:00</updated>
+  <updated>2014-03-21T08:28:01+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -32,7 +32,7 @@
 
 <h3>Wprowadzenie do wybranych zagadnień JDK 8</h3>
 
-<p>Premiera JDK 8 za nami, nie milkną echa dyskusji trwających już od pierwszej publicznej wersji M1. Java z numerem 8 wprowadza liczne zmiany i udogodnienia, których brak do tej pory zachęcał do korzystania z bardziej nowożytnych języków programowania opartych na JVM (np. Scala, Groovy, Clojure, Ceylon) lub posiłkowania się dodatkowymi bibliotekami (np. Guava).</p>
+<p>Premiera JDK 8 za nami, nie milkną echa dyskusji trwających już od pierwszej publicznej wersji M1. Java z&nbsp;numerem 8 wprowadza liczne zmiany i udogodnienia, których brak do tej pory zachęcał do korzystania z bardziej nowożytnych języków programowania opartych na JVM (np. Scala, Groovy, Clojure, Ceylon) lub posiłkowania się dodatkowymi bibliotekami (np. Guava).</p>
 
 <p>Prezentacja koncentrować się będzie na kilku wybranych nowościach (m.in. wyrażenia lambda, streams, type annotations), spojrzymy na nie również z perspektywy dotychczasowych rozwiązań oferowanych przez JDK.</p>
 

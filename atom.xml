@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-03-21T14:39:53+01:00</updated>
+  <updated>2014-03-23T21:06:03+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Grupa dyskusyjna]]></title>
+    <link href="http://torun.jug.pl/news/2014/03/23/grupa-dyskusyjna/"/>
+    <updated>2014-03-23T20:56:59+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/03/23/grupa-dyskusyjna</id>
+    <content type="html"><![CDATA[<p>Część z was pewnie już zauważyła. Pozostałym chcielibyśmy zwrócić uwagę, że utworzyliśmy na Google Groups specjalną <a href="https://groups.google.com/group/torunjug" target="_blank">grupę dyskusyjną Toruń JUG</a>. Zachęcamy wszystkich do dzielenia się tam swoimi przemyśleniami, uwagami i pomysłami zawiązanymi z technologiami JVM i nie tylko.</p>
+
+<p>Jeśli macie jakieś uwagi odnośnie działania naszej grupy, chcielibyście zaoferować swoją pomoc, zgłosić się na prelegenta lub zaproponować temat, o którym chcielibyście posłuchać, to ta grupa dyskusyjna jest idealnym miejscem, żeby to przekazać.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #1 [2014-03-26]]]></title>

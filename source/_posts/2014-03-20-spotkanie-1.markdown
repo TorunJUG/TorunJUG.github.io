@@ -10,7 +10,7 @@ Mamy ogromną przyjemność zaprosić wszystkich na pierwsze spotkanie toruński
 ### ClassIndex - szybka alternatywa dla skanowania klas
 W Javie częstym problemem jest potrzeba wylistowania podklas danej klasy. Choć oficjalnie Java nie wspiera tej funkcjonalności, istnieje wiele bibliotek implementujących skanowanie klas. W tej prezentacji chciałbym przedstawić dużo szybszą alternatywę - autorski projekt oparty na mechanizmach procesowana adnotacji.
 
-<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski.slawek.jpg" />
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" />
 #### Sławek Piotrowski
 Programista Java, obecnie związany z PayU, gdzie zajmuje się rozwijaniem wiądącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, Moonshine.
 
@@ -22,6 +22,6 @@ Prezentacja koncentrować się będzie na kilku wybranych nowościach (m.in. wyr
 
 Poziom trudności prezentowanych zagadnień - raczej podstawowy, będzie dużo kodu przedstawiającego konkretne zastosowania.
 
-<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/stepniak.szymon.jpg" />
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/stepniak-szymon.jpg" />
 #### Szymon Stępniak
 Za dnia próbuje pogodzić obowiązki Java/Groovy developera oraz lokalnego szamana w Ideazone. Pasjonat czystego kodu, entuzjasta programowania funkcyjnego, Test-Driven Development stosowałby nawet programując pralki. Z programowaniem związany zawodowo od 2007 roku.

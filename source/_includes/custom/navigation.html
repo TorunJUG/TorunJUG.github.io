@@ -16,6 +16,11 @@
                 </li>
             </ul>
             <ul class="nav navbar-nav">
+                <li {% if page.navbar == 'Leaders' %}class="active"{% endif %}>
+                    <a href="{{ root_url }}/leaders/">Liderzy</a>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav">
                 <li {% if page.navbar == 'Partners' %}class="active"{% endif %}>
                     <a href="{{ root_url }}/partners/">Partnerzy</a>
                 </li>

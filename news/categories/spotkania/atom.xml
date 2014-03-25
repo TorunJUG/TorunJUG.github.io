@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-03-25T06:14:18+01:00</updated>
+  <updated>2014-03-25T14:48:56+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -24,7 +24,7 @@
 
 <p>W Javie częstym problemem jest potrzeba wylistowania podklas danej klasy. Choć oficjalnie Java nie wspiera tej funkcjonalności, istnieje wiele bibliotek implementujących skanowanie klas. W tej prezentacji chciałbym przedstawić dużo szybszą alternatywę &ndash; autorski projekt oparty na mechanizmach procesowana adnotacji.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/piotrowski.slawek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/piotrowski-slawek.jpg" /></p>
 
 <h4>Sławek Piotrowski</h4>
 
@@ -40,7 +40,7 @@
 
 <p>Poziom trudności prezentowanych zagadnień &ndash; raczej podstawowy, będzie dużo kodu przedstawiającego konkretne zastosowania.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/stepniak.szymon.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/stepniak-szymon.jpg" /></p>
 
 <h4>Szymon Stępniak</h4>
 

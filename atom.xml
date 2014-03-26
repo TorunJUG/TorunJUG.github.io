@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-03-26T08:04:51+01:00</updated>
+  <updated>2014-03-26T15:29:58+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pierwsi sponsorzy!]]></title>
+    <link href="http://torun.jug.pl/news/2014/03/26/pierwsi-sponsorzy/"/>
+    <updated>2014-03-26T15:07:30+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/03/26/pierwsi-sponsorzy</id>
+    <content type="html"><![CDATA[<p>Mamy przyjemność zaanonsować, że pozyskaliśmy pierwszych sponsorów licencji dla naszej grupy. Pierwszym z nich jest:</p>
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://structure101.com" target="_blank" title="Structure101">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/structure101.png" alt="Structure101" />
+    </a>
+  </div>
+</div>
+
+
+<p>Firma produkująca oprogramowanie do analizy, monitorowania i kontroli architektury projektu. Na każdym spotkaniu, jeden wylosowany szczęśliwiec otrzyma na własność licencje tego oprogramowania.</p>
+
+<p>Drugim sponsorem jest:</p>
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://jetbrains.com" target="_blank" title="JetBrains">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/jetbrains.gif" alt="JetBrains" style="width: 300px;" />
+    </a>  
+  </div>
+</div>
+
+
+<p>Firma, której raczej nikomu nie trzeba przedstawiać. Również w tym przypadku będziemy mogli, na każdym spotkaniu, rozlosować jedną licencję oprogramowania IntelliJ IDEA produkowanego przez firmę JetBrains.</p>
+
+<h3>Uwaga!</h3>
+
+<p>Licencje będą losowane tylko wśród uczestników, którzy zarejestrują się na dane spotkanie na portal Meetup i będą na nim obecni. Zaczynamy od dziś! <a href="http://www.meetup.com/Torun-JUG/events/173040582/" target="_blank">Rejestrujcie się</a> i przybywajcie :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dołącz do nas na portalu Meetup]]></title>

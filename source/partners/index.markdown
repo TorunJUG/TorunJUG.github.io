@@ -15,13 +15,13 @@ footer: false
 ### Licencje sponsorują
 <div class="row">
   <div class="col-md-4">
-    <a class="no-text-decoration" href="http://structure101.com" target="_blank" title="structure101">
-      <img class="no-border" src="{{ root_url }}/images/partners/structure101.png" alt="structure101" />
+    <a class="no-text-decoration" href="http://structure101.com" target="_blank" title="Structure101">
+      <img class="no-border" src="{{ root_url }}/images/partners/structure101.png" alt="Structure101" />
     </a>
   </div>
   <div class="col-md-4">
-    <a class="no-text-decoration" href="http://jetbrains.com" target="_blank" title="JetBRAINS">
-      <img class="no-border" src="{{ root_url }}/images/partners/jetbrains.gif" alt="JetBRAINS" />
+    <a class="no-text-decoration" href="http://jetbrains.com" target="_blank" title="JetBrains">
+      <img class="no-border" src="{{ root_url }}/images/partners/jetbrains.gif" alt="JetBrains" />
     </a>
   </div>
 </div>

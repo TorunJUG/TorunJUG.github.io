@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
+  <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
+  <link href="http://torun.jug.pl/"/>
+  <updated>2014-03-27T12:09:55+01:00</updated>
+  <id>http://torun.jug.pl/</id>
+  <author>
+    <name><![CDATA[Toruń JUG]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie pierwszego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/03/27/podsumowanie-pierwszego-spotkania/"/>
+    <updated>2014-03-27T11:33:31+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/03/27/podsumowanie-pierwszego-spotkania</id>
+    <content type="html"><![CDATA[<p>Dziękujemy wszystkim za tak liczne przybycie na wczorajsze spotkanie. Frekwencja przerosła nasze najśmielsze oczekiwania. Było nas w sumie około 70-ciu!</p>
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <img class="no-border" src="/meetings/1/meeting-1.jpg" alt="Zdjęcie na zakończenie pierwszego spotkania" style="margin-bottom: 10px;"/>
+  </div>
+</div>
+
+
+<p>Dzięki temu wiemy, że było warto. To Wy tworzycie tę grupę!</p>
+
+<!--more-->
+
+
+<p>Poniżej znajdują się odnośniki do materiałów z prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://www-users.mat.umk.pl/~sentinel/ClassIndex - quicker alternative to classpath scanning.pdf" target="_blank">
+      <em>ClassIndex – szybka alternatywa dla skanowania klas</em></a> (slajdy z prezentacji Sławka Piotrowskiego)
+  </li>
+  <li>
+    <a href="https://github.com/atteo/classindex" target="_blank">
+      Kod źródłowy biblioteki ClassIndex
+    </a>
+  </li>
+  <li>
+    <a href="http://www.slideshare.net/SzymonStpniak/toru-jug-wprowadzenie-do" target="_blank">
+      <em>Wprowadzenie do wybranych zagadnień JDK 8</em></a> (slajdy z prezentacji Szymona Stępniaka)
+  </li>
+  <li>
+    <a href="https://github.com/wololock/jdk8-demo" target="_blank">
+      Kod źródłowy z prezentacji Szymona
+    </a>
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na temat przebiegu wczorajszego spotkania, to piszcie o tym w komentarzach.</p>
+
+<p>Do zobaczenia na następnym meetingu!</p>
+]]></content>
+  </entry>
+  
+</feed>

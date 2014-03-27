@@ -13,6 +13,8 @@ Toruń JUG (Java User Group) zrzesza pasjonatów technologii opartych o Java Vir
 Spotkania odbywają się cyklicznie, zazwyczaj w ostatnią środę miesiąca w godzinach 18:00-20:00, na <a href="http://www.mat.umk.pl" target="_blank">Wydziale Matematyki i Informatyki UMK</a> w Toruniu, przy ulicy <a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank">Chopina 12/18</a>. Spotkania grupy są idealną okazją do wymiany doświadczeń, poznawania nowych technologii oraz podejmowania inicjatyw w ramach społeczności Open Source.
 
 ### Dołącz do nas
-Wystarczy, że dopiszesz się do grupy na portalu <a href="http://www.meetup.com/Torun-JUG/" target="_blank">Meetup</a> i przyjdziesz na spotkanie. Zachęcamy również do dołączenia do naszej <a href="https://groups.google.com/group/torunjug" target="_blank">grupy dyskusyjnej</a>, gdzie możecie podzielić się z nami wszelkimi uwagami dotyczącymi organizacji spotkań.
+Wystarczy, że dopiszesz się do naszej grupy na portalu <a href="http://www.meetup.com/Torun-JUG/" target="_blank">Meetup</a> i przyjdziesz na spotkanie. Proponujemy Ci również możliwość przyłączenia się do <a href="https://groups.google.com/group/torunjug" target="_blank">grupy dyskusyjnej</a>, gdzie będziesz mógł podzielić się z nami wszelkimi uwagami dotyczącymi organizacji spotkań.
 
-Jeśli jesteś zainteresowany prowadzeniem wykładu, napisz na grupę lub wypełnij <a href="https://docs.google.com/forms/d/1OkM_2JqnBZPEUNld_9rmOmWYxxSXgsjTpKxvBJcFPa4/viewform" target="_blank">formularz zgłoszeniowy prelegenta</a>. Zachęcamy do dzielenia się swoją wiedzą z innymi!
+Jeśli jesteś zainteresowany prowadzeniem wykładu, wypełnij <a href="https://docs.google.com/forms/d/1OkM_2JqnBZPEUNld_9rmOmWYxxSXgsjTpKxvBJcFPa4/viewform" target="_blank">formularz zgłoszeniowy prelegenta</a> i&nbsp;oczekuj na&nbsp;odpowiedź od&nbsp;nas. 
+
+Zachęcamy do dzielenia się swoją wiedzą z innymi!

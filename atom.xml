@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-03-26T15:29:58+01:00</updated>
+  <updated>2014-03-27T06:20:56+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -23,7 +23,7 @@
 <div class="row text-center">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://structure101.com" target="_blank" title="Structure101">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/structure101.png" alt="Structure101" />
+      <img class="no-border" src="http://torun.jug.pl/images/partners/structure101.png" alt="Structure101" style="padding-bottom: 25px;"/>
     </a>
   </div>
 </div>
@@ -36,7 +36,7 @@
 <div class="row text-center">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://jetbrains.com" target="_blank" title="JetBrains">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/jetbrains.gif" alt="JetBrains" style="width: 300px;" />
+      <img class="no-border" src="http://torun.jug.pl/images/partners/jetbrains.gif" alt="JetBrains" style="width: 300px; padding-bottom: 10px;" />
     </a>  
   </div>
 </div>

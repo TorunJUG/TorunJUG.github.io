@@ -1,0 +1,19 @@
+
+<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ canonical }}">
+
+{% if page.title %}
+<meta property="og:description" content="{{ page.title }}">
+{% elsif site.description %}
+<meta property="og:description" content="{{ site.description }}">
+{% endif %}
+
+<meta property="og:image" content="{{ site.url }}{{ site.cover }}">
+{% if page.cover %}
+<meta property="og:image" content="{{ site.url }}{{ page.cover }}">
+{% endif %}
+
+<meta property="og:site_name" content="{{ site.site_name }}" />
+<meta property="og:locale" content="{{ site.locale }}" />

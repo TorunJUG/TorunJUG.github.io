@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Podsumowanie pierwszego spotkania"
+cover: /meetings/1/meeting-1.jpg
 date: 2014-03-27 11:33:31 +0100
 comments: true
 categories: Materiały

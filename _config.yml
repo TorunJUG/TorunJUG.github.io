@@ -8,6 +8,10 @@ subtitle: Strona domowa Toruń Java User Group
 author: Toruń JUG
 simple_search: https://www.google.com/search
 description: Strona domowa Toruń Java User Group
+# additional config for Open Graph
+cover: /images/duke/duke-torun-jug-big.png
+site_name: torun.jug.pl
+locale: pl_PL
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

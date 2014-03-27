@@ -5,7 +5,7 @@ date: 2014-03-27 11:33:31 +0100
 comments: true
 categories: Materiały
 ---
-Dziękujemy wszystkim za tak liczne przybycie na wczorajsze spotkanie. Frekwencja przerosła nasze najśmielsze oczekiwania. Było nas w sumie około 70-ciu!
+Dziękujemy wszystkim za tak liczne przybycie na wczorajsze spotkanie. Frekwencja przerosła nasze najśmielsze oczekiwania. Było nas w sumie około 70 osób!
  
 <div class="row text-center">
   <div class="col-md-12">

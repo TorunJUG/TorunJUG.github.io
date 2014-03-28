@@ -11,7 +11,7 @@ Dziękujemy wszystkim za tak liczne przybycie na wczorajsze spotkanie. Frekwencj
  
 <div class="row text-center">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/meetings/1/meeting-1.jpg" alt="Zdjęcie na zakończenie pierwszego spotkania" style="margin-bottom: 10px;"/>
+    <img class="no-border" src="{{ root_url }}/images/meetings/1/meeting-1.jpg" alt="Zdjęcie na zakończenie pierwszego spotkania" style="margin-bottom: 10px;"/>
   </div>
 </div>
 

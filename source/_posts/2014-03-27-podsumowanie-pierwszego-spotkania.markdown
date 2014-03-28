@@ -2,7 +2,7 @@
 layout: post
 title: "Podsumowanie pierwszego spotkania"
 description: "Podsumowanie pierwszego spotkania toruńskiej grupy użytkowników języka Java"
-cover: /meetings/1/meeting-1.jpg
+cover: /images/meetings/1/meeting-1.jpg
 date: 2014-03-27 11:33:31 +0100
 comments: true
 categories: Materiały

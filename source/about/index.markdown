@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "O grupie"
+description: "Kilka podstawowych informacji o toruńskiej grupy użytkowników języka Java"
 navbar: "About"
 comments: false
 sharing: false

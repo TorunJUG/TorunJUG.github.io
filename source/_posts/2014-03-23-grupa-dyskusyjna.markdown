@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Grupa dyskusyjna"
+description: "Grupa dyskusyjna Toruń JUG została otwarta!"
 date: 2014-03-23 20:56:59 +0100
 comments: true
 categories: 

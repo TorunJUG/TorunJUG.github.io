@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pierwsi sponsorzy!"
+description: "Mamy pierwszych sponsorów!"
 date: 2014-03-26 15:07:30 +0100
 comments: true
 categories: 

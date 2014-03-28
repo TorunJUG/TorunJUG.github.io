@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dołącz do nas na portalu Meetup"
+description: "Dołącz do Toruń JUG na portalu Meetup!"
 date: 2014-03-24 09:28:38 +0100
 comments: true
 categories: 

@@ -13,6 +13,12 @@ footer: false
     <img class="no-border" src="{{ root_url }}/images/partners/wmii-umk.png" alt="Wydział Matematyki i Informatyki UMK w Toruniu" />
   </a>
 </div>
+### Nagrania realizuje
+<div>
+  <a class="no-text-decoration" href="http://www.ucntn.umk.pl" target="_blank" title="Uniwersyteckie Centrum Nowoczesnych Technologii Nauczania">
+    <img class="no-border" src="{{ root_url }}/images/partners/ucntn.png" alt="Uniwersyteckie Centrum Nowoczesnych Technologii Nauczania" />
+  </a>
+</div>
 ### Licencje sponsorują
 <div class="row">
   <div class="col-md-4">

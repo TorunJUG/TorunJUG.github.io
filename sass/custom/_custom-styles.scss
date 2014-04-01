@@ -17,6 +17,9 @@
     padding: 0px;
     .recommended {
       margin: 5px;
+      img {
+        max-width: 100%;
+      }
     }
   }
 }

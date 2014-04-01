@@ -13,12 +13,14 @@ footer: false
     <img class="no-border" src="{{ root_url }}/images/partners/wmii-umk.png" alt="Wydział Matematyki i Informatyki UMK w Toruniu" />
   </a>
 </div>
+
 ### Nagrania realizuje
 <div>
   <a class="no-text-decoration" href="http://www.ucntn.umk.pl" target="_blank" title="Uniwersyteckie Centrum Nowoczesnych Technologii Nauczania">
     <img class="no-border" src="{{ root_url }}/images/partners/ucntn.png" alt="Uniwersyteckie Centrum Nowoczesnych Technologii Nauczania" />
   </a>
 </div>
+
 ### Licencje sponsorują
 <div class="row">
   <div class="col-md-4">
@@ -29,6 +31,15 @@ footer: false
   <div class="col-md-4">
     <a class="no-text-decoration" href="http://jetbrains.com" target="_blank" title="JetBrains">
       <img class="no-border" src="{{ root_url }}/images/partners/jetbrains.gif" alt="JetBrains" />
+    </a>
+  </div>
+</div>
+
+### Książki sponsorują
+<div class="row">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://www.manning.com/" target="_blank" title="Manning Publications Co.">
+      <img class="no-border" src="{{ root_url }}/images/partners/manning.jpg" alt="Manning Publications Co." />
     </a>
   </div>
 </div>

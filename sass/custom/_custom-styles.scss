@@ -11,6 +11,16 @@
   }
 }
 
+.panel.recommendations {
+  .panel-body {
+    text-align: center;
+    padding: 0px;
+    .recommended {
+      margin: 5px;
+    }
+  }
+}
+
 .navbar {
   .search {
     margin-left: -15px;

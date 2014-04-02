@@ -7,23 +7,23 @@ comments: false
 sharing: false
 footer: false
 ---
-<div class="panel panel-default">
+<div class="panel panel-default leader">
   <div class="panel-heading">
     <h3 class="panel-title">Piotr 'KeYeR' Modzelewski</h3>
   </div>
   <div class="panel-body">
     <div class="row">
-      <div class="col-md-3">
+      <div class="col-xs-12 col-sm-4 col-md-4 col-lg-3 text-center">
         <img class="no-border leader-face" src="{{ root_url }}/images/leaders/modzelewski-piotr.jpg" />
       </div>
-      <div class="col-md-9">
-        <div class="row">
-          <div class="col-md-12">
-            Programista Java pracujący przy systemach wymagających wysokiej wydajności i&nbsp;skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w codziennej pracy. Wierzy w siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i opasłych rozwiązań JEE woli proste i dedykowane rozwiązania.
+      <div class="col-xs-12 col-sm-8 col-md-8 col-lg-9">
+        <div class="row description">
+          <div class="text-column col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            Programista Java pracujący przy systemach wymagających wysokiej wydajności i&nbsp;skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z&nbsp;dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w&nbsp;codziennej pracy. Wierzy w&nbsp;siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i&nbsp;opasłych rozwiązań JEE woli proste i&nbsp;dedykowane rozwiązania.
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-12">
+        <div class="row links">
+          <div class="text-column col-xs-12 col-sm-12 col-md-12 col-lg-12">
             Sieci społecznościowe
           </div>
         </div>

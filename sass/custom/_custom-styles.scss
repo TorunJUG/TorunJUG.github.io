@@ -40,3 +40,25 @@
 .no-text-decoration {
   text-decoration: none !important;
 }
+
+$screen-xs: 480px;
+$screen-sm: 768px;
+$screen-md: 992px;
+$screen-lg: 1200px;
+
+.panel.leader {
+  .text-column {
+    padding-left: 0px;
+  }
+  .links {
+    margin-top: 15px;
+  }
+  @media (max-width: $screen-sm) {
+    .description {
+      margin-top: 15px;
+    }
+    .text-column {
+      padding-left: 15px;
+    }
+  }
+}

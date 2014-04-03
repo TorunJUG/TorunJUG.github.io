@@ -32,4 +32,4 @@ Witamy również firmę:
 
 CoderGears, wśród programistów języka Java, jest znana głównie z oprogramowania <a href="http://www.jarchitect.com" target="_blank">JArchitect</a> służącego do statycznej analizy kodu. Jest ono szczególnie pomocne gdy dążymy do podnoszenia jakości naszego kodu źródłowego. Dzięki uprzejmości firmy CoderGears będziemy mieli możliwość rozlosowania licencji narzędzia JArchitect wśród uczestników naszych spotkań.
 
-Jeśli chcecie wziąć udział w losowaniu tych licencji lub innych ciekawych upominków, to przypominamy, że będą one losowane tylko wśród osób, które zarejestrują się na odpowiednie wydarzenie na portalu Meetup i przyjdą na nasze spotkanie.
+Jeśli chcecie wziąć udział w losowaniu tych licencji lub innych ciekawych upominków, to przypominamy, że będą one losowane tylko wśród osób, które zarejestrują się na odpowiednie wydarzenie na portalu <a href="http://www.meetup.com/Torun-JUG/" target="_blank">Meetup</a> i przyjdą na nasze spotkanie.

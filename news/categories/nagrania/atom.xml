@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kategoria: Nagrania | Toruń JUG]]></title>
+  <link href="http://torun.jug.pl/news/categories/nagrania/atom.xml" rel="self"/>
+  <link href="http://torun.jug.pl/"/>
+  <updated>2014-04-03T11:46:45+02:00</updated>
+  <id>http://torun.jug.pl/</id>
+  <author>
+    <name><![CDATA[Toruń JUG]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z pierwszego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/04/03/nagranie-z-pierwszego-spotkania/"/>
+    <updated>2014-04-03T11:39:14+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/04/03/nagranie-z-pierwszego-spotkania</id>
+    <content type="html"><![CDATA[<p>Kilka minut temu na stronie <a href="http://tv.umk.pl/#movie=2332" target="_blank">UMK TV</a> pojawiło się nagranie pierwszego spotkania naszej grupy. Film można obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2332&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Film pojawi się wkrótce również na naszym kanale YouTube.</p>
+]]></content>
+  </entry>
+  
+</feed>

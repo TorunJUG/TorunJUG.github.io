@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
+  <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
+  <link href="http://torun.jug.pl/"/>
+  <updated>2014-04-03T07:32:43+02:00</updated>
+  <id>http://torun.jug.pl/</id>
+  <author>
+    <name><![CDATA[Toruń JUG]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Dwie firmy wspierające proces poprawiania jakości oprogramowania naszymi nowymi partnerami]]></title>
+    <link href="http://torun.jug.pl/news/2014/04/03/nowi-partnerzy/"/>
+    <updated>2014-04-03T06:25:52+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/04/03/nowi-partnerzy</id>
+    <content type="html"><![CDATA[<p>Śpieszymy donieść, że właśnie pozyskaliśmy kolejnych sponsorów licencji do rozlosowania wśród osób uczestniczących w naszych spotkaniach. <!--more--></p>
+
+<p>W gronie naszych partnerów witamy:</p>
+
+<div class="row text-center">
+  <div class="col-xs-12">
+    <a class="no-text-decoration" href="https://www.ej-technologies.com" target="_blank" title="ej-technologies">
+      <img class="no-border" src="/images/partners/ej-technologies.png" alt="ej-technologies" style="width: 400px; padding-bottom: 10px;" />
+    </a>  
+  </div>
+</div>
+
+
+<p>Firma, która znana jest przede wszystkim z oprogramowania <a href="http://www.ej-technologies.com/products/jprofiler/overview.html" target="_blank">JProfiler</a> służącego do dynamicznej analizy programów opartych o JVM. Przy jego pomocy możemy zbadać m.in. wykorzystanie pamięci programu lub częstotliwość wywoływania i czas wykonywania poszczególnych funkcji. Dzięki uprzejmości firmy ej-technologies będziemy mogli wylosować co miesiąc jednego szczęśliwca, który otrzyma właśnie licencję oprogramowania JProfiler.</p>
+
+<p>Witamy również firmę:</p>
+
+<div class="row text-center">
+  <div class="col-xs-12">
+    <a class="no-text-decoration" href="http://www.jarchitect.com" target="_blank" title="CoderGears">
+      <img class="no-border" src="/images/partners/codergears.png" alt="CoderGears" style="width: 200px; padding-bottom: 10px;" />
+    </a>  
+  </div>
+</div>
+
+
+<p>CoderGears, wśród programistów języka Java, jest znana głównie z oprogramowania <a href="http://www.jarchitect.com" target="_blank">JArchitect</a> służącego do statycznej analizy kodu. Jest ono szczególnie pomocne gdy dążymy do podnoszenia jakości naszego kodu źródłowego. Dzięki uprzejmości firmy CoderGears będziemy mieli możliwość rozlosowania licencji narzędzia JArchitect wśród uczestników naszych spotkań.</p>
+
+<p>Jeśli chcecie wziąć udział w losowaniu tych licencji lub innych ciekawych upominków, to przypominamy, że będą one losowane tylko wśród osób, które zarejestrują się na odpowiednie wydarzenie na portalu Meetup i przyjdą na nasze spotkanie.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pierwsi sponsorzy!]]></title>
+    <link href="http://torun.jug.pl/news/2014/03/26/pierwsi-sponsorzy/"/>
+    <updated>2014-03-26T15:07:30+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/03/26/pierwsi-sponsorzy</id>
+    <content type="html"><![CDATA[<p>Mamy przyjemność zaanonsować, że pozyskaliśmy pierwszych sponsorów licencji dla naszej grupy. Pierwszym z nich jest:</p>
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://structure101.com" target="_blank" title="Structure101">
+      <img class="no-border" src="/images/partners/structure101.png" alt="Structure101" style="padding-bottom: 25px;"/>
+    </a>
+  </div>
+</div>
+
+
+<p>Firma produkująca oprogramowanie do analizy, monitorowania i kontroli architektury projektu. Na każdym spotkaniu, jeden wylosowany szczęśliwiec otrzyma na własność licencje tego oprogramowania.</p>
+
+<p>Drugim sponsorem jest:</p>
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://jetbrains.com" target="_blank" title="JetBrains">
+      <img class="no-border" src="/images/partners/jetbrains.gif" alt="JetBrains" style="width: 300px; padding-bottom: 10px;" />
+    </a>  
+  </div>
+</div>
+
+
+<p>Firma, której raczej nikomu nie trzeba przedstawiać. Również w tym przypadku będziemy mogli, na każdym spotkaniu, rozlosować jedną licencję oprogramowania IntelliJ IDEA produkowanego przez firmę JetBrains.</p>
+
+<h3>Uwaga!</h3>
+
+<p>Licencje będą losowane tylko wśród uczestników, którzy zarejestrują się na dane spotkanie na portal Meetup i będą na nim obecni. Zaczynamy od dziś! <a href="http://www.meetup.com/Torun-JUG/events/173040582/" target="_blank">Rejestrujcie się</a> i przybywajcie :)</p>
+]]></content>
+  </entry>
+  
+</feed>

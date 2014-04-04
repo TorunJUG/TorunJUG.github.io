@@ -2,39 +2,43 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://torun.jug.pl/news/2014/03/18/startujemy/</loc>
-        <lastmod>2014-04-02T12:15:12+02:00</lastmod>
+        <lastmod>2014-04-04T06:17:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/news/2014/03/20/spotkanie-1/</loc>
-        <lastmod>2014-04-02T12:15:12+02:00</lastmod>
+        <lastmod>2014-04-04T06:17:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/news/2014/03/23/grupa-dyskusyjna/</loc>
-        <lastmod>2014-04-02T12:15:12+02:00</lastmod>
+        <lastmod>2014-04-04T06:17:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/news/2014/03/24/dolacz-do-nas-na-portalu-meetup/</loc>
-        <lastmod>2014-04-02T12:15:12+02:00</lastmod>
+        <lastmod>2014-04-04T06:17:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/news/2014/03/26/pierwsi-sponsorzy/</loc>
-        <lastmod>2014-04-03T06:28:25+02:00</lastmod>
+        <lastmod>2014-04-04T06:17:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/news/2014/03/27/podsumowanie-pierwszego-spotkania/</loc>
-        <lastmod>2014-04-02T12:15:12+02:00</lastmod>
+        <lastmod>2014-04-04T06:17:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/news/2014/04/03/nowi-partnerzy/</loc>
-        <lastmod>2014-04-03T07:36:49+02:00</lastmod>
+        <lastmod>2014-04-04T06:17:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/news/2014/04/03/nagranie-z-pierwszego-spotkania/</loc>
-        <lastmod>2014-04-03T11:46:39+02:00</lastmod>
+        <lastmod>2014-04-04T06:17:54+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://torun.jug.pl/news/2014/04/04/pierwsi-ksiazkowi-partnerzy/</loc>
+        <lastmod>2014-04-04T06:30:40+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/about/</loc>
-        <lastmod>2014-04-02T12:15:12+02:00</lastmod>
+        <lastmod>2014-04-04T06:17:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/about.html</loc>
@@ -58,7 +62,7 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/</loc>
-        <lastmod>2014-04-03T11:46:39+02:00</lastmod>
+        <lastmod>2014-04-04T06:30:40+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/javascript.html</loc>
@@ -70,11 +74,11 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/</loc>
-        <lastmod>2014-04-03T11:46:39+02:00</lastmod>
+        <lastmod>2014-04-04T06:30:40+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/partners/</loc>
-        <lastmod>2014-04-03T07:31:01+02:00</lastmod>
+        <lastmod>2014-04-04T06:17:54+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/robots.txt</loc>

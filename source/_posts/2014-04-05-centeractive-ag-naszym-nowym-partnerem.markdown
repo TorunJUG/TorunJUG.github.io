@@ -2,9 +2,10 @@
 layout: post
 title: "centeractive ag naszym nowym partnerem"
 description: "Firma centeractive ag została nowym partnerem toruńskiej grupy użytkowników języka Java."
+cover: "/images/partners/centeractive.jpg"
 date: 2014-04-05 13:42:13 +0200
 comments: true
-categories: 
+categories: Partnerzy
 ---
 Właśnie otrzymaliśmy pozytywną odpowiedź od firmy <a href="http://www.centeractive.com" target="_blank">centeractive ag</a>, która zgodziła się zostać kolejnym sponsorem licencji swojego oprogramowania dla uczestników spotkań naszej grupy. <!-- more-->
 

@@ -13,7 +13,7 @@ W Javie częstym problemem jest potrzeba wylistowania podklas danej klasy. Choć
 
 <img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" />
 #### Sławek Piotrowski
-Programista Java, obecnie związany z PayU, gdzie zajmuje się rozwijaniem wiądącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, Moonshine.
+Programista Java, obecnie związany z PayU, gdzie zajmuje się rozwijaniem wiodącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, Moonshine.
 
 <span class="clearfix"></span>
 ### Wprowadzenie do wybranych zagadnień JDK 8

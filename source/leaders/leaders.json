@@ -11,7 +11,7 @@
     {
         "name": "Marek Nowicki",
         "photo": "nowicki-marek.jpg",
-        "description": "Programista-naukowiec związany z językiem Java, zajmujący się głównie obliczeniami równoległymi i rozproszonymi w tymże języku.",
+        "description": "Programista-naukowiec związany z&nbsp;językiem Java, zajmujący się głównie obliczeniami równoległymi i&nbsp;rozproszonymi w tymże języku.",
         "urls": {
             "linkedin": "https://www.linkedin.com/in/mareknowicki"
         }
@@ -19,7 +19,7 @@
     {
         "name": "Walter Okruciński",
         "photo": "okrucinski-walter.jpg",
-        "description": "Programista Java, wielbiciel open source, linux'a. Posiadający skłonności masochistyczne w związku z korzystaniem na co dzień z gentoo. Wiecznie niezaspokojone intelektualnie dziecko, które swoimi pytaniami wyprowadzi z równowagi każdego doświadczonego programistę.",
+        "description": "Programista Java, wielbiciel open source i&nbsp;Linuksa. Posiadający skłonności masochistyczne w związku z korzystaniem na co dzień z Gentoo. Wiecznie niezaspokojone intelektualnie dziecko, które swoimi pytaniami wyprowadzi z&nbsp;równowagi każdego doświadczonego programistę.",
         "urls": {
             "linkedin": "https://www.linkedin.com/pub/walter-okruci%C5%84ski/81/bab/180"
         }
@@ -27,7 +27,7 @@
     {
         "name": "Sławek Piotrowski",
         "photo": "piotrowski-slawek.jpg",
-        "description": "Programista Java, obecnie związany z PayU, gdzie zajmuje się rozwijaniem wiądącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, <a href='http://moonshine.atteo.org' target='_blank'>Moonshine</a>.",
+        "description": "Programista Java, obecnie związany z&nbsp;PayU, gdzie zajmuje się rozwijaniem wiodącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, <a href='http://moonshine.atteo.org' target='_blank'>Moonshine</a>.",
         "urls": {
             "linkedin": "https://www.linkedin.com/profile/view?id=8680607"
         }
@@ -35,7 +35,7 @@
     {
         "name": "Piotr Prądzyński",
         "photo": "pradzynski-piotr.jpg",
-        "description": "TBD",
+        "description": "Programista Java. Przez całą dotychczasową karierę zawodową zawiązany z&nbsp;toruńską firmą AIS.PL, w&nbsp;której zajmuje się głownie tworzeniem aplikacji webowych. Kuszony przez .NET, nie dał się przeciągnąć na ciemną stronę Mocy. Od niedawna zgłębia tajniki programowania aplikacji w&nbsp;JavaScript.",
         "urls": {
             "home": "http://prondzyn.com",
             "facebook": "https://facebook.com/piotr.pradzynski",
@@ -48,7 +48,7 @@
     {
         "name": "Szymon Stępniak",
         "photo": "stepniak-szymon.jpg",
-        "description": "Rzemieślnik Java/Groovy, pragmatyk, praktykujący entuzjasta Test-Driven Development, wyznawca czystego kodu, mol książkowy. Hobbystycznie zgłębia tajniki programowania funkcyjnego w Scali, kontrybutor open source (Grails), gitarzysta.",
+        "description": "Rzemieślnik Java/Groovy, pragmatyk, praktykujący entuzjasta Test-Driven Development, wyznawca czystego kodu, mol książkowy. Hobbystycznie zgłębia tajniki programowania funkcyjnego w&nbsp;Scali, kontrybutor open source (Grails), gitarzysta.",
         "urls": {
             "home": "http://blog.stepniak.net.pl",
             "twitter": "https://twitter.com/wololock",

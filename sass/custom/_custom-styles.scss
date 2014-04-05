@@ -47,18 +47,28 @@ $screen-md: 992px;
 $screen-lg: 1200px;
 
 .panel.leader {
-  .text-column {
-    padding-left: 0px;
+  cursor: pointer;
+  .panel-body {
+    padding: 0;
+    margin: 0;
   }
-  .links {
+}
+
+.modal.leader {
+  .description {
     margin-top: 15px;
   }
-  @media (max-width: $screen-sm) {
-    .description {
-      margin-top: 15px;
+  .modal-footer {
+    margin-top: 0px;
+    padding: 5px 20px 5px 5px;
+    a {
+      color: #ccc;
     }
-    .text-column {
-      padding-left: 15px;
+    a:hover, a:focus {
+      color: #222;
+    }
+    a.social {
+      margin-left: 10px;
     }
   }
 }

@@ -1,10 +1,11 @@
 [
     {
-        "name": "Piotr 'Keyer' Modzelewski",
+        "name": "Piotr Modzelewski",
+        "fullName": "Piotr 'KeYeR' Modzelewski",
         "photo": "modzelewski-piotr.jpg",
         "description": "Programista Java pracujący przy systemach wymagających wysokiej wydajności i&nbsp;skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z&nbsp;dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w&nbsp;codziennej pracy. Wierzy w&nbsp;siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i&nbsp;opasłych rozwiązań JEE woli proste i&nbsp;dedykowane rozwiązania.",
         "urls": {
-            "blog": "http://petermodzelewski.blogspot.com"
+            "home": "http://petermodzelewski.blogspot.com"
         }
     },
     {
@@ -18,14 +19,15 @@
     {
         "name": "Walter Okruciński",
         "photo": "okrucinski-walter.jpg",
-        "description": "TBD",
+        "description": "Programista Java, wielbiciel open source, linux'a. Posiadający skłonności masochistyczne w związku z korzystaniem na co dzień z gentoo. Wiecznie niezaspokojone intelektualnie dziecko, które swoimi pytaniami wyprowadzi z równowagi każdego doświadczonego programistę.",
         "urls": {
+            "linkedin": "https://www.linkedin.com/pub/walter-okruci%C5%84ski/81/bab/180"
         }
     },
     {
         "name": "Sławek Piotrowski",
         "photo": "piotrowski-slawek.jpg",
-        "description": "Programista Java, obecnie związany z PayU, gdzie zajmuje się rozwijaniem wiądącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, Moonshine.",
+        "description": "Programista Java, obecnie związany z PayU, gdzie zajmuje się rozwijaniem wiądącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, <a href='http://moonshine.atteo.org' target='_blank'>Moonshine</a>.",
         "urls": {
             "linkedin": "https://www.linkedin.com/profile/view?id=8680607"
         }
@@ -35,7 +37,12 @@
         "photo": "pradzynski-piotr.jpg",
         "description": "TBD",
         "urls": {
-            "blog": "http://prondzyn.com/blog/"
+            "home": "http://prondzyn.com",
+            "facebook": "https://facebook.com/piotr.pradzynski",
+            "twitter": "https://twitter.com/prondzyn",
+            "googleplus": "https://google.com/+PiotrPr%C4%85dzy%C5%84ski",
+            "linkedin": "http://www.linkedin.com/in/prondzyn",
+            "github": "https://github.com/prondzyn"
         }
     },
     {
@@ -43,7 +50,7 @@
         "photo": "stepniak-szymon.jpg",
         "description": "Rzemieślnik Java/Groovy, pragmatyk, praktykujący entuzjasta Test-Driven Development, wyznawca czystego kodu, mol książkowy. Hobbystycznie zgłębia tajniki programowania funkcyjnego w Scali, kontrybutor open source (Grails), gitarzysta.",
         "urls": {
-            "blog": "http://blog.stepniak.net.pl",
+            "home": "http://blog.stepniak.net.pl",
             "twitter": "https://twitter.com/wololock",
             "linkedin": "https://www.linkedin.com/pub/szymon-st%C4%99pniak/30/b16/9a0",
             "googleplus": "https://plus.google.com/113936656891384018832/"

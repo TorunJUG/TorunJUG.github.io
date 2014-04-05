@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dwie firmy wspierające proces poprawiania jakości oprogramowania naszymi nowymi partnerami"
-description: "ej-technologies i CoderGears nowymi partnerami Toruń JUG"
+description: "ej-technologies i CoderGears nowymi partnerami Toruń JUG."
 date: 2014-04-03 06:25:52 +0200
 comments: true
 categories: Partnerzy

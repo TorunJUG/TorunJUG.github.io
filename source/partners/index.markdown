@@ -45,6 +45,11 @@ footer: false
       <img class="no-border" src="{{ root_url }}/images/partners/jarchitect.png" alt="JArchitect" />
     </a>
   </div>
+  <div class="col-xs-4">
+    <a class="no-text-decoration" href="http://www.retrospective.centeractive.com" target="_blank" title="Retrospective">
+      <img class="no-border" src="{{ root_url }}/images/partners/retrospective.gif" alt="Retrospective" />
+    </a>
+  </div>
 </div>
 
 ### Książki sponsorują

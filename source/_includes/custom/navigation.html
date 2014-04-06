@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -44,7 +44,7 @@
                     </a>
                 </li>
                 {% if site.simple_search %}
-                <li>
+                <li class="hidden-xs hidden-sm hidden-md visible-lg">
                     <form class="search navbar-form navbar-right" action="{{ site.simple_search }}" method="GET">
                         <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}">
                         <div class="form-group">
@@ -54,7 +54,7 @@
                 </li>
                 {% endif %}
                 <li>
-                    <a class="subscribe-rss" href="{{ site.subscribe_rss }}" title="Subscribe via RSS">
+                    <a class="subscribe-rss" href="{{ site.subscribe_rss }}" title="RSS">
                         <span class="visible-xs">RSS</span>
                         <span class="hidden-xs fa fa-rss fa-1-5x"></span>
                     </a>

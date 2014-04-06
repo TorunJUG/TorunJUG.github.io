@@ -1,3 +1,23 @@
+.navbar-fixed-top {
+  border-width: 1px;
+}
+
+@media (max-width: 768px) {
+  .navbar-nav {
+    margin: 0px -15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-nav.navbar-right:last-child {
+    margin-right: 0px;
+  }
+}
+
+#main {
+  margin-top: 73px;
+}
+
 .panel.about-us {
   #duke-image {
     img {

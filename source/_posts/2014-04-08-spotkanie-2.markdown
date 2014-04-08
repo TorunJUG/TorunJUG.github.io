@@ -2,7 +2,7 @@
 layout: post
 title: "Spotkanie #2 [2014-04-23]"
 description: "Toruń JUG - Spotkanie #2 [2014-04-23]"
-date: 2014-04-08 06:31:22 +0200
+date: 2014-04-08 15:01:22 +0200
 comments: true
 categories: Spotkania
 ---

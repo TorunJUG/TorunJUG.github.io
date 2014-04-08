@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-04-08T14:48:31+02:00</updated>
+  <updated>2014-04-08T15:08:00+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #2 [2014-04-23]]]></title>
+    <link href="http://torun.jug.pl/news/2014/04/08/spotkanie-2/"/>
+    <updated>2014-04-08T15:01:22+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/04/08/spotkanie-2</id>
+    <content type="html"><![CDATA[<p>Drugie spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 23 kwietnia 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
+
+<p>Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/175597572/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/1402971459975866/" target="_blank">Facebook</a>.</p>
+
+<p>Gorąca prośba do wszystkich, którzy muszą opuścić spotkanie przed czasem o&nbsp;zajmowanie miejsc w&nbsp;pobliży wyjścia, żeby zbytnio nie rozpraszać prelegentów i&nbsp;innych słuchaczy. <!-- more --></p>
+
+<h3>O fragmentach w Androidzie</h3>
+
+<p>Polityka korzystania z&nbsp;fragmentów w&nbsp;Androidzie nie jest jednoznacznie zdefiniowana. W&nbsp;oficjalnym tutorialu przedstawione są jedynie przykłady zastosowania technologii, brakuje niestety jednoznacznych &ldquo;best practices&rdquo;. W&nbsp;prezentacji przedstawione zostanie ujęcie fragmentów jako pewnego rodzaju luźno wiązanych komponentów i&nbsp;ich interakcjach z&nbsp;aktywnościami. Dodatkowo zaprezentowanych zostanie parę problemów w&nbsp;korzystaniu z&nbsp;fragmentów, na&nbsp;które może natknąć się programista Java rozpoczynający swoją przygodę z&nbsp;Androidem.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/wojtyna-michal.jpg" /></p>
+
+<h4>Michał Wojtyna</h4>
+
+<p>Doktorant środowiskowych studiów doktoranckich, jednocześnie próbujący rozwinąć swoją własną działalność. Ciągle stara się znaleźć złoty środek między tworzeniem wysokiej jakości oprogramowania, a&nbsp;wymaganiami rynkowymi, mimo tendencji do&nbsp;tworzenia przeprojektowanych rozwiązań.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>JTwig, czyli Twig w Javie</h3>
+
+<p>W&nbsp;Javie brakuje wygodnych systemów templatek. Miło mi będzie zatem przedstawić system templatek, który jest wygodny w&nbsp;użyciu.</p>
+
+<p>Prezentacja będzie pokazywać jak zacząć używać JTwiga w&nbsp;Spring MVC. Opowie o&nbsp;jego możliwościach, zaletach i&nbsp;wadach. Pokazane zostanie jak łatwo rozszerzać JTwig oraz porównana zostanie wydajność i&nbsp;możliwości z&nbsp;innymi systemami templatek (Handlebars, Mustache oraz JSP).</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/boniewicz-maciej.jpg" /></p>
+
+<h4>Maciej Boniewicz</h4>
+
+<p>Programista (programowanie to przede wszystkim sposób myślenia, a&nbsp;nie język) zatrudniony w Allegro. Z&nbsp;Javą zawodowo związany od 10 lat (w&nbsp;tym 4&nbsp;lata przerwy na&nbsp;PHP). Miłośnik tenisa stołowego, aikido, koszykówki, książek i&nbsp;gier strategicznych.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Continuous Delivery</h3>
+
+<p>O&nbsp;tym czym jest Continuous Delivery w&nbsp;duchu agile, jakich elementów wymaga, co dostajemy w&nbsp;zamian? Kilka narzędzi oraz przykładów jak i&nbsp;gdzie to działa.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/westfalewski-jakub.jpg" /></p>
+
+<h4>Jakub Westfalewski</h4>
+
+<p>W&nbsp;internetach znany jako &ldquo;jwest&rdquo;. Programista w&nbsp;Grupie Allegro. Leniwy miłośnik automatyzacji. Kochający muzykę i&nbsp;kawę.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ćwierkamy]]></title>
@@ -275,7 +326,7 @@
     <link href="http://torun.jug.pl/news/2014/03/20/spotkanie-1/"/>
     <updated>2014-03-20T19:57:30+01:00</updated>
     <id>http://torun.jug.pl/news/2014/03/20/spotkanie-1</id>
-    <content type="html"><![CDATA[<p>Mamy ogromną przyjemność zaprosić wszystkich na pierwsze spotkanie toruńskiej grupy użytkowników Java! Odbędzie się ono <strong>w najbliższą środę, 26 marca 2014 roku o godzinie 18:00 w sali S3 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>). Wstęp na spotkanie jest wolny. Zapraszamy również na stronę wydarzenia na <a href="https://www.facebook.com/events/676908465705497/" target="_blank">Facebook</a>. <!-- more --></p>
+    <content type="html"><![CDATA[<p>Mamy ogromną przyjemność zaprosić wszystkich na pierwsze spotkanie toruńskiej grupy użytkowników Java! Odbędzie się ono <strong>w najbliższą środę, 26 marca 2014 roku o godzinie 18:00 w sali S3 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>). Wstęp na spotkanie jest wolny. Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/676908465705497/" target="_blank">Facebook</a>. <!-- more --></p>
 
 <h3>ClassIndex &ndash; szybka alternatywa dla skanowania klas</h3>
 

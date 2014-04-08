@@ -37,4 +37,4 @@ O&nbsp;tym czym jest Continuous Delivery w&nbsp;duchu agile, jakich elementów w
 
 <img class="no-border speaker-face" src="{{ root_url }}/images/speakers/westfalewski-jakub.jpg" />
 #### Jakub Westfalewski
-W&nbsp;internetach znany jako "jwest". Programista w&nbsp;Grupie Allegro. Leniwy miłośnik automatyzacji. Kochający muzykę i&nbsp;kawę.
+W&nbsp;internetach znany jako "jwest". Programista w&nbsp;Grupie Allegro. Leniwy miłośnik automatyzacji kochający muzykę i&nbsp;kawę.

@@ -1,18 +1,40 @@
+$screen-xs: 480px;
+$screen-sm: 768px;
+$screen-md: 992px;
+$screen-lg: 1200px;
+
 .navbar-fixed-top {
   border-width: 1px;
 }
 
-@media (max-width: 767px) {
+.navbar {
+  .nav {
+    li.special {
+      a {
+        color: #ff0039;
+      }
+    }
+  }
+}
+
+@media (max-width: ($screen-sm - 1)) {
   .navbar-nav {
     margin: 0px -15px;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: $screen-sm) {
   .navbar-nav.navbar-right:last-child {
     margin-right: 0px;
   }
 }
+
+@media (min-width: $screen-md) {
+  .navbar-nav > li > a {
+    padding: 14.5px 13px;
+  }
+}
+
 
 body { 
   padding-top: 73px; 
@@ -84,11 +106,6 @@ body {
     }
   }
 }
-
-$screen-xs: 480px;
-$screen-sm: 768px;
-$screen-md: 992px;
-$screen-lg: 1200px;
 
 .panel.leader {
   cursor: pointer;

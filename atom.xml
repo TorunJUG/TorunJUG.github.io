@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-04-09T06:35:28+02:00</updated>
+  <updated>2014-04-09T06:39:17+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -53,7 +53,7 @@
 
 <p>W&nbsp;Javie brakuje wygodnych systemów templatek. Miło mi będzie zatem przedstawić system templatek, który jest wygodny w&nbsp;użyciu.</p>
 
-<p>Prezentacja będzie pokazywać jak zacząć używać JTwiga w&nbsp;Spring MVC. Opowie o&nbsp;jego możliwościach, zaletach i&nbsp;wadach. Pokazane zostanie jak łatwo rozszerzać JTwig oraz porównana zostanie wydajność i&nbsp;możliwości z&nbsp;innymi systemami templatek (Handlebars, Mustache oraz JSP).</p>
+<p>Prezentacja będzie pokazywać jak zacząć używać JTwiga w&nbsp;Spring MVC. Opowie o&nbsp;jego możliwościach, zaletach i&nbsp;wadach. Pokazane zostanie jak łatwo rozszerzać JTwig oraz porównana zostanie wydajność i&nbsp;możliwości z&nbsp;innymi systemami templatek (Handlebars, <del>Mustache</del> FreeMarker oraz JSP).</p>
 
 <p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/boniewicz-maciej.jpg" /></p>
 

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Piotr Modzelewski",
+        "fullName": "Piotr 'KeYeR' Modzelewski",
+        "photo": "modzelewski-piotr.jpg",
+        "description": "Programista Java pracujący przy systemach wymagających wysokiej wydajności i&nbsp;skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z&nbsp;dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w&nbsp;codziennej pracy. Wierzy w&nbsp;siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i&nbsp;opasłych rozwiązań JEE woli proste i&nbsp;dedykowane rozwiązania.",
+        "urls": {
+            "home": "http://petermodzelewski.blogspot.com",
+            "github": "https://github.com/petermodzelewski",
+            "twitter": "https://twitter.com/pmodzelewski"
+        }
+    },
+    {
+        "name": "Marek Nowicki",
+        "photo": "nowicki-marek.jpg",
+        "description": "Programista-naukowiec związany z&nbsp;językiem Java, zajmujący się głównie obliczeniami równoległymi i&nbsp;rozproszonymi w tymże języku.",
+        "urls": {
+            "linkedin": "https://www.linkedin.com/in/mareknowicki"
+        }
+    },
+    {
+        "name": "Walter Okruciński",
+        "photo": "okrucinski-walter.jpg",
+        "description": "Programista Java, wielbiciel open source i&nbsp;Linuksa. Posiadający skłonności masochistyczne w związku z korzystaniem na co dzień z Gentoo. Wiecznie niezaspokojone intelektualnie dziecko, które swoimi pytaniami wyprowadzi z&nbsp;równowagi każdego doświadczonego programistę.",
+        "urls": {
+            "linkedin": "https://www.linkedin.com/pub/walter-okruci%C5%84ski/81/bab/180"
+        }
+    },
+    {
+        "name": "Sławek Piotrowski",
+        "photo": "piotrowski-slawek.jpg",
+        "description": "Programista Java, obecnie związany z&nbsp;PayU, gdzie zajmuje się rozwijaniem wiodącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, <a href='http://moonshine.atteo.org' target='_blank'>Moonshine</a>.",
+        "urls": {
+            "linkedin": "https://www.linkedin.com/profile/view?id=8680607",
+            "github": "https://github.com/sentinelt"
+        }
+    },
+    {
+        "name": "Piotr Prądzyński",
+        "photo": "pradzynski-piotr.jpg",
+        "description": "Programista Java. Przez całą dotychczasową karierę zawodową zawiązany z&nbsp;toruńską firmą AIS.PL, w&nbsp;której zajmuje się głownie tworzeniem aplikacji webowych. Kuszony przez .NET, nie dał się przeciągnąć na ciemną stronę Mocy. Od niedawna zgłębia tajniki programowania aplikacji w&nbsp;JavaScript.",
+        "urls": {
+            "home": "http://prondzyn.com",
+            "twitter": "https://twitter.com/prondzyn",
+            "linkedin": "http://www.linkedin.com/in/prondzyn",
+            "github": "https://github.com/prondzyn"
+        }
+    },
+    {
+        "name": "Szymon Stępniak",
+        "photo": "stepniak-szymon.jpg",
+        "description": "Rzemieślnik Java/Groovy, pragmatyk, praktykujący entuzjasta Test-Driven Development, wyznawca czystego kodu, mol książkowy. Hobbystycznie zgłębia tajniki programowania funkcyjnego w&nbsp;Scali, kontrybutor open source (Grails), gitarzysta.",
+        "urls": {
+            "home": "http://blog.stepniak.net.pl",
+            "twitter": "https://twitter.com/wololock",
+            "linkedin": "https://www.linkedin.com/pub/szymon-st%C4%99pniak/30/b16/9a0",
+            "googleplus": "https://plus.google.com/113936656891384018832/",
+            "github": "https://github.com/wololock"
+        }
+    },
+    {
+        "name": "Błażej Zyglarski",
+        "photo": "zyglarski-blazej.jpg",
+        "description": "",
+        "urls": {
+        }
+    }
+]

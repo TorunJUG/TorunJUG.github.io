@@ -4,7 +4,7 @@ title: "Ćwierkamy"
 description: "Oficjanle konto Toruń JUG na Twitterze."
 date: 2014-04-08 07:58:27 +0200
 comments: true
-categories: 
+categories: Społeczności
 ---
 Wszem i&nbsp;wobec ogłaszamy, że od wczoraj <a href="https://twitter.com/TorunJUG" target="_blank">oficjalnie ćwierkamy na Twitterze</a>. Obserwujcie nas, żeby pozostać na&nbsp;bieżąco z&nbsp;tym co dzieje się w&nbsp;naszej grupie. Postaramy się zawsze informować o&nbsp;nadchodzących spotkaniach i&nbsp;innych, godnych uwagi sprawach.
 

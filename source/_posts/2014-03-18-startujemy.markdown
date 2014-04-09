@@ -4,7 +4,7 @@ title: "Startujemy!"
 description: "Start toruńskiej grupy użytkowników języka Java"
 date: 2014-03-18 19:31:25 +0100
 comments: true
-categories: 
+categories: Społeczności
 ---
 Witamy wszystkich entuzjastów zarówno języka Java jak i innych języków opartych o JVM. Wyszliśmy z inicjatywą stworzenia grupy użytkowników Java (popularnego JUG-a) w Toruniu mającej na celu rozwój lokalnej społeczności programistów Java i pokrewnych. Projekt nabiera rozpędu i niedługo zostanie zorganizowane pierwsze spotkanie.
 

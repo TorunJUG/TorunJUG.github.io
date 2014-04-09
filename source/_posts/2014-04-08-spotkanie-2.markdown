@@ -12,7 +12,9 @@ Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa
 
 Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/1402971459975866/" target="_blank">Facebook</a>. 
 
-Gorąca prośba do wszystkich, którzy muszą opuścić spotkanie przed czasem o&nbsp;zajmowanie miejsc w&nbsp;pobliży wyjścia, żeby zbytnio nie rozpraszać prelegentów i&nbsp;innych słuchaczy. <!-- more -->
+Gorąca prośba do wszystkich, którzy muszą opuścić spotkanie przed czasem o&nbsp;zajmowanie miejsc w&nbsp;pobliży wyjścia, żeby zbytnio nie rozpraszać prelegentów i&nbsp;innych słuchaczy. 
+
+Po spotkaniu zapraszamy na małe <a href="https://www.facebook.com/events/850959914918569/" target="_blank">after party</a> ;) <!-- more -->
 
 ### O fragmentach w Androidzie
 Polityka korzystania z&nbsp;fragmentów w&nbsp;Androidzie nie jest jednoznacznie zdefiniowana. W&nbsp;oficjalnym tutorialu przedstawione są jedynie przykłady zastosowania technologii, brakuje niestety jednoznacznych "best practices". W&nbsp;prezentacji przedstawione zostanie ujęcie fragmentów jako pewnego rodzaju luźno wiązanych komponentów i&nbsp;ich interakcjach z&nbsp;aktywnościami. Dodatkowo zaprezentowanych zostanie parę problemów w&nbsp;korzystaniu z&nbsp;fragmentów, na&nbsp;które może natknąć się programista Java rozpoczynający swoją przygodę z&nbsp;Androidem.

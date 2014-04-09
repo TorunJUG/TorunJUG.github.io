@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-04-08T15:11:22+02:00</updated>
+  <updated>2014-04-09T06:35:28+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Darmowa wejściówka na&nbsp;tegoroczny GeeCON do&nbsp;wygrania!]]></title>
+    <link href="http://torun.jug.pl/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania/"/>
+    <updated>2014-04-09T06:20:36+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania</id>
+    <content type="html"><![CDATA[<p>Uwaga, uwaga! Rozpoczynamy konkurs z&nbsp;nie lada niespodzianką &ndash; darmową wejściówką na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>! Wejściówka została przekazana nam przez organizatorów konferencji w&nbsp;ramach obustronnego partnerstwa.</p>
+
+<p>Szczegóły na temat konkursu znajdziecie na&nbsp;naszej <a href="https://groups.google.com/group/torunjug" target="_blank">grupie dyskusyjnej</a>. Gorąco zachęcamy do wzięcia udziału! Powodzenia :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #2 [2014-04-23]]]></title>

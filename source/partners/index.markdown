@@ -23,27 +23,27 @@ footer: false
 
 ### Licencje sponsorują
 <div class="row" style="margin-bottom: 10px;">
-  <div class="col-tn-12 col-xs-12 col-sm-6 col-md-4">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
     <a class="no-text-decoration" href="http://structure101.com" target="_blank" title="Structure101">
       <img class="no-border" src="{{ root_url }}/images/partners/structure101_2.png" alt="Structure101" />
     </a>
   </div>
-  <div class="col-tn-12 col-xs-12 col-sm-6 col-md-4">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
     <a class="no-text-decoration" href="http://jetbrains.com" target="_blank" title="JetBrains">
       <img class="no-border" src="{{ root_url }}/images/partners/jetbrains.png" alt="JetBrains" />
     </a>
   </div>
-  <div class="col-tn-12 col-xs-12 col-sm-6 col-md-4">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
     <a class="no-text-decoration" href="http://www.ej-technologies.com/products/jprofiler/overview.html" target="_blank" title="JProfiler">
       <img class="no-border" src="{{ root_url }}/images/partners/jprofiler.gif" alt="JProfiler" />
     </a>
   </div>
-  <div class="col-tn-12 col-xs-12 col-sm-6 col-md-4">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
     <a class="no-text-decoration" href="http://www.jarchitect.com" target="_blank" title="JArchitect">
       <img class="no-border" src="{{ root_url }}/images/partners/jarchitect.png" alt="JArchitect" />
     </a>
   </div>
-  <div class="col-tn-12 col-xs-12 col-sm-6 col-md-4">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
     <a class="no-text-decoration" href="http://www.retrospective.centeractive.com" target="_blank" title="Retrospective">
       <img class="no-border" src="{{ root_url }}/images/partners/retrospective.png" alt="Retrospective" />
     </a>
@@ -52,12 +52,12 @@ footer: false
 
 ### Książki sponsorują
 <div class="row">
-  <div class="col-tn-12 col-xs-12 col-sm-3 col-md-3">
+  <div class="col-tn-12 col-xs-4 col-sm-3 col-md-3">
     <a class="no-text-decoration" href="http://www.manning.com" target="_blank" title="Manning Publications Co.">
       <img class="no-border" src="{{ root_url }}/images/partners/manning.jpg" alt="Manning Publications Co." style="margin-bottom: 15px;" />
     </a>
   </div>
-  <div class="col-tn-12 col-xs-12 col-sm-4 col-md-4">
+  <div class="col-tn-12 col-xs-6 col-sm-4 col-md-4">
     <a class="no-text-decoration" href="http://oreilly.com" target="_blank" title="O'Reilly Media">
       <img class="no-border" src="{{ root_url }}/images/partners/oreilly.gif" alt="O'Reilly Media" />
     </a>

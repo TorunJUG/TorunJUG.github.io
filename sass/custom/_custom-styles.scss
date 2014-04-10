@@ -1,3 +1,4 @@
+$screen-300: 300px;
 $screen-xs: 480px;
 $screen-sm: 768px;
 $screen-md: 992px;
@@ -135,6 +136,20 @@ body {
     }
     a.social {
       margin-left: 10px;
+    }
+  }
+}
+
+@media (max-width: ($screen-xs - 1)) {
+  .jumbotron-not-found {
+    padding: 3px;
+  }
+}
+
+@media (max-width: ($screen-300 - 1)) {
+  .jumbotron-not-found {
+    h1 {
+      font-size: 26px;
     }
   }
 }

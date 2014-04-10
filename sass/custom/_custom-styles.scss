@@ -64,8 +64,9 @@ body {
     text-align: center;
     padding: 0px;
     .recommended {
-      margin: 5px;
+      padding: 0px 5px 5px 5px;
       img {
+        padding-top: 5px;
         max-width: 100%;
       }
     }

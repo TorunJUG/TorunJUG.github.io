@@ -16,6 +16,6 @@ Spotkania odbywają się cyklicznie, zazwyczaj w ostatnią środę miesiąca w g
 ### Dołącz do nas
 Wystarczy, że dopiszesz się do naszej grupy na portalu <a href="http://www.meetup.com/Torun-JUG/" target="_blank">Meetup</a> i przyjdziesz na spotkanie. Proponujemy Ci również możliwość przyłączenia się do <a href="https://groups.google.com/group/torunjug" target="_blank">grupy dyskusyjnej</a>, gdzie będziesz mógł podzielić się z nami wszelkimi uwagami dotyczącymi organizacji spotkań.
 
-Jeśli jesteś zainteresowany prowadzeniem wykładu, wypełnij <a href="https://docs.google.com/forms/d/1OkM_2JqnBZPEUNld_9rmOmWYxxSXgsjTpKxvBJcFPa4/viewform" target="_blank">formularz zgłoszeniowy prelegenta</a> i&nbsp;oczekuj na&nbsp;odpowiedź od&nbsp;nas. 
+Jeśli jesteś zainteresowany prowadzeniem wykładu, wypełnij <a href="http://tinyurl.com/FormularzPrelegentaTorunJUG" target="_blank">formularz zgłoszeniowy prelegenta</a> i&nbsp;oczekuj na&nbsp;odpowiedź od&nbsp;nas. 
 
 Zachęcamy do dzielenia się swoją wiedzą z innymi!

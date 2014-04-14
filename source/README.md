@@ -12,4 +12,5 @@ Każda zmiana powinna być wprowadzana w branchu [source](https://github.com/Tor
 
 Większość kodu źdódłowego znajdule się w katalogu [source](https://github.com/TorunJUG/TorunJUG.github.io/tree/source/source). Ewentualne własne poprawki stylów dodajemy do pliku [_custom-styles.scss](https://github.com/TorunJUG/TorunJUG.github.io/blob/source/sass/custom/_custom-styles.scss). 
 
+### Blogowanie
 Podstawy pisania bloga można znajeźć w [dokumentacji Octopressa](http://octopress.org/docs/blogging/).

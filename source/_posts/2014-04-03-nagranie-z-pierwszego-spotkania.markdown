@@ -6,7 +6,6 @@ date: 2014-04-03 11:39:14 +0200
 comments: true
 categories: Nagrania
 ---
-
 Kilka minut temu na stronie <a href="http://tv.umk.pl/#movie=2332" target="_blank">UMK TV</a> pojawiło się nagranie <a href="{{ root_url }}/news/2014/03/20/spotkanie-1/">pierwszego spotkania</a> naszej grupy. Film można obejrzeć poniżej.
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">

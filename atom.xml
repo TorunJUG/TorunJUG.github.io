@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-04-14T13:50:03+02:00</updated>
+  <updated>2014-04-16T08:52:39+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GeeCON 2014 - wyniki konkursu]]></title>
+    <link href="http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu/"/>
+    <updated>2014-04-16T08:36:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu</id>
+    <content type="html"><![CDATA[<p>Poniżej zamieszczamy nagranie z&nbsp;rozstrzygnięcia <a href="http://torun.jug.pl/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania/">konkursu</a>, w&nbsp;którym do&nbsp;wygrania była darmowa wejściówka na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <iframe width="640" height="360" src="//www.youtube.com/embed/27iR4BZsZjc?rel=0" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+
+<p>Zwycięzcy gratulujemy i&nbsp;życzymy owocnej konferencji!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Darmowa wejściówka na&nbsp;tegoroczny GeeCON do&nbsp;wygrania!]]></title>

@@ -22,7 +22,7 @@ Dzięki temu wiemy, że było warto. To Wy tworzycie tę grupę!
 Poniżej znajdują się odnośniki do materiałów z prezentacji:
 <ul>
   <li>
-    <a href="http://www-users.mat.umk.pl/~sentinel/ClassIndex - quicker alternative to classpath scanning.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/1/ClassIndex - szybka alternatywa dla skanowania klas by Slawek Piotrowski.pdf" target="_blank">
       <em>ClassIndex – szybka alternatywa dla skanowania klas</em></a> (slajdy z prezentacji Sławka Piotrowskiego)
   </li>
   <li>
@@ -31,7 +31,7 @@ Poniżej znajdują się odnośniki do materiałów z prezentacji:
     </a>
   </li>
   <li>
-    <a href="http://www.slideshare.net/SzymonStpniak/toru-jug-wprowadzenie-do" target="_blank">
+    <a href="{{root_url}}/materials/meetings/1/Wprowadzenie do wybranych zagadnien JDK 8 by Szymon Stepniak.pdf" target="_blank">
       <em>Wprowadzenie do wybranych zagadnień JDK 8</em></a> (slajdy z prezentacji Szymona Stępniaka)
   </li>
   <li>

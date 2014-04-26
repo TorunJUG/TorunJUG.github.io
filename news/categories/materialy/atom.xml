@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-04-25T09:09:55+02:00</updated>
+  <updated>2014-04-26T13:59:49+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -28,10 +28,16 @@
 
 <ul>
   <li>
-    [TBD] <em>O fragmentach w Androidzie</em> (slajdy z prezentacji Michała Wojtyny)
+    <a href="/materials/meetings/2/O_fragmentach_w_Androidzie_by_Michal_Wojtyna.pdf" target="_blank">
+      <em>O fragmentach w Androidzie</em></a> (slajdy z prezentacji Michała Wojtyny)
   </li>
   <li>
-    <a href="/materials/meetings/2/JTwig czyli Twig w Javie by Maciej Boniewicz.pdf" target="_blank">
+    <a href="https://github.com/qoobar/fragmentsshowcase" target="_blank">
+      Kod źródłowy z prezentacji Michała
+    </a>
+  </li>
+  <li>
+    <a href="/materials/meetings/2/JTwig_czyli_Twig_w_Javie_by_Maciej_Boniewicz.pdf" target="_blank">
       <em>JTwig, czyli Twig w Javie</em></a> (slajdy z prezentacji Macieja Boniewicza)
   </li>
   <li>
@@ -40,7 +46,7 @@
     </a>
   </li>
   <li>
-    <a href="/materials/meetings/2/Continuous Delivery by Jakub Westfalewski.pdf" target="_blank">
+    <a href="/materials/meetings/2/Continuous_Delivery_by_Jakub_Westfalewski.pdf" target="_blank">
       <em>Continuous Delivery</em></a> (slajdy z&nbsp;prezentacji Jakuba Westfalewskiego)
   </li>
 </ul>
@@ -77,7 +83,7 @@
 
 <ul>
   <li>
-    <a href="/materials/meetings/1/ClassIndex - szybka alternatywa dla skanowania klas by Slawek Piotrowski.pdf" target="_blank">
+    <a href="/materials/meetings/1/ClassIndex_-_szybka_alternatywa_dla_skanowania_klas_by_Slawek_Piotrowski.pdf" target="_blank">
       <em>ClassIndex – szybka alternatywa dla skanowania klas</em></a> (slajdy z prezentacji Sławka Piotrowskiego)
   </li>
   <li>
@@ -86,7 +92,7 @@
     </a>
   </li>
   <li>
-    <a href="/materials/meetings/1/Wprowadzenie do wybranych zagadnien JDK 8 by Szymon Stepniak.pdf" target="_blank">
+    <a href="/materials/meetings/1/Wprowadzenie_do_wybranych_zagadnien_JDK_8_by_Szymon_Stepniak.pdf" target="_blank">
       <em>Wprowadzenie do wybranych zagadnień JDK 8</em></a> (slajdy z prezentacji Szymona Stępniaka)
   </li>
   <li>

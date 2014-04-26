@@ -15,10 +15,16 @@ Zdjęcia z&nbsp;wczorajszego wydarzenia możecie obejrzeć na&nbsp;<a href="http
 Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
 <ul>
   <li>
-    [TBD] <em>O fragmentach w Androidzie</em> (slajdy z prezentacji Michała Wojtyny)
+    <a href="{{root_url}}/materials/meetings/2/O_fragmentach_w_Androidzie_by_Michal_Wojtyna.pdf" target="_blank">
+      <em>O fragmentach w Androidzie</em></a> (slajdy z prezentacji Michała Wojtyny)
   </li>
   <li>
-    <a href="{{root_url}}/materials/meetings/2/JTwig czyli Twig w Javie by Maciej Boniewicz.pdf" target="_blank">
+    <a href="https://github.com/qoobar/fragmentsshowcase" target="_blank">
+      Kod źródłowy z prezentacji Michała
+    </a>
+  </li>
+  <li>
+    <a href="{{root_url}}/materials/meetings/2/JTwig_czyli_Twig_w_Javie_by_Maciej_Boniewicz.pdf" target="_blank">
       <em>JTwig, czyli Twig w Javie</em></a> (slajdy z prezentacji Macieja Boniewicza)
   </li>
   <li>
@@ -27,7 +33,7 @@ Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
     </a>
   </li>
   <li>
-    <a href="{{root_url}}/materials/meetings/2/Continuous Delivery by Jakub Westfalewski.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/2/Continuous_Delivery_by_Jakub_Westfalewski.pdf" target="_blank">
       <em>Continuous Delivery</em></a> (slajdy z&nbsp;prezentacji Jakuba Westfalewskiego)
   </li>
 </ul>

@@ -22,7 +22,7 @@ Dzięki temu wiemy, że było warto. To Wy tworzycie tę grupę!
 Poniżej znajdują się odnośniki do materiałów z prezentacji:
 <ul>
   <li>
-    <a href="{{root_url}}/materials/meetings/1/ClassIndex - szybka alternatywa dla skanowania klas by Slawek Piotrowski.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/1/ClassIndex_-_szybka_alternatywa_dla_skanowania_klas_by_Slawek_Piotrowski.pdf" target="_blank">
       <em>ClassIndex – szybka alternatywa dla skanowania klas</em></a> (slajdy z prezentacji Sławka Piotrowskiego)
   </li>
   <li>
@@ -31,7 +31,7 @@ Poniżej znajdują się odnośniki do materiałów z prezentacji:
     </a>
   </li>
   <li>
-    <a href="{{root_url}}/materials/meetings/1/Wprowadzenie do wybranych zagadnien JDK 8 by Szymon Stepniak.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/1/Wprowadzenie_do_wybranych_zagadnien_JDK_8_by_Szymon_Stepniak.pdf" target="_blank">
       <em>Wprowadzenie do wybranych zagadnień JDK 8</em></a> (slajdy z prezentacji Szymona Stępniaka)
   </li>
   <li>

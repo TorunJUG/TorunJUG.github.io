@@ -48,6 +48,11 @@ footer: false
       <img class="no-border" src="{{ root_url }}/images/partners/retrospective.png" alt="Retrospective" />
     </a>
   </div>
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
+    <a class="no-text-decoration" href="http://www.yourkit.com" target="_blank" title="YourKit">
+      <img class="no-border" src="{{ root_url }}/images/partners/yourkit.png" alt="YourKit" />
+    </a>
+  </div>
 </div>
 
 ### Książki sponsorują

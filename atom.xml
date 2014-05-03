@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-05-01T19:09:26+02:00</updated>
+  <updated>2014-05-03T11:57:08+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nowy profiler na pokładzie!]]></title>
+    <link href="http://torun.jug.pl/news/2014/05/03/nowy-profiler-na-pokladzie/"/>
+    <updated>2014-05-03T11:38:33+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/05/03/nowy-profiler-na-pokladzie</id>
+    <content type="html"><![CDATA[<p>Jest nam bardzo miło poinformować, że&nbsp;kolejna firma zgodziła się zostać partnerem naszej grupy. <!-- more --></p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://www.yourkit.com" target="_blank" title="YourKit">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/yourkit_logo2.png" alt="YourKit" />
+    </a>
+  </div>
+</div>
+
+
+<p>Firma <a href="http://www.yourkit.com" target="_blank">YourKit</a>, bo o&nbsp;niej mowa, zajmuje się wytwarzaniem oprogramowania służącego do profilowania aplikacji opartych o&nbsp;platformę .NET oraz JVM. YourKit, w&nbsp;ramach partnerstwa umożliwi nam losowanie jednej licencji oprogramowania <a href="http://www.yourkit.com/overview/" target="_blank">YourKit Java Profiler</a> na&nbsp;każdym naszym spotkaniu.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[33rd Degree 2014]]></title>

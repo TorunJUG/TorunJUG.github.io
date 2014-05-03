@@ -3,7 +3,7 @@ layout: post
 title: "Nowy profiler na pokładzie!"
 description: "Firma YourKit została nowym partnerem toruńskiej grupy użytkowników języka Java."
 cover: "/images/partners/yourkit_logo2.png"
-date: 2014-04-29 07:38:33 +0200
+date: 2014-05-03 11:38:33 +0200
 comments: true
 categories: Partnerzy
 ---

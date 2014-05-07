@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Spotkanie #3 [2014-05-28]"
+description: "Toruń JUG - Spotkanie #3 [2014-05-28]"
+date: 2014-05-07 14:26:30 +0200
+comments: true
+categories: Spotkania
+---
+Trzecie spotkanie toruńskiej grupy użytkowników języka Java odbędzie się **w&nbsp;środę, 28 maja 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>). 
+
+Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/181665332/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych. 
+
+Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/668690036529979/" target="_blank">Facebook</a>. 
+
+Gorąca prośba do wszystkich, którzy muszą opuścić spotkanie przed czasem o&nbsp;zajmowanie miejsc w&nbsp;pobliży wyjścia, żeby zbytnio nie rozpraszać prelegentów i&nbsp;innych słuchaczy. 
+
+Po spotkaniu zapraszamy tradycyjnie na piwo i pogaduchy - tym razem do pubu Tratwa :)<!-- more -->
+
+### Jak szukać? - Kilka słów o Lucene i&nbsp;jej znajomych
+Ktoś z&nbsp;was miał (nie)przyjemność użyć LIKE w&nbsp;bazach MySQLowych? A&nbsp;może zastanawialiście się jak działają popularne wyszukiwarki? Może chcielibyście wstawić na swoją stronę własną?
+Na tej prezentacji przedstawię Wam najpopularniejszą bibliotekę do wyszukiwania w&nbsp;krainach Javowych i&nbsp;nie tylko -&nbsp;Lucene. Zaprezentuję też najpopularniejsze silniki wyszukiwania na niej oparte -&nbsp;Solr i&nbsp;ElasticSearch. 
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" />
+#### Zbyszko Papierski
+Do niedawna programista Java w&nbsp;Grupie Allegro, aktualnie architekt rozwiązań w&nbsp;tej samej firmie. Czciciel JVM i&nbsp;wszystkiego co z&nbsp;nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz.
+
+<span class="clearfix"></span>
+### Historia pewnego szkieletora - Walking Skeleton &amp;&nbsp;ATTD
+Każdy, a&nbsp;co najmniej większość z&nbsp;Was miała kiedyś okazje przeżyć chwilę grozy, gdy po zrobieniu projektu "na wczoraj" okazało się, że jednak będzie trzeba go rozwijać... 
+Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie są niczym nowym, jednak brak ich znajomości i&nbsp;zastosowania w&nbsp;codziennej pracy grożą niewspółmiernym bólem głowy i&nbsp;utratą przyjemności z&nbsp;tego co wszyscy lubimy najbardziej :)
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/rekowski-pawel.jpg" />
+#### Paweł "Lego" Rekowski
+Programista Java (wcześniej PHP) oraz Scrum Master w&nbsp;Grupie Allegro. Miłośnik pełnej automatyzacji wszystkiego co możliwe oraz wirtualizacji środowisk programistycznych. Prywatnie pasjonat zdrowego trybu życia i&nbsp;wszystkiego co jeździ na co najmniej 2&nbsp;kołach :)

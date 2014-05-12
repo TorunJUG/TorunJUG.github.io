@@ -17,8 +17,8 @@
                 <li {% if page.navbar == 'News' %}class="active"{% endif %}>
                     <a href="{{ root_url }}/">Aktualności</a>
                 </li>
-                <li class="special">
-                    <a href="https://docs.google.com/forms/d/1OkM_2JqnBZPEUNld_9rmOmWYxxSXgsjTpKxvBJcFPa4/viewform" target="_blank">Zgłoś prelekcję</a>
+                <li class="special {% if page.navbar == 'Speakers' %}active{% endif %}">
+                    <a href="{{ root_url }}/speakers/">Strefa prelegenta</a>
                 </li>
                 <li {% if page.navbar == 'Leaders' %}class="active"{% endif %}>
                     <a href="{{ root_url }}/leaders/">Liderzy</a>

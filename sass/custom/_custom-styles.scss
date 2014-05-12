@@ -11,7 +11,7 @@ $screen-lg: 1200px;
 .navbar {
   .nav {
     li.special {
-      a {
+      a, a:hover, a:focus {
         color: #ff0039;
       }
     }

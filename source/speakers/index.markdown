@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Strefa prelegenta"
-description: "Zbiór informacji o tym gdzie zgłosić chęć prezentowania wybranego przez siebie tematu oraz jak dobrze przygotować się do swojej prezentacji"
+description: "Zbiór informacji o tym gdzie zgłosić chęć zaprezentowania wybranego przez siebie tematu oraz jak dobrze przygotować się do prowadzenia swojej prezentacji."
 navbar: "Speakers"
 comments: false
 sharing: false

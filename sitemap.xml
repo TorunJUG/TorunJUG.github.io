@@ -86,7 +86,7 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/about/</loc>
-        <lastmod>2014-04-18T12:35:36+02:00</lastmod>
+        <lastmod>2014-05-12T07:21:07+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/about.html</loc>
@@ -135,5 +135,9 @@
     <url>
         <loc>http://torun.jug.pl/robots.txt</loc>
         <lastmod>2014-03-18T12:00:13+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://torun.jug.pl/speakers/</loc>
+        <lastmod>2014-05-12T07:21:07+02:00</lastmod>
     </url>
 </urlset>

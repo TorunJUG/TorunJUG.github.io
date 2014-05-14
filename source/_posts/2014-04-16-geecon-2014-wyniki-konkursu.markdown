@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GeeCON 2014 - wyniki konkursu"
-description: "Wyniki konkursu, w którym do wygrania była wejściówka na konferencję GeeCON 2014"
+description: "Wyniki konkursu, w którym do wygrania była wejściówka na konferencję GeeCON 2014."
 cover: "/images/recommended/geecon2014.png"
 date: 2014-04-16 08:36:00 +0200
 comments: true

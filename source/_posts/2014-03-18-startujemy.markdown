@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Startujemy!"
-description: "Start toruńskiej grupy użytkowników języka Java"
+description: "Start toruńskiej grupy użytkowników języka Java."
 date: 2014-03-18 19:31:25 +0100
 comments: true
 categories: Społeczności

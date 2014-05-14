@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Liderzy"
-description: Lista obecnych liderów toruńskiej grupy użytkowników języka Java
+description: Lista obecnych liderów toruńskiej grupy użytkowników języka Java.
 navbar: "Leaders"
 comments: false
 sharing: false

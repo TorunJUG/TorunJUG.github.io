@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Podsumowanie drugiego spotkania"
-description: "Podsumowanie drugiego spotkania toruńskiej grupy użytkowników języka Java"
+description: "Podsumowanie drugiego spotkania toruńskiej grupy użytkowników języka Java."
 date: 2014-04-24 23:43:50 +0200
 comments: true
 categories: Materiały

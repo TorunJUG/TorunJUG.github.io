@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Partnerzy"
-description: "Informacje o partnerach toruńskiej grupy użytkowników języka Java"
+description: "Informacje o partnerach toruńskiej grupy użytkowników języka Java."
 navbar: "Partners"
 comments: false
 sharing: false

@@ -25,7 +25,7 @@ Na tej prezentacji przedstawię Wam najpopularniejszą bibliotekę do wyszukiwan
 Do niedawna programista Java w&nbsp;Grupie Allegro, aktualnie architekt rozwiązań w&nbsp;tej samej firmie. Czciciel JVM i&nbsp;wszystkiego co z&nbsp;nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz.
 
 <span class="clearfix"></span>
-### Historia pewnego szkieletora - Walking Skeleton &amp;&nbsp;ATTD
+### Historia pewnego szkieletora - Walking Skeleton &amp;&nbsp;ATDD
 Każdy, a&nbsp;co najmniej większość z&nbsp;Was miała kiedyś okazje przeżyć chwilę grozy, gdy po zrobieniu projektu "na wczoraj" okazało się, że jednak będzie trzeba go rozwijać... 
 Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie są niczym nowym, jednak brak ich znajomości i&nbsp;zastosowania w&nbsp;codziennej pracy grożą niewspółmiernym bólem głowy i&nbsp;utratą przyjemności z&nbsp;tego co wszyscy lubimy najbardziej :)
 

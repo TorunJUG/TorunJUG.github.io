@@ -8,7 +8,7 @@ sharing: false
 footer: false
 ---
 ### Zgłoś swoją prelekcję
-Jeśli chciałbyś podzielić się swoją wiedzą i&nbsp;zaprezentować na jednym z&nbsp;naszych spotkań, wypełnij <a href="https://docs.google.com/forms/d/1OkM_2JqnBZPEUNld_9rmOmWYxxSXgsjTpKxvBJcFPa4/viewform" target="_blank">formularz zgłoszeniowy prelegenta</a> i&nbsp;oczekuj na&nbsp;odpowiedź od&nbsp;nas. Gdy już się na to zdecydujesz, zapoznaj się z&nbsp;poniższymi informacjami. Pomogą Ci one odpowiednio przygotować się do prelekcji.
+Jeśli chciał(a)byś podzielić się swoją wiedzą i&nbsp;zaprezentować na jednym z&nbsp;naszych spotkań, wypełnij <a href="https://docs.google.com/forms/d/1OkM_2JqnBZPEUNld_9rmOmWYxxSXgsjTpKxvBJcFPa4/viewform" target="_blank">formularz zgłoszeniowy prelegenta</a> i&nbsp;oczekuj na&nbsp;kontakt od&nbsp;jednego z&nbsp;<a href="{{ root_url }}/leaders/">liderów</a> grupy. Ze&nbsp;względu na&nbsp;duże zainteresowanie mamy "zapas" prezentacji, dlatego kontakt może nastąpić dopiero po pewnym czasie. Nie musisz się więc martwić, że&nbsp;zaraz po zgłoszeniu prelekcji zostaniesz "wezwany do tablicy". Z&nbsp;drugiej strony zapewniamy, że odezwiemy się do&nbsp;Ciebie odpowiednio wcześniej, żebyś miał(a) wystarczająco dużo czasu na&nbsp;doszlifowanie swojego wystąpienia. Zachęcamy również, do&nbsp;zapoznania się z&nbsp;poniższymi wskazówkami, które pomogą Ci właściwie się do niego przygotować.
 
 ### Struktura prezentacji
 W&nbsp;przygotowaniu prezentacji bardzo istotne jest odpowiednie jej ustrukturyzowanie. Dzięki temu publiczność będzie miała uczucie płynności prezentacji. Dodatkowo poniższa struktura pomaga w&nbsp;zawarciu wszystkich składników zapewniających profesjonalizm prelekcji.
@@ -30,8 +30,8 @@ Następnie przechodzimy do właściwej części prezentacji. Musimy pamiętać, 
 
 ### Przygotowanie do prelekcji
 * Przećwicz ze&nbsp;stoperem minimum dwa razy całą prezentację. Dzięki temu sprawdzisz, ile mniej więcej czasu zajmie Ci zaprezentowanie tematu podczas spotkania.
-* W&nbsp;dniu spotkania przyjdź kilkanaście minut przed jego rozpoczęciem (15-30 minut). Będziesz miał okazję przeprowadzić próbę generalną z&nbsp;rzutnikiem i&nbsp;sprawdzić, czy Twoja prezentacja jest jednakowo czytelna z&nbsp;każdego miejsca na&nbsp;sali.
-* Jeśli będziesz pokazywać kod, zadbaj o&nbsp;powiększoną czcionkę w&nbsp;swoim ulubionym IDE. Wielu uczestników siedzi w&nbsp;dalszej odległości od ekranu i&nbsp;przy niewielkich rozmiarach czcionki mogą mieć problem z&nbsp;odczytaniem tego, co zaprezentujesz na ekranie.
+* W&nbsp;dniu spotkania przyjdź kilkanaście minut przed jego rozpoczęciem (15-30 minut). Będziesz miał(a) okazję przeprowadzić próbę generalną z&nbsp;rzutnikiem i&nbsp;sprawdzić, czy Twoja prezentacja jest jednakowo czytelna z&nbsp;każdego miejsca na&nbsp;sali.
+* Jeśli będziesz pokazywał(a) kod, zadbaj o&nbsp;powiększoną czcionkę w&nbsp;swoim ulubionym IDE. Wielu uczestników siedzi w&nbsp;dalszej odległości od ekranu i&nbsp;przy niewielkich rozmiarach czcionki mogą mieć problem z&nbsp;odczytaniem tego, co zaprezentujesz na ekranie.
 * Zostaw sobie kilka minut (około pięciu) na ewentualne pytania. Uczestnicy chętnie słuchają tego, co prelegent ma im do przekazania, chętnie również zadają pytania, gdy coś ich zainteresuje. 
 * Gdy padnie pytanie od&nbsp;publiczności postaraj się je sparafrazować. Pozwoli Ci to upewnić się, że zostało ono dobrze zrozumiane. Nie bój się pytań - nie musisz być ekspertem w&nbsp;dziedzinie, o&nbsp;którą zostaniesz zapytany. Uczestnikami zadającymi pytania nie kierują złe intencje.
 * Staraj się utrzymywać kontakt wzrokowy z&nbsp;Twoimi słuchaczami. Nie zawsze jest to proste, ale pomoże Ci zbudować większe zaufanie na linii słuchacz-prelegent co powinno dodać Ci otuchy.
@@ -49,48 +49,48 @@ Na deser cykl *Sztuka prezentacji* autorstwa <a href="http://www.wiktorniedzicki
 #### Przed wystąpieniem
 <div class="row text-center">
   <div class="col-md-12">
-	<iframe width="640" height="360" src="//www.youtube.com/embed/veZMHkK0SZY?rel=0" frameborder="0" allowfullscreen></iframe>
+	  <iframe width="640" height="360" src="//www.youtube.com/embed/veZMHkK0SZY?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
 #### Jak sie ubrać?
 <div class="row text-center">
   <div class="col-md-12">
-	<iframe width="640" height="360" src="//www.youtube.com/embed/w1_3F9BxZoI?rel=0" frameborder="0" allowfullscreen></iframe>
+	  <iframe width="640" height="360" src="//www.youtube.com/embed/w1_3F9BxZoI?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
 #### Jak zacząć?
 <div class="row text-center">
   <div class="col-md-12">
-	<iframe width="640" height="360" src="//www.youtube.com/embed/T24kmJvY2MA?rel=0" frameborder="0" allowfullscreen></iframe>
+	  <iframe width="640" height="360" src="//www.youtube.com/embed/T24kmJvY2MA?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
 #### Konstrukcja
 <div class="row text-center">
   <div class="col-md-12">
-	<iframe width="640" height="360" src="//www.youtube.com/embed/01exeCg9FxU?rel=0" frameborder="0" allowfullscreen></iframe>
+	  <iframe width="640" height="360" src="//www.youtube.com/embed/01exeCg9FxU?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
 #### Mowa ciała
 <div class="row text-center">
   <div class="col-md-12">
-	<iframe width="640" height="360" src="//www.youtube.com/embed/HnhaybAhv_I?rel=0" frameborder="0" allowfullscreen></iframe>
+	  <iframe width="640" height="360" src="//www.youtube.com/embed/HnhaybAhv_I?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
 #### Ręce
 <div class="row text-center">
   <div class="col-md-12">
-	<iframe width="640" height="360" src="//www.youtube.com/embed/QL-_x4URw30?rel=0" frameborder="0" allowfullscreen></iframe>
+	  <iframe width="640" height="360" src="//www.youtube.com/embed/QL-_x4URw30?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
 #### Emocje
 <div class="row text-center">
   <div class="col-md-12">
-	<iframe width="640" height="360" src="//www.youtube.com/embed/TZ5MtNPfGsA?rel=0" frameborder="0" allowfullscreen></iframe>
+	  <iframe width="640" height="360" src="//www.youtube.com/embed/TZ5MtNPfGsA?rel=0" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>

@@ -68,3 +68,13 @@ footer: false
     </a>
   </div>
 </div>
+
+### Nagrody dla prelegentów sponsoruje
+<div class="row">
+  <div class="col-tn-12 col-xs-4 col-sm-3 col-md-3">
+    <a class="no-text-decoration" href="http://www.allegro.pl" target="_blank" title="Grupa Allegro">
+      <img class="no-border" src="{{ root_url }}/images/partners/allegro.png" alt="Grupa Allegro" style="margin-bottom: 15px;" />
+    </a>
+  </div>
+</div>
+

@@ -21,6 +21,15 @@ footer: false
   </a>
 </div>
 
+### Upominki dla prelegentów sponsoruje
+<div class="row" style="margin-bottom: 10px;">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
+    <a class="no-text-decoration" href="http://www.allegro.pl" target="_blank" title="Grupa Allegro">
+      <img class="no-border" src="{{ root_url }}/images/partners/allegro.jpg" alt="Grupa Allegro" />
+    </a>
+  </div>
+</div>
+
 ### Licencje sponsorują
 <div class="row" style="margin-bottom: 10px;">
   <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
@@ -56,7 +65,7 @@ footer: false
 </div>
 
 ### Książki sponsorują
-<div class="row">
+<div class="row" style="margin-bottom: 10px;">
   <div class="col-tn-12 col-xs-4 col-sm-3 col-md-3">
     <a class="no-text-decoration" href="http://www.manning.com" target="_blank" title="Manning Publications Co.">
       <img class="no-border" src="{{ root_url }}/images/partners/manning.jpg" alt="Manning Publications Co." style="margin-bottom: 15px;" />
@@ -65,15 +74,6 @@ footer: false
   <div class="col-tn-12 col-xs-6 col-sm-4 col-md-4">
     <a class="no-text-decoration" href="http://oreilly.com" target="_blank" title="O'Reilly Media">
       <img class="no-border" src="{{ root_url }}/images/partners/oreilly.gif" alt="O'Reilly Media" />
-    </a>
-  </div>
-</div>
-
-### Nagrody dla prelegentów sponsoruje
-<div class="row">
-  <div class="col-tn-12 col-xs-4 col-sm-3 col-md-3">
-    <a class="no-text-decoration" href="http://www.allegro.pl" target="_blank" title="Grupa Allegro">
-      <img class="no-border" src="{{ root_url }}/images/partners/allegro.png" alt="Grupa Allegro" style="margin-bottom: 15px;" />
     </a>
   </div>
 </div>

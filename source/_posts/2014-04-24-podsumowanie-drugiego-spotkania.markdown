@@ -10,7 +10,7 @@ Dziękujemy wszystkim za&nbsp;udział we&nbsp;<a href="{{root_url}}/news/2014/04
 
 Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/16Qt7UCP2hZKqgIlXuAgG10cMxxbspQ334XMlfSfq74U/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania.
 
-Zdjęcia z&nbsp;wczorajszego wydarzenia możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1501558150067673.1073741830.1472639746292847&type=1" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/21459572/" target="_blank">Meetupie</a>.
+Zdjęcia z&nbsp;wczorajszego wydarzenia możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1501558150067673.1073741830.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/21459572/" target="_blank">Meetupie</a>.
 
 Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
 <ul>

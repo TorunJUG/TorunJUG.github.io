@@ -73,7 +73,12 @@ footer: false
   </div>
   <div class="col-tn-12 col-xs-6 col-sm-4 col-md-4">
     <a class="no-text-decoration" href="http://oreilly.com" target="_blank" title="O'Reilly Media">
-      <img class="no-border" src="{{ root_url }}/images/partners/oreilly.gif" alt="O'Reilly Media" />
+      <img class="no-border" src="{{ root_url }}/images/partners/oreilly.gif" alt="O'Reilly Media" style="margin-bottom: 15px;" />
+    </a>
+  </div>
+  <div class="col-tn-12 col-xs-4 col-sm-3 col-md-3">
+    <a class="no-text-decoration" href="http://practicalunittesting.com" target="_blank" title="Tomek Kaczanowski - Practical Unit Testing">
+      <img class="no-border" src="{{ root_url }}/images/partners/practical_unit_testing.jpg" alt="Tomek Kaczanowski - Practical Unit Testing" />
     </a>
   </div>
 </div>

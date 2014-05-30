@@ -6,7 +6,7 @@ date: 2014-05-30 06:43:50 +0200
 comments: true
 categories: Materiały
 ---
-Dziękujemy za&nbsp;udział w&nbsp;<a href="{{root_url}}/news/2014/05/07/spotkanie-3/">trzecim spotkaniu</a> naszej grupy. Szczególne słowa podziękowania należą się Zbyszkowi i&nbsp;Pawłowi za&nbsp;przygotowanie prezentacji! Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie nam sali S3 oraz każdemu, kto w&nbsp;dowolnym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;po nim w&nbsp;Tratwie.
+Dziękujemy wszystkim i&nbsp;każdemu z&nbsp;osobna za&nbsp;udział w&nbsp;<a href="{{root_url}}/news/2014/05/07/spotkanie-3/">trzecim spotkaniu</a> naszej grupy. Szczególne podziękowania należą się Zbyszkowi i&nbsp;Pawłowi za&nbsp;przygotowanie prezentacji! Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie nam sali S3 oraz każdemu, kto w&nbsp;dowolnym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Tratwie.
 
 Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="TODO" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania.
 
@@ -19,7 +19,7 @@ Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
       <em>Jak szukać? – Kilka słów o Lucene i&nbsp;jej znajomych</em></a> (slajdy z&nbsp;prezentacji Zbyszka Papierskiego)
   </li>
   <li>
-    <a href="TODO" target="_blank">
+    <a href="https://github.com/maeph/JUG-Lucene" target="_blank">
       Kod źródłowy z prezentacji Zbyszka
     </a>
   </li>

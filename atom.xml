@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-05-27T06:32:36+02:00</updated>
+  <updated>2014-05-30T18:07:19+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie trzeciego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania/"/>
+    <updated>2014-05-30T16:51:50+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania</id>
+    <content type="html"><![CDATA[<p>Dziękujemy wszystkim i&nbsp;każdemu z&nbsp;osobna za&nbsp;liczne przybycie na&nbsp;<a href="http://torun.jug.pl/news/2014/05/07/spotkanie-3/">trzecie spotkanie</a> naszej grupy. Cieszy nas niezmiernie, że&nbsp;liczba uczestników utrzymuje się wciąż na&nbsp;bardzo dobrym poziomie. Szczególne podziękowania należą się Zbyszkowi i&nbsp;Pawłowi za&nbsp;przygotowanie prezentacji. Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie nam sali oraz każdemu, kto w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Tratwie.</p>
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <img class="no-border" src="http://torun.jug.pl/images/meetings/3/mug.jpg" alt="Kubek Toruń JUG - upominek dla prelegentów" title="Kubek Toruń JUG - upominek dla prelegentów" style="margin-bottom: 10px;"/>
+  </div>
+</div>
+
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1mXp-SVjWtodnJgLbKtK7j63cuUrHm-SY3zXdswM7F6E/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze&nbsp;środowego meetingu możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1514025038820984.1073741831.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/22193352/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/3/Jak_szukac_-_Kilka_slow_o_Lucene_i_jej_znajomych_by_Zbyszko_Papierski.pdf" target="_blank">
+      <em>Jak szukać? – Kilka słów o Lucene i&nbsp;jej znajomych</em></a> (slajdy z&nbsp;prezentacji Zbyszka Papierskiego)
+  </li>
+  <li>
+    <a href="https://github.com/maeph/JUG-Lucene" target="_blank">
+      Kod źródłowy z prezentacji Zbyszka
+    </a>
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/3/Historia_pewnego_szkieletora_–_Walking_Skeleton_and_ATDD_by_Pawel_Rekowski.pdf" target="_blank">
+      <em>Historia pewnego szkieletora – Walking Skeleton &amp;&nbsp;ATDD</em></a> (slajdy z&nbsp;prezentacji Pawła Rekowskiego)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i do zobaczenia niebawem.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #3 [2014-05-28]]]></title>
@@ -142,7 +187,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 
 <p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/16Qt7UCP2hZKqgIlXuAgG10cMxxbspQ334XMlfSfq74U/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania.</p>
 
-<p>Zdjęcia z&nbsp;wczorajszego wydarzenia możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1501558150067673.1073741830.1472639746292847&type=1" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/21459572/" target="_blank">Meetupie</a>.</p>
+<p>Zdjęcia z&nbsp;wczorajszego wydarzenia możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1501558150067673.1073741830.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/21459572/" target="_blank">Meetupie</a>.</p>
 
 <p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
 
@@ -551,19 +596,6 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 <h4>Szymon Stępniak</h4>
 
 <p>Za dnia próbuje pogodzić obowiązki Java/Groovy developera oraz lokalnego szamana w Ideazone. Pasjonat czystego kodu, entuzjasta programowania funkcyjnego, Test-Driven Development stosowałby nawet programując pralki. Z programowaniem związany zawodowo od 2007 roku.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Startujemy!]]></title>
-    <link href="http://torun.jug.pl/news/2014/03/18/startujemy/"/>
-    <updated>2014-03-18T19:31:25+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/03/18/startujemy</id>
-    <content type="html"><![CDATA[<p>Witamy wszystkich entuzjastów zarówno języka Java jak i innych języków opartych o JVM. Wyszliśmy z inicjatywą stworzenia grupy użytkowników Java (popularnego JUG-a) w Toruniu mającej na celu rozwój lokalnej społeczności programistów Java i pokrewnych. Projekt nabiera rozpędu i niedługo zostanie zorganizowane pierwsze spotkanie.</p>
-
-<p>Pomysł został zainicjowany na <a href="https://www.facebook.com/tak.dla.juga.w.toruniu" target="_blank">Facebooku</a> i tam aktualnie możecie znaleźć najwięcej informacji na jego temat. Z biegiem czasu postaramy się zamieścić wszystkie niezbędne informacje na tej stronie, a także na innych popularnych portalach społecznościowych.</p>
-
-<p>Jeśli macie ochotę pomóc nam w organizacji grupy lub chcielibyście podzielić się swoją wiedzą i wystąpić w roli prelegenta &ndash; piszcie do <a href="https://www.facebook.com/tak.dla.juga.w.toruniu" target="_blank">nas</a>!</p>
 ]]></content>
   </entry>
   

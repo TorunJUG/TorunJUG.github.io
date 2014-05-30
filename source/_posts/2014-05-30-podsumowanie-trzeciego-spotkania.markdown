@@ -3,7 +3,7 @@ layout: post
 title: "Podsumowanie trzeciego spotkania"
 description: "Podsumowanie trzeciego spotkania toruńskiej grupy użytkowników języka Java."
 cover: /images/meetings/3/mug.jpg
-date: 2014-05-30 06:43:50 +0200
+date: 2014-05-30 16:51:50 +0200
 comments: true
 categories: Materiały
 ---

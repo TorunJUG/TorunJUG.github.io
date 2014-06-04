@@ -2,18 +2,18 @@
 layout: post
 title: "Nagranie z trzeciego spotkania"
 description: "Nagranie z naszego trzeciego spotkania jest już dostępne na stronie UMK TV!"
-date: 2014-06-04 17:05:24 +0200
+date: 2014-06-04 16:35:24 +0200
 comments: true
 categories: Nagrania
 ---
-Na stronie <a href="http://tv.umk.pl/?id=TODO" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{ root_url }}/news/2014/05/07/spotkanie-3/">trzeciego spotkania</a> naszej grupy. Film można obejrzeć poniżej. Niestety, ze względy na drobne problemy techniczne, początkowe 10 minut nagrania zostało utracone.
+Na stronie <a href="http://tv.umk.pl/?id=2390" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{ root_url }}/news/2014/05/07/spotkanie-3/">trzeciego spotkania</a> naszej grupy. Film można obejrzeć poniżej. Niestety, ze względy na drobne problemy techniczne, początkowe 10 minut nagrania zostało utracone.
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
     <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
       <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
       <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=TODO&amp;width=640" />
+      <param name="flashVars" value="movieID=2390&amp;width=640" />
     </object>
   </div>
 </div>

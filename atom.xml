@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-06-04T16:35:46+02:00</updated>
+  <updated>2014-06-07T21:57:27+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #4 [2014-06-27]]]></title>
+    <link href="http://torun.jug.pl/news/2014/06/07/spotkanie-4/"/>
+    <updated>2014-06-07T20:01:44+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/06/07/spotkanie-4</id>
+    <content type="html"><![CDATA[<p>Zgodnie z&nbsp;wcześniejszymi zapowiedziami mamy dla Was niespodziankę &ndash; na czwartym spotkaniu naszej grupy gościć będziemy prawdziwą gwiazdę rocka społeczności Javowej w Polsce &ndash; Jacka Laskowskiego. Z&nbsp;tego względu spotkanie odbędzie się wyjątkowo <strong>w&nbsp;piątek, 27 czerwca 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
+
+<p>Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/187742972/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/285466184967908/" target="_blank">Facebook</a>.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty, tym razem do Krajiny Piva ;)<!-- more --></p>
+
+<h3>Testujemy z Arquillianem</h3>
+
+<p>Im później wykryty błąd &ndash; tym droższy. Ta maksyma przyświeca nam od lat. Każdy z&nbsp;nas pisze testy jednostkowe, większość &ndash; funkcjonalne, ale mało kto &ndash; integracyjne.</p>
+
+<p>Na prezentacji przedstawię narzędzie, które umożliwi pisanie dobrych testów integracyjnych odpalanych na serwerach JEE.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/laskawiec-sebastian.jpg" /></p>
+
+<h4>Sebastian Łaskawiec</h4>
+
+<p>Architekt i&nbsp;programista pracujący w PayU, interesujący się kontenerami JEE oraz pisaniem dobrego kodu. W&nbsp;wolnym czasie pasjonat nart, łyżew, rolek, a&nbsp;także domowego piwa i&nbsp;dobrych gier.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Akka, Play, Spray, Scalatra, Spark z&nbsp;perspektywy sbt</h3>
+
+<p>Wspólnie poznajmy użyteczne rozwiązania z&nbsp;ekosystemu Scali z&nbsp;perspektywy sbt &ndash; narzędzia do zarządzania budowaniem projektów w&nbsp;Scali i&nbsp;Javie. Może okazać się wielce pouczającym, jak wiele można się dowiedzieć o&nbsp;danym rozwiązaniu zaglądając przez drzwi kuchenne &ndash; przez konfigurację budowania. Zwykle to właśnie dokumentacja i&nbsp;konfiguracja budowania sprawiają projektom znaczne kłopoty, aby znaleźć osoby chętne do pomocy, co przy odpowiedniej znajomości sbt może okazać się wręcz banalne, a&nbsp;sława i&nbsp;chwała jako członka zespołu uznanego projektu godna pozazdroszczenia. Przyjdź i&nbsp;przekonaj się, jak niewiele trzeba, aby okiełznać sbt, a&nbsp;z&nbsp;nim wiele z&nbsp;projektów scalowych, co bezpośrednio przekłada się na Twoją umiejętność programowania w&nbsp;tym języku. A&nbsp;i&nbsp;wejście w&nbsp;język czy jego narzędzia może być łatwiejsze korzystając z&nbsp;wiedzy o &nbsp;sbt i&nbsp;Typesafe Activator.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/laskowski-jacek.jpg" /></p>
+
+<h4>Jacek Laskowski</h4>
+
+<p>Jacek is a&nbsp;Java/Scala software developer with few Scala gigs under his belt. He runs a&nbsp;Scala project &ndash; <a href="https://github.com/jaceklaskowski/scalania" target="_blank">scalania</a> &ndash; on GitHub that gave birth Scala meetings in Warsaw, Poland that ultimately ended up as an initiative under <a href="https://twitter.com/WarszawScaLa" target="_blank">@WarszawScaLa</a> &ndash; a&nbsp;Scala user group in Warsaw. He builds his reputation in the tools he uses daily answering questions on <a href="http://stackoverflow.com/users/1305344/jacek-laskowski" target="_blank">StackOverflow</a> and contributing to open source projects on <a href="https://github.com/jaceklaskowski" target="_blank">GitHub</a>. You can follow him on twitter as <a href="https://twitter.com/jaceklaskowski" target="_blank">@jaceklaskowski</a>. He blogs at <a href="http://japila.pl" target="_blank">japila.pl</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z trzeciego spotkania]]></title>
@@ -574,17 +613,6 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
     <updated>2014-03-24T09:28:38+01:00</updated>
     <id>http://torun.jug.pl/news/2014/03/24/dolacz-do-nas-na-portalu-meetup</id>
     <content type="html"><![CDATA[<p>Na portalu Meetup założyliśmy <a href="http://www.meetup.com/Torun-JUG/" target="_blank">grupę dedykowaną dla Toruń JUG</a>. Zachęcamy wszystkich do dołączenia do niej. A jeśli już tam będziecie, to dołączcie do <a href="http://www.meetup.com/Torun-JUG/events/173040582/" target="_blank">pierwszego spotkania</a>. Rejestracja na kolejne spotkania, będzie wymagana właśnie przez portal Meetup. Warto więc zarejestrować się tam już teraz.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Grupa dyskusyjna]]></title>
-    <link href="http://torun.jug.pl/news/2014/03/23/grupa-dyskusyjna/"/>
-    <updated>2014-03-23T20:56:59+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/03/23/grupa-dyskusyjna</id>
-    <content type="html"><![CDATA[<p>Część z was pewnie już zauważyła. Pozostałym chcielibyśmy zwrócić uwagę, że utworzyliśmy na Google Groups specjalną <a href="https://groups.google.com/group/torunjug" target="_blank">grupę dyskusyjną Toruń JUG</a>. Zachęcamy wszystkich do dzielenia się tam swoimi przemyśleniami, uwagami i pomysłami zawiązanymi z technologiami JVM i nie tylko.</p>
-
-<p>Jeśli macie jakieś uwagi odnośnie działania naszej grupy, chcielibyście zaoferować swoją pomoc, zgłosić się na prelegenta lub zaproponować temat, o którym chcielibyście posłuchać, to ta grupa dyskusyjna jest idealnym miejscem, żeby to przekazać.</p>
 ]]></content>
   </entry>
   

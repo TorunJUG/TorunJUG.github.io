@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Spotkanie #4 [2014-06-27]"
+description: "Toruń JUG - Spotkanie #4 [2014-06-27] - Wystąpi gość specjalny! Zapraszamy!"
+date: 2014-06-07 20:01:44 +0200
+comments: true
+categories: Spotkania
+---
+Zgodnie z&nbsp;wcześniejszymi zapowiedziami mamy dla Was niespodziankę - na czwartym spotkaniu naszej grupy gościć będziemy prawdziwą gwiazdę rocka społeczności Javowej w Polsce - Jacka Laskowskiego. Z&nbsp;tego względu spotkanie odbędzie się wyjątkowo **w&nbsp;piątek, 27 czerwca 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>). 
+
+Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/187742972/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych. 
+
+Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/285466184967908/" target="_blank">Facebook</a>.
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty, tym razem do Krajiny Piva ;)<!-- more -->
+
+### Testujemy z Arquillianem
+Im później wykryty błąd - tym droższy. Ta maksyma przyświeca nam od lat. Każdy z&nbsp;nas pisze testy jednostkowe, większość - funkcjonalne, ale mało kto - integracyjne. 
+
+Na prezentacji przedstawię narzędzie, które umożliwi pisanie dobrych testów integracyjnych odpalanych na serwerach JEE.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" />
+#### Sebastian Łaskawiec
+Architekt i&nbsp;programista pracujący w PayU, interesujący się kontenerami JEE oraz pisaniem dobrego kodu. W&nbsp;wolnym czasie pasjonat nart, łyżew, rolek, a&nbsp;także domowego piwa i&nbsp;dobrych gier.
+
+<span class="clearfix"></span>
+### Akka, Play, Spray, Scalatra, Spark z&nbsp;perspektywy sbt
+Wspólnie poznajmy użyteczne rozwiązania z&nbsp;ekosystemu Scali z&nbsp;perspektywy sbt - narzędzia do zarządzania budowaniem projektów w&nbsp;Scali i&nbsp;Javie. Może okazać się wielce pouczającym, jak wiele można się dowiedzieć o&nbsp;danym rozwiązaniu zaglądając przez drzwi kuchenne - przez konfigurację budowania. Zwykle to właśnie dokumentacja i&nbsp;konfiguracja budowania sprawiają projektom znaczne kłopoty, aby znaleźć osoby chętne do pomocy, co przy odpowiedniej znajomości sbt może okazać się wręcz banalne, a&nbsp;sława i&nbsp;chwała jako członka zespołu uznanego projektu godna pozazdroszczenia. Przyjdź i&nbsp;przekonaj się, jak niewiele trzeba, aby okiełznać sbt, a&nbsp;z&nbsp;nim wiele z&nbsp;projektów scalowych, co bezpośrednio przekłada się na Twoją umiejętność programowania w&nbsp;tym języku. A&nbsp;i&nbsp;wejście w&nbsp;język czy jego narzędzia może być łatwiejsze korzystając z&nbsp;wiedzy o &nbsp;sbt i&nbsp;Typesafe Activator.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskowski-jacek.jpg" />
+#### Jacek Laskowski
+Jacek is a&nbsp;Java/Scala software developer with few Scala gigs under his belt. He runs a&nbsp;Scala project - <a href="https://github.com/jaceklaskowski/scalania" target="_blank">scalania</a> - on GitHub that gave birth Scala meetings in Warsaw, Poland that ultimately ended up as an initiative under <a href="https://twitter.com/WarszawScaLa" target="_blank">@WarszawScaLa</a> - a&nbsp;Scala user group in Warsaw. He builds his reputation in the tools he uses daily answering questions on <a href="http://stackoverflow.com/users/1305344/jacek-laskowski" target="_blank">StackOverflow</a> and contributing to open source projects on <a href="https://github.com/jaceklaskowski" target="_blank">GitHub</a>. You can follow him on twitter as <a href="https://twitter.com/jaceklaskowski" target="_blank">@jaceklaskowski</a>. He blogs at <a href="http://japila.pl" target="_blank">japila.pl</a>.

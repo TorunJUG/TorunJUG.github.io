@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-06-07T21:57:27+02:00</updated>
+  <updated>2014-06-28T18:07:35+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -14,9 +14,61 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Podsumowanie czwartego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/06/28/podsumowanie-czwartego-spotkania/"/>
+    <updated>2014-06-28T18:52:40+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/06/28/podsumowanie-czwartego-spotkania</id>
+    <content type="html"><![CDATA[<p><a href="/news/2014/06/07/spotkanie-4/">Czwarte spotkanie</a> grupy za nami. Kolejny raz dziękujemy wszystkim za liczne przybycie. Szczególne podziękowania należą się prelegentom &ndash; Sebastianowi, za prezentację o Arquillian oraz Jackowi, za gościnny występ i wprowadzenie nas w podstawy SBT. Mamy nadzieję, że Jacek zaszczyci nas jeszcze swoją obecnością.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1i0_sVu1WIXXyqyJGMKhRRSbX5ugG-C1S5kMXG8cJVg8/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <img class="no-border" src="/images/meetings/4/1.jpg" alt="Jacek Laskowski opowiada o SBT" title="Jacek Laskowski opowiada o SBT" style="margin-bottom: 10px;"/>
+  </div>
+</div>
+
+
+
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <img class="no-border" src="/images/meetings/4/2.jpg" alt="Dyskusja na afterparty w Krajinie Piva" title="Dyskusja na afterparty w Krajinie Piva" style="margin-bottom: 10px;"/>
+  </div>
+</div>
+
+
+<p>Więcej zdjęć możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1524972934392861.1073741832.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/22831782/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://prezi.com/bsocwzn4rfue/arquillian/" target="_blank">
+      <em>Testujemy z Arquillianem</em></a> (slajdy z&nbsp;prezentacji Sebastiana Łaskawca)
+  </li>
+  <li>
+    <a href="https://github.com/altanis/arquillian-examples" target="_blank">
+      Kod źródłowy z prezentacji Sebastiana
+    </a>
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Podsumowanie trzeciego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania/"/>
-    <updated>2014-05-30T16:51:50+02:00</updated>
+    <updated>2014-05-30T15:51:50+01:00</updated>
     <id>http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania</id>
     <content type="html"><![CDATA[<p>Dziękujemy wszystkim i&nbsp;każdemu z&nbsp;osobna za&nbsp;liczne przybycie na&nbsp;<a href="/news/2014/05/07/spotkanie-3/">trzecie spotkanie</a> naszej grupy. Cieszy nas niezmiernie, że&nbsp;liczba uczestników utrzymuje się wciąż na&nbsp;bardzo dobrym poziomie. Szczególne podziękowania należą się Zbyszkowi i&nbsp;Pawłowi za&nbsp;przygotowanie prezentacji. Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie nam sali oraz każdemu, kto w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Tratwie.</p>
 
@@ -61,7 +113,7 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie drugiego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/04/24/podsumowanie-drugiego-spotkania/"/>
-    <updated>2014-04-24T23:43:50+02:00</updated>
+    <updated>2014-04-24T22:43:50+01:00</updated>
     <id>http://torun.jug.pl/news/2014/04/24/podsumowanie-drugiego-spotkania</id>
     <content type="html"><![CDATA[<p>Dziękujemy wszystkim za&nbsp;udział we&nbsp;<a href="/news/2014/04/08/spotkanie-2/">wczorajszym spotkaniu</a>. W&nbsp;szczególności słowa podziękowania należą się Michałowi, Maciejowi oraz Jakubowi za&nbsp;przygotowanie prezentacji! Dziękujemy również <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie nam sali S3 oraz każdemu, kto w&nbsp;dowolnym stopniu przyczynił się do tego, że&nbsp;mieliśmy wczoraj okazję spotkać się i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;po nim w&nbsp;Krajinie Piva :&ndash;)</p>
 

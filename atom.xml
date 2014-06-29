@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-06-28T18:07:35+01:00</updated>
+  <updated>2014-06-29T08:39:28+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -52,6 +52,11 @@
   <li>
     <a href="https://github.com/altanis/arquillian-examples" target="_blank">
       Kod źródłowy z prezentacji Sebastiana
+    </a>
+  </li>
+  <li>
+    <a href="http://jlaskowski.blogspot.com/2014/06/relacja-ze-spotkania-scalowego-o-sbt-i.html" target="_blank">
+      Relacja ze spotkania autorstwa Jacka Laskowskiego
     </a>
   </li>
 </ul>

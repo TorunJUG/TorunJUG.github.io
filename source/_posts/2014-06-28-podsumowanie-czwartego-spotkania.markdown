@@ -38,6 +38,11 @@ Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
       Kod źródłowy z prezentacji Sebastiana
     </a>
   </li>
+  <li>
+    <a href="http://jlaskowski.blogspot.com/2014/06/relacja-ze-spotkania-scalowego-o-sbt-i.html" target="_blank">
+      Relacja ze spotkania autorstwa Jacka Laskowskiego
+    </a>
+  </li>
 </ul>
 
 Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.

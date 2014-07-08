@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-06-29T08:39:28+01:00</updated>
+  <updated>2014-07-08T20:18:14+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -14,9 +14,33 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Nagranie z czwartego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/07/08/nagranie-z-czwartego-spotkania/"/>
+    <updated>2014-07-08T20:06:11+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/07/08/nagranie-z-czwartego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2425" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2014/06/07/spotkanie-4/">czwartego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2425&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania. Paweł nagrywał wszystkie nasze dotychczasowe spotkania, za co należą mu się wielkie podziękowania! Dziękujemy!</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Podsumowanie czwartego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/06/28/podsumowanie-czwartego-spotkania/"/>
-    <updated>2014-06-28T18:52:40+01:00</updated>
+    <updated>2014-06-28T19:52:40+02:00</updated>
     <id>http://torun.jug.pl/news/2014/06/28/podsumowanie-czwartego-spotkania</id>
     <content type="html"><![CDATA[<p><a href="http://torun.jug.pl/news/2014/06/07/spotkanie-4/">Czwarte spotkanie</a> grupy za nami. Kolejny raz dziękujemy wszystkim za liczne przybycie. Szczególne podziękowania należą się prelegentom &ndash; Sebastianowi, za prezentację o Arquillian oraz Jackowi, za gościnny występ i wprowadzenie nas w podstawy SBT. Mamy nadzieję, że Jacek zaszczyci nas jeszcze swoją obecnością.</p>
 
@@ -73,7 +97,7 @@
   <entry>
     <title type="html"><![CDATA[Spotkanie #4 [2014-06-27]]]></title>
     <link href="http://torun.jug.pl/news/2014/06/07/spotkanie-4/"/>
-    <updated>2014-06-07T19:01:44+01:00</updated>
+    <updated>2014-06-07T20:01:44+02:00</updated>
     <id>http://torun.jug.pl/news/2014/06/07/spotkanie-4</id>
     <content type="html"><![CDATA[<p>Zgodnie z&nbsp;wcześniejszymi zapowiedziami mamy dla Was niespodziankę &ndash; na czwartym spotkaniu naszej grupy gościć będziemy prawdziwą gwiazdę rocka społeczności Javowej w Polsce &ndash; Jacka Laskowskiego. Z&nbsp;tego względu spotkanie odbędzie się wyjątkowo <strong>w&nbsp;piątek, 27 czerwca 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
 
@@ -112,7 +136,7 @@
   <entry>
     <title type="html"><![CDATA[Nagranie z trzeciego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/06/04/nagranie-z-trzeciego-spotkania/"/>
-    <updated>2014-06-04T15:35:24+01:00</updated>
+    <updated>2014-06-04T16:35:24+02:00</updated>
     <id>http://torun.jug.pl/news/2014/06/04/nagranie-z-trzeciego-spotkania</id>
     <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2390" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2014/05/07/spotkanie-3/">trzeciego spotkania</a> naszej grupy. Film można obejrzeć poniżej. Niestety, ze względy na drobne problemy techniczne, początkowe 10 minut nagrania zostało utracone.</p>
 
@@ -136,7 +160,7 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie trzeciego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania/"/>
-    <updated>2014-05-30T15:51:50+01:00</updated>
+    <updated>2014-05-30T16:51:50+02:00</updated>
     <id>http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania</id>
     <content type="html"><![CDATA[<p>Dziękujemy wszystkim i&nbsp;każdemu z&nbsp;osobna za&nbsp;liczne przybycie na&nbsp;<a href="http://torun.jug.pl/news/2014/05/07/spotkanie-3/">trzecie spotkanie</a> naszej grupy. Cieszy nas niezmiernie, że&nbsp;liczba uczestników utrzymuje się wciąż na&nbsp;bardzo dobrym poziomie. Szczególne podziękowania należą się Zbyszkowi i&nbsp;Pawłowi za&nbsp;przygotowanie prezentacji. Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie nam sali oraz każdemu, kto w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Tratwie.</p>
 
@@ -181,7 +205,7 @@
   <entry>
     <title type="html"><![CDATA[Spotkanie #3 [2014-05-28]]]></title>
     <link href="http://torun.jug.pl/news/2014/05/07/spotkanie-3/"/>
-    <updated>2014-05-07T13:26:30+01:00</updated>
+    <updated>2014-05-07T14:26:30+02:00</updated>
     <id>http://torun.jug.pl/news/2014/05/07/spotkanie-3</id>
     <content type="html"><![CDATA[<p>Trzecie spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 28 maja 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
 
@@ -222,7 +246,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[Nowy profiler na pokładzie!]]></title>
     <link href="http://torun.jug.pl/news/2014/05/03/nowy-profiler-na-pokladzie/"/>
-    <updated>2014-05-03T10:38:33+01:00</updated>
+    <updated>2014-05-03T11:38:33+02:00</updated>
     <id>http://torun.jug.pl/news/2014/05/03/nowy-profiler-na-pokladzie</id>
     <content type="html"><![CDATA[<p>Jest nam bardzo miło poinformować, że&nbsp;kolejna firma zgodziła się zostać partnerem naszej grupy. <!-- more --></p>
 
@@ -242,7 +266,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[33rd Degree 2014]]></title>
     <link href="http://torun.jug.pl/news/2014/05/01/33rd-degree-2014/"/>
-    <updated>2014-05-01T14:12:54+01:00</updated>
+    <updated>2014-05-01T15:12:54+02:00</updated>
     <id>http://torun.jug.pl/news/2014/05/01/33rd-degree-2014</id>
     <content type="html"><![CDATA[<p>Za niedużo ponad miesiąc (w dniach 9-11 czerwca) odbędzie się kolejna (czwarta) edycja konferencji <a href="http://2014.33degree.org" target="_blank">33rd Degree</a>. W&nbsp;tym roku konferencja wraca do Krakowa. Bardzo gorąco zachęcamy do udziału w&nbsp;tym wydarzeniu. Wszystkie poprzednie edycje stały na&nbsp;najwyższym poziomie.</p>
 
@@ -277,7 +301,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[Nagranie z drugiego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/04/30/nagranie-z-drugiego-spotkania/"/>
-    <updated>2014-04-30T09:49:04+01:00</updated>
+    <updated>2014-04-30T10:49:04+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/30/nagranie-z-drugiego-spotkania</id>
     <content type="html"><![CDATA[<p>Kilka minut temu na stronie <a href="http://tv.umk.pl/?id=2348" target="_blank">UMK TV</a> pojawiło się nagranie <a href="http://torun.jug.pl/news/2014/04/08/spotkanie-2/">drugiego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
 
@@ -301,7 +325,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[Podsumowanie drugiego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/04/24/podsumowanie-drugiego-spotkania/"/>
-    <updated>2014-04-24T22:43:50+01:00</updated>
+    <updated>2014-04-24T23:43:50+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/24/podsumowanie-drugiego-spotkania</id>
     <content type="html"><![CDATA[<p>Dziękujemy wszystkim za&nbsp;udział we&nbsp;<a href="http://torun.jug.pl/news/2014/04/08/spotkanie-2/">wczorajszym spotkaniu</a>. W&nbsp;szczególności słowa podziękowania należą się Michałowi, Maciejowi oraz Jakubowi za&nbsp;przygotowanie prezentacji! Dziękujemy również <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie nam sali S3 oraz każdemu, kto w&nbsp;dowolnym stopniu przyczynił się do tego, że&nbsp;mieliśmy wczoraj okazję spotkać się i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;po nim w&nbsp;Krajinie Piva :&ndash;)</p>
 
@@ -348,7 +372,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[GeeCON 2014 - wyniki konkursu]]></title>
     <link href="http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu/"/>
-    <updated>2014-04-16T07:36:00+01:00</updated>
+    <updated>2014-04-16T08:36:00+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu</id>
     <content type="html"><![CDATA[<p>Poniżej zamieszczamy nagranie z&nbsp;rozstrzygnięcia <a href="http://torun.jug.pl/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania/">konkursu</a>, w&nbsp;którym do&nbsp;wygrania była darmowa wejściówka na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>.</p>
 
@@ -366,7 +390,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[Darmowa wejściówka na&nbsp;tegoroczny GeeCON do&nbsp;wygrania!]]></title>
     <link href="http://torun.jug.pl/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania/"/>
-    <updated>2014-04-09T05:20:36+01:00</updated>
+    <updated>2014-04-09T06:20:36+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania</id>
     <content type="html"><![CDATA[<p>Uwaga, uwaga! Rozpoczynamy konkurs z&nbsp;nie lada niespodzianką &ndash; darmową wejściówką na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>! Wejściówka została przekazana nam przez organizatorów konferencji w&nbsp;ramach obustronnego partnerstwa.</p>
 
@@ -377,7 +401,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[Spotkanie #2 [2014-04-23]]]></title>
     <link href="http://torun.jug.pl/news/2014/04/08/spotkanie-2/"/>
-    <updated>2014-04-08T14:01:22+01:00</updated>
+    <updated>2014-04-08T15:01:22+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/08/spotkanie-2</id>
     <content type="html"><![CDATA[<p>Drugie spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 23 kwietnia 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
 
@@ -430,7 +454,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[Ćwierkamy]]></title>
     <link href="http://torun.jug.pl/news/2014/04/08/cwierkamy/"/>
-    <updated>2014-04-08T06:58:27+01:00</updated>
+    <updated>2014-04-08T07:58:27+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/08/cwierkamy</id>
     <content type="html"><![CDATA[<p>Wszem i&nbsp;wobec ogłaszamy, że od wczoraj <a href="https://twitter.com/TorunJUG" target="_blank">oficjalnie ćwierkamy na Twitterze</a>. Obserwujcie nas, żeby pozostać na&nbsp;bieżąco z&nbsp;tym co dzieje się w&nbsp;naszej grupie. Postaramy się zawsze informować o&nbsp;nadchodzących spotkaniach i&nbsp;innych, godnych uwagi sprawach.</p>
 
@@ -451,7 +475,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[Subskrybuj nasz kanał YouTube]]></title>
     <link href="http://torun.jug.pl/news/2014/04/06/subskrybuj-nasz-kanal-youtube/"/>
-    <updated>2014-04-06T08:02:13+01:00</updated>
+    <updated>2014-04-06T09:02:13+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/06/subskrybuj-nasz-kanal-youtube</id>
     <content type="html"><![CDATA[<p>Jak już <a href="http://torun.jug.pl/news/2014/04/03/nagranie-z-pierwszego-spotkania/">wcześniej wspomnieliśmy</a> prezentacje z naszego pierwszego spotkania zostały wrzucone również na nasz świeżo utworzony <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanał YouTube</a>. Dodajcie go do subskrybowanych, dzięki czemu będziecie mogli zawsze w łatwy sposób wrócić do prezentowanych tematów na naszych wcześniejszych spotkaniach.</p>
 ]]></content>
@@ -460,7 +484,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[centeractive ag naszym nowym partnerem]]></title>
     <link href="http://torun.jug.pl/news/2014/04/05/centeractive-ag-naszym-nowym-partnerem/"/>
-    <updated>2014-04-05T12:42:13+01:00</updated>
+    <updated>2014-04-05T13:42:13+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/05/centeractive-ag-naszym-nowym-partnerem</id>
     <content type="html"><![CDATA[<p>Właśnie otrzymaliśmy pozytywną odpowiedź od firmy <a href="http://www.centeractive.com" target="_blank">centeractive ag</a>, która zgodziła się zostać kolejnym sponsorem licencji swojego oprogramowania dla uczestników spotkań naszej grupy. <!-- more--></p>
 
@@ -482,7 +506,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[Pierwsi książkowi partnerzy]]></title>
     <link href="http://torun.jug.pl/news/2014/04/04/pierwsi-ksiazkowi-partnerzy/"/>
-    <updated>2014-04-04T05:21:48+01:00</updated>
+    <updated>2014-04-04T06:21:48+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/04/pierwsi-ksiazkowi-partnerzy</id>
     <content type="html"><![CDATA[<p>Mamy przyjemność ogłosić rozpoczęcie współpracy z naszymi pierwszymi książkowymi partnerami. Są nimi wydawnictwa: <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a> i <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a>. Chyba nikomu nie musimy ich przedstawiać. Obydwie firmy zaproponowały bardzo ciekawą ofertę sponsorską. <!--more--></p>
 
@@ -520,7 +544,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[Nagranie z pierwszego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/04/03/nagranie-z-pierwszego-spotkania/"/>
-    <updated>2014-04-03T10:39:14+01:00</updated>
+    <updated>2014-04-03T11:39:14+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/03/nagranie-z-pierwszego-spotkania</id>
     <content type="html"><![CDATA[<p>Kilka minut temu na stronie <a href="http://tv.umk.pl/?id=2332" target="_blank">UMK TV</a> pojawiło się nagranie <a href="http://torun.jug.pl/news/2014/03/20/spotkanie-1/">pierwszego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
 
@@ -544,7 +568,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
   <entry>
     <title type="html"><![CDATA[Dwie firmy wspierające proces poprawiania jakości oprogramowania naszymi nowymi partnerami]]></title>
     <link href="http://torun.jug.pl/news/2014/04/03/nowi-partnerzy/"/>
-    <updated>2014-04-03T05:25:52+01:00</updated>
+    <updated>2014-04-03T06:25:52+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/03/nowi-partnerzy</id>
     <content type="html"><![CDATA[<p>Śpieszymy donieść, że właśnie pozyskaliśmy kolejnych sponsorów licencji do rozlosowania wśród osób uczestniczących w naszych spotkaniach. <!--more--></p>
 
@@ -624,43 +648,6 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 <p>Jeśli macie jakiekolwiek uwagi na temat przebiegu wczorajszego spotkania, to piszcie o tym w komentarzach.</p>
 
 <p>Do zobaczenia na następnym meetingu!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pierwsi sponsorzy!]]></title>
-    <link href="http://torun.jug.pl/news/2014/03/26/pierwsi-sponsorzy/"/>
-    <updated>2014-03-26T15:07:30+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/03/26/pierwsi-sponsorzy</id>
-    <content type="html"><![CDATA[<p>Mamy przyjemność zaanonsować, że pozyskaliśmy pierwszych sponsorów licencji dla naszej grupy. Pierwszym z nich jest:</p>
-
-<div class="row text-center">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://structure101.com" target="_blank" title="Structure101">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/structure101.png" alt="Structure101" style="padding-bottom: 25px;"/>
-    </a>
-  </div>
-</div>
-
-
-<p>Firma produkująca oprogramowanie do analizy, monitorowania i kontroli architektury projektu. Na każdym spotkaniu, jeden wylosowany szczęśliwiec otrzyma na własność licencje tego oprogramowania.</p>
-
-<p>Drugim sponsorem jest:</p>
-
-<div class="row text-center">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://jetbrains.com" target="_blank" title="JetBrains">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/jetbrains.gif" alt="JetBrains" style="width: 300px; padding-bottom: 10px;" />
-    </a>  
-  </div>
-</div>
-
-
-<p>Firma, której raczej nikomu nie trzeba przedstawiać. Również w tym przypadku będziemy mogli, na każdym spotkaniu, rozlosować jedną licencję oprogramowania IntelliJ IDEA produkowanego przez firmę JetBrains.</p>
-
-<h3>Uwaga!</h3>
-
-<p>Licencje będą losowane tylko wśród uczestników, którzy zarejestrują się na dane spotkanie na portal Meetup i będą na nim obecni. Zaczynamy od dziś! <a href="http://www.meetup.com/Torun-JUG/events/173040582/" target="_blank">Rejestrujcie się</a> i przybywajcie :)</p>
 ]]></content>
   </entry>
   

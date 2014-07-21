@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-07-08T20:18:14+02:00</updated>
+  <updated>2014-07-21T21:23:44+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nowy książkowy partner]]></title>
+    <link href="http://torun.jug.pl/news/2014/07/21/nowy-ksiazkowy-partner/"/>
+    <updated>2014-07-21T20:56:45+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/07/21/nowy-ksiazkowy-partner</id>
+    <content type="html"><![CDATA[<p>Z&nbsp;przyjemnością informujemy, że&nbsp;pozyskaliśmy nowego partnera dla naszej grupy. Na&nbsp;pokładzie witamy wydawnictwo <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a>!</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://www.packtpub.com" target="_blank" title="Packt Publishing">
+      <img class="no-border" src="/images/partners/packt-publishing-large.png" alt="Packt Publishing" />
+    </a>
+  </div>
+</div>
+
+
+<p>Dzięki uprzejmości nowego sponsora będziemy mogli wylosować dwa ebooki z&nbsp;katalogu Packt Publishing wśród uczestników każdego kolejnego spotkania.</p>
+
+<p>Możliwe jest również otrzymanie na&nbsp;własność kopii wybranego ebooka w&nbsp;zamian za&nbsp;jego recenzję. Więcej informacji na ten temat możecie znaleźć na naszej <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">grupie dyskusyjnej</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nowy profiler na pokładzie!]]></title>
@@ -94,28 +116,6 @@
     <content type="html"><![CDATA[<p>Uwaga, uwaga! Rozpoczynamy konkurs z&nbsp;nie lada niespodzianką &ndash; darmową wejściówką na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>! Wejściówka została przekazana nam przez organizatorów konferencji w&nbsp;ramach obustronnego partnerstwa.</p>
 
 <p>Szczegóły na temat konkursu znajdziecie na&nbsp;naszej <a href="https://groups.google.com/group/torunjug" target="_blank">grupie dyskusyjnej</a>. Gorąco zachęcamy do wzięcia udziału! Powodzenia :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[centeractive ag naszym nowym partnerem]]></title>
-    <link href="http://torun.jug.pl/news/2014/04/05/centeractive-ag-naszym-nowym-partnerem/"/>
-    <updated>2014-04-05T13:42:13+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/04/05/centeractive-ag-naszym-nowym-partnerem</id>
-    <content type="html"><![CDATA[<p>Właśnie otrzymaliśmy pozytywną odpowiedź od firmy <a href="http://www.centeractive.com" target="_blank">centeractive ag</a>, która zgodziła się zostać kolejnym sponsorem licencji swojego oprogramowania dla uczestników spotkań naszej grupy. <!-- more--></p>
-
-<div class="row text-center">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://www.centeractive.com" target="_blank" title="centeractive ag">
-      <img class="no-border" src="/images/partners/centeractive.jpg" alt="centeractive ag" />
-    </a>
-  </div>
-</div>
-
-
-<p>Firma centeractive ag umożliwi nam losowanie raz w miesiącu jednej licencji oprogramowania <a href="http://www.retrospective.centeractive.com" target="_blank">Retrospective</a> &ndash; kombajnu do przeglądania, zarządzania i analizy logów z różnego rodzaju serwerów, baz danych i innych źródeł na dowolnym z trzech wiodących systemów operacyjnych (Windows, Mac, Linux).</p>
-
-<p>Krótki spot prezentujący możliwości oprogramowania Retrospective możecie znaleźć w serwisie <a href="https://www.youtube.com/watch?v=1pJn8ZEHRTE" target="_blank">YouTube</a>.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-07-08T20:18:14+02:00</updated>
+  <updated>2014-07-21T21:23:44+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nowy książkowy partner]]></title>
+    <link href="http://torun.jug.pl/news/2014/07/21/nowy-ksiazkowy-partner/"/>
+    <updated>2014-07-21T20:56:45+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/07/21/nowy-ksiazkowy-partner</id>
+    <content type="html"><![CDATA[<p>Z&nbsp;przyjemnością informujemy, że&nbsp;pozyskaliśmy nowego partnera dla naszej grupy. Na&nbsp;pokładzie witamy wydawnictwo <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a>!</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://www.packtpub.com" target="_blank" title="Packt Publishing">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/packt-publishing-large.png" alt="Packt Publishing" />
+    </a>
+  </div>
+</div>
+
+
+<p>Dzięki uprzejmości nowego sponsora będziemy mogli wylosować dwa ebooki z&nbsp;katalogu Packt Publishing wśród uczestników każdego kolejnego spotkania.</p>
+
+<p>Możliwe jest również otrzymanie na&nbsp;własność kopii wybranego ebooka w&nbsp;zamian za&nbsp;jego recenzję. Więcej informacji na ten temat możecie znaleźć na naszej <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">grupie dyskusyjnej</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z czwartego spotkania]]></title>
@@ -599,55 +621,6 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 <p>CoderGears, wśród programistów języka Java, jest znana głównie z oprogramowania <a href="http://www.jarchitect.com" target="_blank">JArchitect</a> służącego do statycznej analizy kodu. Jest ono szczególnie pomocne gdy dążymy do podnoszenia jakości naszego kodu źródłowego. Dzięki uprzejmości firmy CoderGears będziemy mieli możliwość rozlosowania licencji narzędzia JArchitect wśród uczestników naszych spotkań.</p>
 
 <p>Jeśli chcecie wziąć udział w losowaniu tych licencji lub innych ciekawych upominków, to przypominamy, że będą one losowane tylko wśród osób, które zarejestrują się na odpowiednie wydarzenie na portalu <a href="http://www.meetup.com/Torun-JUG/" target="_blank">Meetup</a> i przyjdą na nasze spotkanie.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie pierwszego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2014/03/27/podsumowanie-pierwszego-spotkania/"/>
-    <updated>2014-03-27T11:33:31+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/03/27/podsumowanie-pierwszego-spotkania</id>
-    <content type="html"><![CDATA[<p>Dziękujemy wszystkim za tak liczne przybycie na wczorajsze spotkanie. Frekwencja przerosła nasze najśmielsze oczekiwania. Było nas w sumie około 70 osób!</p>
-
-<div class="row text-center">
-  <div class="col-md-12">
-    <img class="no-border" src="http://torun.jug.pl/images/meetings/1/meeting-1.jpg" alt="Zdjęcie na zakończenie pierwszego spotkania" style="margin-bottom: 10px;"/>
-  </div>
-</div>
-
-
-<p>Dzięki temu wiemy, że było warto. To Wy tworzycie tę grupę!</p>
-
-<!--more-->
-
-
-<p>Poniżej znajdują się odnośniki do materiałów z prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/1/ClassIndex_-_szybka_alternatywa_dla_skanowania_klas_by_Slawek_Piotrowski.pdf" target="_blank">
-      <em>ClassIndex – szybka alternatywa dla skanowania klas</em></a> (slajdy z prezentacji Sławka Piotrowskiego)
-  </li>
-  <li>
-    <a href="https://github.com/atteo/classindex" target="_blank">
-      Kod źródłowy biblioteki ClassIndex
-    </a>
-  </li>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/1/Wprowadzenie_do_wybranych_zagadnien_JDK_8_by_Szymon_Stepniak.pdf" target="_blank">
-      <em>Wprowadzenie do wybranych zagadnień JDK 8</em></a> (slajdy z prezentacji Szymona Stępniaka)
-  </li>
-  <li>
-    <a href="https://github.com/wololock/jdk8-demo" target="_blank">
-      Kod źródłowy z prezentacji Szymona
-    </a>
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na temat przebiegu wczorajszego spotkania, to piszcie o tym w komentarzach.</p>
-
-<p>Do zobaczenia na następnym meetingu!</p>
 ]]></content>
   </entry>
   

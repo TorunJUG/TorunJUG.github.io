@@ -66,19 +66,24 @@ footer: false
 
 ### Książki sponsorują
 <div class="row" style="margin-bottom: 10px;">
-  <div class="col-tn-12 col-xs-4 col-sm-3 col-md-3">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
     <a class="no-text-decoration" href="http://www.manning.com" target="_blank" title="Manning Publications Co.">
-      <img class="no-border" src="{{ root_url }}/images/partners/manning.jpg" alt="Manning Publications Co." style="margin-bottom: 15px;" />
+      <img class="no-border" src="{{ root_url }}/images/partners/manning.jpg" alt="Manning Publications Co." />
     </a>
   </div>
-  <div class="col-tn-12 col-xs-6 col-sm-4 col-md-4">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
     <a class="no-text-decoration" href="http://oreilly.com" target="_blank" title="O'Reilly Media">
-      <img class="no-border" src="{{ root_url }}/images/partners/oreilly.gif" alt="O'Reilly Media" style="margin-bottom: 15px;" />
+      <img class="no-border" src="{{ root_url }}/images/partners/oreilly.gif" alt="O'Reilly Media" />
     </a>
   </div>
-  <div class="col-tn-12 col-xs-4 col-sm-3 col-md-3">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
     <a class="no-text-decoration" href="http://practicalunittesting.com" target="_blank" title="Tomek Kaczanowski - Practical Unit Testing">
       <img class="no-border" src="{{ root_url }}/images/partners/practical_unit_testing.jpg" alt="Tomek Kaczanowski - Practical Unit Testing" />
+    </a>
+  </div>
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
+    <a class="no-text-decoration" href="http://www.packtpub.com" target="_blank" title="Packt Publishing">
+      <img class="no-border" src="{{ root_url }}/images/partners/packt-publishing.png" alt="Packt Publishing" />
     </a>
   </div>
 </div>

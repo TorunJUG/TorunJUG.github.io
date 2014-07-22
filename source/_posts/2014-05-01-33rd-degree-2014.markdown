@@ -5,7 +5,7 @@ description: "Czwarta edycja konferencji 33rd Degree już 9 czerwca w Krakowie."
 cover: "/images/partners/33rdDegree.png"
 date: 2014-05-01 15:12:54 +0200
 comments: true
-categories: Partnerzy
+categories: [Partnerzy, Konferencje]
 ---
 Za niedużo ponad miesiąc (w dniach 9-11 czerwca) odbędzie się kolejna (czwarta) edycja konferencji <a href="http://2014.33degree.org" target="_blank">33rd Degree</a>. W&nbsp;tym roku konferencja wraca do Krakowa. Bardzo gorąco zachęcamy do udziału w&nbsp;tym wydarzeniu. Wszystkie poprzednie edycje stały na&nbsp;najwyższym poziomie.
 

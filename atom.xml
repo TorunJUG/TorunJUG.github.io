@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-07-21T21:23:44+02:00</updated>
+  <updated>2014-07-23T06:03:18+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: Mobilization^4]]></title>
+    <link href="http://torun.jug.pl/news/2014/07/23/zapowiedz-konferencji-mobilization-4/"/>
+    <updated>2014-07-23T05:14:46+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/07/23/zapowiedz-konferencji-mobilization-4</id>
+    <content type="html"><![CDATA[<p>18-go października odbędzie się czwarta edycja konferencji <a href="http://www.mobilization.pl" target="_blank">Mobilization</a>. Wydarzenie jest organizowane przez <a href="http://www.juglodz.pl" target="_blank">Java User Group Łódź</a> i&nbsp;będzie miało miejsce w&nbsp;Łodzi, przy alei Politechniki 4, w&nbsp;budynku Centrum Konferencyjno-Wystawienniczego Międzynarodowych Targów Łódzkich.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://www.mobilization.pl" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/mobilization4.png" alt="Mobilization^4" />
+    </a>
+  </div>
+</div>
+
+
+<p>Mobilization to największa w&nbsp;Polsce, darmowa konferencja poświęcona w&nbsp;całości tematyce urządzeń mobilnych. Poprzednie edycje stały na bardzo wysokim poziomie, warto więc zarezerwować sobie czas 18-go października i&nbsp;wybrać się na to wydarzenie.</p>
+
+<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://www.mobilization.pl" target="_blank">mobilization.pl</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nowy książkowy partner]]></title>
@@ -584,43 +606,6 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 <p>Serdeczne podziękowania dla Pawła Wojdyło i całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dwie firmy wspierające proces poprawiania jakości oprogramowania naszymi nowymi partnerami]]></title>
-    <link href="http://torun.jug.pl/news/2014/04/03/nowi-partnerzy/"/>
-    <updated>2014-04-03T06:25:52+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/04/03/nowi-partnerzy</id>
-    <content type="html"><![CDATA[<p>Śpieszymy donieść, że właśnie pozyskaliśmy kolejnych sponsorów licencji do rozlosowania wśród osób uczestniczących w naszych spotkaniach. <!--more--></p>
-
-<p>W gronie naszych partnerów witamy:</p>
-
-<div class="row text-center">
-  <div class="col-xs-12">
-    <a class="no-text-decoration" href="https://www.ej-technologies.com" target="_blank" title="ej-technologies">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/ej-technologies.png" alt="ej-technologies" style="width: 400px; padding-bottom: 10px;" />
-    </a>  
-  </div>
-</div>
-
-
-<p>Firma, która znana jest przede wszystkim z oprogramowania <a href="http://www.ej-technologies.com/products/jprofiler/overview.html" target="_blank">JProfiler</a> służącego do dynamicznej analizy programów opartych o JVM. Przy jego pomocy możemy zbadać m.in. wykorzystanie pamięci programu lub częstotliwość wywoływania i czas wykonywania poszczególnych funkcji. Dzięki uprzejmości firmy ej-technologies będziemy mogli wylosować co miesiąc jednego szczęśliwca, który otrzyma właśnie licencję oprogramowania JProfiler.</p>
-
-<p>Witamy również firmę:</p>
-
-<div class="row text-center">
-  <div class="col-xs-12">
-    <a class="no-text-decoration" href="http://www.jarchitect.com" target="_blank" title="CoderGears">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/codergears.png" alt="CoderGears" style="width: 200px; padding-bottom: 10px;" />
-    </a>  
-  </div>
-</div>
-
-
-<p>CoderGears, wśród programistów języka Java, jest znana głównie z oprogramowania <a href="http://www.jarchitect.com" target="_blank">JArchitect</a> służącego do statycznej analizy kodu. Jest ono szczególnie pomocne gdy dążymy do podnoszenia jakości naszego kodu źródłowego. Dzięki uprzejmości firmy CoderGears będziemy mieli możliwość rozlosowania licencji narzędzia JArchitect wśród uczestników naszych spotkań.</p>
-
-<p>Jeśli chcecie wziąć udział w losowaniu tych licencji lub innych ciekawych upominków, to przypominamy, że będą one losowane tylko wśród osób, które zarejestrują się na odpowiednie wydarzenie na portalu <a href="http://www.meetup.com/Torun-JUG/" target="_blank">Meetup</a> i przyjdą na nasze spotkanie.</p>
 ]]></content>
   </entry>
   

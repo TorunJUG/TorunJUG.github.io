@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
-  <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
+  <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
+  <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
   <updated>2014-07-23T06:03:18+02:00</updated>
   <id>http://torun.jug.pl/</id>
@@ -32,48 +32,6 @@
 <p>Mobilization to największa w&nbsp;Polsce, darmowa konferencja poświęcona w&nbsp;całości tematyce urządzeń mobilnych. Poprzednie edycje stały na bardzo wysokim poziomie, warto więc zarezerwować sobie czas 18-go października i&nbsp;wybrać się na to wydarzenie.</p>
 
 <p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://www.mobilization.pl" target="_blank">mobilization.pl</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nowy książkowy partner]]></title>
-    <link href="http://torun.jug.pl/news/2014/07/21/nowy-ksiazkowy-partner/"/>
-    <updated>2014-07-21T20:56:45+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/07/21/nowy-ksiazkowy-partner</id>
-    <content type="html"><![CDATA[<p>Z&nbsp;przyjemnością informujemy, że&nbsp;pozyskaliśmy nowego partnera dla naszej grupy. Na&nbsp;pokładzie witamy wydawnictwo <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a>!</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://www.packtpub.com" target="_blank" title="Packt Publishing">
-      <img class="no-border" src="/images/partners/packt-publishing-large.png" alt="Packt Publishing" />
-    </a>
-  </div>
-</div>
-
-
-<p>Dzięki uprzejmości nowego sponsora będziemy mogli wylosować dwa ebooki z&nbsp;katalogu Packt Publishing wśród uczestników każdego kolejnego spotkania.</p>
-
-<p>Możliwe jest również otrzymanie na&nbsp;własność kopii wybranego ebooka w&nbsp;zamian za&nbsp;jego recenzję. Więcej informacji na ten temat możecie znaleźć na naszej <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">grupie dyskusyjnej</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nowy profiler na pokładzie!]]></title>
-    <link href="http://torun.jug.pl/news/2014/05/03/nowy-profiler-na-pokladzie/"/>
-    <updated>2014-05-03T11:38:33+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/05/03/nowy-profiler-na-pokladzie</id>
-    <content type="html"><![CDATA[<p>Jest nam bardzo miło poinformować, że&nbsp;kolejna firma zgodziła się zostać partnerem naszej grupy. <!-- more --></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://www.yourkit.com" target="_blank" title="YourKit">
-      <img class="no-border" src="/images/partners/yourkit_logo2.png" alt="YourKit" />
-    </a>
-  </div>
-</div>
-
-
-<p>Firma <a href="http://www.yourkit.com" target="_blank">YourKit</a>, bo o&nbsp;niej mowa, zajmuje się wytwarzaniem oprogramowania służącego do profilowania aplikacji opartych o&nbsp;platformę .NET oraz JVM. YourKit, w&nbsp;ramach partnerstwa umożliwi nam losowanie jednej licencji oprogramowania <a href="http://www.yourkit.com/overview/" target="_blank">YourKit Java Profiler</a> na&nbsp;każdym naszym spotkaniu.</p>
 ]]></content>
   </entry>
   
@@ -127,6 +85,17 @@
 
 
 <p>Zwycięzcy gratulujemy i&nbsp;życzymy owocnej konferencji!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Darmowa wejściówka na&nbsp;tegoroczny GeeCON do&nbsp;wygrania!]]></title>
+    <link href="http://torun.jug.pl/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania/"/>
+    <updated>2014-04-09T06:20:36+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania</id>
+    <content type="html"><![CDATA[<p>Uwaga, uwaga! Rozpoczynamy konkurs z&nbsp;nie lada niespodzianką &ndash; darmową wejściówką na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>! Wejściówka została przekazana nam przez organizatorów konferencji w&nbsp;ramach obustronnego partnerstwa.</p>
+
+<p>Szczegóły na temat konkursu znajdziecie na&nbsp;naszej <a href="https://groups.google.com/group/torunjug" target="_blank">grupie dyskusyjnej</a>. Gorąco zachęcamy do wzięcia udziału! Powodzenia :)</p>
 ]]></content>
   </entry>
   

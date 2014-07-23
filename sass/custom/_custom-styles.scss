@@ -63,10 +63,20 @@ body {
   .panel-body {
     text-align: center;
     padding: 0px;
-    .recommended {
+    @media (min-width: 350px) {
       padding: 0px 5px 5px 5px;
+    }
+    @media (min-width: $screen-md) {
+      padding: 0px;
+    }
+    .recommended {
       img {
-        padding-top: 5px;
+        @media (min-width: 350px) {
+          padding-top: 5px;
+        }
+        @media (min-width: $screen-md) {
+          padding: 0px;
+        }
         max-width: 100%;
       }
     }

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-07-23T22:22:49+02:00</updated>
+  <updated>2014-07-24T06:18:58+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: Warsjawa 2014]]></title>
+    <link href="http://torun.jug.pl/news/2014/07/24/zapowiedz-konferencji-warsjawa-2014/"/>
+    <updated>2014-07-24T05:19:47+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/07/24/zapowiedz-konferencji-warsjawa-2014</id>
+    <content type="html"><![CDATA[<p>W&nbsp;dniach 26-27 września odbędzie się siódma edycja konferencji <a href="http://warsjawa.pl" target="_blank">Warsjawa</a>. Wydarzenie organizowane jest przez <a href="http://warszawa.jug.pl" target="_blank">Warszawa Java User Group</a> i&nbsp;będzie miało miejsce w&nbsp;Warszawie, przy ulicy Stefana Banacha 2, na wydziale Matematyki, Informatyki i&nbsp;Mechaniki Uniwersytetu Warszawskiego.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://www.warsjawa.pl" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/warsjawa.png" alt="Warsjawa" />
+    </a>
+  </div>
+</div>
+
+
+<p>Warsjawa to konferencja skoncentrowana wokół technologii związanych z&nbsp;językiem Java i&nbsp;platformą JVM (Scala, Groovy), ale pozostaje otwarta również na inne obszary technologii informacyjnych oraz tematy miękkie. Tegoroczna edycja po raz pierwszy będzie trwała dwa dni i&nbsp;jak zwykle będzie darmowa dla wszystkich uczestników.</p>
+
+<p>Od sześciu lat pomaga programistom rozwijać i&nbsp;doskonalić umiejętności pod okiem doświadczonych mentorów. Od trzech lat utrzymywana jest formuła &ldquo;100% warsztatów&rdquo;. Zeszłoroczna, szósta edycja była największą z&nbsp;dotychczasowych i&nbsp;zgromadziła ponad 550 uczestników z&nbsp;całej Polski, którzy ćwiczyli swoje umiejętności w&nbsp;ramach 23 równoległych ścieżek.</p>
+
+<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://warsjawa.pl" target="_blank">warsjawa.pl</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: Mobilization^4]]></title>
@@ -582,30 +606,6 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 <h3>Piszesz recenzje? Skorzystaj z oferty!</h3>
 
 <p>Jeśli pisałeś kiedyś, piszesz lub dopiero zamierzasz zabrać się za pisanie recenzji książek, skorzystaj z oferty naszych partnerów. Wystarczy, że dołączysz do naszej <a href="https://groups.google.com/group/torunjug" target="_blank">grupy dyskusyjnej</a>. Tam znajdziesz odpowiedni wątek, który dostarczy wszystkich niezbędnych informacji na ten temat.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z pierwszego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2014/04/03/nagranie-z-pierwszego-spotkania/"/>
-    <updated>2014-04-03T11:39:14+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/04/03/nagranie-z-pierwszego-spotkania</id>
-    <content type="html"><![CDATA[<p>Kilka minut temu na stronie <a href="http://tv.umk.pl/?id=2332" target="_blank">UMK TV</a> pojawiło się nagranie <a href="http://torun.jug.pl/news/2014/03/20/spotkanie-1/">pierwszego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=2332&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-07-23T22:22:49+02:00</updated>
+  <updated>2014-07-24T06:18:58+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: Warsjawa 2014]]></title>
+    <link href="http://torun.jug.pl/news/2014/07/24/zapowiedz-konferencji-warsjawa-2014/"/>
+    <updated>2014-07-24T05:19:47+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/07/24/zapowiedz-konferencji-warsjawa-2014</id>
+    <content type="html"><![CDATA[<p>W&nbsp;dniach 26-27 września odbędzie się siódma edycja konferencji <a href="http://warsjawa.pl" target="_blank">Warsjawa</a>. Wydarzenie organizowane jest przez <a href="http://warszawa.jug.pl" target="_blank">Warszawa Java User Group</a> i&nbsp;będzie miało miejsce w&nbsp;Warszawie, przy ulicy Stefana Banacha 2, na wydziale Matematyki, Informatyki i&nbsp;Mechaniki Uniwersytetu Warszawskiego.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://www.warsjawa.pl" target="_blank">
+      <img class="no-border" src="/images/partners/warsjawa.png" alt="Warsjawa" />
+    </a>
+  </div>
+</div>
+
+
+<p>Warsjawa to konferencja skoncentrowana wokół technologii związanych z&nbsp;językiem Java i&nbsp;platformą JVM (Scala, Groovy), ale pozostaje otwarta również na inne obszary technologii informacyjnych oraz tematy miękkie. Tegoroczna edycja po raz pierwszy będzie trwała dwa dni i&nbsp;jak zwykle będzie darmowa dla wszystkich uczestników.</p>
+
+<p>Od sześciu lat pomaga programistom rozwijać i&nbsp;doskonalić umiejętności pod okiem doświadczonych mentorów. Od trzech lat utrzymywana jest formuła &ldquo;100% warsztatów&rdquo;. Zeszłoroczna, szósta edycja była największą z&nbsp;dotychczasowych i&nbsp;zgromadziła ponad 550 uczestników z&nbsp;całej Polski, którzy ćwiczyli swoje umiejętności w&nbsp;ramach 23 równoległych ścieżek.</p>
+
+<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://warsjawa.pl" target="_blank">warsjawa.pl</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: Mobilization^4]]></title>
@@ -109,24 +133,6 @@
 <p><a href="http://www.dworld.pl/page/show/Grzegorz_Duda/" target="_blank">Grzegorz Duda</a></p>
 </blockquote>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[GeeCON 2014 - wyniki konkursu]]></title>
-    <link href="http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu/"/>
-    <updated>2014-04-16T08:36:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu</id>
-    <content type="html"><![CDATA[<p>Poniżej zamieszczamy nagranie z&nbsp;rozstrzygnięcia <a href="/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania/">konkursu</a>, w&nbsp;którym do&nbsp;wygrania była darmowa wejściówka na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <iframe width="640" height="360" src="//www.youtube.com/embed/27iR4BZsZjc?rel=0" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
-
-
-<p>Zwycięzcy gratulujemy i&nbsp;życzymy owocnej konferencji!</p>
 ]]></content>
   </entry>
   

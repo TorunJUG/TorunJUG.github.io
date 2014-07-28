@@ -90,10 +90,15 @@ body {
   }
 }
 
-.speaker-face {
+.speaker-face, .reviewer-face {
   float: left;
   height: 100px;
   width: 100px;
+  margin-right: 15px;
+}
+
+.book-cover {
+  float: left;
   margin-right: 15px;
 }
 

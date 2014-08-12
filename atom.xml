@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-07-28T21:35:50+02:00</updated>
+  <updated>2014-08-12T16:34:43+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,67 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Recenzja książki: BDD in Action]]></title>
+    <link href="http://torun.jug.pl/news/2014/08/12/recenzja-ksiazki-bdd-in-action/"/>
+    <updated>2014-08-12T16:26:19+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/08/12/recenzja-ksiazki-bdd-in-action</id>
+    <content type="html"><![CDATA[<p><strong>Tadeusz Zalewski</strong> jest kolejnym śmiałkiem, który odważył się napisać recenzję książki w&nbsp;zamian za jej darmowy egzemplarz. Wybór padł na <em>BDD in Action: Behavior-Driven Development for the whole software lifecycle</em> autorstwa Johna Fergusona Smarta.</p>
+
+<!--more-->
+
+
+<h3>Książka</h3>
+
+<p><img class="no-border book-cover" src="http://torun.jug.pl/images/reviews/books/bdd-in-action.jpg" />
+<strong><em>BDD in Action: Behavior-Driven Development for the whole software lifecycle</em></strong></p>
+
+<p>Behavior-Driven Development starts with a&nbsp;simple idea: you can&rsquo;t write good software if you don&rsquo;t understand what it&rsquo;s supposed to do. BDD is a&nbsp;development process that helps you design better code by writing tests that describe the behavior of an&nbsp;application and its underlying requirements. With an&nbsp;emerging body of best practices with sophisticated new tools that assist in requirement analysis and test automation, BDD has become a&nbsp;hot, increasingly mainstream, approach. Done well, it helps you deliver higher quality software that creates business genuine value.</p>
+
+<p><a href="http://www.manning.com/smart/" target="_blank"><em>BDD in Action</em></a> teaches you the Behavior-Driven Development model and shows you how to integrate it into your existing development process. First you&rsquo;ll learn how to apply BDD to requirements analysis to define features that focus your development efforts on underlying business goals. Then, you&rsquo;ll discover how to automate acceptance criteria and use tests to guide and report on the development process. Along the way, you&rsquo;ll apply BDD principles at the coding level to write more maintainable and better documented code.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Autor</h3>
+
+<p><strong>John Ferguson Smart</strong> is a&nbsp;specialist in BDD, automated testing, and software life cycle development optimization. A&nbsp;well-known speaker and writer, John is the author of <em>Java Power Tools</em> and <em>Jenkins: The Definitive Guide</em>.</p>
+
+<h3>Recenzja</h3>
+
+<blockquote>
+  <p>This book is exactly what I have been looking for since I was interested in BDD. It describes the whole process of BDD from business part of organization to IT part. It describes you not only &#8220;how to build software right&#8221; but also &#8220;how to build right software&#8221;. The book has a&nbsp;lot of examples for Java, .NET, JS, Groovy practitioners.</p>
+  <p>In first two chapters author introduces BDD with some theories and gives us snapshot project which present what we can achieve. He usees JBehave, Thucydides and Spock.</p>
+  <p>Next three chapters could be quite difficult for developers because they don&#8217;t contain any source code. They treat about &#8220;how to build right software&#8221;, in practice how to transform business goals into user stories. You can learn few techniques how to talk with business as a&nbsp;developer to extract software requirements and prepare foundations for your application.</p>
+  <p>Next four chapters are about automation scenarios from above chapters. You can learn few tools:
+    <ul>
+      <li>JBehave, Cucumber for Java,</li>
+      <li>Behave for Python,</li>
+      <li>SpecFlow for .NET,</li>
+      <li>Cucumber-JS for JavaScript</li>
+    </ul>
+  which help you to do this. You also will learn how to improve test automation, how to test UI layer using Selenium WebDriver and how to write acceptance tests for non-UI requirements, ie. RESTful API.
+  Then we go to the lowest level – BDD in unit testing. This four chapters are most interesting for developers because we can learn a&nbsp;lot of techniques which help us &#8220;build software right&#8221;. There are also a&nbsp;lot of examples of code and tools ie. FEST-Assert (why not AssertJ), Jasmine, RSpec, parametrized testing in JUnit. But there is nothing about negative cases testing or exception testing (ie. catch-exception library has BDD support).</p>
+  <p>First of the last two chapters treats about using automated tests as living documentation and support developing process management. Author uses Thucydides and Cucumber Report in examples.</p>
+  <p>The last one teaches us how to place BDD in continuous delivery process and how to obtain functionality and performance using Jenkins and Selenium Grid.</p>
+  <p>Rating: 5/5</p>
+</blockquote>
+
+
+<h3>Recenzent</h3>
+
+<p><img class="no-border reviewer-face" src="http://torun.jug.pl/images/reviews/reviewers/zalewski-tadeusz.jpg" />
+<strong>Tadeusz Zalewski</strong></p>
+
+<p>Programista i&nbsp;projektant w&nbsp;Agora S.A. Obecnie rozwija się w&nbsp;obszarach takich jak BDD oraz DDD w&nbsp;celu poprawy jakości relacji biznes&nbsp;&lt;=>&nbsp;IT w&nbsp;procesie wytwarzania oprogramowania.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Szukamy kolejnych odważnych</h3>
+
+<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy na odpowiedni <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątek na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O’Reilly Media</a> i <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Functional Programming in Java]]></title>
@@ -54,7 +115,9 @@
 <h3>Recenzent</h3>
 
 <p><img class="no-border reviewer-face" src="http://torun.jug.pl/images/reviews/reviewers/jastak-michal.jpg" />
-<strong>Michał Jaśtak</strong> to programista Java z&nbsp;wieloletnim doświadczeniem, pracujący obecnie na stanowisku CTO w&nbsp;firmie AIS.PL. W&nbsp;wolnych chwilach dzieli się własnymi spostrzeżeniami na swoim blogu (<a href="http://vard-lokkur.blogspot.com" target="_blank">Warlock&rsquo;s Thoughts</a>) oraz Twitterze (<a href="https://twitter.com/vardlokkur" target="_blank">@vardlokkur</a>). Prywatnie &ndash; fan <a href="http://eu.battle.net/sc2/pl/profile/933084/1/Anakin/" target="_blank">Protossów</a> ;)</p>
+<strong>Michał Jaśtak</strong></p>
+
+<p>Programista Java z&nbsp;wieloletnim doświadczeniem, pracujący obecnie na stanowisku CTO w&nbsp;firmie AIS.PL. W&nbsp;wolnych chwilach dzieli się własnymi spostrzeżeniami na swoim blogu (<a href="http://vard-lokkur.blogspot.com" target="_blank">Warlock&rsquo;s Thoughts</a>) oraz Twitterze (<a href="https://twitter.com/vardlokkur" target="_blank">@vardlokkur</a>). Prywatnie &ndash; fan <a href="http://eu.battle.net/sc2/pl/profile/933084/1/Anakin/" target="_blank">Protossów</a> ;)</p>
 
 <p><span class="clearfix"></span></p>
 
@@ -597,28 +660,6 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
     <updated>2014-04-06T09:02:13+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/06/subskrybuj-nasz-kanal-youtube</id>
     <content type="html"><![CDATA[<p>Jak już <a href="http://torun.jug.pl/news/2014/04/03/nagranie-z-pierwszego-spotkania/">wcześniej wspomnieliśmy</a> prezentacje z naszego pierwszego spotkania zostały wrzucone również na nasz świeżo utworzony <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanał YouTube</a>. Dodajcie go do subskrybowanych, dzięki czemu będziecie mogli zawsze w łatwy sposób wrócić do prezentowanych tematów na naszych wcześniejszych spotkaniach.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[centeractive ag naszym nowym partnerem]]></title>
-    <link href="http://torun.jug.pl/news/2014/04/05/centeractive-ag-naszym-nowym-partnerem/"/>
-    <updated>2014-04-05T13:42:13+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/04/05/centeractive-ag-naszym-nowym-partnerem</id>
-    <content type="html"><![CDATA[<p>Właśnie otrzymaliśmy pozytywną odpowiedź od firmy <a href="http://www.centeractive.com" target="_blank">centeractive ag</a>, która zgodziła się zostać kolejnym sponsorem licencji swojego oprogramowania dla uczestników spotkań naszej grupy. <!-- more--></p>
-
-<div class="row text-center">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://www.centeractive.com" target="_blank" title="centeractive ag">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/centeractive.jpg" alt="centeractive ag" />
-    </a>
-  </div>
-</div>
-
-
-<p>Firma centeractive ag umożliwi nam losowanie raz w miesiącu jednej licencji oprogramowania <a href="http://www.retrospective.centeractive.com" target="_blank">Retrospective</a> &ndash; kombajnu do przeglądania, zarządzania i analizy logów z różnego rodzaju serwerów, baz danych i innych źródeł na dowolnym z trzech wiodących systemów operacyjnych (Windows, Mac, Linux).</p>
-
-<p>Krótki spot prezentujący możliwości oprogramowania Retrospective możecie znaleźć w serwisie <a href="https://www.youtube.com/watch?v=1pJn8ZEHRTE" target="_blank">YouTube</a>.</p>
 ]]></content>
   </entry>
   

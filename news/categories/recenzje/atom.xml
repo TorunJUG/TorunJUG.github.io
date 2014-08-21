@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Recenzje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/recenzje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-08-19T14:41:18+02:00</updated>
+  <updated>2014-08-21T11:23:48+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -25,7 +25,7 @@
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="/images/reviews/books/bdd-in-action.jpg" />
+<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/bdd-in-action.jpg" />
 <strong><em>BDD in Action: Behavior-Driven Development for the whole software lifecycle</em></strong></p>
 
 <p>Behavior-Driven Development starts with a&nbsp;simple idea: you can&rsquo;t write good software if you don&rsquo;t understand what it&rsquo;s supposed to do. BDD is a&nbsp;development process that helps you design better code by writing tests that describe the behavior of an&nbsp;application and its underlying requirements. With an&nbsp;emerging body of best practices with sophisticated new tools that assist in requirement analysis and test automation, BDD has become a&nbsp;hot, increasingly mainstream, approach. Done well, it helps you deliver higher quality software that creates business genuine value.</p>
@@ -61,7 +61,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/zalewski-tadeusz.jpg" />
+<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/zalewski-tadeusz.jpg" />
 <strong>Tadeusz Zalewski</strong></p>
 
 <p>Programista i&nbsp;projektant w&nbsp;Agora S.A. Obecnie rozwija się w&nbsp;obszarach takich jak BDD oraz DDD w&nbsp;celu poprawy jakości relacji biznes&nbsp;&lt;=>&nbsp;IT w&nbsp;procesie wytwarzania oprogramowania.</p>
@@ -88,7 +88,7 @@
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="/images/reviews/books/functional-programming-in-java.jpg" />
+<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/functional-programming-in-java.jpg" />
 <strong><em>Functional Programming in Java: Harnessing the Power of Java&nbsp;8 Lambda Expressions</em></strong></p>
 
 <p>Get ready to program in a&nbsp;whole new way. <a href="http://pragprog.com/book/vsjava8/functional-programming-in-java" target="_blank"><em>Functional Programming in&nbsp;Java</em></a> will help you quickly get on top of the new, essential Java&nbsp;8 language features and the functional style that will change and improve your code. This short, targeted book will help you make the paradigm shift from the old imperative way to a&nbsp;less error-prone, more elegant, and concise coding style that&rsquo;s also a&nbsp;breeze to parallelize. You&rsquo;ll explore the syntax and semantics of&nbsp;lambda expressions, method and constructor references, and functional interfaces. You&rsquo;ll design and write applications better using the new standards in Java&nbsp;8 and the JDK.</p>
@@ -114,7 +114,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/jastak-michal.jpg" />
+<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/jastak-michal.jpg" />
 <strong>Michał Jaśtak</strong></p>
 
 <p>Programista Java z&nbsp;wieloletnim doświadczeniem, pracujący obecnie na stanowisku CTO w&nbsp;firmie AIS.PL. W&nbsp;wolnych chwilach dzieli się własnymi spostrzeżeniami na swoim blogu (<a href="http://vard-lokkur.blogspot.com" target="_blank">Warlock&rsquo;s Thoughts</a>) oraz Twitterze (<a href="https://twitter.com/vardlokkur" target="_blank">@vardlokkur</a>). Prywatnie &ndash; fan <a href="http://eu.battle.net/sc2/pl/profile/933084/1/Anakin/" target="_blank">Protossów</a> ;)</p>
@@ -123,7 +123,7 @@
 
 <h3>Szukamy kolejnych odważnych</h3>
 
-<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy na odpowiedni <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątek na naszej grupie dyskusyjnej</a>. Dzięki <a href="/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O'Reilly Media</a> i <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
+<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy na odpowiedni <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątek na naszej grupie dyskusyjnej</a>. Dzięki <a href="{{ root_url }}/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O'Reilly Media</a> i <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-08-21T11:23:48+02:00</updated>
+  <updated>2014-08-21T11:32:03+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -23,7 +23,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://www.warsjawa.pl" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/warsjawa.png" alt="Warsjawa" />
+      <img class="no-border" src="/images/partners/warsjawa.png" alt="Warsjawa" />
     </a>
   </div>
 </div>
@@ -47,7 +47,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://www.mobilization.pl" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/mobilization4.png" alt="Mobilization^4" />
+      <img class="no-border" src="/images/partners/mobilization4.png" alt="Mobilization^4" />
     </a>
   </div>
 </div>
@@ -69,7 +69,7 @@
 <div class="row text-center">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://33degree.org" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/33rdDegree.png" alt="33rd Degree Conference" />
+      <img class="no-border" src="/images/partners/33rdDegree.png" alt="33rd Degree Conference" />
     </a>
   </div>
 </div>
@@ -99,7 +99,7 @@
     <link href="http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu/"/>
     <updated>2014-04-16T08:36:00+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu</id>
-    <content type="html"><![CDATA[<p>Poniżej zamieszczamy nagranie z&nbsp;rozstrzygnięcia <a href="{{ root_url }}/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania/">konkursu</a>, w&nbsp;którym do&nbsp;wygrania była darmowa wejściówka na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>.</p>
+    <content type="html"><![CDATA[<p>Poniżej zamieszczamy nagranie z&nbsp;rozstrzygnięcia <a href="/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania/">konkursu</a>, w&nbsp;którym do&nbsp;wygrania była darmowa wejściówka na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">

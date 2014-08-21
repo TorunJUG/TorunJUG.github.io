@@ -19,4 +19,4 @@ Ze względu na niezbyt długi czas trwania hackathonów warto jest się wstępni
   <li><a href="http://sendgrid.com/blog/prepare-hackathon/" target="_blank">How You Can Prepare for a&nbsp;Hackathon</a></li>
 </ul>
 
-Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> - na Wasze zgłoszenia czekamy do 31 sierpnia. Nie czekaj, zarejestruj się już teraz!
+Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> - **na Wasze zgłoszenia czekamy do 31 sierpnia**. Nie zwlekaj, zarejestruj się już teraz!

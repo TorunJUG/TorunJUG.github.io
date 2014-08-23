@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-08-21T11:33:38+02:00</updated>
+  <updated>2014-08-23T12:59:36+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[[Hackathorn #1] Exea Smart Space]]></title>
+    <link href="http://torun.jug.pl/news/2014/08/23/hackathorn-1-exea-smart-space/"/>
+    <updated>2014-08-23T12:58:16+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/08/23/hackathorn-1-exea-smart-space</id>
+    <content type="html"><![CDATA[<p><a href="http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Hackathorn #1</a> to pierwszy (i&nbsp;zapewne nie ostatni) event organizowany wspólnie z&nbsp;<a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, toruńską firmą zapewniającą przestrzeń dla startupów. Smart zapewni świetną miejscówkę do kodowania, Wi-Fi, napoje energetyczne i&nbsp;cieplutką pizzę na obiad. Jedyne o co musicie zadbać sami, to laptop dla siebie. Więcej na temat naszego partnera i&nbsp;ludzi, którzy go tworzą znajdziecie na <a href="http://smart.exea.pl" target="_blank">smart.exea.pl</a>.</p>
+
+<div class="row text-center" style="margin-bottom: 10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://smart.exea.pl" target="_blank" title="Exea Smart Space">
+        <img class="no-border" src="http://torun.jug.pl/images/hackathons/1/exea-smart-space.png" alt="Exea Smart Space" />
+    </a>
+  </div>
+</div>
+
+
+<p>Exea Smart Space znajduje się w&nbsp;budynku C w&nbsp;Toruńskim Parku Technologicznym przy <a href="https://www.google.pl/maps/place/Włocławska+167,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ulicy Włocławskiej 167</a>. Na terenie Parku tuż przy budynku inkubatora znajduje się przestronny parking oraz stojaki na rowery. Zwolennicy komunikacji miejskiej dojadą tu jedną z&nbsp;trzech linii: 11, 19 lub 38 (przystanek &ldquo;Włocławska&rdquo;). Podróż z&nbsp;Placu Rapackiego zajmuje 15 minut. Polecamy sprawdzić trasę za pomocą aplikacji <a href="http://torun.jakdojade.pl" target="_blank">jakdojade.pl</a>.</p>
+
+<p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[[Hackathorn #1] Idea hackathonów]]></title>
@@ -668,59 +690,6 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
     <content type="html"><![CDATA[<p>Uwaga, uwaga! Rozpoczynamy konkurs z&nbsp;nie lada niespodzianką &ndash; darmową wejściówką na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>! Wejściówka została przekazana nam przez organizatorów konferencji w&nbsp;ramach obustronnego partnerstwa.</p>
 
 <p>Szczegóły na temat konkursu znajdziecie na&nbsp;naszej <a href="https://groups.google.com/group/torunjug" target="_blank">grupie dyskusyjnej</a>. Gorąco zachęcamy do wzięcia udziału! Powodzenia :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #2 [2014-04-23]]]></title>
-    <link href="http://torun.jug.pl/news/2014/04/08/spotkanie-2/"/>
-    <updated>2014-04-08T15:01:22+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/04/08/spotkanie-2</id>
-    <content type="html"><![CDATA[<p>Drugie spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 23 kwietnia 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
-
-<p>Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/175597572/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/1402971459975866/" target="_blank">Facebook</a>.</p>
-
-<p>Gorąca prośba do wszystkich, którzy muszą opuścić spotkanie przed czasem o&nbsp;zajmowanie miejsc w&nbsp;pobliży wyjścia, żeby zbytnio nie rozpraszać prelegentów i&nbsp;innych słuchaczy.</p>
-
-<p>Po spotkaniu zapraszamy na małe <a href="https://www.facebook.com/events/850959914918569/" target="_blank">after party</a> ;) <!-- more --></p>
-
-<h3>O fragmentach w Androidzie</h3>
-
-<p>Polityka korzystania z&nbsp;fragmentów w&nbsp;Androidzie nie jest jednoznacznie zdefiniowana. W&nbsp;oficjalnym tutorialu przedstawione są jedynie przykłady zastosowania technologii, brakuje niestety jednoznacznych &ldquo;best practices&rdquo;. W&nbsp;prezentacji przedstawione zostanie ujęcie fragmentów jako pewnego rodzaju luźno wiązanych komponentów i&nbsp;ich interakcjach z&nbsp;aktywnościami. Dodatkowo zaprezentowanych zostanie parę problemów w&nbsp;korzystaniu z&nbsp;fragmentów, na&nbsp;które może natknąć się programista Java rozpoczynający swoją przygodę z&nbsp;Androidem.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/wojtyna-michal.jpg" /></p>
-
-<h4>Michał Wojtyna</h4>
-
-<p>Doktorant środowiskowych studiów doktoranckich, jednocześnie próbujący rozwinąć swoją własną działalność. Ciągle stara się znaleźć złoty środek między tworzeniem wysokiej jakości oprogramowania, a&nbsp;wymaganiami rynkowymi, mimo tendencji do&nbsp;tworzenia przeprojektowanych rozwiązań.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>JTwig, czyli Twig w Javie</h3>
-
-<p>W&nbsp;Javie brakuje wygodnych systemów templatek. Miło mi będzie zatem przedstawić system templatek, który jest wygodny w&nbsp;użyciu.</p>
-
-<p>Prezentacja będzie pokazywać jak zacząć używać JTwiga w&nbsp;Spring MVC. Opowie o&nbsp;jego możliwościach, zaletach i&nbsp;wadach. Pokazane zostanie jak łatwo rozszerzać JTwig oraz porównana zostanie wydajność i&nbsp;możliwości z&nbsp;innymi systemami templatek (Handlebars, <del>Mustache</del> FreeMarker oraz JSP).</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/boniewicz-maciej.jpg" /></p>
-
-<h4>Maciej Boniewicz</h4>
-
-<p>Programista (programowanie to przede wszystkim sposób myślenia, a&nbsp;nie język) zatrudniony w Allegro. Z&nbsp;Javą zawodowo związany od 10 lat (w&nbsp;tym 4&nbsp;lata przerwy na&nbsp;PHP). Miłośnik tenisa stołowego, aikido, koszykówki, książek i&nbsp;gier strategicznych.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Continuous Delivery</h3>
-
-<p>O&nbsp;tym czym jest Continuous Delivery w&nbsp;duchu agile, jakich elementów wymaga, co dostajemy w&nbsp;zamian? Kilka narzędzi oraz przykładów jak i&nbsp;gdzie to działa.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/westfalewski-jakub.jpg" /></p>
-
-<h4>Jakub Westfalewski</h4>
-
-<p>W&nbsp;internetach znany jako &ldquo;jwest&rdquo;. Programista w&nbsp;Grupie Allegro. Leniwy miłośnik automatyzacji kochający muzykę i&nbsp;kawę.</p>
 ]]></content>
   </entry>
   

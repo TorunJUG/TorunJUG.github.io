@@ -7,7 +7,7 @@ date: 2014-08-23 12:58:16 +0200
 comments: true
 categories: Hackathony
 ---
-<a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Hackathorn #1</a> to pierwszy (i&nbsp;zapewne nie ostatni) event organizowany wspólnie z&nbsp;<a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, toruńską firmą zapewniającą przestrzeń dla startupów. Smart zapewni świetną miejscówkę do kodowania, Wi-Fi, napoje energetyczne i&nbsp;cieplutką pizzę na obiad. Jedyne o co musicie zadbać sami, to laptop dla siebie. Więcej na temat naszego partnera i&nbsp;ludzi, którzy go tworzą znajdziecie na <a href="http://smart.exea.pl" target="_blank">smart.exea.pl</a>.
+<a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Hackathorn #1</a> to pierwszy (i&nbsp;zapewne nie ostatni) event organizowany wspólnie z&nbsp;<a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, toruńskim inkubatorem zapewniającym przestrzeń dla startupów. Smart zapewni świetną miejscówkę do kodowania, Wi-Fi, napoje energetyczne i&nbsp;cieplutką pizzę na obiad. Jedyne o co musicie zadbać sami, to laptop dla siebie. Więcej na temat naszego partnera i&nbsp;ludzi, którzy go tworzą znajdziecie na <a href="http://smart.exea.pl" target="_blank">smart.exea.pl</a>.
 
 <div class="row text-center" style="margin-bottom: 10px;">
   <div class="col-md-12">

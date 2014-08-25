@@ -6,7 +6,7 @@ date: 2014-04-08 15:01:22 +0200
 comments: true
 categories: Spotkania
 ---
-Drugie spotkanie toruńskiej grupy użytkowników języka Java odbędzie się **w&nbsp;środę, 23 kwietnia 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>). 
+Drugie spotkanie toruńskiej grupy użytkowników języka Java odbędzie się **w&nbsp;środę, 23 kwietnia 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>). 
 
 Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/175597572/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych. 
 

@@ -17,7 +17,7 @@ W&nbsp;dniach 4-6 lutego 2015 roku odbędzie się druga edycja konferencji <a hr
   </div>
 </div>
 
-Poniżej kilka słów od organizatorów konferencji - firmy Polidea. <!--more-->
+Poniżej kilka słów od organizatorów konferencji. <!--more-->
 
 <blockquote>
   <p>
@@ -28,6 +28,6 @@ Poniżej kilka słów od organizatorów konferencji - firmy Polidea. <!--more-->
   </p>
 </blockquote>
 
-Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 20% zniżki na wejściówkę. Jedyne co trzeba zrobić, to wejść na stronę <a href="http://register.mceconf.com" target="_blank">register.mceconf.com</a> i&nbsp;podczas rejestracji wpisać **3RE2R9** jako kod promocyjny.
+Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 20% zniżki na wejściówkę. Jedyne co trzeba zrobić, to wejść na stronę <a href="http://register.mceconf.com" target="_blank">register.mceconf.com</a> i&nbsp;podczas rejestracji wpisać kod promocyjny, który możecie otrzymać kontaktując się z&nbsp;nami (najlepiej z&nbsp;Piotrem Prądzyńskim).
 
 Zachęcamy do udziału w konferencji, gdyż jest to jedna z najciekawszych pozycji na liście konferencji mobilnych w&nbsp;Polsce.

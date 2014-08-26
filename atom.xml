@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-08-25T17:36:35+02:00</updated>
+  <updated>2014-08-26T07:43:52+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: Mobile Central Europe 2015. Mamy dla Was 20% zniżki!]]></title>
+    <link href="http://torun.jug.pl/news/2014/08/26/zapowiedz-konferencji-mobile-central-europe-2015/"/>
+    <updated>2014-08-26T07:30:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/08/26/zapowiedz-konferencji-mobile-central-europe-2015</id>
+    <content type="html"><![CDATA[<p>W&nbsp;dniach 4-6 lutego 2015 roku odbędzie się druga edycja konferencji <a href="http://mceconf.com" target="_blank">Mobile Central Europe</a>. Wydarzenie organizowane jest przez firmę <a href="http://www.polidea.com" target="_blank">Polidea</a> i&nbsp;będzie miało miejsce w&nbsp;Pałac Kultury i&nbsp;Nauki w&nbsp;Warszawie.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://mceconf.com" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/mce2015.png" alt="Mobile Central Europe 2015" />
+    </a>
+  </div>
+</div>
+
+
+<p>Poniżej kilka słów od organizatorów konferencji &ndash; firmy Polidea. <!--more--></p>
+
+<blockquote>
+  <p>
+    Mobile Central Europe is a&nbsp;Warsaw-based mobile technology conference created by geeks for geeks. It&#8217;s two days of intense technical talks about design, coding, testing and anything else that might make you a&nbsp;better developer. MCE&nbsp;2015 is the second edition and it is going to be twice as big as this year: four tracks, fifty speakers, workshops, parties, competitions&#8230; Knowledge and networking galore. First minute tickets are available until the end of August, but there are only a&nbsp;couple left. In September, prices will go up, because of some major announcements: the first speakers are going to be revealed! There&#8217;s already a&nbsp;great number confirmed and they are truly first class specialists.
+  </p>
+  <p>
+    Go to <a href="http://mceconf.com" target="_blank">mceconf.com</a> to see up-to-date info, get the latest news and buy your ticket!
+  </p>
+</blockquote>
+
+
+<p>Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 20% zniżki na wejściówkę. Jedyne co trzeba zrobić, to wejść na stronę <a href="http://register.mceconf.com" target="_blank">register.mceconf.com</a> i&nbsp;podczas rejestracji wpisać <strong>3RE2R9</strong> jako kod promocyjny.</p>
+
+<p>Zachęcamy do udziału w konferencji, gdyż jest to jedna z najciekawszych pozycji na liście konferencji mobilnych w&nbsp;Polsce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[[Hackathorn #1] Sponsorzy]]></title>
@@ -674,24 +708,6 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="https://docs.google.com/forms/d/1OkM_2JqnBZPEUNld_9rmOmWYxxSXgsjTpKxvBJcFPa4/viewform" target="_blank">zgłaszania własnych prelekcji</a>.</p>
 
 <p>Do zobaczenia na następnym spotkaniu!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[GeeCON 2014 - wyniki konkursu]]></title>
-    <link href="http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu/"/>
-    <updated>2014-04-16T08:36:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu</id>
-    <content type="html"><![CDATA[<p>Poniżej zamieszczamy nagranie z&nbsp;rozstrzygnięcia <a href="http://torun.jug.pl/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania/">konkursu</a>, w&nbsp;którym do&nbsp;wygrania była darmowa wejściówka na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <iframe width="640" height="360" src="//www.youtube.com/embed/27iR4BZsZjc?rel=0" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
-
-
-<p>Zwycięzcy gratulujemy i&nbsp;życzymy owocnej konferencji!</p>
 ]]></content>
   </entry>
   

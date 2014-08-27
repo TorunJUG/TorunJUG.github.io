@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Hackathony | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/hackathony/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-08-26T08:07:39+02:00</updated>
+  <updated>2014-08-27T11:32:06+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[[Hackathorn #1] Meetup Challenge]]></title>
+    <link href="http://torun.jug.pl/news/2014/08/27/hackathorn-1-meetup-challenge/"/>
+    <updated>2014-08-27T11:26:16+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/08/27/hackathorn-1-meetup-challenge</id>
+    <content type="html"><![CDATA[<p><a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Hackathorn #1</a> coraz bliżej, <a href="/news/2014/08/25/hackathorn-1-sponsorzy/">nasi sponsorzy</a> już przygotowują dla Was gadżety i&nbsp;upominki, zaś organizatorzy starają się, aby impreza spełniła Wasze oczekiwania. Kilka dni temu <a href="/news/2014/08/21/hackathorn-1-idea-hackathonow/">pisaliśmy o&nbsp;ogólnej idei hackathonów</a>. Z&nbsp;artykułów, które dołączyliśmy do tego wpisu mogliście przeczytać, że jedną z&nbsp;ważniejszych rzeczy, jakie należy zrobić przed samą imprezą jest odpowiednio się do niej przygotować.</p>
+
+<p>Hackathon to wiele długich godzin kodowania, dlatego nie zaszkodzi do swojego porannego planu dnia dołożyć kilka prostych ćwiczeń fizycznych, które pozwolą przygotować ciało na ten wysiłek. Nie wolno zapomnieć o&nbsp;przygotowaniu umysłu. Warto poświęcić chwilę czasu na zapoznanie się z&nbsp;<a href="http://www.meetup.com/meetup_api/" target="_blank">Meetup API</a> oraz zakodować kilka prostych przykładów, testując je na <a href="http://www.meetup.com/Meetup-API-Testing/" target="_blank">ogólnodostępnej grupie testowej</a>. Tak przygotowani powinniśmy bez problemu rozwiązać skutecznie zadanie, jakim jest przygotowanie działającego prototypu aplikacji.</p>
+
+<p>Chcielibyśmy również przypomnieć o&nbsp;zapoznaniu się z&nbsp;kompletnym <a href="/materials/hackathons/1/regulamin.pdf" target="_blank">regulaminem</a> zbliżającego się hackathonu.</p>
+
+<p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[[Hackathorn #1] Sponsorzy]]></title>

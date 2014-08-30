@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-08-29T11:30:45+02:00</updated>
+  <updated>2014-08-30T08:15:35+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: AgileByExample 2014. Mamy dla Was 15% zniżki!]]></title>
+    <link href="http://torun.jug.pl/news/2014/08/30/zapowiedz-konferencji-agilebyexample-2014/"/>
+    <updated>2014-08-30T08:04:15+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/08/30/zapowiedz-konferencji-agilebyexample-2014</id>
+    <content type="html"><![CDATA[<p>W&nbsp;dniach 29-31 października 2014 roku odbędzie się czwarta edycja konferencji <a href="http://2014.agilebyexample.com" target="_blank">AgileByExample 2014</a>. Wydarzenie organizowane jest przez grupę <a href="http://www.agilewarsaw.com" target="_blank">AgileWarsaw</a> we współpracy z&nbsp;firmą <a href="http://procognita.pl" target="_blank">ProCognita</a> i&nbsp;będzie miało miejsce w&nbsp;Warszawie.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2014.agilebyexample.com" target="_blank">
+      <img class="no-border" src="/images/partners/agile-by-example-2014.jpg" alt="AgileByExample 2014" />
+    </a>
+  </div>
+</div>
+
+
+<p>Poniżej informacja od organizatorów o tym, czym jest konferencja AgileByExample 2014. <!--more--></p>
+
+<blockquote>
+  <p>
+    AgileByExample 2014 is a&nbsp;great lean &amp; agile community event that helps you learn agile on live examples. We don't tell you what to do, we show examples of successes and failures from real life. This year you can actually practice your skills during LeanAgile Dojo workshops.
+  </p>
+  <p>AgileByExample 2014 (edition 4.0) at a&nbsp;glance:</p>
+  <ul>
+    <li>keynotes, talks &amp; discussions, all held in English</li>
+    <li>atmosphere and networking generating <strong>tons of energy &amp; inspiration</strong></li>
+    <li>focused on <strong>organizing and managing</strong> work in <strong>software developent</strong></li>
+    <li>the venue will be a&nbsp;cinema again – comfort of <strong>large screen</strong> &amp; <strong>comfy seats</strong></li>
+    <li><strong>LeanAgile Dojo</strong> – workshops during day three.</li>
+  </ul>
+</blockquote>
+
+
+<p>Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 15% zniżki na wejściówkę. Jedyne co trzeba zrobić, to wejść na stronę <a href="http://2014.agilebyexample.com/tickets/" target="_blank">2014.agilebyexample.com/tickets/</a> i&nbsp;podczas rejestracji wpisać kod promocyjny, który możecie otrzymać kontaktując się z&nbsp;nami (najlepiej z&nbsp;Piotrem Prądzyńskim).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: Mobile Central Europe 2015. Mamy dla Was 20% zniżki!]]></title>
@@ -112,26 +149,6 @@
 <p>Dzięki uprzejmości nowego sponsora będziemy mogli wylosować dwa ebooki z&nbsp;katalogu Packt Publishing wśród uczestników każdego kolejnego spotkania.</p>
 
 <p>Możliwe jest również otrzymanie na&nbsp;własność kopii wybranego ebooka w&nbsp;zamian za&nbsp;jego recenzję. Więcej informacji na ten temat możecie znaleźć na naszej <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">grupie dyskusyjnej</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nowy profiler na pokładzie!]]></title>
-    <link href="http://torun.jug.pl/news/2014/05/03/nowy-profiler-na-pokladzie/"/>
-    <updated>2014-05-03T11:38:33+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/05/03/nowy-profiler-na-pokladzie</id>
-    <content type="html"><![CDATA[<p>Jest nam bardzo miło poinformować, że&nbsp;kolejna firma zgodziła się zostać partnerem naszej grupy. <!-- more --></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://www.yourkit.com" target="_blank" title="YourKit">
-      <img class="no-border" src="/images/partners/yourkit_logo2.png" alt="YourKit" />
-    </a>
-  </div>
-</div>
-
-
-<p>Firma <a href="http://www.yourkit.com" target="_blank">YourKit</a>, bo o&nbsp;niej mowa, zajmuje się wytwarzaniem oprogramowania służącego do profilowania aplikacji opartych o&nbsp;platformę .NET oraz JVM. YourKit, w&nbsp;ramach partnerstwa umożliwi nam losowanie jednej licencji oprogramowania <a href="http://www.yourkit.com/overview/" target="_blank">YourKit Java Profiler</a> na&nbsp;każdym naszym spotkaniu.</p>
 ]]></content>
   </entry>
   

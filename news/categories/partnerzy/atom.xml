@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-08-30T08:15:35+02:00</updated>
+  <updated>2014-09-07T13:09:52+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -23,7 +23,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2014.agilebyexample.com" target="_blank">
-      <img class="no-border" src="/images/partners/agile-by-example-2014.jpg" alt="AgileByExample 2014" />
+      <img class="no-border" src="{{ root_url }}/images/partners/agile-by-example-2014.jpg" alt="AgileByExample 2014" />
     </a>
   </div>
 </div>
@@ -60,7 +60,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://mceconf.com" target="_blank">
-      <img class="no-border" src="/images/partners/mce2015.png" alt="Mobile Central Europe 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/mce2015.png" alt="Mobile Central Europe 2015" />
     </a>
   </div>
 </div>
@@ -94,7 +94,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://www.warsjawa.pl" target="_blank">
-      <img class="no-border" src="/images/partners/warsjawa.png" alt="Warsjawa" />
+      <img class="no-border" src="{{ root_url }}/images/partners/warsjawa.png" alt="Warsjawa" />
     </a>
   </div>
 </div>
@@ -118,7 +118,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://www.mobilization.pl" target="_blank">
-      <img class="no-border" src="/images/partners/mobilization4.png" alt="Mobilization^4" />
+      <img class="no-border" src="{{ root_url }}/images/partners/mobilization4.png" alt="Mobilization^4" />
     </a>
   </div>
 </div>
@@ -140,7 +140,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://www.packtpub.com" target="_blank" title="Packt Publishing">
-      <img class="no-border" src="/images/partners/packt-publishing-large.png" alt="Packt Publishing" />
+      <img class="no-border" src="{{ root_url }}/images/partners/packt-publishing-large.png" alt="Packt Publishing" />
     </a>
   </div>
 </div>

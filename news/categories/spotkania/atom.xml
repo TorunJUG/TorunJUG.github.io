@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-08-30T08:15:35+02:00</updated>
+  <updated>2014-09-07T13:09:52+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -32,7 +32,7 @@
 
 <p>Na prezentacji przedstawię narzędzie, które umożliwi pisanie dobrych testów integracyjnych odpalanych na serwerach JEE.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/laskawiec-sebastian.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
 
 <h4>Sebastian Łaskawiec</h4>
 
@@ -44,7 +44,7 @@
 
 <p>Wspólnie poznajmy użyteczne rozwiązania z&nbsp;ekosystemu Scali z&nbsp;perspektywy sbt &ndash; narzędzia do zarządzania budowaniem projektów w&nbsp;Scali i&nbsp;Javie. Może okazać się wielce pouczającym, jak wiele można się dowiedzieć o&nbsp;danym rozwiązaniu zaglądając przez drzwi kuchenne &ndash; przez konfigurację budowania. Zwykle to właśnie dokumentacja i&nbsp;konfiguracja budowania sprawiają projektom znaczne kłopoty, aby znaleźć osoby chętne do pomocy, co przy odpowiedniej znajomości sbt może okazać się wręcz banalne, a&nbsp;sława i&nbsp;chwała jako członka zespołu uznanego projektu godna pozazdroszczenia. Przyjdź i&nbsp;przekonaj się, jak niewiele trzeba, aby okiełznać sbt, a&nbsp;z&nbsp;nim wiele z&nbsp;projektów scalowych, co bezpośrednio przekłada się na Twoją umiejętność programowania w&nbsp;tym języku. A&nbsp;i&nbsp;wejście w&nbsp;język czy jego narzędzia może być łatwiejsze korzystając z&nbsp;wiedzy o &nbsp;sbt i&nbsp;Typesafe Activator.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/laskowski-jacek.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskowski-jacek.jpg" /></p>
 
 <h4>Jacek Laskowski</h4>
 
@@ -72,7 +72,7 @@
 <p>Ktoś z&nbsp;was miał (nie)przyjemność użyć LIKE w&nbsp;bazach MySQLowych? A&nbsp;może zastanawialiście się jak działają popularne wyszukiwarki? Może chcielibyście wstawić na swoją stronę własną?
 Na tej prezentacji przedstawię Wam najpopularniejszą bibliotekę do wyszukiwania w&nbsp;krainach Javowych i&nbsp;nie tylko &ndash;&nbsp;Lucene. Zaprezentuję też najpopularniejsze silniki wyszukiwania na niej oparte &ndash;&nbsp;Solr i&nbsp;ElasticSearch.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/papierski-zbyszko.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" /></p>
 
 <h4>Zbyszko Papierski</h4>
 
@@ -85,7 +85,7 @@ Na tej prezentacji przedstawię Wam najpopularniejszą bibliotekę do wyszukiwan
 <p>Każdy, a&nbsp;co najmniej większość z&nbsp;Was miała kiedyś okazje przeżyć chwilę grozy, gdy po zrobieniu projektu &ldquo;na wczoraj&rdquo; okazało się, że jednak będzie trzeba go rozwijać&hellip;
 Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie są niczym nowym, jednak brak ich znajomości i&nbsp;zastosowania w&nbsp;codziennej pracy grożą niewspółmiernym bólem głowy i&nbsp;utratą przyjemności z&nbsp;tego co wszyscy lubimy najbardziej :)</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/rekowski-pawel.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/rekowski-pawel.jpg" /></p>
 
 <h4>Paweł &ldquo;Lego&rdquo; Rekowski</h4>
 
@@ -112,7 +112,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 
 <p>Polityka korzystania z&nbsp;fragmentów w&nbsp;Androidzie nie jest jednoznacznie zdefiniowana. W&nbsp;oficjalnym tutorialu przedstawione są jedynie przykłady zastosowania technologii, brakuje niestety jednoznacznych &ldquo;best practices&rdquo;. W&nbsp;prezentacji przedstawione zostanie ujęcie fragmentów jako pewnego rodzaju luźno wiązanych komponentów i&nbsp;ich interakcjach z&nbsp;aktywnościami. Dodatkowo zaprezentowanych zostanie parę problemów w&nbsp;korzystaniu z&nbsp;fragmentów, na&nbsp;które może natknąć się programista Java rozpoczynający swoją przygodę z&nbsp;Androidem.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/wojtyna-michal.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/wojtyna-michal.jpg" /></p>
 
 <h4>Michał Wojtyna</h4>
 
@@ -126,7 +126,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 
 <p>Prezentacja będzie pokazywać jak zacząć używać JTwiga w&nbsp;Spring MVC. Opowie o&nbsp;jego możliwościach, zaletach i&nbsp;wadach. Pokazane zostanie jak łatwo rozszerzać JTwig oraz porównana zostanie wydajność i&nbsp;możliwości z&nbsp;innymi systemami templatek (Handlebars, <del>Mustache</del> FreeMarker oraz JSP).</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/boniewicz-maciej.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/boniewicz-maciej.jpg" /></p>
 
 <h4>Maciej Boniewicz</h4>
 
@@ -138,7 +138,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 
 <p>O&nbsp;tym czym jest Continuous Delivery w&nbsp;duchu agile, jakich elementów wymaga, co dostajemy w&nbsp;zamian? Kilka narzędzi oraz przykładów jak i&nbsp;gdzie to działa.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/westfalewski-jakub.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/westfalewski-jakub.jpg" /></p>
 
 <h4>Jakub Westfalewski</h4>
 
@@ -157,7 +157,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 
 <p>W Javie częstym problemem jest potrzeba wylistowania podklas danej klasy. Choć oficjalnie Java nie wspiera tej funkcjonalności, istnieje wiele bibliotek implementujących skanowanie klas. W tej prezentacji chciałbym przedstawić dużo szybszą alternatywę &ndash; autorski projekt oparty na mechanizmach procesowana adnotacji.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/piotrowski-slawek.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" /></p>
 
 <h4>Sławek Piotrowski</h4>
 
@@ -173,7 +173,7 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 
 <p>Poziom trudności prezentowanych zagadnień &ndash; raczej podstawowy, będzie dużo kodu przedstawiającego konkretne zastosowania.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/stepniak-szymon.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/stepniak-szymon.jpg" /></p>
 
 <h4>Szymon Stępniak</h4>
 

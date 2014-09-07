@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Hackathony | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/hackathony/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-08-30T08:15:35+02:00</updated>
+  <updated>2014-09-07T13:09:52+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -14,11 +14,132 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Podsumowanie pierwszego Hackathornu]]></title>
+    <link href="http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu/"/>
+    <updated>2014-09-07T13:03:30+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu</id>
+    <content type="html"><![CDATA[<p><a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Pierwszy toruński hackathon</a> za nami. 12 godzin kodowania minęło w&nbsp;błyskawicznym tempie. Nadeszła pora na małe podsumowanie wczorajszego dnia.</p>
+
+<p>Hackathorn #1 odbył się w&nbsp;budynku <a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, naszego partnera i&nbsp;współorganizatora wydarzenia.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-1.jpg" />
+  </div>
+</div>
+
+
+<p>Około godziny 10 nastąpiło oficjalne rozpoczęcie i&nbsp;utworzenie zespołów.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-2.jpg" />
+  </div>
+</div>
+
+
+
+
+<!-- more -->
+
+
+<p>Tuż po rozpoczęciu ruszyliśmy ostro do pracy.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-3.jpg" />
+  </div>
+</div>
+
+
+<p>Wszyscy obecni podeszli do tematu bardzo profesjonalnie. Niektórzy nawet spotykali się na tajnych naradach :)</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-4.jpg" />
+  </div>
+</div>
+
+
+<p>Kodowanie trwało do długich godzin wieczornych, ale nikt nie schodził z&nbsp;placu boju.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-5.jpg" />
+  </div>
+</div>
+
+
+<p>Były przekąski, była pizza.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-6.jpg" />
+  </div>
+</div>
+
+
+<p>Były też upominki od <a href="{{ root_url }}/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorów</a>.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-7.jpg" />
+  </div>
+</div>
+
+
+<p>Znalazła się również chwila na zabawę.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-8.jpg" />
+  </div>
+</div>
+
+
+<p>Na koniec naszedł czas na prezentacje efektów pracy i&nbsp;rozdanie nagród książkowych. Uśmiechnięci uczestnicy, to najlepsza nagroda dla organizatorów.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-9.jpg" />
+  </div>
+</div>
+
+
+<p>Więcej zdjęć znajdziecie na <a href="https://www.facebook.com/tak.dla.juga.w.toruniu" target="_blank">naszym profilu</a> na Facebooku oraz na <a href="https://www.facebook.com/smartexea" target="_blank">profilu Exea Smart Space</a>.</p>
+
+<p>Chcielibyśmy serdecznie podziękować wszystkim, którzy zaangażowali się w&nbsp;organizacje eventu:</p>
+
+<ul>
+    <li>
+        <a href="http://smart.exea.pl/pl/team" target="_blank">ekipie Smart Space</a>, w&nbsp;szczególności Arturowi, Mirkowi i&nbsp;Łukaszowi, których zaangażowanie, życzliwość i&nbsp;gościnność przerosła nasze najśmielsze oczekiwania,
+    </li>
+    <li>
+        sponsorom, <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Grupie Allegro</a> oraz firmie <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>, bez których wydarzenie nie odbyło by się z&nbsp;takim rozmachem,
+    </li>
+    <li>
+        Zbyszkowi, który dograł wszystkie sprawy związane ze sponsoringiem ze strony Allegro oraz użyczył swojego zmysłu artystycznego tuż przed hackathonem ;)
+    </li>
+    <li>
+        Pawłowi (last but not least), który już po raz kolejny, bez żadnego problemu zgodził się na nagranie materiału wideo z&nbsp;organizowanego przez nas eventu (nagranie coming soon).
+    </li>
+</ul>
+
+
+<p>Dziękujemy również wszystkim, o&nbsp;których zapomnieliśmy powyżej, a&nbsp;którzy w&nbsp;najmniejszym stopniu przyczynili się do organizacji Hackathornu.</p>
+
+<p>Nie mniejsze podziękowania należą się wszystkim uczestnikom. Bez Was i&nbsp;Waszego zapału nie bawilibyśmy się tak świetnie. Mamy nadzieję, że możemy na Was liczyć również następnym razem.</p>
+
+<p>Don&rsquo;t worry! Hackathorn will return!</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[[Hackathorn #1] Agenda]]></title>
     <link href="http://torun.jug.pl/news/2014/08/29/hackathorn-1-agenda/"/>
     <updated>2014-08-29T11:26:48+02:00</updated>
     <id>http://torun.jug.pl/news/2014/08/29/hackathorn-1-agenda</id>
-    <content type="html"><![CDATA[<p>Do <a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a> coraz bliżej. Wiecie już wszystko o&nbsp;<a href="/news/2014/08/23/hackathorn-1-exea-smart-space/">organizatorach</a>, <a href="/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorach</a> i&nbsp;<a href="/news/2014/08/27/hackathorn-1-meetup-challenge/">zadaniu</a>. Nadeszła pora, żeby zapoznać się z&nbsp;agendą wydarzenia.</p>
+    <content type="html"><![CDATA[<p>Do <a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a> coraz bliżej. Wiecie już wszystko o&nbsp;<a href="{{ root_url }}/news/2014/08/23/hackathorn-1-exea-smart-space/">organizatorach</a>, <a href="{{ root_url }}/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorach</a> i&nbsp;<a href="{{ root_url }}/news/2014/08/27/hackathorn-1-meetup-challenge/">zadaniu</a>. Nadeszła pora, żeby zapoznać się z&nbsp;agendą wydarzenia.</p>
 
 <p>Startujemy o&nbsp;godzinie 10:00. Pierwsze pół godziny przeznaczone jest na przywitanie, rozdanie upominków (m.in. koszulek ufundowanych przez firmę <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Allegro</a>), wprowadzenie do tematu i&nbsp;utworzenie zespołów programistycznych.</p>
 
@@ -35,11 +156,11 @@
     <link href="http://torun.jug.pl/news/2014/08/27/hackathorn-1-meetup-challenge/"/>
     <updated>2014-08-27T11:26:16+02:00</updated>
     <id>http://torun.jug.pl/news/2014/08/27/hackathorn-1-meetup-challenge</id>
-    <content type="html"><![CDATA[<p><a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Hackathorn #1</a> coraz bliżej, <a href="/news/2014/08/25/hackathorn-1-sponsorzy/">nasi sponsorzy</a> już przygotowują dla Was gadżety i&nbsp;upominki, zaś organizatorzy starają się, aby impreza spełniła Wasze oczekiwania. Kilka dni temu <a href="/news/2014/08/21/hackathorn-1-idea-hackathonow/">pisaliśmy o&nbsp;ogólnej idei hackathonów</a>. Z&nbsp;artykułów, które dołączyliśmy do tego wpisu mogliście przeczytać, że jedną z&nbsp;ważniejszych rzeczy, jakie należy zrobić przed samą imprezą jest odpowiednio się do niej przygotować.</p>
+    <content type="html"><![CDATA[<p><a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Hackathorn #1</a> coraz bliżej, <a href="{{ root_url }}/news/2014/08/25/hackathorn-1-sponsorzy/">nasi sponsorzy</a> już przygotowują dla Was gadżety i&nbsp;upominki, zaś organizatorzy starają się, aby impreza spełniła Wasze oczekiwania. Kilka dni temu <a href="{{ root_url }}/news/2014/08/21/hackathorn-1-idea-hackathonow/">pisaliśmy o&nbsp;ogólnej idei hackathonów</a>. Z&nbsp;artykułów, które dołączyliśmy do tego wpisu mogliście przeczytać, że jedną z&nbsp;ważniejszych rzeczy, jakie należy zrobić przed samą imprezą jest odpowiednio się do niej przygotować.</p>
 
 <p>Hackathon to wiele długich godzin kodowania, dlatego nie zaszkodzi do swojego porannego planu dnia dołożyć kilka prostych ćwiczeń fizycznych, które pozwolą przygotować ciało na ten wysiłek. Nie wolno zapomnieć o&nbsp;przygotowaniu umysłu. Warto poświęcić chwilę czasu na zapoznanie się z&nbsp;<a href="http://www.meetup.com/meetup_api/" target="_blank">Meetup API</a> oraz zakodować kilka prostych przykładów, testując je na <a href="http://www.meetup.com/Meetup-API-Testing/" target="_blank">ogólnodostępnej grupie testowej</a>. Tak przygotowani powinniśmy bez problemu rozwiązać skutecznie zadanie, jakim jest przygotowanie działającego prototypu aplikacji.</p>
 
-<p>Chcielibyśmy również przypomnieć o&nbsp;zapoznaniu się z&nbsp;kompletnym <a href="/materials/hackathons/1/regulamin.pdf" target="_blank">regulaminem</a> zbliżającego się hackathonu.</p>
+<p>Chcielibyśmy również przypomnieć o&nbsp;zapoznaniu się z&nbsp;kompletnym <a href="{{ root_url }}/materials/hackathons/1/regulamin.pdf" target="_blank">regulaminem</a> zbliżającego się hackathonu.</p>
 
 <p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
 ]]></content>
@@ -50,9 +171,9 @@
     <link href="http://torun.jug.pl/news/2014/08/25/hackathorn-1-sponsorzy/"/>
     <updated>2014-08-25T17:36:39+02:00</updated>
     <id>http://torun.jug.pl/news/2014/08/25/hackathorn-1-sponsorzy</id>
-    <content type="html"><![CDATA[<p>Żaden poważny darmowy event nie może obyć się bez poważnych sponsorów. Dotyczy to również zbliżającego się <a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>.</p>
+    <content type="html"><![CDATA[<p>Żaden poważny darmowy event nie może obyć się bez poważnych sponsorów. Dotyczy to również zbliżającego się <a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>.</p>
 
-<p><a href="/news/2014/08/23/hackathorn-1-exea-smart-space/">Wspominaliśmy już wcześniej</a>, że współorganizator wydarzenia, jakim jest <a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, zapewni nam miejscówkę i&nbsp;ciepły posiłek. Oprócz Smarta swoją cegiełkę dorzucą również <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Allegro</a> i <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. Dzięki Allegro, każdy z&nbsp;uczestników hackathonu otrzyma pamiątkową koszulkę, a&nbsp;w&nbsp;trakcie kodowania nikomu nie zabraknie przekąsek i&nbsp;napojów. Za sprawą Rule Financial, zwycięska drużyna otrzyma atrakcyjne nagrody książkowe. Więcej szczegółów o&nbsp;naszych sponsorach dowiecie się z&nbsp;<a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego artykułu</a> na temat hackathonu.</p>
+<p><a href="{{ root_url }}/news/2014/08/23/hackathorn-1-exea-smart-space/">Wspominaliśmy już wcześniej</a>, że współorganizator wydarzenia, jakim jest <a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, zapewni nam miejscówkę i&nbsp;ciepły posiłek. Oprócz Smarta swoją cegiełkę dorzucą również <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Allegro</a> i <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. Dzięki Allegro, każdy z&nbsp;uczestników hackathonu otrzyma pamiątkową koszulkę, a&nbsp;w&nbsp;trakcie kodowania nikomu nie zabraknie przekąsek i&nbsp;napojów. Za sprawą Rule Financial, zwycięska drużyna otrzyma atrakcyjne nagrody książkowe. Więcej szczegółów o&nbsp;naszych sponsorach dowiecie się z&nbsp;<a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego artykułu</a> na temat hackathonu.</p>
 
 <p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
 ]]></content>
@@ -63,40 +184,18 @@
     <link href="http://torun.jug.pl/news/2014/08/23/hackathorn-1-exea-smart-space/"/>
     <updated>2014-08-23T12:58:16+02:00</updated>
     <id>http://torun.jug.pl/news/2014/08/23/hackathorn-1-exea-smart-space</id>
-    <content type="html"><![CDATA[<p><a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Hackathorn #1</a> to pierwszy (i&nbsp;zapewne nie ostatni) event organizowany wspólnie z&nbsp;<a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, toruńskim inkubatorem zapewniającym przestrzeń dla startupów. Smart zapewni świetną miejscówkę do kodowania, Wi-Fi, napoje energetyczne i&nbsp;cieplutką pizzę na obiad. Jedyne o co musicie zadbać sami, to laptop dla siebie. Więcej na temat naszego partnera i&nbsp;ludzi, którzy go tworzą znajdziecie na <a href="http://smart.exea.pl" target="_blank">smart.exea.pl</a>.</p>
+    <content type="html"><![CDATA[<p><a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Hackathorn #1</a> to pierwszy (i&nbsp;zapewne nie ostatni) event organizowany wspólnie z&nbsp;<a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, toruńskim inkubatorem zapewniającym przestrzeń dla startupów. Smart zapewni świetną miejscówkę do kodowania, Wi-Fi, napoje energetyczne i&nbsp;cieplutką pizzę na obiad. Jedyne o co musicie zadbać sami, to laptop dla siebie. Więcej na temat naszego partnera i&nbsp;ludzi, którzy go tworzą znajdziecie na <a href="http://smart.exea.pl" target="_blank">smart.exea.pl</a>.</p>
 
 <div class="row text-center" style="margin-bottom: 10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://smart.exea.pl" target="_blank" title="Exea Smart Space">
-        <img class="no-border" src="/images/hackathons/1/exea-smart-space.png" alt="Exea Smart Space" />
+        <img class="no-border" src="{{ root_url }}/images/hackathons/1/exea-smart-space.png" alt="Exea Smart Space" />
     </a>
   </div>
 </div>
 
 
 <p>Exea Smart Space znajduje się w&nbsp;budynku C w&nbsp;Toruńskim Parku Technologicznym przy <a href="https://www.google.pl/maps/place/Włocławska+167,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ulicy Włocławskiej 167</a>. Na terenie Parku tuż przy budynku inkubatora znajduje się przestronny parking oraz stojaki na rowery. Zwolennicy komunikacji miejskiej dojadą tu jedną z&nbsp;trzech linii: 11, 19 lub 38 (przystanek &ldquo;Włocławska&rdquo;). Podróż z&nbsp;Placu Rapackiego zajmuje 15 minut. Polecamy sprawdzić trasę za pomocą aplikacji <a href="http://torun.jakdojade.pl" target="_blank">jakdojade.pl</a>.</p>
-
-<p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[[Hackathorn #1] Idea hackathonów]]></title>
-    <link href="http://torun.jug.pl/news/2014/08/21/hackathorn-1-idea-hackathonow/"/>
-    <updated>2014-08-21T11:01:30+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/08/21/hackathorn-1-idea-hackathonow</id>
-    <content type="html"><![CDATA[<p>W&nbsp;związku ze zbliżającym się <a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszym toruńskim hackathonem</a> będziemy stopniowo przybliżać szczegóły tego wydarzenia. Na początek kilka słów o&nbsp;samej idei hackathonów i&nbsp;jak się do nich przygotować.</p>
-
-<p><em>Hackathon</em> (znany również m.in. jako <em>hack day</em>, <em>hackfest</em> lub <em>codefest</em>) to wydarzenie, w&nbsp;którym zespół programistyczny (nie koniecznie tylko programiści) stara się stworzyć działający prototyp oprogramowania. Hackathony trwają zazwyczaj od jednego do kilku dni i&nbsp;są dobrą okazją na pobawienie się programowaniem (i&nbsp;technikami/metodykami, których na co dzień nie mamy okazji używać), poznaniem i&nbsp;spędzeniem miło czasu z&nbsp;&ldquo;ludźmi z branży&rdquo; spoza codziennej pracy, a&nbsp;czasem owocują zawiązaniem się trwałych teamów realizujących wspólne projekty w przyszłości.</p>
-
-<p>Ze względu na niezbyt długi czas trwania hackathonów warto jest się wstępnie do nich przygotować, żeby w dniu samego wydarzenia praca szła efektywanie, a&nbsp;końcowy rezultat był bardziej efektowny. W&nbsp;przygotowaniu do hackathonu powinny pomóc poniższe trzy artykuły:</p>
-
-<ul>
-  <li><a href="http://blog.onemonthrails.com/4-things-you-can-do-to-prepare-for-your-first-hackathon/" target="_blank">4 Things You Should Do To Prepare for a&nbsp;Hackathon</a></li>
-  <li><a href="http://thenextweb.com/dd/2012/04/14/hackathon-survival-guide-9-things-to-make-the-most-of-a-hack-event/" target="_blank">Hackathon survival guide: 9 things to make the most of a&nbsp;hack event</a></li>
-  <li><a href="http://sendgrid.com/blog/prepare-hackathon/" target="_blank">How You Can Prepare for a&nbsp;Hackathon</a></li>
-</ul>
-
 
 <p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
 ]]></content>

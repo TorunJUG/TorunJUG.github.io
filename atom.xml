@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-09-07T13:06:10+02:00</updated>
+  <updated>2014-09-08T19:02:51+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[#TRNon The Party!]]></title>
+    <link href="http://torun.jug.pl/news/2014/09/08/trnon-the-party/"/>
+    <updated>2014-09-08T18:22:44+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/09/08/trnon-the-party</id>
+    <content type="html"><![CDATA[<p>Wspólnie z&nbsp;<a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, <a href="https://www.facebook.com/pitchstoptv" target="_blank">Pitchstop</a> i&nbsp;<a href="https://www.facebook.com/pages/SIM-Toru%C5%84/355494957889158" target="_blank">SIM Toruń</a> chcielibyśmy Was zaprosić na imprezę jakiej w Toruniu jeszcze nie było &ndash; <a href="http://trnon.pl" target="_blank">#TRNon The Party!</a> Impreza dla wszystkich, którzy robią internety i&nbsp;chcą się poznać.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://trnon.pl" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/trnon-the-party.jpg" alt="#TRNon The Party!" />
+    </a>
+  </div>
+</div>
+
+
+<p>Wydarzenie odbędzie się 20 września w&nbsp;restauracji <a href="http://www.loft79.pl" target="_blank">LOFT79</a>. Więcej informacji znajdziecie na <a href="http://trnon.pl" target="_blank">trnon.pl</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie pierwszego Hackathornu]]></title>
@@ -731,47 +751,6 @@ Od początku przyświeca nam ten sam cel – radość kupowania i sprzedawania o
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i do zobaczenia niebawem.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #3 [2014-05-28]]]></title>
-    <link href="http://torun.jug.pl/news/2014/05/07/spotkanie-3/"/>
-    <updated>2014-05-07T14:26:30+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/05/07/spotkanie-3</id>
-    <content type="html"><![CDATA[<p>Trzecie spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 28 maja 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
-
-<p>Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/181665332/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/668690036529979/" target="_blank">Facebook</a>.</p>
-
-<p>Gorąca prośba do wszystkich, którzy muszą opuścić spotkanie przed czasem o&nbsp;zajmowanie miejsc w&nbsp;pobliży wyjścia, żeby zbytnio nie rozpraszać prelegentów i&nbsp;innych słuchaczy.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na piwo i pogaduchy &ndash; tym razem do pubu Tratwa :)<!-- more --></p>
-
-<h3>Jak szukać? &ndash; Kilka słów o Lucene i&nbsp;jej znajomych</h3>
-
-<p>Ktoś z&nbsp;was miał (nie)przyjemność użyć LIKE w&nbsp;bazach MySQLowych? A&nbsp;może zastanawialiście się jak działają popularne wyszukiwarki? Może chcielibyście wstawić na swoją stronę własną?
-Na tej prezentacji przedstawię Wam najpopularniejszą bibliotekę do wyszukiwania w&nbsp;krainach Javowych i&nbsp;nie tylko &ndash;&nbsp;Lucene. Zaprezentuję też najpopularniejsze silniki wyszukiwania na niej oparte &ndash;&nbsp;Solr i&nbsp;ElasticSearch.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/papierski-zbyszko.jpg" /></p>
-
-<h4>Zbyszko Papierski</h4>
-
-<p>Do niedawna programista Java w&nbsp;Grupie Allegro, aktualnie architekt rozwiązań w&nbsp;tej samej firmie. Czciciel JVM i&nbsp;wszystkiego co z&nbsp;nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Historia pewnego szkieletora &ndash; Walking Skeleton &amp;&nbsp;ATDD</h3>
-
-<p>Każdy, a&nbsp;co najmniej większość z&nbsp;Was miała kiedyś okazje przeżyć chwilę grozy, gdy po zrobieniu projektu &ldquo;na wczoraj&rdquo; okazało się, że jednak będzie trzeba go rozwijać&hellip;
-Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie są niczym nowym, jednak brak ich znajomości i&nbsp;zastosowania w&nbsp;codziennej pracy grożą niewspółmiernym bólem głowy i&nbsp;utratą przyjemności z&nbsp;tego co wszyscy lubimy najbardziej :)</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/rekowski-pawel.jpg" /></p>
-
-<h4>Paweł &ldquo;Lego&rdquo; Rekowski</h4>
-
-<p>Programista Java (wcześniej PHP) oraz Scrum Master w&nbsp;Grupie Allegro. Miłośnik pełnej automatyzacji wszystkiego co możliwe oraz wirtualizacji środowisk programistycznych. Prywatnie pasjonat zdrowego trybu życia i&nbsp;wszystkiego co jeździ na co najmniej 2&nbsp;kołach :)</p>
 ]]></content>
   </entry>
   

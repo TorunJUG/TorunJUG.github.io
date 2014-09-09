@@ -27,6 +27,16 @@
         }
     },
     {
+        "name": "Zbyszko Papierski",
+        "photo": "papierski-zbyszko.jpg",
+        "description": "Do niedawna programista Java w Grupie Allegro, aktualnie architekt rozwiązań w tej samej firmie. Czciciel JVM i wszystkiego co z nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz i komiksiarz.",
+        "urls": {
+            "twitter": "https://twitter.com/ZPapierski",
+            "linkedin": "http://pl.linkedin.com/in/zbyszko",
+            "github": "https://github.com/maeph"
+        }
+    },
+    {
         "name": "Sławek Piotrowski",
         "photo": "piotrowski-slawek.jpg",
         "description": "Programista Java, obecnie związany z&nbsp;PayU, gdzie zajmuje się rozwijaniem wiodącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, <a href='http://moonshine.atteo.org' target='_blank'>Moonshine</a>.",
@@ -38,7 +48,7 @@
     {
         "name": "Piotr Prądzyński",
         "photo": "pradzynski-piotr.jpg",
-        "description": "Programista Java. Przez całą dotychczasową karierę zawodową zawiązany z&nbsp;toruńską firmą AIS.PL, w&nbsp;której zajmuje się głownie tworzeniem aplikacji webowych. Kuszony przez .NET, nie dał się przeciągnąć na ciemną stronę Mocy. Od niedawna zgłębia tajniki programowania aplikacji w&nbsp;JavaScript.",
+        "description": "Programista Java. Przez całą dotychczasową karierę zawodową zawiązany z&nbsp;toruńską firmą AIS.PL, w&nbsp;której zajmuje się głownie tworzeniem aplikacji webowych. Kuszony przez .NET, nie dał się przeciągnąć na ciemną stronę Mocy.",
         "urls": {
             "home": "http://prondzyn.com",
             "twitter": "https://twitter.com/prondzyn",

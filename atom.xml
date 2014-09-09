@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-09-08T19:02:51+02:00</updated>
+  <updated>2014-09-09T06:04:07+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SOA w skali mikro, czyli architektura oparta na nanoserwisach]]></title>
+    <link href="http://torun.jug.pl/news/2014/09/09/soa-w-skali-mikro-czyli-architektura-oparta-na-nanoserwisach/"/>
+    <updated>2014-09-09T05:53:14+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/09/09/soa-w-skali-mikro-czyli-architektura-oparta-na-nanoserwisach</id>
+    <content type="html"><![CDATA[<p>Jeśli nie mieliście jeszcze okazji zobaczyć prezentacji Sławka Piotrowskiego, jednego z&nbps;pierwszych JUGowiczów, z&nbps;tegorocznej Confitury, to to jest &ldquo;ostatni moment&rdquo;, jak mawiał doktor Kurpiel ;)</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <iframe width="640" height="360" src="//www.youtube.com/embed/GG0vU7StXFs?rel=0" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[#TRNon The Party!]]></title>
@@ -706,51 +722,6 @@ Od początku przyświeca nam ten sam cel – radość kupowania i sprzedawania o
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie trzeciego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania/"/>
-    <updated>2014-05-30T16:51:50+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania</id>
-    <content type="html"><![CDATA[<p>Dziękujemy wszystkim i&nbsp;każdemu z&nbsp;osobna za&nbsp;liczne przybycie na&nbsp;<a href="http://torun.jug.pl/news/2014/05/07/spotkanie-3/">trzecie spotkanie</a> naszej grupy. Cieszy nas niezmiernie, że&nbsp;liczba uczestników utrzymuje się wciąż na&nbsp;bardzo dobrym poziomie. Szczególne podziękowania należą się Zbyszkowi i&nbsp;Pawłowi za&nbsp;przygotowanie prezentacji. Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie nam sali oraz każdemu, kto w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Tratwie.</p>
-
-<div class="row text-center">
-  <div class="col-md-12">
-    <img class="no-border" src="http://torun.jug.pl/images/meetings/3/mug.jpg" alt="Kubek Toruń JUG - upominek dla prelegentów" title="Kubek Toruń JUG - upominek dla prelegentów" style="margin-bottom: 10px;"/>
-  </div>
-</div>
-
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1mXp-SVjWtodnJgLbKtK7j63cuUrHm-SY3zXdswM7F6E/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze&nbsp;środowego meetingu możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1514025038820984.1073741831.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/22193352/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/3/Jak_szukac_-_Kilka_slow_o_Lucene_i_jej_znajomych_by_Zbyszko_Papierski.pdf" target="_blank">
-      <em>Jak szukać? – Kilka słów o Lucene i&nbsp;jej znajomych</em></a> (slajdy z&nbsp;prezentacji Zbyszka Papierskiego)
-  </li>
-  <li>
-    <a href="https://github.com/maeph/JUG-Lucene" target="_blank">
-      Kod źródłowy z prezentacji Zbyszka
-    </a>
-  </li>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/3/Historia_pewnego_szkieletora_–_Walking_Skeleton_and_ATDD_by_Pawel_Rekowski.pdf" target="_blank">
-      <em>Historia pewnego szkieletora – Walking Skeleton &amp;&nbsp;ATDD</em></a> (slajdy z&nbsp;prezentacji Pawła Rekowskiego)
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i do zobaczenia niebawem.</p>
 ]]></content>
   </entry>
   

@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Spotkanie #5 [2014-09-24]"
+description: "Toruń JUG - Spotkanie #5 [2014-09-24]"
+date: 2014-09-10 05:55:23 +0200
+comments: true
+categories: Spotkania
+---
+Halo, halo! Nadszedł długo wyczekiwany moment - wracamy po wakacyjnej przerwie! Mamy nadzieję, że zdążyliście "naładować baterie" przed nowym sezonem spotkań JUGowych i&nbsp;stawicie się licznie na piąte spotkanie toruńskiego JUGa, które odbędzie się **w&nbsp;środę, 24 września 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>). 
+
+Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/206212552/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych. 
+
+Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/337936389708541/" target="_blank">Facebook</a>. 
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)<!-- more -->
+
+### Sexy unit testy
+Złapałem się ostatnio na rzeczy, która dla niektórych może wydawać się dziwna (w&nbsp;każdym razie dla mojej żony tak i&nbsp;nie chodzi tu o &nbsp;nietypowe techniki w&nbsp;pożyciu małżeńskim) - fajnie jest popisać testy. Postrzeganie problemów zmienia się z&nbsp;czasem (nie chcąc pisać "z&nbsp;wiekiem"). Może z&nbsp;tego samego powodu polubiłem piwo pszeniczne i&nbsp;zacząłem kupować oryginalny software. Tą prezentacją, o&nbsp;temacie z&nbsp;pozoru banalnym, chciałbym zachęcić (szczególnie "młodych gniewnych") do pisania lepszych testów jednostkowych, które nie tylko testują ale i&nbsp;potrafią udokumentować kod produkcyjny. Przedstawię zbiór kilku przykładów i&nbsp;propozycji na to, jak zrobić testy bardziej sexy.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/sawicki-lukasz.jpg" />
+#### Łukasz Sawicki
+Programista Java z&nbsp;całkiem sporym stażem, wyznawca zwinności z&nbsp;doświadczeniem scrum-masterskim, wciąż i&nbsp;ciągle poszukujący tej właściwej drogi pisania lepszego kodu. Od 3&nbsp;lat pracujący w&nbsp;PayU głównie nad rozwiązaniami anty-fraudowymi. Wielbiciel dobrej kawy, iteracyjnego ulepszania swojej gitary i&nbsp;używania sprzętu fotograficznego nie tylko w&nbsp;celach relaksacyjnych.
+
+<span class="clearfix"></span>
+### Hadoop - szybki start
+Coraz większy napływ informacji do naszych systemów wymaga nowego podejścia do problemu przetwarzania danych. Jak przechować interesujące nas tweety? Co zrobić z&nbsp;nadmiarem logów? Jak zbudować system rekomendacji? Rozwiązaniem naszych problemów może być Hadoop. W&nbsp;trakcie krótkiej prezentacji omówimy podstawowe założenia systemu, wyjaśnimy jak szybko przetwarzać duże zbiory danych oraz uruchomimy nasz pierwszy klaster Hadoopa.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/osinski-arek.png" />
+#### Arek Osiński
+Na co dzień sysadmin. Od dłuższego czasu związany z&nbsp;BigData. Entuzjasta Linuxa, nowych technologii oraz jazdy na rowerze.

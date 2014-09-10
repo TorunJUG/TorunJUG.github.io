@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-09-09T18:36:13+02:00</updated>
+  <updated>2014-09-10T05:56:58+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #5 [2014-09-24]]]></title>
+    <link href="http://torun.jug.pl/news/2014/09/10/spotkanie-5/"/>
+    <updated>2014-09-10T05:55:23+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/09/10/spotkanie-5</id>
+    <content type="html"><![CDATA[<p>Halo, halo! Nadszedł długo wyczekiwany moment &ndash; wracamy po wakacyjnej przerwie! Mamy nadzieję, że zdążyliście &ldquo;naładować baterie&rdquo; przed nowym sezonem spotkań JUGowych i&nbsp;stawicie się licznie na piąte spotkanie toruńskiego JUGa, które odbędzie się <strong>w&nbsp;środę, 24 września 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
+
+<p>Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/206212552/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/337936389708541/" target="_blank">Facebook</a>.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)<!-- more --></p>
+
+<h3>Sexy unit testy</h3>
+
+<p>Złapałem się ostatnio na rzeczy, która dla niektórych może wydawać się dziwna (w&nbsp;każdym razie dla mojej żony tak i&nbsp;nie chodzi tu o &nbsp;nietypowe techniki w&nbsp;pożyciu małżeńskim) &ndash; fajnie jest popisać testy. Postrzeganie problemów zmienia się z&nbsp;czasem (nie chcąc pisać &ldquo;z&nbsp;wiekiem&rdquo;). Może z&nbsp;tego samego powodu polubiłem piwo pszeniczne i&nbsp;zacząłem kupować oryginalny software. Tą prezentacją, o&nbsp;temacie z&nbsp;pozoru banalnym, chciałbym zachęcić (szczególnie &ldquo;młodych gniewnych&rdquo;) do pisania lepszych testów jednostkowych, które nie tylko testują ale i&nbsp;potrafią udokumentować kod produkcyjny. Przedstawię zbiór kilku przykładów i&nbsp;propozycji na to, jak zrobić testy bardziej sexy.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/sawicki-lukasz.jpg" /></p>
+
+<h4>Łukasz Sawicki</h4>
+
+<p>Programista Java z&nbsp;całkiem sporym stażem, wyznawca zwinności z&nbsp;doświadczeniem scrum-masterskim, wciąż i&nbsp;ciągle poszukujący tej właściwej drogi pisania lepszego kodu. Od 3&nbsp;lat pracujący w&nbsp;PayU głównie nad rozwiązaniami anty-fraudowymi. Wielbiciel dobrej kawy, iteracyjnego ulepszania swojej gitary i&nbsp;używania sprzętu fotograficznego nie tylko w&nbsp;celach relaksacyjnych.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Hadoop &ndash; szybki start</h3>
+
+<p>Coraz większy napływ informacji do naszych systemów wymaga nowego podejścia do problemu przetwarzania danych. Jak przechować interesujące nas tweety? Co zrobić z&nbsp;nadmiarem logów? Jak zbudować system rekomendacji? Rozwiązaniem naszych problemów może być Hadoop. W&nbsp;trakcie krótkiej prezentacji omówimy podstawowe założenia systemu, wyjaśnimy jak szybko przetwarzać duże zbiory danych oraz uruchomimy nasz pierwszy klaster Hadoopa.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/osinski-arek.png" /></p>
+
+<h4>Arek Osiński</h4>
+
+<p>Na co dzień sysadmin. Od dłuższego czasu związany z&nbsp;BigData. Entuzjasta Linuxa, nowych technologii oraz jazdy na rowerze.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #4 [2014-06-27]]]></title>

@@ -6,7 +6,7 @@ date: 2014-09-09 05:53:14 +0200
 comments: true
 categories: Konferencje
 ---
-Jeśli nie mieliście jeszcze okazji zobaczyć prezentacji Sławka Piotrowskiego, jednego z&nbps;pierwszych JUGowiczów, z&nbps;tegorocznej Confitury, to to jest "ostatni moment", jak mawiał doktor Kurpiel ;)
+Jeśli nie mieliście jeszcze okazji zobaczyć prezentacji Sławka Piotrowskiego, jednego z&nbsp;pierwszych JUGowiczów, z&nbsp;tegorocznej Confitury, to to jest "ostatni moment", jak mawiał doktor Kurpiel ;)
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">

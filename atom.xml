@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-09-11T22:24:54+02:00</updated>
+  <updated>2014-09-17T06:01:59+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,86 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Recenzja książki: Functional JavaScript]]></title>
+    <link href="http://torun.jug.pl/news/2014/09/17/recenzja-ksiazki-functional-javascript/"/>
+    <updated>2014-09-17T05:59:25+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/09/17/recenzja-ksiazki-functional-javascript</id>
+    <content type="html"><![CDATA[<p>Mamy dla Was kolejną recenzję! <strong>Tomasz Bielawa</strong> zrecenzował książkę <em>Functional JavaScript: Introducing Functional Programming with Underscore.js</em> autorstwa Michaela Fogusa.</p>
+
+<!--more-->
+
+
+<h3>Książka</h3>
+
+<p><img class="no-border book-cover" src="http://torun.jug.pl/images/reviews/books/functional-javascript.jpg" />
+<strong><em>Functional JavaScript: Introducing Functional Programming with Underscore.js</em></strong></p>
+
+<p>How can you overcome JavaScript language oddities and unsafe features? With <a href="http://shop.oreilly.com/product/0636920028857.do" target="_blank">this book</a>, you&rsquo;ll learn how to create code that&rsquo;s beautiful, safe, and simple to understand and test by using JavaScript&rsquo;s functional programming support. Author Michael Fogus shows you how to apply functional-style concepts with Underscore.js, a&nbsp;JavaScript library that facilitates functional programming techniques. Sample code is available on <a href="https://github.com/funjs/book-source" target="_blank">GitHub</a>.</p>
+
+<p>Fogus helps you think in a&nbsp;functional way to help you minimize complexity in the programs you build. If you&rsquo;re a&nbsp;JavaScript programmer hoping to learn functional programming techniques, or a&nbsp;functional programmer looking to learn JavaScript, this book is the ideal introduction.</p>
+
+<ul>
+  <li>Use applicative programming techniques with first-class functions</li>
+  <li>Understand how and why you might leverage variable scoping and closures</li>
+  <li>Delve into higher-order functions-and learn how they take other functions as arguments for maximum advantage</li>
+  <li>Explore ways to compose new functions from existing functions</li>
+  <li>Get around JavaScript&#8217;s limitations for using recursive functions</li>
+  <li>Reduce, hide, or eliminate the footprint of state change in your programs</li>
+  <li>Practice flow-based programming with chains and functional pipelines</li>
+  <li>Discover how to code without using classes</li>
+</ul>
+
+
+<p><span class="clearfix"></span></p>
+
+<h3>Autor</h3>
+
+<p><strong>Michael Fogus</strong> is software developer with experience in distributed simulation, machine vision, and expert systems construction. He&rsquo;s actively involved in the Clojure and Scala communities.</p>
+
+<h3>Recenzja</h3>
+
+<blockquote>
+  <p>
+    Over the last years the JavaScript returned to favor thanks to the popularity of HTML5 and jQuery. Many developers want to learn more about this language and to know JS&#8217;s most significant libraries. Very popular products are distinguished by Jeremy Ashkenas. I think all developers heard about CoffeeScript or Backbone.js framework. Ashkenas also is the creator of UnderscoreJs library which provides a&nbsp;very useful utility functions.
+  </p>
+  <p>
+    On the second hand, a&nbsp;very common tag is functional-style concept. At every step, terms like closures, currying, folding, come to our ears and eyes. Surely as a&nbsp;programmer you want to read a&nbsp;good book about it. This book should be absorbing, have good style of writing and practical examples. And first of all, author should have a&nbsp;considerable knowledge about things he describes.
+  </p>
+  <p>
+    I think Michael Fogus, as a&nbsp;contributor to the Clojure and Underscore.js library is a&nbsp;right person in the right place. While reading, you can fell that the writer has a&nbsp;practical and real-life skills about functional programming and JS. You can see that he devoted much time to bite into this. For example Fogus bring us a&nbsp;precise chapter about closures. Yes! In JavaScript.  It&#8217;s not the frequent term in a&nbsp;base of articles in a&nbsp;world&#8217;s JS&#8217;s blogs and books. It is not what a&nbsp;typical developer who writes only Dom-tree-JS-code knows.
+  </p>
+  <p>
+    If you want to know how to use things like closures, currying, folding. Or you want to get knowledge about functions as units of behavior, functional recursion on data &#8220;table-like&#8221; (great thing!), recursion as a&nbsp;base of deeper understanding of a&nbsp;functional style, hiding mutable states, a&nbsp;way to implement laziness, this book may be your first step in an adventure of functional programming in (wait for it!) JavaScript. You will be familiarized with UnderscoreJs functions as a&nbsp;tools in everyday-coding-life.
+  </p>
+  <p>
+    Honestly, the only thing that bothered me in this book is the small emphasis of graphic representation in highlighting important terms.
+  </p>
+  <p>
+    Besides, &#8220;Functional JavaScript: Introducing Functional Programming with Underscore.js&#8221; assure many hours spending in reading interesting code, especially if reader will spend some hours to analyze written code and test it in IDE. Surely it should bear fruits in developer&#8217;s future coding sessions.
+  </p>
+  <p>
+    So, if anyone is interested in JavaScript and want to learn about functional programming techniques, this book is a&nbsp;very good start and may change perspective of seeing this language.
+  </p>
+  <p>Rating: 9/10</p>
+</blockquote>
+
+
+<h3>Recenzent</h3>
+
+<p><img class="no-border reviewer-face" src="http://torun.jug.pl/images/reviews/reviewers/bielawa-tomasz.jpg" />
+<strong>Tomasz Bielawa</strong></p>
+
+<p>Programista i&nbsp;WebDeveloper, miłośnik wszelakich technologii frontendowych, muzyki oraz wszystkiego co można przeczytać. Można mnie znaleźć na Twitterze (<a href="https://twitter.com/bielawka" target="_blank">@bielawka</a>).</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Szukamy kolejnych odważnych</h3>
+
+<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a> i <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #5 [2014-09-24]]]></title>
@@ -493,7 +573,7 @@ Od początku przyświeca nam ten sam cel – radość kupowania i sprzedawania o
 
 <h3>Szukamy kolejnych odważnych</h3>
 
-<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy na odpowiedni <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątek na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O’Reilly Media</a> i <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
+<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a> i <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
 ]]></content>
   </entry>
   
@@ -546,7 +626,7 @@ Od początku przyświeca nam ten sam cel – radość kupowania i sprzedawania o
 
 <h3>Szukamy kolejnych odważnych</h3>
 
-<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy na odpowiedni <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątek na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a> i <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
+<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a> i <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
 ]]></content>
   </entry>
   
@@ -696,45 +776,6 @@ Od początku przyświeca nam ten sam cel – radość kupowania i sprzedawania o
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #4 [2014-06-27]]]></title>
-    <link href="http://torun.jug.pl/news/2014/06/07/spotkanie-4/"/>
-    <updated>2014-06-07T20:01:44+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/06/07/spotkanie-4</id>
-    <content type="html"><![CDATA[<p>Zgodnie z&nbsp;wcześniejszymi zapowiedziami mamy dla Was niespodziankę &ndash; na czwartym spotkaniu naszej grupy gościć będziemy prawdziwą gwiazdę rocka społeczności Javowej w Polsce &ndash; Jacka Laskowskiego. Z&nbsp;tego względu spotkanie odbędzie się wyjątkowo <strong>w&nbsp;piątek, 27 czerwca 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
-
-<p>Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/187742972/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/285466184967908/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty, tym razem do Krajiny Piva ;)<!-- more --></p>
-
-<h3>Testujemy z Arquillianem</h3>
-
-<p>Im później wykryty błąd &ndash; tym droższy. Ta maksyma przyświeca nam od lat. Każdy z&nbsp;nas pisze testy jednostkowe, większość &ndash; funkcjonalne, ale mało kto &ndash; integracyjne.</p>
-
-<p>Na prezentacji przedstawię narzędzie, które umożliwi pisanie dobrych testów integracyjnych odpalanych na serwerach JEE.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/laskawiec-sebastian.jpg" /></p>
-
-<h4>Sebastian Łaskawiec</h4>
-
-<p>Architekt i&nbsp;programista pracujący w PayU, interesujący się kontenerami JEE oraz pisaniem dobrego kodu. W&nbsp;wolnym czasie pasjonat nart, łyżew, rolek, a&nbsp;także domowego piwa i&nbsp;dobrych gier.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Akka, Play, Spray, Scalatra, Spark z&nbsp;perspektywy sbt</h3>
-
-<p>Wspólnie poznajmy użyteczne rozwiązania z&nbsp;ekosystemu Scali z&nbsp;perspektywy sbt &ndash; narzędzia do zarządzania budowaniem projektów w&nbsp;Scali i&nbsp;Javie. Może okazać się wielce pouczającym, jak wiele można się dowiedzieć o&nbsp;danym rozwiązaniu zaglądając przez drzwi kuchenne &ndash; przez konfigurację budowania. Zwykle to właśnie dokumentacja i&nbsp;konfiguracja budowania sprawiają projektom znaczne kłopoty, aby znaleźć osoby chętne do pomocy, co przy odpowiedniej znajomości sbt może okazać się wręcz banalne, a&nbsp;sława i&nbsp;chwała jako członka zespołu uznanego projektu godna pozazdroszczenia. Przyjdź i&nbsp;przekonaj się, jak niewiele trzeba, aby okiełznać sbt, a&nbsp;z&nbsp;nim wiele z&nbsp;projektów scalowych, co bezpośrednio przekłada się na Twoją umiejętność programowania w&nbsp;tym języku. A&nbsp;i&nbsp;wejście w&nbsp;język czy jego narzędzia może być łatwiejsze korzystając z&nbsp;wiedzy o &nbsp;sbt i&nbsp;Typesafe Activator.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/laskowski-jacek.jpg" /></p>
-
-<h4>Jacek Laskowski</h4>
-
-<p>Jacek is a&nbsp;Java/Scala software developer with few Scala gigs under his belt. He runs a&nbsp;Scala project &ndash; <a href="https://github.com/jaceklaskowski/scalania" target="_blank">scalania</a> &ndash; on GitHub that gave birth Scala meetings in Warsaw, Poland that ultimately ended up as an initiative under <a href="https://twitter.com/WarszawScaLa" target="_blank">@WarszawScaLa</a> &ndash; a&nbsp;Scala user group in Warsaw. He builds his reputation in the tools he uses daily answering questions on <a href="http://stackoverflow.com/users/1305344/jacek-laskowski" target="_blank">StackOverflow</a> and contributing to open source projects on <a href="https://github.com/jaceklaskowski" target="_blank">GitHub</a>. You can follow him on twitter as <a href="https://twitter.com/jaceklaskowski" target="_blank">@jaceklaskowski</a>. He blogs at <a href="http://japila.pl" target="_blank">japila.pl</a>.</p>
 ]]></content>
   </entry>
   

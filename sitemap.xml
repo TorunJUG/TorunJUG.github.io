@@ -116,11 +116,11 @@
         <loc>
             http://torun.jug.pl/news/2014/07/28/recenzja-ksiazki-functional-programming-in-java/
         </loc>
-        <lastmod>2014-08-12T16:37:22+02:00</lastmod>
+        <lastmod>2014-09-17T05:58:01+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/news/2014/08/12/recenzja-ksiazki-bdd-in-action/</loc>
-        <lastmod>2014-08-13T21:33:59+02:00</lastmod>
+        <lastmod>2014-09-17T05:58:03+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/</loc>
@@ -175,6 +175,10 @@
         <lastmod>2014-09-10T05:55:29+02:00</lastmod>
     </url>
     <url>
+        <loc>http://torun.jug.pl/news/2014/09/17/recenzja-ksiazki-functional-javascript/</loc>
+        <lastmod>2014-09-17T05:54:04+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://torun.jug.pl/404.html</loc>
         <lastmod>2014-04-10T09:12:24+02:00</lastmod>
     </url>
@@ -204,7 +208,7 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/</loc>
-        <lastmod>2014-09-10T18:41:16+02:00</lastmod>
+        <lastmod>2014-09-17T05:58:03+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/javascript.html</loc>
@@ -216,7 +220,7 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/</loc>
-        <lastmod>2014-09-10T18:41:16+02:00</lastmod>
+        <lastmod>2014-09-17T05:58:03+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/leaders/</loc>

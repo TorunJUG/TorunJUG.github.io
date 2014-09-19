@@ -86,5 +86,10 @@ footer: false
       <img class="no-border" src="{{ root_url }}/images/partners/packt-publishing.png" alt="Packt Publishing" />
     </a>
   </div>
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
+    <a class="no-text-decoration" href="https://www.apress.com" target="_blank" title="Apress">
+      <img class="no-border" src="{{ root_url }}/images/partners/apress.jpg" alt="Apress" />
+    </a>
+  </div>
 </div>
 

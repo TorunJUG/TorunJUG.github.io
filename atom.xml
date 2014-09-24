@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-09-24T05:58:57+02:00</updated>
+  <updated>2014-09-24T06:01:52+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Continuous Enterprise Development in Java]]></title>
-    <link href="http://torun.jug.pl/news/2014/09/23/recenzja-ksiazki-continuous-enterprise-development-in-java/"/>
-    <updated>2014-09-23T05:51:22+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/09/23/recenzja-ksiazki-continuous-enterprise-development-in-java</id>
+    <link href="http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java/"/>
+    <updated>2014-09-24T05:51:22+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java</id>
     <content type="html"><![CDATA[<p><strong>Sebastian Łaskawiec</strong>, którego mieliśmy przyjemność słuchać na naszym <a href="http://torun.jug.pl/news/2014/06/07/spotkanie-4/">czwartym spotkaniu</a>, popełnił recenzje książki <em>Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian</em> autorstwa Andrew Lee Rubingera i&nbsp;Aslaka Knutsena. To już czwarta <a href="http://torun.jug.pl/news/categories/recenzje/">recenzja</a> na koncie naszych JUGowiczów!</p>
 
 <!--more-->

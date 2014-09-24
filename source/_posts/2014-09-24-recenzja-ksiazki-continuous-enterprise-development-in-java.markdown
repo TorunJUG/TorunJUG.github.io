@@ -3,7 +3,7 @@ layout: post
 title: "Recenzja książki: Continuous Enterprise Development in Java"
 description: "Recenzja książki Continuous Enterprise Development in Java (Andrew Lee Rubinger, Aslak Knutsen) napisana przez Sebastiana Łaskawca."
 cover: "/images/reviews/books/continuous-enterprise-development-in-java.jpg"
-date: 2014-09-23 05:51:22 +0200
+date: 2014-09-24 05:51:22 +0200
 comments: true
 categories: Recenzje
 ---

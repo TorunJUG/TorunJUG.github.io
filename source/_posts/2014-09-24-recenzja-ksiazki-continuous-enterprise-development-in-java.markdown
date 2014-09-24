@@ -7,7 +7,7 @@ date: 2014-09-24 05:51:22 +0200
 comments: true
 categories: Recenzje
 ---
-**Sebastian Łaskawiec**, którego mieliśmy przyjemność słuchać na naszym <a href="{{ root_url }}/news/2014/06/07/spotkanie-4/">czwartym spotkaniu</a>, popełnił recenzje książki _Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian_ autorstwa Andrew Lee Rubingera i&nbsp;Aslaka Knutsena. To już czwarta <a href="{{ root_url }}/news/categories/recenzje/">recenzja</a> na koncie naszych JUGowiczów!
+**Sebastian Łaskawiec**, którego mieliśmy przyjemność słuchać na naszym <a href="{{ root_url }}/news/2014/06/07/spotkanie-4/">czwartym spotkaniu</a>, popełnił recenzję książki _Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian_ autorstwa Andrew Lee Rubingera i&nbsp;Aslaka Knutsena. To już czwarta <a href="{{ root_url }}/news/categories/recenzje/">recenzja</a> na koncie naszych JUGowiczów!
 
 <!--more-->
 

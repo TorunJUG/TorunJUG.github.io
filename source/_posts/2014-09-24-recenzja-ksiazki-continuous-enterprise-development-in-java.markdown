@@ -50,6 +50,7 @@ Learn a&nbsp;use-case approach for developing Java enterprise applications in a&
   <p>
   	I strongly recommend this book for every developer who wants to learn new things about modern tools, technologies and testing approach. If you are creating an&nbsp;enterprise or web application - this book is definitely for you.
   </p>
+  <p>Rating: 5/5</p>
 </blockquote>
 
 ### Recenzent

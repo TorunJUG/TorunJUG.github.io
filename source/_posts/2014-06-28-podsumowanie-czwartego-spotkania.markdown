@@ -27,7 +27,7 @@ Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https
 
 Więcej zdjęć możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1524972934392861.1073741832.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/22831782/" target="_blank">Meetupie</a>.
 
-Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
+Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji i nie tylko:
 <ul>
   <li>
     <a href="http://prezi.com/bsocwzn4rfue/arquillian/" target="_blank">

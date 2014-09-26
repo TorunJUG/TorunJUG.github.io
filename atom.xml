@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-09-25T05:51:40+02:00</updated>
+  <updated>2014-09-26T06:32:57+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie piątego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/09/26/podsumowanie-piatego-spotkania/"/>
+    <updated>2014-09-26T06:27:12+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/09/26/podsumowanie-piatego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się pierwsze po wakacjach, a&nbsp;<a href="http://torun.jug.pl/news/2014/09/10/spotkanie-5/">piąte</a> w&nbsp;sumie, spotkanie naszej grupy. Padł rekord frekwencji &ndash; przyszło aż 80 osób! Bardzo dziękujemy wszystkim obecnym i&nbsp;cieszymy się, że zainteresowanie regularnymi spotkaniami nie maleje. Szczególne podziękowania należą się prelegentom &ndash; Arkowi, za bardzo ciekawą prezentację o Hadoopie oraz Łukaszowi, za podzielenie się swoimi doświadczeniami związanymi z&nbsp;tworzeniem ładnych testów jednostkowych. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1NCqqw0PPR-1xFm5XFN05R3UQjFUIhpFr8mnjT8dgANM/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <img class="no-border" src="http://torun.jug.pl/images/meetings/5/meeting-5.jpg" style="margin-bottom: 10px;"/>
+  </div>
+</div>
+
+
+<p>Więcej zdjęć możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1562399327316888.1073741836.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/24748492/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/5/Hadoop_-_szybki_start_by_Arek_Osinski.pdf" target="_blank">
+      <em>Hadoop - szybki start</em></a> (slajdy z&nbsp;prezentacji Arka Osińskiego)
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/5/Sexy_unit_testy_by_Lukasz_Sawicki.pdf" target="_blank">
+      <em>Sexy unit testy</em></a> (slajdy z&nbsp;prezentacji Łukasza Sawickiego)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Continuous Enterprise Development in Java]]></title>
@@ -766,28 +808,6 @@ Od początku przyświeca nam ten sam cel – radość kupowania i sprzedawania o
 <p>Mobilization to największa w&nbsp;Polsce, darmowa konferencja poświęcona w&nbsp;całości tematyce urządzeń mobilnych. Poprzednie edycje stały na bardzo wysokim poziomie, warto więc zarezerwować sobie czas 18-go października i&nbsp;wybrać się na to wydarzenie.</p>
 
 <p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://www.mobilization.pl" target="_blank">mobilization.pl</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nowy książkowy partner]]></title>
-    <link href="http://torun.jug.pl/news/2014/07/21/nowy-ksiazkowy-partner/"/>
-    <updated>2014-07-21T20:56:45+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/07/21/nowy-ksiazkowy-partner</id>
-    <content type="html"><![CDATA[<p>Z&nbsp;przyjemnością informujemy, że&nbsp;pozyskaliśmy nowego partnera dla naszej grupy. Na&nbsp;pokładzie witamy wydawnictwo <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a>!</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://www.packtpub.com" target="_blank" title="Packt Publishing">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/packt-publishing-large.png" alt="Packt Publishing" />
-    </a>
-  </div>
-</div>
-
-
-<p>Dzięki uprzejmości nowego sponsora będziemy mogli wylosować dwa ebooki z&nbsp;katalogu Packt Publishing wśród uczestników każdego kolejnego spotkania.</p>
-
-<p>Możliwe jest również otrzymanie na&nbsp;własność kopii wybranego ebooka w&nbsp;zamian za&nbsp;jego recenzję. Więcej informacji na ten temat możecie znaleźć na naszej <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">grupie dyskusyjnej</a>.</p>
 ]]></content>
   </entry>
   

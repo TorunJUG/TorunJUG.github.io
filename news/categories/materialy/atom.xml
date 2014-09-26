@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-09-25T05:51:40+02:00</updated>
+  <updated>2014-09-26T06:32:57+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie piątego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/09/26/podsumowanie-piatego-spotkania/"/>
+    <updated>2014-09-26T06:27:12+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/09/26/podsumowanie-piatego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się pierwsze po wakacjach, a&nbsp;<a href="/news/2014/09/10/spotkanie-5/">piąte</a> w&nbsp;sumie, spotkanie naszej grupy. Padł rekord frekwencji &ndash; przyszło aż 80 osób! Bardzo dziękujemy wszystkim obecnym i&nbsp;cieszymy się, że zainteresowanie regularnymi spotkaniami nie maleje. Szczególne podziękowania należą się prelegentom &ndash; Arkowi, za bardzo ciekawą prezentację o Hadoopie oraz Łukaszowi, za podzielenie się swoimi doświadczeniami związanymi z&nbsp;tworzeniem ładnych testów jednostkowych. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1NCqqw0PPR-1xFm5XFN05R3UQjFUIhpFr8mnjT8dgANM/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <img class="no-border" src="/images/meetings/5/meeting-5.jpg" style="margin-bottom: 10px;"/>
+  </div>
+</div>
+
+
+<p>Więcej zdjęć możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1562399327316888.1073741836.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/24748492/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="/materials/meetings/5/Hadoop_-_szybki_start_by_Arek_Osinski.pdf" target="_blank">
+      <em>Hadoop - szybki start</em></a> (slajdy z&nbsp;prezentacji Arka Osińskiego)
+  </li>
+  <li>
+    <a href="/materials/meetings/5/Sexy_unit_testy_by_Lukasz_Sawicki.pdf" target="_blank">
+      <em>Sexy unit testy</em></a> (slajdy z&nbsp;prezentacji Łukasza Sawickiego)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie czwartego spotkania]]></title>
@@ -42,7 +84,7 @@
 
 <p>Więcej zdjęć możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1524972934392861.1073741832.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/22831782/" target="_blank">Meetupie</a>.</p>
 
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji i nie tylko:</p>
 
 <ul>
   <li>

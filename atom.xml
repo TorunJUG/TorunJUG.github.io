@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-09-26T06:32:57+02:00</updated>
+  <updated>2014-09-30T21:18:06+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Wideorelacja z Hackathornu #1]]></title>
+    <link href="http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-number-1/"/>
+    <updated>2014-09-30T20:55:40+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-number-1</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2449&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło za realizację nagrania.</p>
+
+<p>Wideorelacja pojawi się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie piątego spotkania]]></title>
@@ -786,28 +810,6 @@ Od początku przyświeca nam ten sam cel – radość kupowania i sprzedawania o
 <p>Od sześciu lat pomaga programistom rozwijać i&nbsp;doskonalić umiejętności pod okiem doświadczonych mentorów. Od trzech lat utrzymywana jest formuła &ldquo;100% warsztatów&rdquo;. Zeszłoroczna, szósta edycja była największą z&nbsp;dotychczasowych i&nbsp;zgromadziła ponad 550 uczestników z&nbsp;całej Polski, którzy ćwiczyli swoje umiejętności w&nbsp;ramach 23 równoległych ścieżek.</p>
 
 <p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://warsjawa.pl" target="_blank">warsjawa.pl</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: Mobilization^4]]></title>
-    <link href="http://torun.jug.pl/news/2014/07/23/zapowiedz-konferencji-mobilization-4/"/>
-    <updated>2014-07-23T05:14:46+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/07/23/zapowiedz-konferencji-mobilization-4</id>
-    <content type="html"><![CDATA[<p>18-go października odbędzie się czwarta edycja konferencji <a href="http://www.mobilization.pl" target="_blank">Mobilization</a>. Wydarzenie jest organizowane przez <a href="http://www.juglodz.pl" target="_blank">Java User Group Łódź</a> i&nbsp;będzie miało miejsce w&nbsp;Łodzi, przy alei Politechniki 4, w&nbsp;budynku Centrum Konferencyjno-Wystawienniczego Międzynarodowych Targów Łódzkich.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://www.mobilization.pl" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/mobilization4.png" alt="Mobilization^4" />
-    </a>
-  </div>
-</div>
-
-
-<p>Mobilization to największa w&nbsp;Polsce, darmowa konferencja poświęcona w&nbsp;całości tematyce urządzeń mobilnych. Poprzednie edycje stały na bardzo wysokim poziomie, warto więc zarezerwować sobie czas 18-go października i&nbsp;wybrać się na to wydarzenie.</p>
-
-<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://www.mobilization.pl" target="_blank">mobilization.pl</a></p>
 ]]></content>
   </entry>
   

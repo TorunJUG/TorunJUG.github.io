@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-09-30T21:18:06+02:00</updated>
+  <updated>2014-09-30T21:21:14+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -18,12 +18,12 @@
     <link href="http://torun.jug.pl/news/2014/09/19/wydawnictwo-apress-naszym-nowym-partnerem/"/>
     <updated>2014-09-19T21:24:45+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/19/wydawnictwo-apress-naszym-nowym-partnerem</id>
-    <content type="html"><![CDATA[<p>Z&nbsp;dumą donosimy, że wszyscy dotychczasowi <a href="/partners/">partnerzy</a> potwierdzili dalszą współpracę i&nbsp;pozostają z&nbsp;nami na kolejny sezon spotkań. To jednak nie koniec dobrych informacji. Grono naszych partnerów powiększyło się właśnie o&nbsp;wydawnictwo <a href="https://www.apress.com" target="_blank">Apress</a>, którego raczej nie musimy nikomu przedstawiać.</p>
+    <content type="html"><![CDATA[<p>Z&nbsp;dumą donosimy, że wszyscy dotychczasowi <a href="{{ root_url }}/partners/">partnerzy</a> potwierdzili dalszą współpracę i&nbsp;pozostają z&nbsp;nami na kolejny sezon spotkań. To jednak nie koniec dobrych informacji. Grono naszych partnerów powiększyło się właśnie o&nbsp;wydawnictwo <a href="https://www.apress.com" target="_blank">Apress</a>, którego raczej nie musimy nikomu przedstawiać.</p>
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="https://www.apress.com" target="_blank" title="Apress">
-      <img class="no-border" src="/images/partners/apress-large.jpg" alt="Apress" />
+      <img class="no-border" src="{{ root_url }}/images/partners/apress-large.jpg" alt="Apress" />
     </a>
   </div>
 </div>
@@ -45,7 +45,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2014.agilebyexample.com" target="_blank">
-      <img class="no-border" src="/images/partners/agile-by-example-2014.jpg" alt="AgileByExample 2014" />
+      <img class="no-border" src="{{ root_url }}/images/partners/agile-by-example-2014.jpg" alt="AgileByExample 2014" />
     </a>
   </div>
 </div>
@@ -82,7 +82,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://mceconf.com" target="_blank">
-      <img class="no-border" src="/images/partners/mce2015.png" alt="Mobile Central Europe 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/mce2015.png" alt="Mobile Central Europe 2015" />
     </a>
   </div>
 </div>
@@ -116,7 +116,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://www.warsjawa.pl" target="_blank">
-      <img class="no-border" src="/images/partners/warsjawa.png" alt="Warsjawa" />
+      <img class="no-border" src="{{ root_url }}/images/partners/warsjawa.png" alt="Warsjawa" />
     </a>
   </div>
 </div>
@@ -140,7 +140,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://www.mobilization.pl" target="_blank">
-      <img class="no-border" src="/images/partners/mobilization4.png" alt="Mobilization^4" />
+      <img class="no-border" src="{{ root_url }}/images/partners/mobilization4.png" alt="Mobilization^4" />
     </a>
   </div>
 </div>

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Nagrania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/nagrania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-09-30T21:21:14+02:00</updated>
+  <updated>2014-10-03T22:35:33+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -14,11 +14,35 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Nagranie z piątego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/10/03/nagranie-z-piatego-spotkania/"/>
+    <updated>2014-10-03T22:22:34+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/10/03/nagranie-z-piatego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2451" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2014/09/10/spotkanie-5/">piątego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2451&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Wideorelacja z Hackathornu #1]]></title>
     <link href="http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1/"/>
     <updated>2014-09-30T20:55:40+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -42,7 +66,7 @@
     <link href="http://torun.jug.pl/news/2014/07/08/nagranie-z-czwartego-spotkania/"/>
     <updated>2014-07-08T20:06:11+02:00</updated>
     <id>http://torun.jug.pl/news/2014/07/08/nagranie-z-czwartego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2425" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{ root_url }}/news/2014/06/07/spotkanie-4/">czwartego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2425" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2014/06/07/spotkanie-4/">czwartego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -66,7 +90,7 @@
     <link href="http://torun.jug.pl/news/2014/06/04/nagranie-z-trzeciego-spotkania/"/>
     <updated>2014-06-04T16:35:24+02:00</updated>
     <id>http://torun.jug.pl/news/2014/06/04/nagranie-z-trzeciego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2390" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{ root_url }}/news/2014/05/07/spotkanie-3/">trzeciego spotkania</a> naszej grupy. Film można obejrzeć poniżej. Niestety, ze względy na drobne problemy techniczne, początkowe 10 minut nagrania zostało utracone.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2390" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2014/05/07/spotkanie-3/">trzeciego spotkania</a> naszej grupy. Film można obejrzeć poniżej. Niestety, ze względy na drobne problemy techniczne, początkowe 10 minut nagrania zostało utracone.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -90,7 +114,7 @@
     <link href="http://torun.jug.pl/news/2014/04/30/nagranie-z-drugiego-spotkania/"/>
     <updated>2014-04-30T10:49:04+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/30/nagranie-z-drugiego-spotkania</id>
-    <content type="html"><![CDATA[<p>Kilka minut temu na stronie <a href="http://tv.umk.pl/?id=2348" target="_blank">UMK TV</a> pojawiło się nagranie <a href="{{ root_url }}/news/2014/04/08/spotkanie-2/">drugiego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Kilka minut temu na stronie <a href="http://tv.umk.pl/?id=2348" target="_blank">UMK TV</a> pojawiło się nagranie <a href="/news/2014/04/08/spotkanie-2/">drugiego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -98,30 +122,6 @@
       <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
       <param name="allowScriptAccess" value="always" />
       <param name="flashVars" value="movieID=2348&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z pierwszego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2014/04/03/nagranie-z-pierwszego-spotkania/"/>
-    <updated>2014-04-03T11:39:14+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/04/03/nagranie-z-pierwszego-spotkania</id>
-    <content type="html"><![CDATA[<p>Kilka minut temu na stronie <a href="http://tv.umk.pl/?id=2332" target="_blank">UMK TV</a> pojawiło się nagranie <a href="{{ root_url }}/news/2014/03/20/spotkanie-1/">pierwszego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=2332&amp;width=640" />
     </object>
   </div>
 </div>

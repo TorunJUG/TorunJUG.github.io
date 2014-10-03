@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-09-30T21:20:42+02:00</updated>
+  <updated>2014-10-03T22:35:33+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z piątego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/10/03/nagranie-z-piatego-spotkania/"/>
+    <updated>2014-10-03T22:22:34+02:00</updated>
+    <id>http://torun.jug.pl/news/2014/10/03/nagranie-z-piatego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2451" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2014/09/10/spotkanie-5/">piątego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2451&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Wideorelacja z Hackathornu #1]]></title>
@@ -786,30 +810,6 @@ Od początku przyświeca nam ten sam cel – radość kupowania i sprzedawania o
 <h3>Szukamy kolejnych odważnych</h3>
 
 <p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a> i <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: Warsjawa 2014]]></title>
-    <link href="http://torun.jug.pl/news/2014/07/24/zapowiedz-konferencji-warsjawa-2014/"/>
-    <updated>2014-07-24T05:19:47+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/07/24/zapowiedz-konferencji-warsjawa-2014</id>
-    <content type="html"><![CDATA[<p>W&nbsp;dniach 26-27 września odbędzie się siódma edycja konferencji <a href="http://warsjawa.pl" target="_blank">Warsjawa</a>. Wydarzenie organizowane jest przez <a href="http://warszawa.jug.pl" target="_blank">Warszawa Java User Group</a> i&nbsp;będzie miało miejsce w&nbsp;Warszawie, przy ulicy Stefana Banacha 2, na wydziale Matematyki, Informatyki i&nbsp;Mechaniki Uniwersytetu Warszawskiego.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://www.warsjawa.pl" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/warsjawa.png" alt="Warsjawa" />
-    </a>
-  </div>
-</div>
-
-
-<p>Warsjawa to konferencja skoncentrowana wokół technologii związanych z&nbsp;językiem Java i&nbsp;platformą JVM (Scala, Groovy), ale pozostaje otwarta również na inne obszary technologii informacyjnych oraz tematy miękkie. Tegoroczna edycja po raz pierwszy będzie trwała dwa dni i&nbsp;jak zwykle będzie darmowa dla wszystkich uczestników.</p>
-
-<p>Od sześciu lat pomaga programistom rozwijać i&nbsp;doskonalić umiejętności pod okiem doświadczonych mentorów. Od trzech lat utrzymywana jest formuła &ldquo;100% warsztatów&rdquo;. Zeszłoroczna, szósta edycja była największą z&nbsp;dotychczasowych i&nbsp;zgromadziła ponad 550 uczestników z&nbsp;całej Polski, którzy ćwiczyli swoje umiejętności w&nbsp;ramach 23 równoległych ścieżek.</p>
-
-<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://warsjawa.pl" target="_blank">warsjawa.pl</a></p>
 ]]></content>
   </entry>
   

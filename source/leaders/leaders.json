@@ -13,7 +13,7 @@
     {
         "name": "Marek Nowicki",
         "photo": "nowicki-marek.jpg",
-        "description": "Programista-naukowiec związany z&nbsp;językiem Java, zajmujący się głównie obliczeniami równoległymi i&nbsp;rozproszonymi w tymże języku.",
+        "description": "Programista-naukowiec związany z&nbsp;językiem Java, zajmujący się głównie obliczeniami równoległymi i&nbsp;rozproszonymi w&nbsp;tymże języku.",
         "urls": {
             "linkedin": "https://www.linkedin.com/in/mareknowicki"
         }
@@ -29,7 +29,7 @@
     {
         "name": "Zbyszko Papierski",
         "photo": "papierski-zbyszko.jpg",
-        "description": "Do niedawna programista Java w Grupie Allegro, aktualnie architekt rozwiązań w tej samej firmie. Czciciel JVM i wszystkiego co z nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz i komiksiarz.",
+        "description": "Do niedawna programista Java w&nbsp;Grupie Allegro, aktualnie architekt rozwiązań w&nbsp;tej samej firmie. Czciciel JVM i&nbsp;wszystkiego co z&nbsp;nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz i&nbsp;komiksiarz.",
         "urls": {
             "twitter": "https://twitter.com/ZPapierski",
             "linkedin": "http://pl.linkedin.com/in/zbyszko",
@@ -71,8 +71,7 @@
     {
         "name": "Błażej Zyglarski",
         "photo": "zyglarski-blazej.jpg",
-        "description": "",
-        "urls": {
-        }
+        "description": "Programista /&nbsp;naukowiec /&nbsp;nauczyciel. Związany z&nbsp;programowaniem obiektowym głównie w&nbsp;języku Java, zarówno w&nbsp;ramach nauczania jak i&nbsp;pracy naukowej. Prywatnie fanatyk nowych technologii (szczególnie mobilnych i&nbsp;webowych).",
+        "urls": {}
     }
 ]

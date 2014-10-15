@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Spotkanie #6 [2014-10-29]"
+description: "Toruń JUG - Spotkanie #6 [2014-10-29]"
+date: 2014-10-15 19:17:25 +0200
+comments: true
+categories: Spotkania
+---
+Szóste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się **w&nbsp;środę, 29 października 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>). 
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/213609002/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych. 
+
+Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1497663360507969/" target="_blank">Facebook</a>. 
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)
+
+**Uwaga!** Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta **dla wszystkich od godziny 17:30**. Serdecznie zapraszamy! <!-- more -->
+
+### Wprowadzenie do modelu aktorów na JVM
+Chciałbym przedstawić model aktorów jako alternatywę do standardowego modelu współbieżności oraz wielowątkowości - czyli asynchroniczne przesyłane wiadomości pomiędzy aktorami zamiast semaforów, locków i&nbsp;innych prób walki z&nbsp;wątkami. Prezentacja oparta będzie o&nbsp;framework Akka.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" />
+#### Mikołaj Fejzer
+Doktorant, zawodowo programista Java, obecnie związany z&nbsp;PayU. Entuzjasta programowania funkcyjnego.
+
+<span class="clearfix"></span>
+### Docker and JBoss – the perfect combination
+In this talk, right after introduction to Docker, Marek will dive into examples how you can leverage this tool to create a&nbsp;deployment environment for your applications. You will see how to cluster WildFly and deploy application to it. Marek will share some tips and tricks too: for example how to manage logs or customize the configuration of WildFly to be able to deploy your applications. Prezentacja będzie po polsku.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/goldmann-marek.jpg" />
+#### Marek Goldmann
+Marek joined Red Hat in January 2009 and started hacking on Cloud-related JBoss projects. Currently Marek leads the WildFly integration effort with the Fedora operating system, and makes sure that JBoss' projects run well on Docker.

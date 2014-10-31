@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-10-21T05:50:02+02:00</updated>
+  <updated>2014-10-31T06:25:08+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie szóstego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/10/31/podsumowanie-szostego-spotkania/"/>
+    <updated>2014-10-31T06:15:15+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/10/31/podsumowanie-szostego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2014/10/15/spotkanie-6/">szóste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Mikołajowi, za wprowadzenie nas do świata aktorów oraz Markowi, za prezentacje o&nbsp;tym jak można efektywnie wykorzystać połączenie Dockera i&nbsp;JBossa. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/18Ug5Hh1bn-1Hs0TyJMMp2ye84NHIKvfe80FSDF8_hs4/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;Facebooku i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/25497692/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/6/Wprowadzenie_do_modelu_aktorow_na_JVM_by_Mikolaj_Fejzer.pdf" target="_blank">
+      <em>Wprowadzenie do modelu aktorów na JVM</em></a> (slajdy z&nbsp;prezentacji Mikołaja Fejzera)
+  </li>
+  <li>
+    <em>Docker and JBoss – the perfect combination</em> (slajdy z&nbsp;prezentacji Marka Goldmanna pojawią się wkrótce)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[10% zniżki na GeeCON Prague 2014!]]></title>
@@ -722,28 +756,6 @@
 
 
 <p>Exea Smart Space znajduje się w&nbsp;budynku C w&nbsp;Toruńskim Parku Technologicznym przy <a href="https://www.google.pl/maps/place/Włocławska+167,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ulicy Włocławskiej 167</a>. Na terenie Parku tuż przy budynku inkubatora znajduje się przestronny parking oraz stojaki na rowery. Zwolennicy komunikacji miejskiej dojadą tu jedną z&nbsp;trzech linii: 11, 19 lub 38 (przystanek &ldquo;Włocławska&rdquo;). Podróż z&nbsp;Placu Rapackiego zajmuje 15 minut. Polecamy sprawdzić trasę za pomocą aplikacji <a href="http://torun.jakdojade.pl" target="_blank">jakdojade.pl</a>.</p>
-
-<p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[[Hackathorn #1] Idea hackathonów]]></title>
-    <link href="http://torun.jug.pl/news/2014/08/21/hackathorn-1-idea-hackathonow/"/>
-    <updated>2014-08-21T11:01:30+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/08/21/hackathorn-1-idea-hackathonow</id>
-    <content type="html"><![CDATA[<p>W&nbsp;związku ze zbliżającym się <a href="http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszym toruńskim hackathonem</a> będziemy stopniowo przybliżać szczegóły tego wydarzenia. Na początek kilka słów o&nbsp;samej idei hackathonów i&nbsp;jak się do nich przygotować.</p>
-
-<p><em>Hackathon</em> (znany również m.in. jako <em>hack day</em>, <em>hackfest</em> lub <em>codefest</em>) to wydarzenie, w&nbsp;którym zespół programistyczny (nie koniecznie tylko programiści) stara się stworzyć działający prototyp oprogramowania. Hackathony trwają zazwyczaj od jednego do kilku dni i&nbsp;są dobrą okazją na pobawienie się programowaniem (i&nbsp;technikami/metodykami, których na co dzień nie mamy okazji używać), poznaniem i&nbsp;spędzeniem miło czasu z&nbsp;&ldquo;ludźmi z branży&rdquo; spoza codziennej pracy, a&nbsp;czasem owocują zawiązaniem się trwałych teamów realizujących wspólne projekty w przyszłości.</p>
-
-<p>Ze względu na niezbyt długi czas trwania hackathonów warto jest się wstępnie do nich przygotować, żeby w dniu samego wydarzenia praca szła efektywanie, a&nbsp;końcowy rezultat był bardziej efektowny. W&nbsp;przygotowaniu do hackathonu powinny pomóc poniższe trzy artykuły:</p>
-
-<ul>
-  <li><a href="http://blog.onemonthrails.com/4-things-you-can-do-to-prepare-for-your-first-hackathon/" target="_blank">4 Things You Should Do To Prepare for a&nbsp;Hackathon</a></li>
-  <li><a href="http://thenextweb.com/dd/2012/04/14/hackathon-survival-guide-9-things-to-make-the-most-of-a-hack-event/" target="_blank">Hackathon survival guide: 9 things to make the most of a&nbsp;hack event</a></li>
-  <li><a href="http://sendgrid.com/blog/prepare-hackathon/" target="_blank">How You Can Prepare for a&nbsp;Hackathon</a></li>
-</ul>
-
 
 <p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
 ]]></content>

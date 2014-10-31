@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-10-21T05:50:02+02:00</updated>
+  <updated>2014-10-31T06:25:08+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie szóstego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/10/31/podsumowanie-szostego-spotkania/"/>
+    <updated>2014-10-31T06:15:15+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/10/31/podsumowanie-szostego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/news/2014/10/15/spotkanie-6/">szóste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Mikołajowi, za wprowadzenie nas do świata aktorów oraz Markowi, za prezentacje o&nbsp;tym jak można efektywnie wykorzystać połączenie Dockera i&nbsp;JBossa. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/18Ug5Hh1bn-1Hs0TyJMMp2ye84NHIKvfe80FSDF8_hs4/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;Facebooku i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/25497692/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="/materials/meetings/6/Wprowadzenie_do_modelu_aktorow_na_JVM_by_Mikolaj_Fejzer.pdf" target="_blank">
+      <em>Wprowadzenie do modelu aktorów na JVM</em></a> (slajdy z&nbsp;prezentacji Mikołaja Fejzera)
+  </li>
+  <li>
+    <em>Docker and JBoss – the perfect combination</em> (slajdy z&nbsp;prezentacji Marka Goldmanna pojawią się wkrótce)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie piątego spotkania]]></title>
@@ -201,55 +235,6 @@
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="https://docs.google.com/forms/d/1OkM_2JqnBZPEUNld_9rmOmWYxxSXgsjTpKxvBJcFPa4/viewform" target="_blank">zgłaszania własnych prelekcji</a>.</p>
 
 <p>Do zobaczenia na następnym spotkaniu!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie pierwszego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2014/03/27/podsumowanie-pierwszego-spotkania/"/>
-    <updated>2014-03-27T11:33:31+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/03/27/podsumowanie-pierwszego-spotkania</id>
-    <content type="html"><![CDATA[<p>Dziękujemy wszystkim za tak liczne przybycie na wczorajsze spotkanie. Frekwencja przerosła nasze najśmielsze oczekiwania. Było nas w sumie około 70 osób!</p>
-
-<div class="row text-center">
-  <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/1/meeting-1.jpg" alt="Zdjęcie na zakończenie pierwszego spotkania" style="margin-bottom: 10px;"/>
-  </div>
-</div>
-
-
-<p>Dzięki temu wiemy, że było warto. To Wy tworzycie tę grupę!</p>
-
-<!--more-->
-
-
-<p>Poniżej znajdują się odnośniki do materiałów z prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="/materials/meetings/1/ClassIndex_-_szybka_alternatywa_dla_skanowania_klas_by_Slawek_Piotrowski.pdf" target="_blank">
-      <em>ClassIndex – szybka alternatywa dla skanowania klas</em></a> (slajdy z prezentacji Sławka Piotrowskiego)
-  </li>
-  <li>
-    <a href="https://github.com/atteo/classindex" target="_blank">
-      Kod źródłowy biblioteki ClassIndex
-    </a>
-  </li>
-  <li>
-    <a href="/materials/meetings/1/Wprowadzenie_do_wybranych_zagadnien_JDK_8_by_Szymon_Stepniak.pdf" target="_blank">
-      <em>Wprowadzenie do wybranych zagadnień JDK 8</em></a> (slajdy z prezentacji Szymona Stępniaka)
-  </li>
-  <li>
-    <a href="https://github.com/wololock/jdk8-demo" target="_blank">
-      Kod źródłowy z prezentacji Szymona
-    </a>
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na temat przebiegu wczorajszego spotkania, to piszcie o tym w komentarzach.</p>
-
-<p>Do zobaczenia na następnym meetingu!</p>
 ]]></content>
   </entry>
   

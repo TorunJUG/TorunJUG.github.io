@@ -12,7 +12,7 @@ Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">
 
 Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/18Ug5Hh1bn-1Hs0TyJMMp2ye84NHIKvfe80FSDF8_hs4/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more-->
 
-Zdjęcia ze spotkania możecie obejrzeć na&nbsp;Facebooku i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/25497692/" target="_blank">Meetupie</a>.
+Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1573015389588615.1073741837.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/25497692/" target="_blank">Meetupie</a>.
 
 Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
 <ul>
@@ -21,7 +21,12 @@ Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
       <em>Wprowadzenie do modelu aktorów na JVM</em></a> (slajdy z&nbsp;prezentacji Mikołaja Fejzera)
   </li>
   <li>
-    <em>Docker and JBoss – the perfect combination</em> (slajdy z&nbsp;prezentacji Marka Goldmanna pojawią się wkrótce)
+    <a href="https://goldmann.pl/presentations/2014-torun-jug-docker/" target="_blank">
+      <em>Docker and JBoss – the perfect combination</em></a> (slajdy z&nbsp;prezentacji Marka Goldmanna)
+  </li>
+  <li>
+    <a href="https://github.com/goldmann/goldmann.pl/tree/master/.presentations/2014-torun-jug-docker/demos" target="_blank">
+      <em>Demówki z prezentacji Marka</em></a>
   </li>
 </ul>
 

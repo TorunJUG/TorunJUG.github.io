@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Spotkanie #7 [2014-11-26]"
+description: "Toruń JUG - Spotkanie #7 [2014-11-26]"
+date: 2014-11-13 06:05:05 +0100
+comments: true
+categories: Spotkania
+---
+Siódme spotkanie toruńskiej grupy użytkowników języka Java odbędzie się **w&nbsp;środę, 26 listopada 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>). 
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/218644526/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1514855825439863/" target="_blank">Facebook</a>. 
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)
+
+**Uwaga!** Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta **dla wszystkich od godziny 17:30**. Serdecznie zapraszamy! <!-- more -->
+
+### Dobre praktyki projektowania systemów dla chmury AWS
+Prezentacja dobrych praktyk projektowania systemów IT w&nbsp;chmurze obliczeniowej. Jak budować wysoko-dostępne, skalowalne i&nbsp;rozproszone geograficznie aplikacje. Wnioski i&nbsp;przykłady będą zaprezentowane na podstawie wdrożeń wykonanych przez prowadzącego - m.in. systemu dla linii lotniczych opartego o&nbsp;usługi Amazon Web Services.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/balinski-michal.jpg" />
+#### Michał Baliński
+Software Architect / IT Manager w&nbsp;firmie AMG.net. Na co dzień zajmuje się Javowymi projektami integracyjnymi (SOA / ESB / REST API), chmurami obliczeniowymi oraz HPC middelware. AWS Certified Solution Architect (Associate).
+
+<span class="clearfix"></span>
+### O co chodzi z tym programowanie funkcyjnym?
+Języki funkcyjne są stare. Przykładowo Erlang pojawił się w&nbsp;1986 roku, a&nbsp;Haskell w&nbsp;1990. Dlaczego dopiero teraz w&nbsp;XXI wieku programiści JVM zainteresowali się tą tematyką? Java w&nbsp;wersji 8 wprowadza sporo elementów programowania funkcyjnego oficjalnie uznając go za wiodący nurt. Czy to po prostu nowy hype? Nowa moda?
+
+Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/modzelewski-piotr.jpg" />
+#### Piotr Modzelewski
+Programista Java pracujący przy systemach wymagających wysokiej wydajności i&nbsp;skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z&nbsp;dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w&nbsp;codziennej pracy. Wierzy w&nbsp;siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i&nbsp;opasłych rozwiązań JEE woli proste i&nbsp;dedykowane rozwiązania.

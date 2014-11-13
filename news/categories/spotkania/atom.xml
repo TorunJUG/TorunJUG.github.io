@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-11-03T05:42:57+01:00</updated>
+  <updated>2014-11-13T05:53:46+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #7 [2014-11-26]]]></title>
+    <link href="http://torun.jug.pl/news/2014/11/13/spotkanie-7/"/>
+    <updated>2014-11-13T06:05:05+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/11/13/spotkanie-7</id>
+    <content type="html"><![CDATA[<p>Siódme spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 26 listopada 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/218644526/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1514855825439863/" target="_blank">Facebook</a>.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)</p>
+
+<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
+
+<h3>Dobre praktyki projektowania systemów dla chmury AWS</h3>
+
+<p>Prezentacja dobrych praktyk projektowania systemów IT w&nbsp;chmurze obliczeniowej. Jak budować wysoko-dostępne, skalowalne i&nbsp;rozproszone geograficznie aplikacje. Wnioski i&nbsp;przykłady będą zaprezentowane na podstawie wdrożeń wykonanych przez prowadzącego &ndash; m.in. systemu dla linii lotniczych opartego o&nbsp;usługi Amazon Web Services.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/balinski-michal.jpg" /></p>
+
+<h4>Michał Baliński</h4>
+
+<p>Software Architect / IT Manager w&nbsp;firmie AMG.net. Na co dzień zajmuje się Javowymi projektami integracyjnymi (SOA / ESB / REST API), chmurami obliczeniowymi oraz HPC middelware. AWS Certified Solution Architect (Associate).</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>O co chodzi z tym programowanie funkcyjnym?</h3>
+
+<p>Języki funkcyjne są stare. Przykładowo Erlang pojawił się w&nbsp;1986 roku, a&nbsp;Haskell w&nbsp;1990. Dlaczego dopiero teraz w&nbsp;XXI wieku programiści JVM zainteresowali się tą tematyką? Java w&nbsp;wersji 8 wprowadza sporo elementów programowania funkcyjnego oficjalnie uznając go za wiodący nurt. Czy to po prostu nowy hype? Nowa moda?</p>
+
+<p>Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/modzelewski-piotr.jpg" /></p>
+
+<h4>Piotr Modzelewski</h4>
+
+<p>Programista Java pracujący przy systemach wymagających wysokiej wydajności i&nbsp;skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z&nbsp;dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w&nbsp;codziennej pracy. Wierzy w&nbsp;siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i&nbsp;opasłych rozwiązań JEE woli proste i&nbsp;dedykowane rozwiązania.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #6 [2014-10-29]]]></title>
@@ -166,59 +207,6 @@ Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie 
 <h4>Paweł &ldquo;Lego&rdquo; Rekowski</h4>
 
 <p>Programista Java (wcześniej PHP) oraz Scrum Master w&nbsp;Grupie Allegro. Miłośnik pełnej automatyzacji wszystkiego co możliwe oraz wirtualizacji środowisk programistycznych. Prywatnie pasjonat zdrowego trybu życia i&nbsp;wszystkiego co jeździ na co najmniej 2&nbsp;kołach :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #2 [2014-04-23]]]></title>
-    <link href="http://torun.jug.pl/news/2014/04/08/spotkanie-2/"/>
-    <updated>2014-04-08T15:01:22+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/04/08/spotkanie-2</id>
-    <content type="html"><![CDATA[<p>Drugie spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 23 kwietnia 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
-
-<p>Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/175597572/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/1402971459975866/" target="_blank">Facebook</a>.</p>
-
-<p>Gorąca prośba do wszystkich, którzy muszą opuścić spotkanie przed czasem o&nbsp;zajmowanie miejsc w&nbsp;pobliży wyjścia, żeby zbytnio nie rozpraszać prelegentów i&nbsp;innych słuchaczy.</p>
-
-<p>Po spotkaniu zapraszamy na małe <a href="https://www.facebook.com/events/850959914918569/" target="_blank">after party</a> ;) <!-- more --></p>
-
-<h3>O fragmentach w Androidzie</h3>
-
-<p>Polityka korzystania z&nbsp;fragmentów w&nbsp;Androidzie nie jest jednoznacznie zdefiniowana. W&nbsp;oficjalnym tutorialu przedstawione są jedynie przykłady zastosowania technologii, brakuje niestety jednoznacznych &ldquo;best practices&rdquo;. W&nbsp;prezentacji przedstawione zostanie ujęcie fragmentów jako pewnego rodzaju luźno wiązanych komponentów i&nbsp;ich interakcjach z&nbsp;aktywnościami. Dodatkowo zaprezentowanych zostanie parę problemów w&nbsp;korzystaniu z&nbsp;fragmentów, na&nbsp;które może natknąć się programista Java rozpoczynający swoją przygodę z&nbsp;Androidem.</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/wojtyna-michal.jpg" /></p>
-
-<h4>Michał Wojtyna</h4>
-
-<p>Doktorant środowiskowych studiów doktoranckich, jednocześnie próbujący rozwinąć swoją własną działalność. Ciągle stara się znaleźć złoty środek między tworzeniem wysokiej jakości oprogramowania, a&nbsp;wymaganiami rynkowymi, mimo tendencji do&nbsp;tworzenia przeprojektowanych rozwiązań.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>JTwig, czyli Twig w Javie</h3>
-
-<p>W&nbsp;Javie brakuje wygodnych systemów templatek. Miło mi będzie zatem przedstawić system templatek, który jest wygodny w&nbsp;użyciu.</p>
-
-<p>Prezentacja będzie pokazywać jak zacząć używać JTwiga w&nbsp;Spring MVC. Opowie o&nbsp;jego możliwościach, zaletach i&nbsp;wadach. Pokazane zostanie jak łatwo rozszerzać JTwig oraz porównana zostanie wydajność i&nbsp;możliwości z&nbsp;innymi systemami templatek (Handlebars, <del>Mustache</del> FreeMarker oraz JSP).</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/boniewicz-maciej.jpg" /></p>
-
-<h4>Maciej Boniewicz</h4>
-
-<p>Programista (programowanie to przede wszystkim sposób myślenia, a&nbsp;nie język) zatrudniony w Allegro. Z&nbsp;Javą zawodowo związany od 10 lat (w&nbsp;tym 4&nbsp;lata przerwy na&nbsp;PHP). Miłośnik tenisa stołowego, aikido, koszykówki, książek i&nbsp;gier strategicznych.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Continuous Delivery</h3>
-
-<p>O&nbsp;tym czym jest Continuous Delivery w&nbsp;duchu agile, jakich elementów wymaga, co dostajemy w&nbsp;zamian? Kilka narzędzi oraz przykładów jak i&nbsp;gdzie to działa.</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/westfalewski-jakub.jpg" /></p>
-
-<h4>Jakub Westfalewski</h4>
-
-<p>W&nbsp;internetach znany jako &ldquo;jwest&rdquo;. Programista w&nbsp;Grupie Allegro. Leniwy miłośnik automatyzacji kochający muzykę i&nbsp;kawę.</p>
 ]]></content>
   </entry>
   

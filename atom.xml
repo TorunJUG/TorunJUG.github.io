@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-11-13T06:10:08+01:00</updated>
+  <updated>2014-11-16T19:20:07+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z szóstego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/11/16/nagranie-z-szostego-spotkania/"/>
+    <updated>2014-11-16T19:09:45+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/11/16/nagranie-z-szostego-spotkania</id>
+    <content type="html"><![CDATA[<p>Kilka dni temu, na stronie <a href="http://tv.umk.pl/?id=2492" target="_blank">UMK TV</a> pojawiło się nagranie <a href="http://torun.jug.pl/news/2014/10/15/spotkanie-6/">szóstego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2492&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #7 [2014-11-26]]]></title>
@@ -769,19 +793,6 @@
 <p>Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 20% zniżki na wejściówkę. Jedyne co trzeba zrobić, to wejść na stronę <a href="http://register.mceconf.com" target="_blank">register.mceconf.com</a> i&nbsp;podczas rejestracji wpisać kod promocyjny, który możecie otrzymać kontaktując się z&nbsp;nami (najlepiej z&nbsp;Piotrem Prądzyńskim).</p>
 
 <p>Zachęcamy do udziału w konferencji, gdyż jest to jedna z najciekawszych pozycji na liście konferencji mobilnych w&nbsp;Polsce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[[Hackathorn #1] Sponsorzy]]></title>
-    <link href="http://torun.jug.pl/news/2014/08/25/hackathorn-1-sponsorzy/"/>
-    <updated>2014-08-25T17:36:39+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/08/25/hackathorn-1-sponsorzy</id>
-    <content type="html"><![CDATA[<p>Żaden poważny darmowy event nie może obyć się bez poważnych sponsorów. Dotyczy to również zbliżającego się <a href="http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>.</p>
-
-<p><a href="http://torun.jug.pl/news/2014/08/23/hackathorn-1-exea-smart-space/">Wspominaliśmy już wcześniej</a>, że współorganizator wydarzenia, jakim jest <a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, zapewni nam miejscówkę i&nbsp;ciepły posiłek. Oprócz Smarta swoją cegiełkę dorzucą również <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Allegro</a> i <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. Dzięki Allegro, każdy z&nbsp;uczestników hackathonu otrzyma pamiątkową koszulkę, a&nbsp;w&nbsp;trakcie kodowania nikomu nie zabraknie przekąsek i&nbsp;napojów. Za sprawą Rule Financial, zwycięska drużyna otrzyma atrakcyjne nagrody książkowe. Więcej szczegółów o&nbsp;naszych sponsorach dowiecie się z&nbsp;<a href="http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego artykułu</a> na temat hackathonu.</p>
-
-<p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
 ]]></content>
   </entry>
   

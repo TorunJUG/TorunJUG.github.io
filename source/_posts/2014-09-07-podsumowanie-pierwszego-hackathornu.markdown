@@ -5,7 +5,7 @@ description: "Krótkie podsumowanie Hackathornu #1, który odbył się wczoraj w
 cover: "/images/hackathons/1/hackathon-1.jpg"
 date: 2014-09-07 13:03:30 +0200
 comments: true
-categories: Hackathony
+categories: [Relacje, Hackathony]
 ---
 <a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Pierwszy toruński hackathon</a> za nami. 12 godzin kodowania minęło w&nbsp;błyskawicznym tempie. Nadeszła pora na małe podsumowanie wczorajszego dnia.
 

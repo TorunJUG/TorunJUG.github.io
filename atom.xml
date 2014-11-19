@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-11-16T19:20:07+01:00</updated>
+  <updated>2014-11-19T06:06:10+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie GeeCON Prague 2014]]></title>
+    <link href="http://torun.jug.pl/news/2014/11/18/podsumowanie-geecon-prague-2014/"/>
+    <updated>2014-11-18T20:41:15+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/11/18/podsumowanie-geecon-prague-2014</id>
+    <content type="html"><![CDATA[<p>Niecały miesiąc temu, w&nbsp;dniach 23-24&nbsp;października, odbyła się konferencja GeeCON w&nbsp;Pradze. Zgromadziła ona ponad 40 prelegentów i&nbsp;600 uczestników. Podczas tych dwóch dni uczestnicy mogli wziąć udział w&nbsp;50 wykładach o&nbsp;tematyce związanej przede wszystkim z&nbsp;Javą. Chętni mogli uczestniczyć również w&nbsp;<a href="http://geecon.cz/workshops/" target="_blank">warsztatach</a> dotyczących Gradle, Javy&nbsp;8 lub <a href="https://archkatas.herokuapp.com" target="_blank">architektury</a>. Na pozostałe tematy uczestnicy mogli porozmawiać przy piwie na zorganizowanym po pierwszym dniu konferencji rejsie po Wełtawie :)</p>
+
+<p>Harmonogram wykładów dostępny jest stronie konferencji (<a href="http://geecon.cz/schedule/" target="_blank">dzień 1</a>, <a href="http://geecon.cz/schedule-day2/" target="_blank">dzień 2</a>). Do większości wykładów załączone zostały materiały w&nbsp;postaci slajdów (dostępne z&nbsp;poziomu <a href="http://geecon.cz/speakers/" target="_blank">prelegentów</a>). Zdjęcia z&nbsp;konferencji można obejrzeć zarówno na <a href="https://plus.google.com/photos/105850113940545414196/albums/6081210147002808449" target="_blank">Google+</a> jak i&nbsp;na <a href="https://facebook.com/media/set/?set=a.10152891945950701.1073741825.354953985700" target="_blank">Facebooku</a>. Na nagrania wideo niestety jeszcze czekamy &ndash; powiadomimy, gdy się pojawią.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z szóstego spotkania]]></title>
@@ -759,40 +770,6 @@
 <p>Chcielibyśmy również przypomnieć o&nbsp;zapoznaniu się z&nbsp;kompletnym <a href="http://torun.jug.pl/materials/hackathons/1/regulamin.pdf" target="_blank">regulaminem</a> zbliżającego się hackathonu.</p>
 
 <p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: Mobile Central Europe 2015. Mamy dla Was 20% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2014/08/26/zapowiedz-konferencji-mobile-central-europe-2015/"/>
-    <updated>2014-08-26T07:30:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/08/26/zapowiedz-konferencji-mobile-central-europe-2015</id>
-    <content type="html"><![CDATA[<p>W&nbsp;dniach 4-6 lutego 2015 roku odbędzie się druga edycja konferencji <a href="http://mceconf.com" target="_blank">Mobile Central Europe</a>. Wydarzenie organizowane jest przez firmę <a href="http://www.polidea.com" target="_blank">Polidea</a> i&nbsp;będzie miało miejsce w&nbsp;Pałac Kultury i&nbsp;Nauki w&nbsp;Warszawie.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://mceconf.com" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/mce2015.png" alt="Mobile Central Europe 2015" />
-    </a>
-  </div>
-</div>
-
-
-<p>Poniżej kilka słów od organizatorów konferencji. <!--more--></p>
-
-<blockquote>
-  <p>
-    Mobile Central Europe is a&nbsp;Warsaw-based mobile technology conference created by geeks for geeks. It&#8217;s two days of intense technical talks about design, coding, testing and anything else that might make you a&nbsp;better developer. MCE&nbsp;2015 is the second edition and it is going to be twice as big as this year: four tracks, fifty speakers, workshops, parties, competitions&#8230; Knowledge and networking galore. First minute tickets are available until the end of August, but there are only a&nbsp;couple left. In September, prices will go up, because of some major announcements: the first speakers are going to be revealed! There&#8217;s already a&nbsp;great number confirmed and they are truly first class specialists.
-  </p>
-  <p>
-    Go to <a href="http://mceconf.com" target="_blank">mceconf.com</a> to see up-to-date info, get the latest news and buy your ticket!
-  </p>
-</blockquote>
-
-
-<p>Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 20% zniżki na wejściówkę. Jedyne co trzeba zrobić, to wejść na stronę <a href="http://register.mceconf.com" target="_blank">register.mceconf.com</a> i&nbsp;podczas rejestracji wpisać kod promocyjny, który możecie otrzymać kontaktując się z&nbsp;nami (najlepiej z&nbsp;Piotrem Prądzyńskim).</p>
-
-<p>Zachęcamy do udziału w konferencji, gdyż jest to jedna z najciekawszych pozycji na liście konferencji mobilnych w&nbsp;Polsce.</p>
 ]]></content>
   </entry>
   

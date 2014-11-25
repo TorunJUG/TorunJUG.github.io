@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-11-19T06:06:10+01:00</updated>
+  <updated>2014-11-25T16:23:23+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -40,17 +40,29 @@
 
 <p><span class="clearfix"></span></p>
 
-<h3>O co chodzi z tym programowanie funkcyjnym?</h3>
+<h3><del>O co chodzi z tym programowanie funkcyjnym?</del></h3>
 
-<p>Języki funkcyjne są stare. Przykładowo Erlang pojawił się w&nbsp;1986 roku, a&nbsp;Haskell w&nbsp;1990. Dlaczego dopiero teraz w&nbsp;XXI wieku programiści JVM zainteresowali się tą tematyką? Java w&nbsp;wersji 8 wprowadza sporo elementów programowania funkcyjnego oficjalnie uznając go za wiodący nurt. Czy to po prostu nowy hype? Nowa moda?</p>
+<p><del>Języki funkcyjne są stare. Przykładowo Erlang pojawił się w&nbsp;1986 roku, a&nbsp;Haskell w&nbsp;1990. Dlaczego dopiero teraz w&nbsp;XXI wieku programiści JVM zainteresowali się tą tematyką? Java w&nbsp;wersji 8 wprowadza sporo elementów programowania funkcyjnego oficjalnie uznając go za wiodący nurt. Czy to po prostu nowy hype? Nowa moda?</del></p>
 
-<p>Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.</p>
+<p><del>Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.</del></p>
 
 <p><img class="no-border speaker-face" src="/images/speakers/modzelewski-piotr.jpg" /></p>
 
-<h4>Piotr Modzelewski</h4>
+<h4><del>Piotr Modzelewski</del></h4>
 
-<p>Programista Java pracujący przy systemach wymagających wysokiej wydajności i&nbsp;skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z&nbsp;dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w&nbsp;codziennej pracy. Wierzy w&nbsp;siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i&nbsp;opasłych rozwiązań JEE woli proste i&nbsp;dedykowane rozwiązania.</p>
+<p><del>Programista Java pracujący przy systemach wymagających wysokiej wydajności i&nbsp;skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z&nbsp;dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w&nbsp;codziennej pracy. Wierzy w&nbsp;siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i&nbsp;opasłych rozwiązań JEE woli proste i&nbsp;dedykowane rozwiązania.</del></p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Wstęp do AngularJS dla programisty Java</h3>
+
+<p>Historia interfejsów użytkownika w świecie Javy jest historią bez szczęśliwego zakończenia. Mnogość rozwiązań wydaje się być tylko ostatnim krzykiem tonącego. Zamiast jednak płakać nad obecną sytuacją oswójmy się z nadchodzącą rewolucją. W tej prezentacji chciałbym pokazać jak w środowiskach opartych o Javę używać jednej z bardziej udanych bibliotek JavasSriptowych &ndash; AngularJS.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/piotrowski-slawek.jpg" /></p>
+
+<h4>Sławek Piotrowski</h4>
+
+<p>Programista Java, obecnie związany z PayU, gdzie zajmuje się rozwijaniem wiodącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, Moonshine.</p>
 ]]></content>
   </entry>
   

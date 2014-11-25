@@ -24,11 +24,19 @@ Prezentacja dobrych praktyk projektowania systemów IT w&nbsp;chmurze obliczenio
 Software Architect / IT Manager w&nbsp;firmie AMG.net. Na co dzień zajmuje się Javowymi projektami integracyjnymi (SOA / ESB / REST API), chmurami obliczeniowymi oraz HPC middelware. AWS Certified Solution Architect (Associate).
 
 <span class="clearfix"></span>
-### O co chodzi z tym programowanie funkcyjnym?
-Języki funkcyjne są stare. Przykładowo Erlang pojawił się w&nbsp;1986 roku, a&nbsp;Haskell w&nbsp;1990. Dlaczego dopiero teraz w&nbsp;XXI wieku programiści JVM zainteresowali się tą tematyką? Java w&nbsp;wersji 8 wprowadza sporo elementów programowania funkcyjnego oficjalnie uznając go za wiodący nurt. Czy to po prostu nowy hype? Nowa moda?
+### ~~O co chodzi z tym programowanie funkcyjnym?~~
+~~Języki funkcyjne są stare. Przykładowo Erlang pojawił się w&nbsp;1986 roku, a&nbsp;Haskell w&nbsp;1990. Dlaczego dopiero teraz w&nbsp;XXI wieku programiści JVM zainteresowali się tą tematyką? Java w&nbsp;wersji 8 wprowadza sporo elementów programowania funkcyjnego oficjalnie uznając go za wiodący nurt. Czy to po prostu nowy hype? Nowa moda?~~
 
-Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.
+~~Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.~~
 
 <img class="no-border speaker-face" src="{{ root_url }}/images/speakers/modzelewski-piotr.jpg" />
-#### Piotr Modzelewski
-Programista Java pracujący przy systemach wymagających wysokiej wydajności i&nbsp;skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z&nbsp;dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w&nbsp;codziennej pracy. Wierzy w&nbsp;siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i&nbsp;opasłych rozwiązań JEE woli proste i&nbsp;dedykowane rozwiązania.
+#### ~~Piotr Modzelewski~~
+~~Programista Java pracujący przy systemach wymagających wysokiej wydajności i&nbsp;skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z&nbsp;dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w&nbsp;codziennej pracy. Wierzy w&nbsp;siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i&nbsp;opasłych rozwiązań JEE woli proste i&nbsp;dedykowane rozwiązania.~~
+
+<span class="clearfix"></span>
+### Wstęp do AngularJS dla programisty Java
+Historia interfejsów użytkownika w świecie Javy jest historią bez szczęśliwego zakończenia. Mnogość rozwiązań wydaje się być tylko ostatnim krzykiem tonącego. Zamiast jednak płakać nad obecną sytuacją oswójmy się z nadchodzącą rewolucją. W tej prezentacji chciałbym pokazać jak w środowiskach opartych o Javę używać jednej z bardziej udanych bibliotek JavasSriptowych - AngularJS.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" />
+#### Sławek Piotrowski
+Programista Java, obecnie związany z PayU, gdzie zajmuje się rozwijaniem wiodącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, Moonshine.

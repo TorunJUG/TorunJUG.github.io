@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-11-25T16:23:23+01:00</updated>
+  <updated>2014-11-28T05:23:55+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie siódmego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/11/28/podsumowanie-siodmego-spotkania/"/>
+    <updated>2014-11-28T05:23:19+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/11/28/podsumowanie-siodmego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2014/11/13/spotkanie-7/">siódme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Michałowi, za wprowadzenie nas do świata AWS oraz Sławkowi, za prezentacje o&nbsp;tym jak rozpocząć przygodę z&nbsp;AngularJS. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1fdxc9puIADKQAzK9GOoGrVFIgG1O3t86kEZagl2_kRY/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1581735912049896.1073741838.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/25762922/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="https://www.slideshare.net/secret/t4uE4WSR1YdlgU" target="_blank">
+      <em>Dobre praktyki projektowania systemów dla chmury AWS</em></a> (slajdy z&nbsp;prezentacji Michała Balińskiego)
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/7/Wstep_do_AngularJS_dla_programisty_Java_by_Slawek_Piotrowski.pdf" target="_blank">
+      <em>Wstęp do AngularJS dla programisty Java</em></a> (slajdy z&nbsp;prezentacji Sławka Piotrowskiego)
+  </li>
+  <li>
+    <a href="https://github.com/sentinelt/angularjs-examples" target="_blank">
+      <em>Demówki z prezentacji Sławka</em></a>
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie GeeCON Prague 2014]]></title>
@@ -765,21 +804,6 @@
 <p>Tuż po wprowadzeniu ruszymy do boju i&nbsp;zaczniemy kodowanie, które potrwa do godziny 21:00. Przewidujemy jedną wspólną, godzinną przerwę, około 16-tej, w&nbsp;trakcie której posilimy się pyszną pizzą sponsorowaną przez <a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>. Wszelkie inne przerwy, np. na małe co nieco (przekąski zapewnia <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Allegro</a>), pozostawiamy w&nbsp;gestii poszczególnych zespołów i&nbsp;uczestników.</p>
 
 <p>O godzinie 21:00 przyjrzymy się owocom pracy zespołów i&nbsp;wybierzemy zwycięzców, którzy otrzymają nagrody ufundowane przez firmą <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. Koniec hackathonu planowany jest na godzinę 22:00.</p>
-
-<p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[[Hackathorn #1] Meetup Challenge]]></title>
-    <link href="http://torun.jug.pl/news/2014/08/27/hackathorn-1-meetup-challenge/"/>
-    <updated>2014-08-27T11:26:16+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/08/27/hackathorn-1-meetup-challenge</id>
-    <content type="html"><![CDATA[<p><a href="http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Hackathorn #1</a> coraz bliżej, <a href="http://torun.jug.pl/news/2014/08/25/hackathorn-1-sponsorzy/">nasi sponsorzy</a> już przygotowują dla Was gadżety i&nbsp;upominki, zaś organizatorzy starają się, aby impreza spełniła Wasze oczekiwania. Kilka dni temu <a href="http://torun.jug.pl/news/2014/08/21/hackathorn-1-idea-hackathonow/">pisaliśmy o&nbsp;ogólnej idei hackathonów</a>. Z&nbsp;artykułów, które dołączyliśmy do tego wpisu mogliście przeczytać, że jedną z&nbsp;ważniejszych rzeczy, jakie należy zrobić przed samą imprezą jest odpowiednio się do niej przygotować.</p>
-
-<p>Hackathon to wiele długich godzin kodowania, dlatego nie zaszkodzi do swojego porannego planu dnia dołożyć kilka prostych ćwiczeń fizycznych, które pozwolą przygotować ciało na ten wysiłek. Nie wolno zapomnieć o&nbsp;przygotowaniu umysłu. Warto poświęcić chwilę czasu na zapoznanie się z&nbsp;<a href="http://www.meetup.com/meetup_api/" target="_blank">Meetup API</a> oraz zakodować kilka prostych przykładów, testując je na <a href="http://www.meetup.com/Meetup-API-Testing/" target="_blank">ogólnodostępnej grupie testowej</a>. Tak przygotowani powinniśmy bez problemu rozwiązać skutecznie zadanie, jakim jest przygotowanie działającego prototypu aplikacji.</p>
-
-<p>Chcielibyśmy również przypomnieć o&nbsp;zapoznaniu się z&nbsp;kompletnym <a href="http://torun.jug.pl/materials/hackathons/1/regulamin.pdf" target="_blank">regulaminem</a> zbliżającego się hackathonu.</p>
 
 <p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
 ]]></content>

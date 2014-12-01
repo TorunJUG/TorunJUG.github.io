@@ -44,7 +44,7 @@ footer: false
   </div>
   <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
     <a class="no-text-decoration" href="http://www.ej-technologies.com/products/jprofiler/overview.html" target="_blank" title="JProfiler">
-      <img class="no-border" src="{{ root_url }}/images/partners/jprofiler.gif" alt="JProfiler" />
+      <img class="no-border" src="{{ root_url }}/images/partners/jprofiler.png" alt="JProfiler" />
     </a>
   </div>
   <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-11-28T05:23:55+01:00</updated>
+  <updated>2014-12-01T18:32:08+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[nofluffjobs.com naszym nowym partnerem]]></title>
+    <link href="http://torun.jug.pl/news/2014/12/01/nofluffjobs-naszym-nowym-partnerem/"/>
+    <updated>2014-12-01T18:12:13+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/12/01/nofluffjobs-naszym-nowym-partnerem</id>
+    <content type="html"><![CDATA[<p>Czy widzieliście już portal <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a>? Jeśli nie, to zachęcamy, żebyście przyjrzeli się mu bliżej.</p>
+
+<p>Jak sami o&nbsp;sobie piszą:</p>
+
+<blockquote>
+<p><a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a> to portal, który wprowadza nowe standardy rekrutacji IT.</p>
+<p>Wszystkie oferty są przejrzyste, porównywalne między sobą oraz zawierają mnóstwo informacji o&nbsp;firmie i&nbsp;projekcie wraz z&nbsp;widełkami płacowymi.</p>
+<p>Celem portalu nofluffjobs.com jest stworzenie "ekosystemu" znanych, cenionych firm, którym zależy na pełnej otwartości w&nbsp;rekrutacji IT.</p>
+</blockquote>
+
+
+
+
+<div class="row text-center" style="margin-bottom: 10px;">
+  <div class="col-md-12">
+    <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">
+      <img class="no-border" src="/images/partners/no_fluff_jobs_com_logo.jpg" alt="nofluffjobs - oferty praca dla informatykow">
+    </a>
+  </div>
+</div>
+
+
+<p>Jest nam bardzo miło zakomunikować, że udało nam się porozumieć z&nbsp;twórcami portalu <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a> i&nbsp;podjąć długoterminową współpracę na zasadach obustronnego partnerstwa. Życzymy twórcom samych sukcesów i&nbsp;czekamy na owoce współpracy :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[10% zniżki na GeeCON Prague 2014!]]></title>
@@ -116,30 +147,6 @@
 <p>Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 20% zniżki na wejściówkę. Jedyne co trzeba zrobić, to wejść na stronę <a href="http://register.mceconf.com" target="_blank">register.mceconf.com</a> i&nbsp;podczas rejestracji wpisać kod promocyjny, który możecie otrzymać kontaktując się z&nbsp;nami (najlepiej z&nbsp;Piotrem Prądzyńskim).</p>
 
 <p>Zachęcamy do udziału w konferencji, gdyż jest to jedna z najciekawszych pozycji na liście konferencji mobilnych w&nbsp;Polsce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: Warsjawa 2014]]></title>
-    <link href="http://torun.jug.pl/news/2014/07/24/zapowiedz-konferencji-warsjawa-2014/"/>
-    <updated>2014-07-24T05:19:47+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/07/24/zapowiedz-konferencji-warsjawa-2014</id>
-    <content type="html"><![CDATA[<p>W&nbsp;dniach 26-27 września odbędzie się siódma edycja konferencji <a href="http://warsjawa.pl" target="_blank">Warsjawa</a>. Wydarzenie organizowane jest przez <a href="http://warszawa.jug.pl" target="_blank">Warszawa Java User Group</a> i&nbsp;będzie miało miejsce w&nbsp;Warszawie, przy ulicy Stefana Banacha 2, na wydziale Matematyki, Informatyki i&nbsp;Mechaniki Uniwersytetu Warszawskiego.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://www.warsjawa.pl" target="_blank">
-      <img class="no-border" src="/images/partners/warsjawa.png" alt="Warsjawa" />
-    </a>
-  </div>
-</div>
-
-
-<p>Warsjawa to konferencja skoncentrowana wokół technologii związanych z&nbsp;językiem Java i&nbsp;platformą JVM (Scala, Groovy), ale pozostaje otwarta również na inne obszary technologii informacyjnych oraz tematy miękkie. Tegoroczna edycja po raz pierwszy będzie trwała dwa dni i&nbsp;jak zwykle będzie darmowa dla wszystkich uczestników.</p>
-
-<p>Od sześciu lat pomaga programistom rozwijać i&nbsp;doskonalić umiejętności pod okiem doświadczonych mentorów. Od trzech lat utrzymywana jest formuła &ldquo;100% warsztatów&rdquo;. Zeszłoroczna, szósta edycja była największą z&nbsp;dotychczasowych i&nbsp;zgromadziła ponad 550 uczestników z&nbsp;całej Polski, którzy ćwiczyli swoje umiejętności w&nbsp;ramach 23 równoległych ścieżek.</p>
-
-<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://warsjawa.pl" target="_blank">warsjawa.pl</a></p>
 ]]></content>
   </entry>
   

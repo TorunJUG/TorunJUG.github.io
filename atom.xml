@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-11-28T05:23:55+01:00</updated>
+  <updated>2014-12-01T18:32:08+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[nofluffjobs.com naszym nowym partnerem]]></title>
+    <link href="http://torun.jug.pl/news/2014/12/01/nofluffjobs-naszym-nowym-partnerem/"/>
+    <updated>2014-12-01T18:12:13+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/12/01/nofluffjobs-naszym-nowym-partnerem</id>
+    <content type="html"><![CDATA[<p>Czy widzieliście już portal <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a>? Jeśli nie, to zachęcamy, żebyście przyjrzeli się mu bliżej.</p>
+
+<p>Jak sami o&nbsp;sobie piszą:</p>
+
+<blockquote>
+<p><a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a> to portal, który wprowadza nowe standardy rekrutacji IT.</p>
+<p>Wszystkie oferty są przejrzyste, porównywalne między sobą oraz zawierają mnóstwo informacji o&nbsp;firmie i&nbsp;projekcie wraz z&nbsp;widełkami płacowymi.</p>
+<p>Celem portalu nofluffjobs.com jest stworzenie &#8220;ekosystemu&#8221; znanych, cenionych firm, którym zależy na pełnej otwartości w&nbsp;rekrutacji IT.</p>
+</blockquote>
+
+
+
+
+<div class="row text-center" style="margin-bottom: 10px;">
+  <div class="col-md-12">
+    <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/no_fluff_jobs_com_logo.jpg" alt="nofluffjobs - oferty praca dla informatykow">
+    </a>
+  </div>
+</div>
+
+
+<p>Jest nam bardzo miło zakomunikować, że udało nam się porozumieć z&nbsp;twórcami portalu <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a> i&nbsp;podjąć długoterminową współpracę na zasadach obustronnego partnerstwa. Życzymy twórcom samych sukcesów i&nbsp;czekamy na owoce współpracy :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie siódmego spotkania]]></title>
@@ -789,23 +820,6 @@
 
 
 <p>Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 15% zniżki na wejściówkę. Jedyne co trzeba zrobić, to wejść na stronę <a href="http://2014.agilebyexample.com/tickets/" target="_blank">2014.agilebyexample.com/tickets/</a> i&nbsp;podczas rejestracji wpisać kod promocyjny, który możecie otrzymać kontaktując się z&nbsp;nami (najlepiej z&nbsp;Piotrem Prądzyńskim).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[[Hackathorn #1] Agenda]]></title>
-    <link href="http://torun.jug.pl/news/2014/08/29/hackathorn-1-agenda/"/>
-    <updated>2014-08-29T11:26:48+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/08/29/hackathorn-1-agenda</id>
-    <content type="html"><![CDATA[<p>Do <a href="http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a> coraz bliżej. Wiecie już wszystko o&nbsp;<a href="http://torun.jug.pl/news/2014/08/23/hackathorn-1-exea-smart-space/">organizatorach</a>, <a href="http://torun.jug.pl/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorach</a> i&nbsp;<a href="http://torun.jug.pl/news/2014/08/27/hackathorn-1-meetup-challenge/">zadaniu</a>. Nadeszła pora, żeby zapoznać się z&nbsp;agendą wydarzenia.</p>
-
-<p>Startujemy o&nbsp;godzinie 10:00. Pierwsze pół godziny przeznaczone jest na przywitanie, rozdanie upominków (m.in. koszulek ufundowanych przez firmę <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Allegro</a>), wprowadzenie do tematu i&nbsp;utworzenie zespołów programistycznych.</p>
-
-<p>Tuż po wprowadzeniu ruszymy do boju i&nbsp;zaczniemy kodowanie, które potrwa do godziny 21:00. Przewidujemy jedną wspólną, godzinną przerwę, około 16-tej, w&nbsp;trakcie której posilimy się pyszną pizzą sponsorowaną przez <a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>. Wszelkie inne przerwy, np. na małe co nieco (przekąski zapewnia <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Allegro</a>), pozostawiamy w&nbsp;gestii poszczególnych zespołów i&nbsp;uczestników.</p>
-
-<p>O godzinie 21:00 przyjrzymy się owocom pracy zespołów i&nbsp;wybierzemy zwycięzców, którzy otrzymają nagrody ufundowane przez firmą <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. Koniec hackathonu planowany jest na godzinę 22:00.</p>
-
-<p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
 ]]></content>
   </entry>
   

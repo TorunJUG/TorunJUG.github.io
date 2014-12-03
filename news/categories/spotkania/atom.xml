@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-03T06:53:27+00:00</updated>
+  <updated>2014-12-03T08:43:20+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Spotkanie #7 [2014-11-26]]]></title>
     <link href="http://torun.jug.pl/news/2014/11/13/spotkanie-7/"/>
-    <updated>2014-11-13T05:05:05+00:00</updated>
+    <updated>2014-11-13T06:05:05+01:00</updated>
     <id>http://torun.jug.pl/news/2014/11/13/spotkanie-7</id>
     <content type="html"><![CDATA[<p>Siódme spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 26 listopada 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
 
@@ -32,7 +32,7 @@
 
 <p>Prezentacja dobrych praktyk projektowania systemów IT w&nbsp;chmurze obliczeniowej. Jak budować wysoko-dostępne, skalowalne i&nbsp;rozproszone geograficznie aplikacje. Wnioski i&nbsp;przykłady będą zaprezentowane na podstawie wdrożeń wykonanych przez prowadzącego &ndash; m.in. systemu dla linii lotniczych opartego o&nbsp;usługi Amazon Web Services.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/balinski-michal.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/balinski-michal.jpg" /></p>
 
 <h4>Michał Baliński</h4>
 
@@ -46,7 +46,7 @@
 
 <p><del>Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.</del></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/modzelewski-piotr.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/modzelewski-piotr.jpg" /></p>
 
 <h4><del>Piotr Modzelewski</del></h4>
 
@@ -58,7 +58,7 @@
 
 <p>Historia interfejsów użytkownika w świecie Javy jest historią bez szczęśliwego zakończenia. Mnogość rozwiązań wydaje się być tylko ostatnim krzykiem tonącego. Zamiast jednak płakać nad obecną sytuacją oswójmy się z nadchodzącą rewolucją. W tej prezentacji chciałbym pokazać jak w środowiskach opartych o Javę używać jednej z bardziej udanych bibliotek JavasSriptowych &ndash; AngularJS.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/piotrowski-slawek.jpg" /></p>
 
 <h4>Sławek Piotrowski</h4>
 
@@ -69,7 +69,7 @@
   <entry>
     <title type="html"><![CDATA[Spotkanie #6 [2014-10-29]]]></title>
     <link href="http://torun.jug.pl/news/2014/10/15/spotkanie-6/"/>
-    <updated>2014-10-15T17:17:25+00:00</updated>
+    <updated>2014-10-15T19:17:25+02:00</updated>
     <id>http://torun.jug.pl/news/2014/10/15/spotkanie-6</id>
     <content type="html"><![CDATA[<p>Szóste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 29 października 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
 
@@ -85,7 +85,7 @@
 
 <p>Chciałbym przedstawić model aktorów jako alternatywę do standardowego modelu współbieżności oraz wielowątkowości &ndash; czyli asynchroniczne przesyłane wiadomości pomiędzy aktorami zamiast semaforów, locków i&nbsp;innych prób walki z&nbsp;wątkami. Prezentacja oparta będzie o&nbsp;framework Akka.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/fejzer-mikolaj.jpg" /></p>
 
 <h4>Mikołaj Fejzer</h4>
 
@@ -97,7 +97,7 @@
 
 <p>In this talk, right after introduction to Docker, Marek will dive into examples how you can leverage this tool to create a&nbsp;deployment environment for your applications. You will see how to cluster WildFly and deploy application to it. Marek will share some tips and tricks too: for example how to manage logs or customize the configuration of WildFly to be able to deploy your applications. Prezentacja będzie po polsku.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/goldmann-marek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/goldmann-marek.jpg" /></p>
 
 <h4>Marek Goldmann</h4>
 
@@ -108,7 +108,7 @@
   <entry>
     <title type="html"><![CDATA[Spotkanie #5 [2014-09-24]]]></title>
     <link href="http://torun.jug.pl/news/2014/09/10/spotkanie-5/"/>
-    <updated>2014-09-10T03:55:23+00:00</updated>
+    <updated>2014-09-10T05:55:23+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/10/spotkanie-5</id>
     <content type="html"><![CDATA[<p>Halo, halo! Nadszedł długo wyczekiwany moment &ndash; wracamy po wakacyjnej przerwie! Mamy nadzieję, że zdążyliście &ldquo;naładować baterie&rdquo; przed nowym sezonem spotkań JUGowych i&nbsp;stawicie się licznie na piąte spotkanie toruńskiego JUGa, które odbędzie się <strong>w&nbsp;środę, 24 września 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
 
@@ -122,7 +122,7 @@
 
 <p>Złapałem się ostatnio na rzeczy, która dla niektórych może wydawać się dziwna (w&nbsp;każdym razie dla mojej żony tak i&nbsp;nie chodzi tu o &nbsp;nietypowe techniki w&nbsp;pożyciu małżeńskim) &ndash; fajnie jest popisać testy. Postrzeganie problemów zmienia się z&nbsp;czasem (nie chcąc pisać &ldquo;z&nbsp;wiekiem&rdquo;). Może z&nbsp;tego samego powodu polubiłem piwo pszeniczne i&nbsp;zacząłem kupować oryginalny software. Tą prezentacją, o&nbsp;temacie z&nbsp;pozoru banalnym, chciałbym zachęcić (szczególnie &ldquo;młodych gniewnych&rdquo;) do pisania lepszych testów jednostkowych, które nie tylko testują ale i&nbsp;potrafią udokumentować kod produkcyjny. Przedstawię zbiór kilku przykładów i&nbsp;propozycji na to, jak zrobić testy bardziej sexy.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/sawicki-lukasz.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/sawicki-lukasz.jpg" /></p>
 
 <h4>Łukasz Sawicki</h4>
 
@@ -134,7 +134,7 @@
 
 <p>Coraz większy napływ informacji do naszych systemów wymaga nowego podejścia do problemu przetwarzania danych. Jak przechować interesujące nas tweety? Co zrobić z&nbsp;nadmiarem logów? Jak zbudować system rekomendacji? Rozwiązaniem naszych problemów może być Hadoop. W&nbsp;trakcie krótkiej prezentacji omówimy podstawowe założenia systemu, wyjaśnimy jak szybko przetwarzać duże zbiory danych oraz uruchomimy nasz pierwszy klaster Hadoopa.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/osinski-arek.png" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/osinski-arek.png" /></p>
 
 <h4>Arek Osiński</h4>
 
@@ -145,7 +145,7 @@
   <entry>
     <title type="html"><![CDATA[Spotkanie #4 [2014-06-27]]]></title>
     <link href="http://torun.jug.pl/news/2014/06/07/spotkanie-4/"/>
-    <updated>2014-06-07T18:01:44+00:00</updated>
+    <updated>2014-06-07T20:01:44+02:00</updated>
     <id>http://torun.jug.pl/news/2014/06/07/spotkanie-4</id>
     <content type="html"><![CDATA[<p>Zgodnie z&nbsp;wcześniejszymi zapowiedziami mamy dla Was niespodziankę &ndash; na czwartym spotkaniu naszej grupy gościć będziemy prawdziwą gwiazdę rocka społeczności Javowej w Polsce &ndash; Jacka Laskowskiego. Z&nbsp;tego względu spotkanie odbędzie się wyjątkowo <strong>w&nbsp;piątek, 27 czerwca 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
 
@@ -161,7 +161,7 @@
 
 <p>Na prezentacji przedstawię narzędzie, które umożliwi pisanie dobrych testów integracyjnych odpalanych na serwerach JEE.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/laskawiec-sebastian.jpg" /></p>
 
 <h4>Sebastian Łaskawiec</h4>
 
@@ -173,7 +173,7 @@
 
 <p>Wspólnie poznajmy użyteczne rozwiązania z&nbsp;ekosystemu Scali z&nbsp;perspektywy sbt &ndash; narzędzia do zarządzania budowaniem projektów w&nbsp;Scali i&nbsp;Javie. Może okazać się wielce pouczającym, jak wiele można się dowiedzieć o&nbsp;danym rozwiązaniu zaglądając przez drzwi kuchenne &ndash; przez konfigurację budowania. Zwykle to właśnie dokumentacja i&nbsp;konfiguracja budowania sprawiają projektom znaczne kłopoty, aby znaleźć osoby chętne do pomocy, co przy odpowiedniej znajomości sbt może okazać się wręcz banalne, a&nbsp;sława i&nbsp;chwała jako członka zespołu uznanego projektu godna pozazdroszczenia. Przyjdź i&nbsp;przekonaj się, jak niewiele trzeba, aby okiełznać sbt, a&nbsp;z&nbsp;nim wiele z&nbsp;projektów scalowych, co bezpośrednio przekłada się na Twoją umiejętność programowania w&nbsp;tym języku. A&nbsp;i&nbsp;wejście w&nbsp;język czy jego narzędzia może być łatwiejsze korzystając z&nbsp;wiedzy o &nbsp;sbt i&nbsp;Typesafe Activator.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskowski-jacek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/laskowski-jacek.jpg" /></p>
 
 <h4>Jacek Laskowski</h4>
 
@@ -184,7 +184,7 @@
   <entry>
     <title type="html"><![CDATA[Spotkanie #3 [2014-05-28]]]></title>
     <link href="http://torun.jug.pl/news/2014/05/07/spotkanie-3/"/>
-    <updated>2014-05-07T12:26:30+00:00</updated>
+    <updated>2014-05-07T14:26:30+02:00</updated>
     <id>http://torun.jug.pl/news/2014/05/07/spotkanie-3</id>
     <content type="html"><![CDATA[<p>Trzecie spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 28 maja 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
 
@@ -201,7 +201,7 @@
 <p>Ktoś z&nbsp;was miał (nie)przyjemność użyć LIKE w&nbsp;bazach MySQLowych? A&nbsp;może zastanawialiście się jak działają popularne wyszukiwarki? Może chcielibyście wstawić na swoją stronę własną?
 Na tej prezentacji przedstawię Wam najpopularniejszą bibliotekę do wyszukiwania w&nbsp;krainach Javowych i&nbsp;nie tylko &ndash;&nbsp;Lucene. Zaprezentuję też najpopularniejsze silniki wyszukiwania na niej oparte &ndash;&nbsp;Solr i&nbsp;ElasticSearch.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/papierski-zbyszko.jpg" /></p>
 
 <h4>Zbyszko Papierski</h4>
 
@@ -214,7 +214,7 @@ Na tej prezentacji przedstawię Wam najpopularniejszą bibliotekę do wyszukiwan
 <p>Każdy, a&nbsp;co najmniej większość z&nbsp;Was miała kiedyś okazje przeżyć chwilę grozy, gdy po zrobieniu projektu &ldquo;na wczoraj&rdquo; okazało się, że jednak będzie trzeba go rozwijać&hellip;
 Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie są niczym nowym, jednak brak ich znajomości i&nbsp;zastosowania w&nbsp;codziennej pracy grożą niewspółmiernym bólem głowy i&nbsp;utratą przyjemności z&nbsp;tego co wszyscy lubimy najbardziej :)</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/rekowski-pawel.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/rekowski-pawel.jpg" /></p>
 
 <h4>Paweł &ldquo;Lego&rdquo; Rekowski</h4>
 

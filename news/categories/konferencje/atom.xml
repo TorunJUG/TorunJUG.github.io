@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-03T06:53:27+00:00</updated>
+  <updated>2014-12-03T08:43:20+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie GeeCON Prague 2014]]></title>
     <link href="http://torun.jug.pl/news/2014/11/18/podsumowanie-geecon-prague-2014/"/>
-    <updated>2014-11-18T19:41:15+00:00</updated>
+    <updated>2014-11-18T20:41:15+01:00</updated>
     <id>http://torun.jug.pl/news/2014/11/18/podsumowanie-geecon-prague-2014</id>
     <content type="html"><![CDATA[<p>Niecały miesiąc temu, w&nbsp;dniach 23-24&nbsp;października, odbyła się konferencja GeeCON w&nbsp;Pradze. Zgromadziła ona ponad 40 prelegentów i&nbsp;600 uczestników. Podczas tych dwóch dni uczestnicy mogli wziąć udział w&nbsp;50 wykładach o&nbsp;tematyce związanej przede wszystkim z&nbsp;Javą. Chętni mogli uczestniczyć również w&nbsp;<a href="http://geecon.cz/workshops/" target="_blank">warsztatach</a> dotyczących Gradle, Javy&nbsp;8 lub <a href="https://archkatas.herokuapp.com" target="_blank">architektury</a>. Na pozostałe tematy uczestnicy mogli porozmawiać przy piwie na zorganizowanym po pierwszym dniu konferencji rejsie po Wełtawie :)</p>
 
@@ -27,7 +27,7 @@
   <entry>
     <title type="html"><![CDATA[10% zniżki na GeeCON Prague 2014!]]></title>
     <link href="http://torun.jug.pl/news/2014/10/17/znizka-na-geecon-prague-2014/"/>
-    <updated>2014-10-17T03:38:45+00:00</updated>
+    <updated>2014-10-17T05:38:45+02:00</updated>
     <id>http://torun.jug.pl/news/2014/10/17/znizka-na-geecon-prague-2014</id>
     <content type="html"><![CDATA[<p>Wiadomość z&nbsp;ostatniej chwili! Właśnie otrzymaliśmy informację od organizatorów konferencji GeeCON o&nbsp;przyznaniu nam 10-procentowej zniżki na bilety na jej pierwszą praską edycję.</p>
 
@@ -40,7 +40,7 @@
   <entry>
     <title type="html"><![CDATA[SOA w skali mikro, czyli architektura oparta na nanoserwisach]]></title>
     <link href="http://torun.jug.pl/news/2014/09/09/soa-w-skali-mikro-czyli-architektura-oparta-na-nanoserwisach/"/>
-    <updated>2014-09-09T03:53:14+00:00</updated>
+    <updated>2014-09-09T05:53:14+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/09/soa-w-skali-mikro-czyli-architektura-oparta-na-nanoserwisach</id>
     <content type="html"><![CDATA[<p>Jeśli nie mieliście jeszcze okazji zobaczyć prezentacji Sławka Piotrowskiego, jednego z&nbsp;pierwszych JUGowiczów, z&nbsp;tegorocznej Confitury, to to jest &ldquo;ostatni moment&rdquo;, jak mawiał doktor Kurpiel ;)</p>
 
@@ -56,14 +56,14 @@
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: AgileByExample 2014. Mamy dla Was 15% zniżki!]]></title>
     <link href="http://torun.jug.pl/news/2014/08/30/zapowiedz-konferencji-agilebyexample-2014/"/>
-    <updated>2014-08-30T06:04:15+00:00</updated>
+    <updated>2014-08-30T08:04:15+02:00</updated>
     <id>http://torun.jug.pl/news/2014/08/30/zapowiedz-konferencji-agilebyexample-2014</id>
     <content type="html"><![CDATA[<p>W&nbsp;dniach 29-31 października 2014 roku odbędzie się czwarta edycja konferencji <a href="http://2014.agilebyexample.com" target="_blank">AgileByExample 2014</a>. Wydarzenie organizowane jest przez grupę <a href="http://www.agilewarsaw.com" target="_blank">AgileWarsaw</a> we współpracy z&nbsp;firmą <a href="http://procognita.pl" target="_blank">ProCognita</a> i&nbsp;będzie miało miejsce w&nbsp;Warszawie.</p>
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2014.agilebyexample.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/agile-by-example-2014.jpg" alt="AgileByExample 2014" />
+      <img class="no-border" src="/images/partners/agile-by-example-2014.jpg" alt="AgileByExample 2014" />
     </a>
   </div>
 </div>
@@ -93,14 +93,14 @@
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: Mobile Central Europe 2015. Mamy dla Was 20% zniżki!]]></title>
     <link href="http://torun.jug.pl/news/2014/08/26/zapowiedz-konferencji-mobile-central-europe-2015/"/>
-    <updated>2014-08-26T05:30:00+00:00</updated>
+    <updated>2014-08-26T07:30:00+02:00</updated>
     <id>http://torun.jug.pl/news/2014/08/26/zapowiedz-konferencji-mobile-central-europe-2015</id>
     <content type="html"><![CDATA[<p>W&nbsp;dniach 4-6 lutego 2015 roku odbędzie się druga edycja konferencji <a href="http://mceconf.com" target="_blank">Mobile Central Europe</a>. Wydarzenie organizowane jest przez firmę <a href="http://www.polidea.com" target="_blank">Polidea</a> i&nbsp;będzie miało miejsce w&nbsp;Pałac Kultury i&nbsp;Nauki w&nbsp;Warszawie.</p>
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://mceconf.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/mce2015.png" alt="Mobile Central Europe 2015" />
+      <img class="no-border" src="/images/partners/mce2015.png" alt="Mobile Central Europe 2015" />
     </a>
   </div>
 </div>

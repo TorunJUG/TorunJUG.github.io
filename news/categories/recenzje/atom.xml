@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Recenzje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/recenzje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-03T06:53:27+00:00</updated>
+  <updated>2014-12-03T08:43:20+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Three.js Essentials]]></title>
     <link href="http://torun.jug.pl/news/2014/10/14/recenzja-ksiazki-three-js-essentials/"/>
-    <updated>2014-10-14T03:26:56+00:00</updated>
+    <updated>2014-10-14T05:26:56+02:00</updated>
     <id>http://torun.jug.pl/news/2014/10/14/recenzja-ksiazki-three-js-essentials</id>
     <content type="html"><![CDATA[<p>Kolejna recenzja książki na koncie toruńskiego JUGowicza! Tym razem <strong>Maciej Mikulski</strong> podzielił się swoimi wrażeniami z&nbsp;lektury <em>Three.js Essentials</em> autorstwa Josa Dirksena.</p>
 
@@ -25,7 +25,7 @@
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/three-js-essentials.jpg" />
+<p><img class="no-border book-cover" src="/images/reviews/books/three-js-essentials.jpg" />
 <strong><em>Three.js Essentials</em></strong></p>
 
 <p>Create beautiful visualizations and 3D scenes using Three.js with this practical, <a href="https://www.packtpub.com/web-development/threejs-essentials" target="_blank">example-rich book</a>. Learn all the core concepts of Three.js, and whether you are targeting mobile devices or desktop browsers, you will gain the necessary skills to build a&nbsp;3D application and improve web performance.</p>
@@ -67,7 +67,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/mikulski-maciej.jpg" />
+<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/mikulski-maciej.jpg" />
 <strong>Maciej Mikulski</strong></p>
 
 <p>Web i&nbsp;Android developer działający pod szyldem <a href="http://sparklab.pl" target="_blank">Sparklab.pl</a>. Łączy pasję programistyczną z&nbsp;działalnością biznesową i&nbsp;marketingową. Współzałożyciel <a href="http://missiontorun.org" target="_blank">Mission: ToRun</a> &ndash; toruńskich spotkań dla przedsiębiorców.</p>
@@ -83,16 +83,16 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Continuous Enterprise Development in Java]]></title>
     <link href="http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java/"/>
-    <updated>2014-09-24T03:51:22+00:00</updated>
+    <updated>2014-09-24T05:51:22+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java</id>
-    <content type="html"><![CDATA[<p><strong>Sebastian Łaskawiec</strong>, którego mieliśmy przyjemność słuchać na naszym <a href="{{ root_url }}/news/2014/06/07/spotkanie-4/">czwartym spotkaniu</a>, popełnił recenzję książki <em>Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian</em> autorstwa Andrew Lee Rubingera i&nbsp;Aslaka Knutsena. To już czwarta <a href="{{ root_url }}/news/categories/recenzje/">recenzja</a> na koncie naszych JUGowiczów!</p>
+    <content type="html"><![CDATA[<p><strong>Sebastian Łaskawiec</strong>, którego mieliśmy przyjemność słuchać na naszym <a href="/news/2014/06/07/spotkanie-4/">czwartym spotkaniu</a>, popełnił recenzję książki <em>Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian</em> autorstwa Andrew Lee Rubingera i&nbsp;Aslaka Knutsena. To już czwarta <a href="/news/categories/recenzje/">recenzja</a> na koncie naszych JUGowiczów!</p>
 
 <!--more-->
 
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/continuous-enterprise-development-in-java.jpg" />
+<p><img class="no-border book-cover" src="/images/reviews/books/continuous-enterprise-development-in-java.jpg" />
 <strong><em>Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian</em></strong></p>
 
 <p>Learn a&nbsp;use-case approach for developing Java enterprise applications in a&nbsp;continuously test-driven fashion. With <a href="http://shop.oreilly.com/product/0636920025368.do" target="_blank">this hands-on guide</a>, authors and JBoss project leaders Andrew Lee Rubinger and Aslak Knutsen show you how to build high-level components, from persistent storage to the user interface, using the Arquillian testing platform and several other JBoss projects and tools.</p>
@@ -138,7 +138,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/laskawiec-sebastian.jpg" />
+<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/laskawiec-sebastian.jpg" />
 <strong>Sebastian Łaskawiec</strong></p>
 
 <p>Senior Software Engineer w firmie Red Hat, interesujący się kontenerami JEE oraz pisaniem dobrego kodu. W&nbsp;wolnym czasie pasjonat nart, łyżew, rolek, a&nbsp;także domowego piwa i&nbsp;dobrych gier.</p>
@@ -154,7 +154,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Functional JavaScript]]></title>
     <link href="http://torun.jug.pl/news/2014/09/17/recenzja-ksiazki-functional-javascript/"/>
-    <updated>2014-09-17T03:59:25+00:00</updated>
+    <updated>2014-09-17T05:59:25+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/17/recenzja-ksiazki-functional-javascript</id>
     <content type="html"><![CDATA[<p>Mamy dla Was kolejną recenzję! <strong>Tomasz Bielawa</strong> zrecenzował książkę <em>Functional JavaScript: Introducing Functional Programming with Underscore.js</em> autorstwa Michaela Fogusa.</p>
 
@@ -163,7 +163,7 @@
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/functional-javascript.jpg" />
+<p><img class="no-border book-cover" src="/images/reviews/books/functional-javascript.jpg" />
 <strong><em>Functional JavaScript: Introducing Functional Programming with Underscore.js</em></strong></p>
 
 <p>How can you overcome JavaScript language oddities and unsafe features? With <a href="http://shop.oreilly.com/product/0636920028857.do" target="_blank">this book</a>, you&rsquo;ll learn how to create code that&rsquo;s beautiful, safe, and simple to understand and test by using JavaScript&rsquo;s functional programming support. Author Michael Fogus shows you how to apply functional-style concepts with Underscore.js, a&nbsp;JavaScript library that facilitates functional programming techniques. Sample code is available on <a href="https://github.com/funjs/book-source" target="_blank">GitHub</a>.</p>
@@ -218,7 +218,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/bielawa-tomasz.jpg" />
+<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/bielawa-tomasz.jpg" />
 <strong>Tomasz Bielawa</strong></p>
 
 <p>Programista i&nbsp;WebDeveloper, miłośnik wszelakich technologii frontendowych, muzyki oraz wszystkiego co można przeczytać. Można mnie znaleźć na Twitterze (<a href="https://twitter.com/bielawka" target="_blank">@bielawka</a>).</p>
@@ -234,7 +234,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: BDD in Action]]></title>
     <link href="http://torun.jug.pl/news/2014/08/12/recenzja-ksiazki-bdd-in-action/"/>
-    <updated>2014-08-12T14:26:19+00:00</updated>
+    <updated>2014-08-12T16:26:19+02:00</updated>
     <id>http://torun.jug.pl/news/2014/08/12/recenzja-ksiazki-bdd-in-action</id>
     <content type="html"><![CDATA[<p><strong>Tadeusz Zalewski</strong> jest kolejnym śmiałkiem, który odważył się napisać recenzję książki w&nbsp;zamian za jej darmowy egzemplarz. Wybór padł na <em>BDD in Action: Behavior-Driven Development for the whole software lifecycle</em> autorstwa Johna Fergusona Smarta.</p>
 
@@ -243,7 +243,7 @@
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/bdd-in-action.jpg" />
+<p><img class="no-border book-cover" src="/images/reviews/books/bdd-in-action.jpg" />
 <strong><em>BDD in Action: Behavior-Driven Development for the whole software lifecycle</em></strong></p>
 
 <p>Behavior-Driven Development starts with a&nbsp;simple idea: you can&rsquo;t write good software if you don&rsquo;t understand what it&rsquo;s supposed to do. BDD is a&nbsp;development process that helps you design better code by writing tests that describe the behavior of an&nbsp;application and its underlying requirements. With an&nbsp;emerging body of best practices with sophisticated new tools that assist in requirement analysis and test automation, BDD has become a&nbsp;hot, increasingly mainstream, approach. Done well, it helps you deliver higher quality software that creates business genuine value.</p>
@@ -279,7 +279,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/zalewski-tadeusz.jpg" />
+<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/zalewski-tadeusz.jpg" />
 <strong>Tadeusz Zalewski</strong></p>
 
 <p>Programista i&nbsp;projektant w&nbsp;Agora S.A. Obecnie rozwija się w&nbsp;obszarach takich jak BDD oraz DDD w&nbsp;celu poprawy jakości relacji biznes&nbsp;&lt;=>&nbsp;IT w&nbsp;procesie wytwarzania oprogramowania.</p>
@@ -295,7 +295,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Functional Programming in Java]]></title>
     <link href="http://torun.jug.pl/news/2014/07/28/recenzja-ksiazki-functional-programming-in-java/"/>
-    <updated>2014-07-28T16:54:33+00:00</updated>
+    <updated>2014-07-28T18:54:33+02:00</updated>
     <id>http://torun.jug.pl/news/2014/07/28/recenzja-ksiazki-functional-programming-in-java</id>
     <content type="html"><![CDATA[<p>Jest nam bardzo miło poinformować, że&nbsp;znalazł się pierwszy odważny ochotnik, który zgłosił się i&nbsp;napisał subiektywną recenzję wybranej przez siebie książki. Honorowy tytuł &ldquo;pierwszego recenzenta toruńskiego JUGa&rdquo; otrzymuje&hellip; <strong>Michał Jaśtak</strong> :)</p>
 
@@ -306,7 +306,7 @@
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/functional-programming-in-java.jpg" />
+<p><img class="no-border book-cover" src="/images/reviews/books/functional-programming-in-java.jpg" />
 <strong><em>Functional Programming in Java: Harnessing the Power of Java&nbsp;8 Lambda Expressions</em></strong></p>
 
 <p>Get ready to program in a&nbsp;whole new way. <a href="http://pragprog.com/book/vsjava8/functional-programming-in-java" target="_blank"><em>Functional Programming in&nbsp;Java</em></a> will help you quickly get on top of the new, essential Java&nbsp;8 language features and the functional style that will change and improve your code. This short, targeted book will help you make the paradigm shift from the old imperative way to a&nbsp;less error-prone, more elegant, and concise coding style that&rsquo;s also a&nbsp;breeze to parallelize. You&rsquo;ll explore the syntax and semantics of&nbsp;lambda expressions, method and constructor references, and functional interfaces. You&rsquo;ll design and write applications better using the new standards in Java&nbsp;8 and the JDK.</p>
@@ -332,7 +332,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/jastak-michal.jpg" />
+<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/jastak-michal.jpg" />
 <strong>Michał Jaśtak</strong></p>
 
 <p>Programista Java z&nbsp;wieloletnim doświadczeniem, pracujący obecnie na stanowisku CTO w&nbsp;firmie AIS.PL. W&nbsp;wolnych chwilach dzieli się własnymi spostrzeżeniami na swoim blogu (<a href="http://vard-lokkur.blogspot.com" target="_blank">Warlock&rsquo;s Thoughts</a>) oraz Twitterze (<a href="https://twitter.com/vardlokkur" target="_blank">@vardlokkur</a>). Prywatnie &ndash; fan <a href="http://eu.battle.net/sc2/pl/profile/933084/1/Anakin/" target="_blank">Protossów</a> ;)</p>

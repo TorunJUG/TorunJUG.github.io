@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Relacje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/relacje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-03T06:53:27+00:00</updated>
+  <updated>2014-12-03T08:43:20+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie GeeCON Prague 2014]]></title>
     <link href="http://torun.jug.pl/news/2014/11/18/podsumowanie-geecon-prague-2014/"/>
-    <updated>2014-11-18T19:41:15+00:00</updated>
+    <updated>2014-11-18T20:41:15+01:00</updated>
     <id>http://torun.jug.pl/news/2014/11/18/podsumowanie-geecon-prague-2014</id>
     <content type="html"><![CDATA[<p>Niecały miesiąc temu, w&nbsp;dniach 23-24&nbsp;października, odbyła się konferencja GeeCON w&nbsp;Pradze. Zgromadziła ona ponad 40 prelegentów i&nbsp;600 uczestników. Podczas tych dwóch dni uczestnicy mogli wziąć udział w&nbsp;50 wykładach o&nbsp;tematyce związanej przede wszystkim z&nbsp;Javą. Chętni mogli uczestniczyć również w&nbsp;<a href="http://geecon.cz/workshops/" target="_blank">warsztatach</a> dotyczących Gradle, Javy&nbsp;8 lub <a href="https://archkatas.herokuapp.com" target="_blank">architektury</a>. Na pozostałe tematy uczestnicy mogli porozmawiać przy piwie na zorganizowanym po pierwszym dniu konferencji rejsie po Wełtawie :)</p>
 
@@ -27,15 +27,15 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie pierwszego Hackathornu]]></title>
     <link href="http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu/"/>
-    <updated>2014-09-07T11:03:30+00:00</updated>
+    <updated>2014-09-07T13:03:30+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu</id>
-    <content type="html"><![CDATA[<p><a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Pierwszy toruński hackathon</a> za nami. 12 godzin kodowania minęło w&nbsp;błyskawicznym tempie. Nadeszła pora na małe podsumowanie wczorajszego dnia.</p>
+    <content type="html"><![CDATA[<p><a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Pierwszy toruński hackathon</a> za nami. 12 godzin kodowania minęło w&nbsp;błyskawicznym tempie. Nadeszła pora na małe podsumowanie wczorajszego dnia.</p>
 
 <p>Hackathorn #1 odbył się w&nbsp;budynku <a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, naszego partnera i&nbsp;współorganizatora wydarzenia.</p>
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-1.jpg" />
+    <img class="no-border" src="/images/hackathons/1/photo-1.jpg" />
   </div>
 </div>
 
@@ -44,7 +44,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-2.jpg" />
+    <img class="no-border" src="/images/hackathons/1/photo-2.jpg" />
   </div>
 </div>
 
@@ -58,7 +58,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-3.jpg" />
+    <img class="no-border" src="/images/hackathons/1/photo-3.jpg" />
   </div>
 </div>
 
@@ -67,7 +67,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-4.jpg" />
+    <img class="no-border" src="/images/hackathons/1/photo-4.jpg" />
   </div>
 </div>
 
@@ -76,7 +76,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-5.jpg" />
+    <img class="no-border" src="/images/hackathons/1/photo-5.jpg" />
   </div>
 </div>
 
@@ -85,16 +85,16 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-6.jpg" />
+    <img class="no-border" src="/images/hackathons/1/photo-6.jpg" />
   </div>
 </div>
 
 
-<p>Były też upominki od <a href="{{ root_url }}/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorów</a>.</p>
+<p>Były też upominki od <a href="/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorów</a>.</p>
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-7.jpg" />
+    <img class="no-border" src="/images/hackathons/1/photo-7.jpg" />
   </div>
 </div>
 
@@ -103,7 +103,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-8.jpg" />
+    <img class="no-border" src="/images/hackathons/1/photo-8.jpg" />
   </div>
 </div>
 
@@ -112,7 +112,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-9.jpg" />
+    <img class="no-border" src="/images/hackathons/1/photo-9.jpg" />
   </div>
 </div>
 

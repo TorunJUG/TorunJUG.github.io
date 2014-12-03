@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-03T06:53:27+00:00</updated>
+  <updated>2014-12-03T08:43:20+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -16,9 +16,9 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie siódmego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/11/28/podsumowanie-siodmego-spotkania/"/>
-    <updated>2014-11-28T04:23:19+00:00</updated>
+    <updated>2014-11-28T05:23:19+01:00</updated>
     <id>http://torun.jug.pl/news/2014/11/28/podsumowanie-siodmego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/news/2014/11/13/spotkanie-7/">siódme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Michałowi, za wprowadzenie nas do świata AWS oraz Sławkowi, za prezentacje o&nbsp;tym jak rozpocząć przygodę z&nbsp;AngularJS. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/news/2014/11/13/spotkanie-7/">siódme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Michałowi, za wprowadzenie nas do świata AWS oraz Sławkowi, za prezentacje o&nbsp;tym jak rozpocząć przygodę z&nbsp;AngularJS. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
 
@@ -34,7 +34,7 @@
       <em>Dobre praktyki projektowania systemów dla chmury AWS</em></a> (slajdy z&nbsp;prezentacji Michała Balińskiego)
   </li>
   <li>
-    <a href="{{root_url}}/materials/meetings/7/Wstep_do_AngularJS_dla_programisty_Java_by_Slawek_Piotrowski.pdf" target="_blank">
+    <a href="/materials/meetings/7/Wstep_do_AngularJS_dla_programisty_Java_by_Slawek_Piotrowski.pdf" target="_blank">
       <em>Wstęp do AngularJS dla programisty Java</em></a> (slajdy z&nbsp;prezentacji Sławka Piotrowskiego)
   </li>
   <li>
@@ -46,7 +46,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -55,9 +55,9 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie szóstego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/10/31/podsumowanie-szostego-spotkania/"/>
-    <updated>2014-10-31T05:15:15+00:00</updated>
+    <updated>2014-10-31T06:15:15+01:00</updated>
     <id>http://torun.jug.pl/news/2014/10/31/podsumowanie-szostego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/news/2014/10/15/spotkanie-6/">szóste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Mikołajowi, za wprowadzenie nas do świata aktorów oraz Markowi, za prezentacje o&nbsp;tym jak można efektywnie wykorzystać połączenie Dockera i&nbsp;JBossa. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/news/2014/10/15/spotkanie-6/">szóste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Mikołajowi, za wprowadzenie nas do świata aktorów oraz Markowi, za prezentacje o&nbsp;tym jak można efektywnie wykorzystać połączenie Dockera i&nbsp;JBossa. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
 
@@ -69,7 +69,7 @@
 
 <ul>
   <li>
-    <a href="{{ root_url }}/materials/meetings/6/Wprowadzenie_do_modelu_aktorow_na_JVM_by_Mikolaj_Fejzer.pdf" target="_blank">
+    <a href="/materials/meetings/6/Wprowadzenie_do_modelu_aktorow_na_JVM_by_Mikolaj_Fejzer.pdf" target="_blank">
       <em>Wprowadzenie do modelu aktorów na JVM</em></a> (slajdy z&nbsp;prezentacji Mikołaja Fejzera)
   </li>
   <li>
@@ -85,7 +85,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -94,9 +94,9 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie piątego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/09/26/podsumowanie-piatego-spotkania/"/>
-    <updated>2014-09-26T04:27:12+00:00</updated>
+    <updated>2014-09-26T06:27:12+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/26/podsumowanie-piatego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się pierwsze po wakacjach, a&nbsp;<a href="{{root_url}}/news/2014/09/10/spotkanie-5/">piąte</a> w&nbsp;sumie, spotkanie naszej grupy. Padł rekord frekwencji &ndash; przyszło aż 80 osób! Bardzo dziękujemy wszystkim obecnym i&nbsp;cieszymy się, że zainteresowanie regularnymi spotkaniami nie maleje. Szczególne podziękowania należą się prelegentom &ndash; Arkowi, za bardzo ciekawą prezentację o Hadoopie oraz Łukaszowi, za podzielenie się swoimi doświadczeniami związanymi z&nbsp;tworzeniem ładnych testów jednostkowych. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się pierwsze po wakacjach, a&nbsp;<a href="/news/2014/09/10/spotkanie-5/">piąte</a> w&nbsp;sumie, spotkanie naszej grupy. Padł rekord frekwencji &ndash; przyszło aż 80 osób! Bardzo dziękujemy wszystkim obecnym i&nbsp;cieszymy się, że zainteresowanie regularnymi spotkaniami nie maleje. Szczególne podziękowania należą się prelegentom &ndash; Arkowi, za bardzo ciekawą prezentację o Hadoopie oraz Łukaszowi, za podzielenie się swoimi doświadczeniami związanymi z&nbsp;tworzeniem ładnych testów jednostkowych. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
 
@@ -104,7 +104,7 @@
 
 <div class="row text-center">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/5/meeting-5.jpg" style="margin-bottom: 10px;"/>
+    <img class="no-border" src="/images/meetings/5/meeting-5.jpg" style="margin-bottom: 10px;"/>
   </div>
 </div>
 
@@ -115,11 +115,11 @@
 
 <ul>
   <li>
-    <a href="{{ root_url }}/materials/meetings/5/Hadoop_-_szybki_start_by_Arek_Osinski.pdf" target="_blank">
+    <a href="/materials/meetings/5/Hadoop_-_szybki_start_by_Arek_Osinski.pdf" target="_blank">
       <em>Hadoop - szybki start</em></a> (slajdy z&nbsp;prezentacji Arka Osińskiego)
   </li>
   <li>
-    <a href="{{ root_url }}/materials/meetings/5/Sexy_unit_testy_by_Lukasz_Sawicki.pdf" target="_blank">
+    <a href="/materials/meetings/5/Sexy_unit_testy_by_Lukasz_Sawicki.pdf" target="_blank">
       <em>Sexy unit testy</em></a> (slajdy z&nbsp;prezentacji Łukasza Sawickiego)
   </li>
 </ul>
@@ -127,7 +127,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i do zobaczenia wkrótce.</p>
 ]]></content>
@@ -136,9 +136,9 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie czwartego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/06/28/podsumowanie-czwartego-spotkania/"/>
-    <updated>2014-06-28T17:52:40+00:00</updated>
+    <updated>2014-06-28T19:52:40+02:00</updated>
     <id>http://torun.jug.pl/news/2014/06/28/podsumowanie-czwartego-spotkania</id>
-    <content type="html"><![CDATA[<p><a href="{{root_url}}/news/2014/06/07/spotkanie-4/">Czwarte spotkanie</a> grupy za nami. Kolejny raz dziękujemy wszystkim za liczne przybycie. Szczególne podziękowania należą się prelegentom &ndash; Sebastianowi, za prezentację o Arquillian oraz Jackowi, za gościnny występ i wprowadzenie nas w podstawy SBT. Mamy nadzieję, że Jacek zaszczyci nas jeszcze swoją obecnością.</p>
+    <content type="html"><![CDATA[<p><a href="/news/2014/06/07/spotkanie-4/">Czwarte spotkanie</a> grupy za nami. Kolejny raz dziękujemy wszystkim za liczne przybycie. Szczególne podziękowania należą się prelegentom &ndash; Sebastianowi, za prezentację o Arquillian oraz Jackowi, za gościnny występ i wprowadzenie nas w podstawy SBT. Mamy nadzieję, że Jacek zaszczyci nas jeszcze swoją obecnością.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
 
@@ -146,7 +146,7 @@
 
 <div class="row text-center">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/4/1.jpg" alt="Jacek Laskowski opowiada o SBT" title="Jacek Laskowski opowiada o SBT" style="margin-bottom: 10px;"/>
+    <img class="no-border" src="/images/meetings/4/1.jpg" alt="Jacek Laskowski opowiada o SBT" title="Jacek Laskowski opowiada o SBT" style="margin-bottom: 10px;"/>
   </div>
 </div>
 
@@ -155,7 +155,7 @@
 
 <div class="row text-center">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/4/2.jpg" alt="Dyskusja na afterparty w Krajinie Piva" title="Dyskusja na afterparty w Krajinie Piva" style="margin-bottom: 10px;"/>
+    <img class="no-border" src="/images/meetings/4/2.jpg" alt="Dyskusja na afterparty w Krajinie Piva" title="Dyskusja na afterparty w Krajinie Piva" style="margin-bottom: 10px;"/>
   </div>
 </div>
 
@@ -184,7 +184,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i do zobaczenia wkrótce.</p>
 ]]></content>
@@ -193,13 +193,13 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie trzeciego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania/"/>
-    <updated>2014-05-30T14:51:50+00:00</updated>
+    <updated>2014-05-30T16:51:50+02:00</updated>
     <id>http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania</id>
-    <content type="html"><![CDATA[<p>Dziękujemy wszystkim i&nbsp;każdemu z&nbsp;osobna za&nbsp;liczne przybycie na&nbsp;<a href="{{root_url}}/news/2014/05/07/spotkanie-3/">trzecie spotkanie</a> naszej grupy. Cieszy nas niezmiernie, że&nbsp;liczba uczestników utrzymuje się wciąż na&nbsp;bardzo dobrym poziomie. Szczególne podziękowania należą się Zbyszkowi i&nbsp;Pawłowi za&nbsp;przygotowanie prezentacji. Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie nam sali oraz każdemu, kto w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Tratwie.</p>
+    <content type="html"><![CDATA[<p>Dziękujemy wszystkim i&nbsp;każdemu z&nbsp;osobna za&nbsp;liczne przybycie na&nbsp;<a href="/news/2014/05/07/spotkanie-3/">trzecie spotkanie</a> naszej grupy. Cieszy nas niezmiernie, że&nbsp;liczba uczestników utrzymuje się wciąż na&nbsp;bardzo dobrym poziomie. Szczególne podziękowania należą się Zbyszkowi i&nbsp;Pawłowi za&nbsp;przygotowanie prezentacji. Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie nam sali oraz każdemu, kto w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Tratwie.</p>
 
 <div class="row text-center">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/3/mug.jpg" alt="Kubek Toruń JUG - upominek dla prelegentów" title="Kubek Toruń JUG - upominek dla prelegentów" style="margin-bottom: 10px;"/>
+    <img class="no-border" src="/images/meetings/3/mug.jpg" alt="Kubek Toruń JUG - upominek dla prelegentów" title="Kubek Toruń JUG - upominek dla prelegentów" style="margin-bottom: 10px;"/>
   </div>
 </div>
 
@@ -212,7 +212,7 @@
 
 <ul>
   <li>
-    <a href="{{root_url}}/materials/meetings/3/Jak_szukac_-_Kilka_slow_o_Lucene_i_jej_znajomych_by_Zbyszko_Papierski.pdf" target="_blank">
+    <a href="/materials/meetings/3/Jak_szukac_-_Kilka_slow_o_Lucene_i_jej_znajomych_by_Zbyszko_Papierski.pdf" target="_blank">
       <em>Jak szukać? – Kilka słów o Lucene i&nbsp;jej znajomych</em></a> (slajdy z&nbsp;prezentacji Zbyszka Papierskiego)
   </li>
   <li>
@@ -221,7 +221,7 @@
     </a>
   </li>
   <li>
-    <a href="{{root_url}}/materials/meetings/3/Historia_pewnego_szkieletora_–_Walking_Skeleton_and_ATDD_by_Pawel_Rekowski.pdf" target="_blank">
+    <a href="/materials/meetings/3/Historia_pewnego_szkieletora_–_Walking_Skeleton_and_ATDD_by_Pawel_Rekowski.pdf" target="_blank">
       <em>Historia pewnego szkieletora – Walking Skeleton &amp;&nbsp;ATDD</em></a> (slajdy z&nbsp;prezentacji Pawła Rekowskiego)
   </li>
 </ul>
@@ -229,7 +229,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i do zobaczenia niebawem.</p>
 ]]></content>

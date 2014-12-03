@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Recenzje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/recenzje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-01T18:53:19+01:00</updated>
+  <updated>2014-12-03T06:53:27+00:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Three.js Essentials]]></title>
     <link href="http://torun.jug.pl/news/2014/10/14/recenzja-ksiazki-three-js-essentials/"/>
-    <updated>2014-10-14T05:26:56+02:00</updated>
+    <updated>2014-10-14T03:26:56+00:00</updated>
     <id>http://torun.jug.pl/news/2014/10/14/recenzja-ksiazki-three-js-essentials</id>
     <content type="html"><![CDATA[<p>Kolejna recenzja książki na koncie toruńskiego JUGowicza! Tym razem <strong>Maciej Mikulski</strong> podzielił się swoimi wrażeniami z&nbsp;lektury <em>Three.js Essentials</em> autorstwa Josa Dirksena.</p>
 
@@ -83,7 +83,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Continuous Enterprise Development in Java]]></title>
     <link href="http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java/"/>
-    <updated>2014-09-24T05:51:22+02:00</updated>
+    <updated>2014-09-24T03:51:22+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java</id>
     <content type="html"><![CDATA[<p><strong>Sebastian Łaskawiec</strong>, którego mieliśmy przyjemność słuchać na naszym <a href="{{ root_url }}/news/2014/06/07/spotkanie-4/">czwartym spotkaniu</a>, popełnił recenzję książki <em>Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian</em> autorstwa Andrew Lee Rubingera i&nbsp;Aslaka Knutsena. To już czwarta <a href="{{ root_url }}/news/categories/recenzje/">recenzja</a> na koncie naszych JUGowiczów!</p>
 
@@ -154,7 +154,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Functional JavaScript]]></title>
     <link href="http://torun.jug.pl/news/2014/09/17/recenzja-ksiazki-functional-javascript/"/>
-    <updated>2014-09-17T05:59:25+02:00</updated>
+    <updated>2014-09-17T03:59:25+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/17/recenzja-ksiazki-functional-javascript</id>
     <content type="html"><![CDATA[<p>Mamy dla Was kolejną recenzję! <strong>Tomasz Bielawa</strong> zrecenzował książkę <em>Functional JavaScript: Introducing Functional Programming with Underscore.js</em> autorstwa Michaela Fogusa.</p>
 
@@ -234,7 +234,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: BDD in Action]]></title>
     <link href="http://torun.jug.pl/news/2014/08/12/recenzja-ksiazki-bdd-in-action/"/>
-    <updated>2014-08-12T16:26:19+02:00</updated>
+    <updated>2014-08-12T14:26:19+00:00</updated>
     <id>http://torun.jug.pl/news/2014/08/12/recenzja-ksiazki-bdd-in-action</id>
     <content type="html"><![CDATA[<p><strong>Tadeusz Zalewski</strong> jest kolejnym śmiałkiem, który odważył się napisać recenzję książki w&nbsp;zamian za jej darmowy egzemplarz. Wybór padł na <em>BDD in Action: Behavior-Driven Development for the whole software lifecycle</em> autorstwa Johna Fergusona Smarta.</p>
 
@@ -295,7 +295,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Functional Programming in Java]]></title>
     <link href="http://torun.jug.pl/news/2014/07/28/recenzja-ksiazki-functional-programming-in-java/"/>
-    <updated>2014-07-28T18:54:33+02:00</updated>
+    <updated>2014-07-28T16:54:33+00:00</updated>
     <id>http://torun.jug.pl/news/2014/07/28/recenzja-ksiazki-functional-programming-in-java</id>
     <content type="html"><![CDATA[<p>Jest nam bardzo miło poinformować, że&nbsp;znalazł się pierwszy odważny ochotnik, który zgłosił się i&nbsp;napisał subiektywną recenzję wybranej przez siebie książki. Honorowy tytuł &ldquo;pierwszego recenzenta toruńskiego JUGa&rdquo; otrzymuje&hellip; <strong>Michał Jaśtak</strong> :)</p>
 

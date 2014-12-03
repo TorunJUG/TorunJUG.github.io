@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-01T18:52:06+01:00</updated>
+  <updated>2014-12-03T06:50:35+00:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[nofluffjobs.com naszym nowym partnerem]]></title>
     <link href="http://torun.jug.pl/news/2014/12/01/nofluffjobs-naszym-nowym-partnerem/"/>
-    <updated>2014-12-01T18:12:13+01:00</updated>
+    <updated>2014-12-01T17:12:13+00:00</updated>
     <id>http://torun.jug.pl/news/2014/12/01/nofluffjobs-naszym-nowym-partnerem</id>
     <content type="html"><![CDATA[<p>Czy widzieliście już portal <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a>? Jeśli nie, to zachęcamy, żebyście przyjrzeli się mu bliżej.</p>
 
@@ -47,7 +47,7 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie siódmego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/11/28/podsumowanie-siodmego-spotkania/"/>
-    <updated>2014-11-28T05:23:19+01:00</updated>
+    <updated>2014-11-28T04:23:19+00:00</updated>
     <id>http://torun.jug.pl/news/2014/11/28/podsumowanie-siodmego-spotkania</id>
     <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2014/11/13/spotkanie-7/">siódme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Michałowi, za wprowadzenie nas do świata AWS oraz Sławkowi, za prezentacje o&nbsp;tym jak rozpocząć przygodę z&nbsp;AngularJS. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
@@ -86,7 +86,7 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie GeeCON Prague 2014]]></title>
     <link href="http://torun.jug.pl/news/2014/11/18/podsumowanie-geecon-prague-2014/"/>
-    <updated>2014-11-18T20:41:15+01:00</updated>
+    <updated>2014-11-18T19:41:15+00:00</updated>
     <id>http://torun.jug.pl/news/2014/11/18/podsumowanie-geecon-prague-2014</id>
     <content type="html"><![CDATA[<p>Niecały miesiąc temu, w&nbsp;dniach 23-24&nbsp;października, odbyła się konferencja GeeCON w&nbsp;Pradze. Zgromadziła ona ponad 40 prelegentów i&nbsp;600 uczestników. Podczas tych dwóch dni uczestnicy mogli wziąć udział w&nbsp;50 wykładach o&nbsp;tematyce związanej przede wszystkim z&nbsp;Javą. Chętni mogli uczestniczyć również w&nbsp;<a href="http://geecon.cz/workshops/" target="_blank">warsztatach</a> dotyczących Gradle, Javy&nbsp;8 lub <a href="https://archkatas.herokuapp.com" target="_blank">architektury</a>. Na pozostałe tematy uczestnicy mogli porozmawiać przy piwie na zorganizowanym po pierwszym dniu konferencji rejsie po Wełtawie :)</p>
 
@@ -97,7 +97,7 @@
   <entry>
     <title type="html"><![CDATA[Nagranie z szóstego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/11/16/nagranie-z-szostego-spotkania/"/>
-    <updated>2014-11-16T19:09:45+01:00</updated>
+    <updated>2014-11-16T18:09:45+00:00</updated>
     <id>http://torun.jug.pl/news/2014/11/16/nagranie-z-szostego-spotkania</id>
     <content type="html"><![CDATA[<p>Kilka dni temu, na stronie <a href="http://tv.umk.pl/?id=2492" target="_blank">UMK TV</a> pojawiło się nagranie <a href="http://torun.jug.pl/news/2014/10/15/spotkanie-6/">szóstego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
 
@@ -121,7 +121,7 @@
   <entry>
     <title type="html"><![CDATA[Spotkanie #7 [2014-11-26]]]></title>
     <link href="http://torun.jug.pl/news/2014/11/13/spotkanie-7/"/>
-    <updated>2014-11-13T06:05:05+01:00</updated>
+    <updated>2014-11-13T05:05:05+00:00</updated>
     <id>http://torun.jug.pl/news/2014/11/13/spotkanie-7</id>
     <content type="html"><![CDATA[<p>Siódme spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 26 listopada 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
 
@@ -174,7 +174,7 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie szóstego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/10/31/podsumowanie-szostego-spotkania/"/>
-    <updated>2014-10-31T06:15:15+01:00</updated>
+    <updated>2014-10-31T05:15:15+00:00</updated>
     <id>http://torun.jug.pl/news/2014/10/31/podsumowanie-szostego-spotkania</id>
     <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2014/10/15/spotkanie-6/">szóste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Mikołajowi, za wprowadzenie nas do świata aktorów oraz Markowi, za prezentacje o&nbsp;tym jak można efektywnie wykorzystać połączenie Dockera i&nbsp;JBossa. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
@@ -213,7 +213,7 @@
   <entry>
     <title type="html"><![CDATA[10% zniżki na GeeCON Prague 2014!]]></title>
     <link href="http://torun.jug.pl/news/2014/10/17/znizka-na-geecon-prague-2014/"/>
-    <updated>2014-10-17T05:38:45+02:00</updated>
+    <updated>2014-10-17T03:38:45+00:00</updated>
     <id>http://torun.jug.pl/news/2014/10/17/znizka-na-geecon-prague-2014</id>
     <content type="html"><![CDATA[<p>Wiadomość z&nbsp;ostatniej chwili! Właśnie otrzymaliśmy informację od organizatorów konferencji GeeCON o&nbsp;przyznaniu nam 10-procentowej zniżki na bilety na jej pierwszą praską edycję.</p>
 
@@ -226,7 +226,7 @@
   <entry>
     <title type="html"><![CDATA[Spotkanie #6 [2014-10-29]]]></title>
     <link href="http://torun.jug.pl/news/2014/10/15/spotkanie-6/"/>
-    <updated>2014-10-15T19:17:25+02:00</updated>
+    <updated>2014-10-15T17:17:25+00:00</updated>
     <id>http://torun.jug.pl/news/2014/10/15/spotkanie-6</id>
     <content type="html"><![CDATA[<p>Szóste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 29 października 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
 
@@ -265,7 +265,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Three.js Essentials]]></title>
     <link href="http://torun.jug.pl/news/2014/10/14/recenzja-ksiazki-three-js-essentials/"/>
-    <updated>2014-10-14T05:26:56+02:00</updated>
+    <updated>2014-10-14T03:26:56+00:00</updated>
     <id>http://torun.jug.pl/news/2014/10/14/recenzja-ksiazki-three-js-essentials</id>
     <content type="html"><![CDATA[<p>Kolejna recenzja książki na koncie toruńskiego JUGowicza! Tym razem <strong>Maciej Mikulski</strong> podzielił się swoimi wrażeniami z&nbsp;lektury <em>Three.js Essentials</em> autorstwa Josa Dirksena.</p>
 
@@ -332,7 +332,7 @@
   <entry>
     <title type="html"><![CDATA[Nagranie z piątego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/10/03/nagranie-z-piatego-spotkania/"/>
-    <updated>2014-10-03T22:22:34+02:00</updated>
+    <updated>2014-10-03T20:22:34+00:00</updated>
     <id>http://torun.jug.pl/news/2014/10/03/nagranie-z-piatego-spotkania</id>
     <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2451" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2014/09/10/spotkanie-5/">piątego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
 
@@ -356,7 +356,7 @@
   <entry>
     <title type="html"><![CDATA[Wideorelacja z Hackathornu #1]]></title>
     <link href="http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1/"/>
-    <updated>2014-09-30T20:55:40+02:00</updated>
+    <updated>2014-09-30T18:55:40+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1</id>
     <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
 
@@ -380,7 +380,7 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie piątego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2014/09/26/podsumowanie-piatego-spotkania/"/>
-    <updated>2014-09-26T06:27:12+02:00</updated>
+    <updated>2014-09-26T04:27:12+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/26/podsumowanie-piatego-spotkania</id>
     <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się pierwsze po wakacjach, a&nbsp;<a href="http://torun.jug.pl/news/2014/09/10/spotkanie-5/">piąte</a> w&nbsp;sumie, spotkanie naszej grupy. Padł rekord frekwencji &ndash; przyszło aż 80 osób! Bardzo dziękujemy wszystkim obecnym i&nbsp;cieszymy się, że zainteresowanie regularnymi spotkaniami nie maleje. Szczególne podziękowania należą się prelegentom &ndash; Arkowi, za bardzo ciekawą prezentację o Hadoopie oraz Łukaszowi, za podzielenie się swoimi doświadczeniami związanymi z&nbsp;tworzeniem ładnych testów jednostkowych. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
@@ -422,7 +422,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Continuous Enterprise Development in Java]]></title>
     <link href="http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java/"/>
-    <updated>2014-09-24T05:51:22+02:00</updated>
+    <updated>2014-09-24T03:51:22+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java</id>
     <content type="html"><![CDATA[<p><strong>Sebastian Łaskawiec</strong>, którego mieliśmy przyjemność słuchać na naszym <a href="http://torun.jug.pl/news/2014/06/07/spotkanie-4/">czwartym spotkaniu</a>, popełnił recenzję książki <em>Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian</em> autorstwa Andrew Lee Rubingera i&nbsp;Aslaka Knutsena. To już czwarta <a href="http://torun.jug.pl/news/categories/recenzje/">recenzja</a> na koncie naszych JUGowiczów!</p>
 
@@ -493,7 +493,7 @@
   <entry>
     <title type="html"><![CDATA[Wydawnictwo Apress naszym nowym partnerem]]></title>
     <link href="http://torun.jug.pl/news/2014/09/19/wydawnictwo-apress-naszym-nowym-partnerem/"/>
-    <updated>2014-09-19T21:24:45+02:00</updated>
+    <updated>2014-09-19T19:24:45+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/19/wydawnictwo-apress-naszym-nowym-partnerem</id>
     <content type="html"><![CDATA[<p>Z&nbsp;dumą donosimy, że wszyscy dotychczasowi <a href="http://torun.jug.pl/partners/">partnerzy</a> potwierdzili dalszą współpracę i&nbsp;pozostają z&nbsp;nami na kolejny sezon spotkań. To jednak nie koniec dobrych informacji. Grono naszych partnerów powiększyło się właśnie o&nbsp;wydawnictwo <a href="https://www.apress.com" target="_blank">Apress</a>, którego raczej nie musimy nikomu przedstawiać.</p>
 
@@ -515,7 +515,7 @@
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Functional JavaScript]]></title>
     <link href="http://torun.jug.pl/news/2014/09/17/recenzja-ksiazki-functional-javascript/"/>
-    <updated>2014-09-17T05:59:25+02:00</updated>
+    <updated>2014-09-17T03:59:25+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/17/recenzja-ksiazki-functional-javascript</id>
     <content type="html"><![CDATA[<p>Mamy dla Was kolejną recenzję! <strong>Tomasz Bielawa</strong> zrecenzował książkę <em>Functional JavaScript: Introducing Functional Programming with Underscore.js</em> autorstwa Michaela Fogusa.</p>
 
@@ -595,7 +595,7 @@
   <entry>
     <title type="html"><![CDATA[Spotkanie #5 [2014-09-24]]]></title>
     <link href="http://torun.jug.pl/news/2014/09/10/spotkanie-5/"/>
-    <updated>2014-09-10T05:55:23+02:00</updated>
+    <updated>2014-09-10T03:55:23+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/10/spotkanie-5</id>
     <content type="html"><![CDATA[<p>Halo, halo! Nadszedł długo wyczekiwany moment &ndash; wracamy po wakacyjnej przerwie! Mamy nadzieję, że zdążyliście &ldquo;naładować baterie&rdquo; przed nowym sezonem spotkań JUGowych i&nbsp;stawicie się licznie na piąte spotkanie toruńskiego JUGa, które odbędzie się <strong>w&nbsp;środę, 24 września 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
 
@@ -632,7 +632,7 @@
   <entry>
     <title type="html"><![CDATA[SOA w skali mikro, czyli architektura oparta na nanoserwisach]]></title>
     <link href="http://torun.jug.pl/news/2014/09/09/soa-w-skali-mikro-czyli-architektura-oparta-na-nanoserwisach/"/>
-    <updated>2014-09-09T05:53:14+02:00</updated>
+    <updated>2014-09-09T03:53:14+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/09/soa-w-skali-mikro-czyli-architektura-oparta-na-nanoserwisach</id>
     <content type="html"><![CDATA[<p>Jeśli nie mieliście jeszcze okazji zobaczyć prezentacji Sławka Piotrowskiego, jednego z&nbsp;pierwszych JUGowiczów, z&nbsp;tegorocznej Confitury, to to jest &ldquo;ostatni moment&rdquo;, jak mawiał doktor Kurpiel ;)</p>
 
@@ -648,7 +648,7 @@
   <entry>
     <title type="html"><![CDATA[#TRNon The Party!]]></title>
     <link href="http://torun.jug.pl/news/2014/09/08/trnon-the-party/"/>
-    <updated>2014-09-08T18:22:44+02:00</updated>
+    <updated>2014-09-08T16:22:44+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/08/trnon-the-party</id>
     <content type="html"><![CDATA[<p>Wspólnie z&nbsp;<a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, <a href="https://www.facebook.com/pitchstoptv" target="_blank">Pitchstop</a> i&nbsp;<a href="https://www.facebook.com/pages/SIM-Toru%C5%84/355494957889158" target="_blank">SIM Toruń</a> chcielibyśmy Was zaprosić na imprezę jakiej w Toruniu jeszcze nie było &ndash; <a href="http://trnon.pl" target="_blank">#TRNon The Party!</a> Impreza dla wszystkich, którzy robią internety i&nbsp;chcą się poznać.</p>
 
@@ -668,7 +668,7 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie pierwszego Hackathornu]]></title>
     <link href="http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu/"/>
-    <updated>2014-09-07T13:03:30+02:00</updated>
+    <updated>2014-09-07T11:03:30+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu</id>
     <content type="html"><![CDATA[<p><a href="http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Pierwszy toruński hackathon</a> za nami. 12 godzin kodowania minęło w&nbsp;błyskawicznym tempie. Nadeszła pora na małe podsumowanie wczorajszego dnia.</p>
 
@@ -789,7 +789,7 @@
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: AgileByExample 2014. Mamy dla Was 15% zniżki!]]></title>
     <link href="http://torun.jug.pl/news/2014/08/30/zapowiedz-konferencji-agilebyexample-2014/"/>
-    <updated>2014-08-30T08:04:15+02:00</updated>
+    <updated>2014-08-30T06:04:15+00:00</updated>
     <id>http://torun.jug.pl/news/2014/08/30/zapowiedz-konferencji-agilebyexample-2014</id>
     <content type="html"><![CDATA[<p>W&nbsp;dniach 29-31 października 2014 roku odbędzie się czwarta edycja konferencji <a href="http://2014.agilebyexample.com" target="_blank">AgileByExample 2014</a>. Wydarzenie organizowane jest przez grupę <a href="http://www.agilewarsaw.com" target="_blank">AgileWarsaw</a> we współpracy z&nbsp;firmą <a href="http://procognita.pl" target="_blank">ProCognita</a> i&nbsp;będzie miało miejsce w&nbsp;Warszawie.</p>
 

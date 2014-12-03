@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Hackathony | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/hackathony/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-01T18:53:19+01:00</updated>
+  <updated>2014-12-03T06:53:27+00:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Wideorelacja z Hackathornu #1]]></title>
     <link href="http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1/"/>
-    <updated>2014-09-30T20:55:40+02:00</updated>
+    <updated>2014-09-30T18:55:40+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1</id>
     <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
 
@@ -40,7 +40,7 @@
   <entry>
     <title type="html"><![CDATA[Podsumowanie pierwszego Hackathornu]]></title>
     <link href="http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu/"/>
-    <updated>2014-09-07T13:03:30+02:00</updated>
+    <updated>2014-09-07T11:03:30+00:00</updated>
     <id>http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu</id>
     <content type="html"><![CDATA[<p><a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Pierwszy toruński hackathon</a> za nami. 12 godzin kodowania minęło w&nbsp;błyskawicznym tempie. Nadeszła pora na małe podsumowanie wczorajszego dnia.</p>
 
@@ -161,7 +161,7 @@
   <entry>
     <title type="html"><![CDATA[[Hackathorn #1] Agenda]]></title>
     <link href="http://torun.jug.pl/news/2014/08/29/hackathorn-1-agenda/"/>
-    <updated>2014-08-29T11:26:48+02:00</updated>
+    <updated>2014-08-29T09:26:48+00:00</updated>
     <id>http://torun.jug.pl/news/2014/08/29/hackathorn-1-agenda</id>
     <content type="html"><![CDATA[<p>Do <a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a> coraz bliżej. Wiecie już wszystko o&nbsp;<a href="{{ root_url }}/news/2014/08/23/hackathorn-1-exea-smart-space/">organizatorach</a>, <a href="{{ root_url }}/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorach</a> i&nbsp;<a href="{{ root_url }}/news/2014/08/27/hackathorn-1-meetup-challenge/">zadaniu</a>. Nadeszła pora, żeby zapoznać się z&nbsp;agendą wydarzenia.</p>
 
@@ -178,7 +178,7 @@
   <entry>
     <title type="html"><![CDATA[[Hackathorn #1] Meetup Challenge]]></title>
     <link href="http://torun.jug.pl/news/2014/08/27/hackathorn-1-meetup-challenge/"/>
-    <updated>2014-08-27T11:26:16+02:00</updated>
+    <updated>2014-08-27T09:26:16+00:00</updated>
     <id>http://torun.jug.pl/news/2014/08/27/hackathorn-1-meetup-challenge</id>
     <content type="html"><![CDATA[<p><a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Hackathorn #1</a> coraz bliżej, <a href="{{ root_url }}/news/2014/08/25/hackathorn-1-sponsorzy/">nasi sponsorzy</a> już przygotowują dla Was gadżety i&nbsp;upominki, zaś organizatorzy starają się, aby impreza spełniła Wasze oczekiwania. Kilka dni temu <a href="{{ root_url }}/news/2014/08/21/hackathorn-1-idea-hackathonow/">pisaliśmy o&nbsp;ogólnej idei hackathonów</a>. Z&nbsp;artykułów, które dołączyliśmy do tego wpisu mogliście przeczytać, że jedną z&nbsp;ważniejszych rzeczy, jakie należy zrobić przed samą imprezą jest odpowiednio się do niej przygotować.</p>
 
@@ -193,7 +193,7 @@
   <entry>
     <title type="html"><![CDATA[[Hackathorn #1] Sponsorzy]]></title>
     <link href="http://torun.jug.pl/news/2014/08/25/hackathorn-1-sponsorzy/"/>
-    <updated>2014-08-25T17:36:39+02:00</updated>
+    <updated>2014-08-25T15:36:39+00:00</updated>
     <id>http://torun.jug.pl/news/2014/08/25/hackathorn-1-sponsorzy</id>
     <content type="html"><![CDATA[<p>Żaden poważny darmowy event nie może obyć się bez poważnych sponsorów. Dotyczy to również zbliżającego się <a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>.</p>
 

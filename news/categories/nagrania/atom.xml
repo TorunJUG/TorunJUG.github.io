@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Nagrania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/nagrania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-03T08:43:20+01:00</updated>
+  <updated>2014-12-03T08:50:28+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -18,7 +18,7 @@
     <link href="http://torun.jug.pl/news/2014/11/16/nagranie-z-szostego-spotkania/"/>
     <updated>2014-11-16T19:09:45+01:00</updated>
     <id>http://torun.jug.pl/news/2014/11/16/nagranie-z-szostego-spotkania</id>
-    <content type="html"><![CDATA[<p>Kilka dni temu, na stronie <a href="http://tv.umk.pl/?id=2492" target="_blank">UMK TV</a> pojawiło się nagranie <a href="/news/2014/10/15/spotkanie-6/">szóstego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Kilka dni temu, na stronie <a href="http://tv.umk.pl/?id=2492" target="_blank">UMK TV</a> pojawiło się nagranie <a href="{{ root_url }}/news/2014/10/15/spotkanie-6/">szóstego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -42,7 +42,7 @@
     <link href="http://torun.jug.pl/news/2014/10/03/nagranie-z-piatego-spotkania/"/>
     <updated>2014-10-03T22:22:34+02:00</updated>
     <id>http://torun.jug.pl/news/2014/10/03/nagranie-z-piatego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2451" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2014/09/10/spotkanie-5/">piątego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2451" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{ root_url }}/news/2014/09/10/spotkanie-5/">piątego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -66,7 +66,7 @@
     <link href="http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1/"/>
     <updated>2014-09-30T20:55:40+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -90,7 +90,7 @@
     <link href="http://torun.jug.pl/news/2014/07/08/nagranie-z-czwartego-spotkania/"/>
     <updated>2014-07-08T20:06:11+02:00</updated>
     <id>http://torun.jug.pl/news/2014/07/08/nagranie-z-czwartego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2425" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2014/06/07/spotkanie-4/">czwartego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2425" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{ root_url }}/news/2014/06/07/spotkanie-4/">czwartego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -114,7 +114,7 @@
     <link href="http://torun.jug.pl/news/2014/06/04/nagranie-z-trzeciego-spotkania/"/>
     <updated>2014-06-04T16:35:24+02:00</updated>
     <id>http://torun.jug.pl/news/2014/06/04/nagranie-z-trzeciego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2390" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2014/05/07/spotkanie-3/">trzeciego spotkania</a> naszej grupy. Film można obejrzeć poniżej. Niestety, ze względy na drobne problemy techniczne, początkowe 10 minut nagrania zostało utracone.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2390" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{ root_url }}/news/2014/05/07/spotkanie-3/">trzeciego spotkania</a> naszej grupy. Film można obejrzeć poniżej. Niestety, ze względy na drobne problemy techniczne, początkowe 10 minut nagrania zostało utracone.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-03T08:50:28+01:00</updated>
+  <updated>2014-12-04T09:38:01+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #8 [2014-12-17]]]></title>
+    <link href="http://torun.jug.pl/news/2014/12/04/spotkanie-8/"/>
+    <updated>2014-12-04T09:31:34+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/12/04/spotkanie-8</id>
+    <content type="html"><![CDATA[<p>Ósme spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 17 grudnia 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/219060454/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/639427786165648/" target="_blank">Facebook</a>.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)</p>
+
+<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
+
+<h3>Pytaj albo Rób, czyli mały wstęp do CQRS</h3>
+
+<p>Nie samym kodem człowiek żyje, więc najwyższa pora opowiedzieć troszeczkę na temat fajnych pomysłów na architekturę. Jednym z&nbsp;najbardziej istotnych jest CQRS &ndash; Command Query Responsibility Separation. Idea, choć w&nbsp;swoich podstawach dość prosta, pozwala nam na tworzenie szybkich, łatwo rozszerzalnych aplikacji.</p>
+
+<p>Podczas prezentacji przedstawię podstawowe zastosowanie CQRS, a&nbsp;także postaram się opowiedzieć o&nbsp;tym, za pomocą jakich narzędzi można stworzyć szybko aplikację opartą na zasadach tego wzorca.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/papierski-zbyszko.jpg" /></p>
+
+<h4>Zbyszko Papierski</h4>
+
+<p>Architekt rozwiązań w Grupie Allegro, czciciel JVM i&nbsp;wszystkiego co z&nbsp;nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz i&nbsp;komiksiarz.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>9 lat pracy zdalnej &ndash; czego się nauczyłem? Jak efektywnie pracować w&nbsp;zespole rozproszonym?</h3>
+
+<p>Na przestrzeni ostatnich 9&nbsp;lat pracowałem zdalnie w&nbsp;4&nbsp;zupełnie różnych zespołach &ndash; w&nbsp;korporacji (JBoss/Red Hat), w&nbsp;międzynarodowym startupie (Vocado), we własnej firmie (SoftwareMill) i&nbsp;jako trener/konsultant (BNS IT).</p>
+
+<p>Chciałbym podzielić się swoim doświadczeniem zarówno z&nbsp;perspektywy osoby pracującej zdalnie, jak i&nbsp;z&nbsp;perspektywy wyzwań stojących przed całym zespołem.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/wrzeszcz-pawel.png" /></p>
+
+<h4>Paweł Wrzeszcz</h4>
+
+<p>Trener, konsultant w&nbsp;BNS IT. Współtwórca sukcesu w&nbsp;pełni rozproszonej, zwinnej i&nbsp;pozbawionej managerów firmy SoftwareMill. Mieszka w&nbsp;Warszawie. Pochodzi z&nbsp;Torunia. Blog: <a href="http://pawel.wrzesz.cz" target="_blank">pawel.wrzesz.cz</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #7 [2014-11-26]]]></title>
@@ -32,7 +75,7 @@
 
 <p>Prezentacja dobrych praktyk projektowania systemów IT w&nbsp;chmurze obliczeniowej. Jak budować wysoko-dostępne, skalowalne i&nbsp;rozproszone geograficznie aplikacje. Wnioski i&nbsp;przykłady będą zaprezentowane na podstawie wdrożeń wykonanych przez prowadzącego &ndash; m.in. systemu dla linii lotniczych opartego o&nbsp;usługi Amazon Web Services.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/balinski-michal.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/balinski-michal.jpg" /></p>
 
 <h4>Michał Baliński</h4>
 
@@ -46,7 +89,7 @@
 
 <p><del>Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.</del></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/modzelewski-piotr.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/modzelewski-piotr.jpg" /></p>
 
 <h4><del>Piotr Modzelewski</del></h4>
 
@@ -58,7 +101,7 @@
 
 <p>Historia interfejsów użytkownika w świecie Javy jest historią bez szczęśliwego zakończenia. Mnogość rozwiązań wydaje się być tylko ostatnim krzykiem tonącego. Zamiast jednak płakać nad obecną sytuacją oswójmy się z nadchodzącą rewolucją. W tej prezentacji chciałbym pokazać jak w środowiskach opartych o Javę używać jednej z bardziej udanych bibliotek JavasSriptowych &ndash; AngularJS.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/piotrowski-slawek.jpg" /></p>
 
 <h4>Sławek Piotrowski</h4>
 
@@ -85,7 +128,7 @@
 
 <p>Chciałbym przedstawić model aktorów jako alternatywę do standardowego modelu współbieżności oraz wielowątkowości &ndash; czyli asynchroniczne przesyłane wiadomości pomiędzy aktorami zamiast semaforów, locków i&nbsp;innych prób walki z&nbsp;wątkami. Prezentacja oparta będzie o&nbsp;framework Akka.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/fejzer-mikolaj.jpg" /></p>
 
 <h4>Mikołaj Fejzer</h4>
 
@@ -97,7 +140,7 @@
 
 <p>In this talk, right after introduction to Docker, Marek will dive into examples how you can leverage this tool to create a&nbsp;deployment environment for your applications. You will see how to cluster WildFly and deploy application to it. Marek will share some tips and tricks too: for example how to manage logs or customize the configuration of WildFly to be able to deploy your applications. Prezentacja będzie po polsku.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/goldmann-marek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/goldmann-marek.jpg" /></p>
 
 <h4>Marek Goldmann</h4>
 
@@ -122,7 +165,7 @@
 
 <p>Złapałem się ostatnio na rzeczy, która dla niektórych może wydawać się dziwna (w&nbsp;każdym razie dla mojej żony tak i&nbsp;nie chodzi tu o &nbsp;nietypowe techniki w&nbsp;pożyciu małżeńskim) &ndash; fajnie jest popisać testy. Postrzeganie problemów zmienia się z&nbsp;czasem (nie chcąc pisać &ldquo;z&nbsp;wiekiem&rdquo;). Może z&nbsp;tego samego powodu polubiłem piwo pszeniczne i&nbsp;zacząłem kupować oryginalny software. Tą prezentacją, o&nbsp;temacie z&nbsp;pozoru banalnym, chciałbym zachęcić (szczególnie &ldquo;młodych gniewnych&rdquo;) do pisania lepszych testów jednostkowych, które nie tylko testują ale i&nbsp;potrafią udokumentować kod produkcyjny. Przedstawię zbiór kilku przykładów i&nbsp;propozycji na to, jak zrobić testy bardziej sexy.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/sawicki-lukasz.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/sawicki-lukasz.jpg" /></p>
 
 <h4>Łukasz Sawicki</h4>
 
@@ -134,7 +177,7 @@
 
 <p>Coraz większy napływ informacji do naszych systemów wymaga nowego podejścia do problemu przetwarzania danych. Jak przechować interesujące nas tweety? Co zrobić z&nbsp;nadmiarem logów? Jak zbudować system rekomendacji? Rozwiązaniem naszych problemów może być Hadoop. W&nbsp;trakcie krótkiej prezentacji omówimy podstawowe założenia systemu, wyjaśnimy jak szybko przetwarzać duże zbiory danych oraz uruchomimy nasz pierwszy klaster Hadoopa.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/osinski-arek.png" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/osinski-arek.png" /></p>
 
 <h4>Arek Osiński</h4>
 
@@ -161,7 +204,7 @@
 
 <p>Na prezentacji przedstawię narzędzie, które umożliwi pisanie dobrych testów integracyjnych odpalanych na serwerach JEE.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/laskawiec-sebastian.jpg" /></p>
 
 <h4>Sebastian Łaskawiec</h4>
 
@@ -173,52 +216,11 @@
 
 <p>Wspólnie poznajmy użyteczne rozwiązania z&nbsp;ekosystemu Scali z&nbsp;perspektywy sbt &ndash; narzędzia do zarządzania budowaniem projektów w&nbsp;Scali i&nbsp;Javie. Może okazać się wielce pouczającym, jak wiele można się dowiedzieć o&nbsp;danym rozwiązaniu zaglądając przez drzwi kuchenne &ndash; przez konfigurację budowania. Zwykle to właśnie dokumentacja i&nbsp;konfiguracja budowania sprawiają projektom znaczne kłopoty, aby znaleźć osoby chętne do pomocy, co przy odpowiedniej znajomości sbt może okazać się wręcz banalne, a&nbsp;sława i&nbsp;chwała jako członka zespołu uznanego projektu godna pozazdroszczenia. Przyjdź i&nbsp;przekonaj się, jak niewiele trzeba, aby okiełznać sbt, a&nbsp;z&nbsp;nim wiele z&nbsp;projektów scalowych, co bezpośrednio przekłada się na Twoją umiejętność programowania w&nbsp;tym języku. A&nbsp;i&nbsp;wejście w&nbsp;język czy jego narzędzia może być łatwiejsze korzystając z&nbsp;wiedzy o &nbsp;sbt i&nbsp;Typesafe Activator.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskowski-jacek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/laskowski-jacek.jpg" /></p>
 
 <h4>Jacek Laskowski</h4>
 
 <p>Jacek is a&nbsp;Java/Scala software developer with few Scala gigs under his belt. He runs a&nbsp;Scala project &ndash; <a href="https://github.com/jaceklaskowski/scalania" target="_blank">scalania</a> &ndash; on GitHub that gave birth Scala meetings in Warsaw, Poland that ultimately ended up as an initiative under <a href="https://twitter.com/WarszawScaLa" target="_blank">@WarszawScaLa</a> &ndash; a&nbsp;Scala user group in Warsaw. He builds his reputation in the tools he uses daily answering questions on <a href="http://stackoverflow.com/users/1305344/jacek-laskowski" target="_blank">StackOverflow</a> and contributing to open source projects on <a href="https://github.com/jaceklaskowski" target="_blank">GitHub</a>. You can follow him on twitter as <a href="https://twitter.com/jaceklaskowski" target="_blank">@jaceklaskowski</a>. He blogs at <a href="http://japila.pl" target="_blank">japila.pl</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #3 [2014-05-28]]]></title>
-    <link href="http://torun.jug.pl/news/2014/05/07/spotkanie-3/"/>
-    <updated>2014-05-07T14:26:30+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/05/07/spotkanie-3</id>
-    <content type="html"><![CDATA[<p>Trzecie spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 28 maja 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
-
-<p>Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/181665332/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/668690036529979/" target="_blank">Facebook</a>.</p>
-
-<p>Gorąca prośba do wszystkich, którzy muszą opuścić spotkanie przed czasem o&nbsp;zajmowanie miejsc w&nbsp;pobliży wyjścia, żeby zbytnio nie rozpraszać prelegentów i&nbsp;innych słuchaczy.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na piwo i pogaduchy &ndash; tym razem do pubu Tratwa :)<!-- more --></p>
-
-<h3>Jak szukać? &ndash; Kilka słów o Lucene i&nbsp;jej znajomych</h3>
-
-<p>Ktoś z&nbsp;was miał (nie)przyjemność użyć LIKE w&nbsp;bazach MySQLowych? A&nbsp;może zastanawialiście się jak działają popularne wyszukiwarki? Może chcielibyście wstawić na swoją stronę własną?
-Na tej prezentacji przedstawię Wam najpopularniejszą bibliotekę do wyszukiwania w&nbsp;krainach Javowych i&nbsp;nie tylko &ndash;&nbsp;Lucene. Zaprezentuję też najpopularniejsze silniki wyszukiwania na niej oparte &ndash;&nbsp;Solr i&nbsp;ElasticSearch.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" /></p>
-
-<h4>Zbyszko Papierski</h4>
-
-<p>Do niedawna programista Java w&nbsp;Grupie Allegro, aktualnie architekt rozwiązań w&nbsp;tej samej firmie. Czciciel JVM i&nbsp;wszystkiego co z&nbsp;nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Historia pewnego szkieletora &ndash; Walking Skeleton &amp;&nbsp;ATDD</h3>
-
-<p>Każdy, a&nbsp;co najmniej większość z&nbsp;Was miała kiedyś okazje przeżyć chwilę grozy, gdy po zrobieniu projektu &ldquo;na wczoraj&rdquo; okazało się, że jednak będzie trzeba go rozwijać&hellip;
-Chciałbym wyciągnąć z&nbsp;szafy metodologie i&nbsp;paradygmaty, które nie są niczym nowym, jednak brak ich znajomości i&nbsp;zastosowania w&nbsp;codziennej pracy grożą niewspółmiernym bólem głowy i&nbsp;utratą przyjemności z&nbsp;tego co wszyscy lubimy najbardziej :)</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/rekowski-pawel.jpg" /></p>
-
-<h4>Paweł &ldquo;Lego&rdquo; Rekowski</h4>
-
-<p>Programista Java (wcześniej PHP) oraz Scrum Master w&nbsp;Grupie Allegro. Miłośnik pełnej automatyzacji wszystkiego co możliwe oraz wirtualizacji środowisk programistycznych. Prywatnie pasjonat zdrowego trybu życia i&nbsp;wszystkiego co jeździ na co najmniej 2&nbsp;kołach :)</p>
 ]]></content>
   </entry>
   

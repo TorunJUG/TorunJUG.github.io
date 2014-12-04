@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-03T08:43:20+01:00</updated>
+  <updated>2014-12-04T09:38:01+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #8 [2014-12-17]]]></title>
+    <link href="http://torun.jug.pl/news/2014/12/04/spotkanie-8/"/>
+    <updated>2014-12-04T09:31:34+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/12/04/spotkanie-8</id>
+    <content type="html"><![CDATA[<p>Ósme spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 17 grudnia 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/219060454/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/639427786165648/" target="_blank">Facebook</a>.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)</p>
+
+<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
+
+<h3>Pytaj albo Rób, czyli mały wstęp do CQRS</h3>
+
+<p>Nie samym kodem człowiek żyje, więc najwyższa pora opowiedzieć troszeczkę na temat fajnych pomysłów na architekturę. Jednym z&nbsp;najbardziej istotnych jest CQRS &ndash; Command Query Responsibility Separation. Idea, choć w&nbsp;swoich podstawach dość prosta, pozwala nam na tworzenie szybkich, łatwo rozszerzalnych aplikacji.</p>
+
+<p>Podczas prezentacji przedstawię podstawowe zastosowanie CQRS, a&nbsp;także postaram się opowiedzieć o&nbsp;tym, za pomocą jakich narzędzi można stworzyć szybko aplikację opartą na zasadach tego wzorca.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/papierski-zbyszko.jpg" /></p>
+
+<h4>Zbyszko Papierski</h4>
+
+<p>Architekt rozwiązań w Grupie Allegro, czciciel JVM i&nbsp;wszystkiego co z&nbsp;nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz i&nbsp;komiksiarz.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>9 lat pracy zdalnej &ndash; czego się nauczyłem? Jak efektywnie pracować w&nbsp;zespole rozproszonym?</h3>
+
+<p>Na przestrzeni ostatnich 9&nbsp;lat pracowałem zdalnie w&nbsp;4&nbsp;zupełnie różnych zespołach &ndash; w&nbsp;korporacji (JBoss/Red Hat), w&nbsp;międzynarodowym startupie (Vocado), we własnej firmie (SoftwareMill) i&nbsp;jako trener/konsultant (BNS IT).</p>
+
+<p>Chciałbym podzielić się swoim doświadczeniem zarówno z&nbsp;perspektywy osoby pracującej zdalnie, jak i&nbsp;z&nbsp;perspektywy wyzwań stojących przed całym zespołem.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/wrzeszcz-pawel.png" /></p>
+
+<h4>Paweł Wrzeszcz</h4>
+
+<p>Trener, konsultant w&nbsp;BNS IT. Współtwórca sukcesu w&nbsp;pełni rozproszonej, zwinnej i&nbsp;pozbawionej managerów firmy SoftwareMill. Mieszka w&nbsp;Warszawie. Pochodzi z&nbsp;Torunia. Blog: <a href="http://pawel.wrzesz.cz" target="_blank">pawel.wrzesz.cz</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[nofluffjobs.com naszym nowym partnerem]]></title>
@@ -783,43 +826,6 @@
 <p>Nie mniejsze podziękowania należą się wszystkim uczestnikom. Bez Was i&nbsp;Waszego zapału nie bawilibyśmy się tak świetnie. Mamy nadzieję, że możemy na Was liczyć również następnym razem.</p>
 
 <p>Don&rsquo;t worry! Hackathorn will return!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: AgileByExample 2014. Mamy dla Was 15% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2014/08/30/zapowiedz-konferencji-agilebyexample-2014/"/>
-    <updated>2014-08-30T08:04:15+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/08/30/zapowiedz-konferencji-agilebyexample-2014</id>
-    <content type="html"><![CDATA[<p>W&nbsp;dniach 29-31 października 2014 roku odbędzie się czwarta edycja konferencji <a href="http://2014.agilebyexample.com" target="_blank">AgileByExample 2014</a>. Wydarzenie organizowane jest przez grupę <a href="http://www.agilewarsaw.com" target="_blank">AgileWarsaw</a> we współpracy z&nbsp;firmą <a href="http://procognita.pl" target="_blank">ProCognita</a> i&nbsp;będzie miało miejsce w&nbsp;Warszawie.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2014.agilebyexample.com" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/agile-by-example-2014.jpg" alt="AgileByExample 2014" />
-    </a>
-  </div>
-</div>
-
-
-<p>Poniżej informacja od organizatorów o tym, czym jest konferencja AgileByExample 2014. <!--more--></p>
-
-<blockquote>
-  <p>
-    AgileByExample 2014 is a&nbsp;great lean &amp; agile community event that helps you learn agile on live examples. We don&#8217;t tell you what to do, we show examples of successes and failures from real life. This year you can actually practice your skills during LeanAgile Dojo workshops.
-  </p>
-  <p>AgileByExample 2014 (edition 4.0) at a&nbsp;glance:</p>
-  <ul>
-    <li>keynotes, talks &amp; discussions, all held in English</li>
-    <li>atmosphere and networking generating <strong>tons of energy &amp; inspiration</strong></li>
-    <li>focused on <strong>organizing and managing</strong> work in <strong>software developent</strong></li>
-    <li>the venue will be a&nbsp;cinema again – comfort of <strong>large screen</strong> &amp; <strong>comfy seats</strong></li>
-    <li><strong>LeanAgile Dojo</strong> – workshops during day three.</li>
-  </ul>
-</blockquote>
-
-
-<p>Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 15% zniżki na wejściówkę. Jedyne co trzeba zrobić, to wejść na stronę <a href="http://2014.agilebyexample.com/tickets/" target="_blank">2014.agilebyexample.com/tickets/</a> i&nbsp;podczas rejestracji wpisać kod promocyjny, który możecie otrzymać kontaktując się z&nbsp;nami (najlepiej z&nbsp;Piotrem Prądzyńskim).</p>
 ]]></content>
   </entry>
   

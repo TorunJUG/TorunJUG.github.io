@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Spotkanie #8 [2014-12-17]"
+description: "Toruń JUG - Spotkanie #8 [2014-12-17]"
+date: 2014-12-04 9:31:34 +0100
+comments: true
+categories: Spotkania
+---
+Ósme spotkanie toruńskiej grupy użytkowników języka Java odbędzie się **w&nbsp;środę, 17 grudnia 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>). 
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/219060454/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/639427786165648/" target="_blank">Facebook</a>. 
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)
+
+**Uwaga!** Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta **dla wszystkich od godziny 17:30**. Serdecznie zapraszamy! <!-- more -->
+
+### Pytaj albo Rób, czyli mały wstęp do CQRS
+Nie samym kodem człowiek żyje, więc najwyższa pora opowiedzieć troszeczkę na temat fajnych pomysłów na architekturę. Jednym z&nbsp;najbardziej istotnych jest CQRS - Command Query Responsibility Separation. Idea, choć w&nbsp;swoich podstawach dość prosta, pozwala nam na tworzenie szybkich, łatwo rozszerzalnych aplikacji.
+
+Podczas prezentacji przedstawię podstawowe zastosowanie CQRS, a&nbsp;także postaram się opowiedzieć o&nbsp;tym, za pomocą jakich narzędzi można stworzyć szybko aplikację opartą na zasadach tego wzorca.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" />
+#### Zbyszko Papierski
+Architekt rozwiązań w Grupie Allegro, czciciel JVM i&nbsp;wszystkiego co z&nbsp;nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz i&nbsp;komiksiarz.
+
+<span class="clearfix"></span>
+### 9 lat pracy zdalnej - czego się nauczyłem? Jak efektywnie pracować w&nbsp;zespole rozproszonym?
+Na przestrzeni ostatnich 9&nbsp;lat pracowałem zdalnie w&nbsp;4&nbsp;zupełnie różnych zespołach - w&nbsp;korporacji (JBoss/Red Hat), w&nbsp;międzynarodowym startupie (Vocado), we własnej firmie (SoftwareMill) i&nbsp;jako trener/konsultant (BNS IT).
+
+Chciałbym podzielić się swoim doświadczeniem zarówno z&nbsp;perspektywy osoby pracującej zdalnie, jak i&nbsp;z&nbsp;perspektywy wyzwań stojących przed całym zespołem.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/wrzeszcz-pawel.png" />
+#### Paweł Wrzeszcz
+Trener, konsultant w&nbsp;BNS IT. Współtwórca sukcesu w&nbsp;pełni rozproszonej, zwinnej i&nbsp;pozbawionej managerów firmy SoftwareMill. Mieszka w&nbsp;Warszawie. Pochodzi z&nbsp;Torunia. Blog: <a href="http://pawel.wrzesz.cz" target="_blank">pawel.wrzesz.cz</a>

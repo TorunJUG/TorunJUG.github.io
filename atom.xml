@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-04T09:38:01+01:00</updated>
+  <updated>2014-12-05T05:54:56+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z siódmego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/12/05/nagranie-z-siodmego-spotkania/"/>
+    <updated>2014-12-05T05:49:45+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/12/05/nagranie-z-siodmego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2510" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="http://torun.jug.pl/news/2014/11/13/spotkanie-7/">siódmego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2510&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #8 [2014-12-17]]]></title>
@@ -705,127 +729,6 @@
 
 
 <p>Wydarzenie odbędzie się 20 września w&nbsp;restauracji <a href="http://www.loft79.pl" target="_blank">LOFT79</a>. Więcej informacji znajdziecie na <a href="http://trnon.pl" target="_blank">trnon.pl</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie pierwszego Hackathornu]]></title>
-    <link href="http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu/"/>
-    <updated>2014-09-07T13:03:30+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu</id>
-    <content type="html"><![CDATA[<p><a href="http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Pierwszy toruński hackathon</a> za nami. 12 godzin kodowania minęło w&nbsp;błyskawicznym tempie. Nadeszła pora na małe podsumowanie wczorajszego dnia.</p>
-
-<p>Hackathorn #1 odbył się w&nbsp;budynku <a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, naszego partnera i&nbsp;współorganizatora wydarzenia.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="http://torun.jug.pl/images/hackathons/1/photo-1.jpg" />
-  </div>
-</div>
-
-
-<p>Około godziny 10 nastąpiło oficjalne rozpoczęcie i&nbsp;utworzenie zespołów.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="http://torun.jug.pl/images/hackathons/1/photo-2.jpg" />
-  </div>
-</div>
-
-
-
-
-<!-- more -->
-
-
-<p>Tuż po rozpoczęciu ruszyliśmy ostro do pracy.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="http://torun.jug.pl/images/hackathons/1/photo-3.jpg" />
-  </div>
-</div>
-
-
-<p>Wszyscy obecni podeszli do tematu bardzo profesjonalnie. Niektórzy nawet spotykali się na tajnych naradach :)</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="http://torun.jug.pl/images/hackathons/1/photo-4.jpg" />
-  </div>
-</div>
-
-
-<p>Kodowanie trwało do długich godzin wieczornych, ale nikt nie schodził z&nbsp;placu boju.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="http://torun.jug.pl/images/hackathons/1/photo-5.jpg" />
-  </div>
-</div>
-
-
-<p>Były przekąski, była pizza.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="http://torun.jug.pl/images/hackathons/1/photo-6.jpg" />
-  </div>
-</div>
-
-
-<p>Były też upominki od <a href="http://torun.jug.pl/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorów</a>.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="http://torun.jug.pl/images/hackathons/1/photo-7.jpg" />
-  </div>
-</div>
-
-
-<p>Znalazła się również chwila na zabawę.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="http://torun.jug.pl/images/hackathons/1/photo-8.jpg" />
-  </div>
-</div>
-
-
-<p>Na koniec naszedł czas na prezentacje efektów pracy i&nbsp;rozdanie nagród książkowych. Uśmiechnięci uczestnicy, to najlepsza nagroda dla organizatorów.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="http://torun.jug.pl/images/hackathons/1/photo-9.jpg" />
-  </div>
-</div>
-
-
-<p>Więcej zdjęć znajdziecie na <a href="https://www.facebook.com/tak.dla.juga.w.toruniu" target="_blank">naszym profilu</a> na Facebooku oraz na <a href="https://www.facebook.com/smartexea" target="_blank">profilu Exea Smart Space</a>.</p>
-
-<p>Chcielibyśmy serdecznie podziękować wszystkim, którzy zaangażowali się w&nbsp;organizacje eventu:</p>
-
-<ul>
-    <li>
-        <a href="http://smart.exea.pl/pl/team" target="_blank">ekipie Smart Space</a>, w&nbsp;szczególności Arturowi, Mirkowi i&nbsp;Łukaszowi, których zaangażowanie, życzliwość i&nbsp;gościnność przerosła nasze najśmielsze oczekiwania,
-    </li>
-    <li>
-        sponsorom, <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Grupie Allegro</a> oraz firmie <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>, bez których wydarzenie nie odbyło by się z&nbsp;takim rozmachem,
-    </li>
-    <li>
-        Zbyszkowi, który dograł wszystkie sprawy związane ze sponsoringiem ze strony Allegro oraz użyczył swojego zmysłu artystycznego tuż przed hackathonem ;)
-    </li>
-    <li>
-        Pawłowi (last but not least), który już po raz kolejny, bez żadnego problemu zgodził się na nagranie materiału wideo z&nbsp;organizowanego przez nas eventu (nagranie coming soon).
-    </li>
-</ul>
-
-
-<p>Dziękujemy również wszystkim, o&nbsp;których zapomnieliśmy powyżej, a&nbsp;którzy w&nbsp;najmniejszym stopniu przyczynili się do organizacji Hackathornu.</p>
-
-<p>Nie mniejsze podziękowania należą się wszystkim uczestnikom. Bez Was i&nbsp;Waszego zapału nie bawilibyśmy się tak świetnie. Mamy nadzieję, że możemy na Was liczyć również następnym razem.</p>
-
-<p>Don&rsquo;t worry! Hackathorn will return!</p>
 ]]></content>
   </entry>
   

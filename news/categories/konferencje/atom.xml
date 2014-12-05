@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-04T09:38:01+01:00</updated>
+  <updated>2014-12-05T05:57:17+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -63,7 +63,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2014.agilebyexample.com" target="_blank">
-      <img class="no-border" src="/images/partners/agile-by-example-2014.jpg" alt="AgileByExample 2014" />
+      <img class="no-border" src="{{ root_url }}/images/partners/agile-by-example-2014.jpg" alt="AgileByExample 2014" />
     </a>
   </div>
 </div>
@@ -100,7 +100,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://mceconf.com" target="_blank">
-      <img class="no-border" src="/images/partners/mce2015.png" alt="Mobile Central Europe 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/mce2015.png" alt="Mobile Central Europe 2015" />
     </a>
   </div>
 </div>

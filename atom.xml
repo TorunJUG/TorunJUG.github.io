@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-08T10:53:10+01:00</updated>
+  <updated>2014-12-18T19:49:05+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie ósmego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/12/18/podsumowanie-osmego-spotkania/"/>
+    <updated>2014-12-18T19:35:45+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/12/18/podsumowanie-osmego-spotkania</id>
+    <content type="html"><![CDATA[<p>Wczoraj odbyło się <a href="http://torun.jug.pl/news/2014/12/04/spotkanie-8/">ósme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Zbyszkowi, za przedstawienie czym jest CQRS oraz Pawłowi, za podzielenie się swoim 9-letnim doświadczeniem w&nbsp;pracy zdalnej. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;<del>Krajinie Piva</del> Tratwie.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/128kTQ9DZKcrXwt4QAPoC9Cfkh1S1VypWRHLKzs9bnCs/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1588538848036269.1073741839.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/25802608/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/8/Pytaj_albo_Rob_czyli_maly_wstep_do_CQRS_by_Zbyszko_Papierski.pdf" target="_blank">
+      <em>Pytaj albo Rób, czyli mały wstęp do CQRS</em></a> (slajdy z&nbsp;prezentacji Zbyszka Papierskiego)
+  </li>
+  <li>
+    <a href="http://www.slideshare.net/pawelwrzeszcz/9-lat-pracy-zdalnej-czego-si-nauczyem" target="_blank">
+      <em>9 lat pracy zdalnej - czego się nauczyłem?</em></a> (slajdy z&nbsp;prezentacji Pawła Wrzeszcza)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z siódmego spotkania]]></title>
@@ -709,26 +744,6 @@
   </div>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[#TRNon The Party!]]></title>
-    <link href="http://torun.jug.pl/news/2014/09/08/trnon-the-party/"/>
-    <updated>2014-09-08T18:22:44+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/09/08/trnon-the-party</id>
-    <content type="html"><![CDATA[<p>Wspólnie z&nbsp;<a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, <a href="https://www.facebook.com/pitchstoptv" target="_blank">Pitchstop</a> i&nbsp;<a href="https://www.facebook.com/pages/SIM-Toru%C5%84/355494957889158" target="_blank">SIM Toruń</a> chcielibyśmy Was zaprosić na imprezę jakiej w Toruniu jeszcze nie było &ndash; <a href="http://trnon.pl" target="_blank">#TRNon The Party!</a> Impreza dla wszystkich, którzy robią internety i&nbsp;chcą się poznać.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://trnon.pl" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/trnon-the-party.jpg" alt="#TRNon The Party!" />
-    </a>
-  </div>
-</div>
-
-
-<p>Wydarzenie odbędzie się 20 września w&nbsp;restauracji <a href="http://www.loft79.pl" target="_blank">LOFT79</a>. Więcej informacji znajdziecie na <a href="http://trnon.pl" target="_blank">trnon.pl</a>.</p>
 ]]></content>
   </entry>
   

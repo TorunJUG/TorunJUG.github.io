@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-08T10:53:10+01:00</updated>
+  <updated>2014-12-18T19:49:05+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie ósmego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2014/12/18/podsumowanie-osmego-spotkania/"/>
+    <updated>2014-12-18T19:35:45+01:00</updated>
+    <id>http://torun.jug.pl/news/2014/12/18/podsumowanie-osmego-spotkania</id>
+    <content type="html"><![CDATA[<p>Wczoraj odbyło się <a href="/news/2014/12/04/spotkanie-8/">ósme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Zbyszkowi, za przedstawienie czym jest CQRS oraz Pawłowi, za podzielenie się swoim 9-letnim doświadczeniem w&nbsp;pracy zdalnej. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;<del>Krajinie Piva</del> Tratwie.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/128kTQ9DZKcrXwt4QAPoC9Cfkh1S1VypWRHLKzs9bnCs/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1588538848036269.1073741839.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/25802608/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="/materials/meetings/8/Pytaj_albo_Rob_czyli_maly_wstep_do_CQRS_by_Zbyszko_Papierski.pdf" target="_blank">
+      <em>Pytaj albo Rób, czyli mały wstęp do CQRS</em></a> (slajdy z&nbsp;prezentacji Zbyszka Papierskiego)
+  </li>
+  <li>
+    <a href="http://www.slideshare.net/pawelwrzeszcz/9-lat-pracy-zdalnej-czego-si-nauczyem" target="_blank">
+      <em>9 lat pracy zdalnej - czego się nauczyłem?</em></a> (slajdy z&nbsp;prezentacji Pawła Wrzeszcza)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie siódmego spotkania]]></title>
@@ -187,51 +222,6 @@
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie trzeciego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania/"/>
-    <updated>2014-05-30T16:51:50+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/05/30/podsumowanie-trzeciego-spotkania</id>
-    <content type="html"><![CDATA[<p>Dziękujemy wszystkim i&nbsp;każdemu z&nbsp;osobna za&nbsp;liczne przybycie na&nbsp;<a href="/news/2014/05/07/spotkanie-3/">trzecie spotkanie</a> naszej grupy. Cieszy nas niezmiernie, że&nbsp;liczba uczestników utrzymuje się wciąż na&nbsp;bardzo dobrym poziomie. Szczególne podziękowania należą się Zbyszkowi i&nbsp;Pawłowi za&nbsp;przygotowanie prezentacji. Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie nam sali oraz każdemu, kto w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Tratwie.</p>
-
-<div class="row text-center">
-  <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/3/mug.jpg" alt="Kubek Toruń JUG - upominek dla prelegentów" title="Kubek Toruń JUG - upominek dla prelegentów" style="margin-bottom: 10px;"/>
-  </div>
-</div>
-
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1mXp-SVjWtodnJgLbKtK7j63cuUrHm-SY3zXdswM7F6E/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze&nbsp;środowego meetingu możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1514025038820984.1073741831.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/22193352/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="/materials/meetings/3/Jak_szukac_-_Kilka_slow_o_Lucene_i_jej_znajomych_by_Zbyszko_Papierski.pdf" target="_blank">
-      <em>Jak szukać? – Kilka słów o Lucene i&nbsp;jej znajomych</em></a> (slajdy z&nbsp;prezentacji Zbyszka Papierskiego)
-  </li>
-  <li>
-    <a href="https://github.com/maeph/JUG-Lucene" target="_blank">
-      Kod źródłowy z prezentacji Zbyszka
-    </a>
-  </li>
-  <li>
-    <a href="/materials/meetings/3/Historia_pewnego_szkieletora_–_Walking_Skeleton_and_ATDD_by_Pawel_Rekowski.pdf" target="_blank">
-      <em>Historia pewnego szkieletora – Walking Skeleton &amp;&nbsp;ATDD</em></a> (slajdy z&nbsp;prezentacji Pawła Rekowskiego)
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i do zobaczenia niebawem.</p>
 ]]></content>
   </entry>
   

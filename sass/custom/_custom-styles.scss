@@ -172,3 +172,8 @@ body {
     }
   }
 }
+
+img.former-partner {
+    opacity: 0.25;
+    filter: alpha(opacity=25); /* For IE8 and earlier */
+}

@@ -78,7 +78,7 @@ footer: false
   </div>
   <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
     <a class="no-text-decoration" href="http://practicalunittesting.com" target="_blank" title="Tomek Kaczanowski - Practical Unit Testing">
-      <img class="no-border" src="{{ root_url }}/images/partners/practical_unit_testing.jpg" alt="Tomek Kaczanowski - Practical Unit Testing" />
+      <img class="no-border former-partner" src="{{ root_url }}/images/partners/practical_unit_testing.jpg" alt="Tomek Kaczanowski - Practical Unit Testing" />
     </a>
   </div>
   <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
@@ -88,7 +88,7 @@ footer: false
   </div>
   <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
     <a class="no-text-decoration" href="https://www.apress.com" target="_blank" title="Apress">
-      <img class="no-border" src="{{ root_url }}/images/partners/apress.jpg" alt="Apress" />
+      <img class="no-border former-partner" src="{{ root_url }}/images/partners/apress.jpg" alt="Apress" />
     </a>
   </div>
 </div>

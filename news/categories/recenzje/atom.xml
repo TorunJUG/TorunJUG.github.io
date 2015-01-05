@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Recenzje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/recenzje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2014-12-21T14:13:29+01:00</updated>
+  <updated>2015-01-05T13:00:23+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,77 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Recenzja książki: Java 8 Lambdas]]></title>
+    <link href="http://torun.jug.pl/news/2015/01/05/recenzja-ksiazki-java-8-lambdas/"/>
+    <updated>2015-01-05T12:52:21+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/01/05/recenzja-ksiazki-java-8-lambdas</id>
+    <content type="html"><![CDATA[<p>Witamy Was gorąco w&nbsp;Nowym Roku i&nbsp;życzymy samych słonecznych dni! Na dobry początek proponujemy zapoznać się z&nbsp;recenzją książki <em>Java 8 Lambdas</em>. Autorem książki jest Richard Warburton, autorem recenzji &ndash; <strong>Sebastian Łaskawiec</strong>. To druga recenzja na koncie Sebastiana i&nbsp;jednocześnie <a href="{{ root_url }}/news/categories/recenzje/">szósta</a> na koncie wszystkich naszych JUGowiczów.</p>
+
+<!--more-->
+
+
+<h3>Książka</h3>
+
+<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/java-8-lambdas.jpg" />
+<strong><em>Java 8 Lambdas: Functional Programming for the Masses</em></strong></p>
+
+<p>If you&rsquo;re a&nbsp;developer with core Java SE skills, this <a href="http://shop.oreilly.com/product/0636920030713.do" target="_blank">hands-on book</a> takes you through the language changes in Java 8 triggered by the addition of lambda expressions. You&rsquo;ll learn through code examples, exercises, and fluid explanations how these anonymous functions will help you write simple, clean, library-level code that solves business problems.</p>
+
+<p>Lambda expressions are a&nbsp;fairly simple change to Java, and the first part of the book shows you how to use them properly. Later chapters show you how lambda functions help you improve performance with parallelism, write simpler concurrent code, and model your domain more accurately, including building better DSLs.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Autor</h3>
+
+<p><strong>Richard Warburton</strong> is an empirical technologist and solver of deep-dive technical problems. He has professionally worked on static analysis problems, verifying part of a&nbsp; compiler and developing advanced automated bug detection technology. More recently his career has been focussed on data analytics for high performance computing. He is a&nbsp;leader in the London Java Community, sits on their JCP Committee and organises the Adopt-a-JSR programs for Lambdas and Date and Time in Java&nbsp;8. Richard is also a&nbsp;known conference speaker, having talked at JavaOne, DevoxxUK and JAX London. He obtained a&nbsp;PhD in Computer Science from The University of Warwick where his research focussed on compiler theory.</p>
+
+<h3>Recenzja</h3>
+
+<blockquote>
+  <p>
+    <strong>Content</strong>
+  </p>
+  <p>
+    The book describes practical approach to new features introduced in Java&nbsp;8. Most of the book is dedicated to Lambdas but the author also described other language and library add-ons.
+  </p>
+  <p>
+    The first two paragraphs contain introduction to Lambda expressions and explain why Java needs them. Third paragraph presents Stream's key concepts. All operations (like map, filter or flatMap) are explained using very descriptive examples. Fourth paragraph goes into the details of other Java&nbsp;8 concepts like Optional, default/static methods in the interfaces and binary compatibility. After introducing those additional concepts the author goes into the details of collections and Collectors (starting from easy topics like element ordering and finishing on advanced like parallelism vs concurrency, debugging or refactoring). The last two paragraphs of the book describes architectural design patterns using Lambda expressions and shows some real life examples for topics like nonblocking I/O.
+  </p>
+  <p>
+    <strong>Writing style</strong>
+  </p>
+  <p>
+    <em>Java&nbsp;8 Lambdas</em> is written using very easy to learn style. All concepts are briefly described theoretically and explained in detail using examples. There is also a&nbsp;GitHub repository with exercises for presented topics. The author focuses on practical approach for Java&nbsp;8 features rather than theoretical aspects.
+  </p>
+  <p>
+    <strong>Conclusion and recommendation</strong>
+  </p>
+  <p>
+    <em>Java&nbsp;8 Lambdas</em> is a&nbsp;must-have book for those who start using new features introduced in Java&nbsp;8. The author clearly assumes basic understanding of previous Java features, so I wouldn't recommend this book for beginners. On the other hand an experienced programmer will feel comfortable with key concepts of Lambdas after reading less then forty pages (!!).
+  </p>
+  <p>
+    I highly recommend reading this book in two parts. At first, read basic concepts and get familiar with them (paragraphs 1-4). Do some exercises or ever better - get involved into some project which uses Java&nbsp;8. Finally, finish reading the advanced topics of the book.
+  </p>
+  <p>Rating: 5/5</p>
+</blockquote>
+
+
+<h3>Recenzent</h3>
+
+<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/laskawiec-sebastian.jpg" />
+<strong>Sebastian Łaskawiec</strong></p>
+
+<p>Senior Software Developer in Red Hat interested in JEE containers and Caching technologies who spends most of his free time on home brewing, ice skating or skiing.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Szukamy kolejnych odważnych</h3>
+
+<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O'Reilly Media</a> oraz <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Recenzja książki: Three.js Essentials]]></title>
@@ -283,59 +354,6 @@
 <strong>Tadeusz Zalewski</strong></p>
 
 <p>Programista i&nbsp;projektant w&nbsp;Agora S.A. Obecnie rozwija się w&nbsp;obszarach takich jak BDD oraz DDD w&nbsp;celu poprawy jakości relacji biznes&nbsp;&lt;=>&nbsp;IT w&nbsp;procesie wytwarzania oprogramowania.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Szukamy kolejnych odważnych</h3>
-
-<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O'Reilly Media</a> i <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Recenzja książki: Functional Programming in Java]]></title>
-    <link href="http://torun.jug.pl/news/2014/07/28/recenzja-ksiazki-functional-programming-in-java/"/>
-    <updated>2014-07-28T18:54:33+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/07/28/recenzja-ksiazki-functional-programming-in-java</id>
-    <content type="html"><![CDATA[<p>Jest nam bardzo miło poinformować, że&nbsp;znalazł się pierwszy odważny ochotnik, który zgłosił się i&nbsp;napisał subiektywną recenzję wybranej przez siebie książki. Honorowy tytuł &ldquo;pierwszego recenzenta toruńskiego JUGa&rdquo; otrzymuje&hellip; <strong>Michał Jaśtak</strong> :)</p>
-
-<p>Michał wziął pod lupę książkę <em>Functional Programming in Java: Harnessing the Power of Java&nbsp;8 Lambda Expressions</em>, której autorem jest Venkat Subramaniam.</p>
-
-<!-- more -->
-
-
-<h3>Książka</h3>
-
-<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/functional-programming-in-java.jpg" />
-<strong><em>Functional Programming in Java: Harnessing the Power of Java&nbsp;8 Lambda Expressions</em></strong></p>
-
-<p>Get ready to program in a&nbsp;whole new way. <a href="http://pragprog.com/book/vsjava8/functional-programming-in-java" target="_blank"><em>Functional Programming in&nbsp;Java</em></a> will help you quickly get on top of the new, essential Java&nbsp;8 language features and the functional style that will change and improve your code. This short, targeted book will help you make the paradigm shift from the old imperative way to a&nbsp;less error-prone, more elegant, and concise coding style that&rsquo;s also a&nbsp;breeze to parallelize. You&rsquo;ll explore the syntax and semantics of&nbsp;lambda expressions, method and constructor references, and functional interfaces. You&rsquo;ll design and write applications better using the new standards in Java&nbsp;8 and the JDK.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Autor</h3>
-
-<p><strong>Dr. Venkat Subramaniam</strong> is an&nbsp;award-winning author, founder of Agile Developer, Inc., and a&nbsp;professor at the University of Houston. He&rsquo;s a&nbsp;regularly invited speaker at international conferences, a&nbsp;Java Champion, and has received the&nbsp;JavaOne Rockstar award multiple times.</p>
-
-<h3>Recenzja</h3>
-
-<blockquote>
-  <p>I had a&nbsp;pleasure to listen to couple of Venkat's talks, and IMHO he is probably the one and only speaker in the World, who could give a&nbsp;talk about preparing spaghetti to 1000 senior developers, and after that, each one of them desire to be spaghetti developer till end of the days ;)</p>
-  <p>This book is dangerous, same way as Venkat's talks. You have to be aware, that when you read it, the one and only thing you'll desire to do will be writing lambda expressions.</p>
-  <p>This book is a&nbsp;travel guide for those who have enough of development in imperative way. Venkat will guide you gently from imperative solutions of some daily development problems into functional versions of those solutions.</p>
-  <p>This book is like written by your best Friend, who really cares about the way you develop your code. Venkat will advise you to be more declarative, promote immutability, avoid side effects, prefer expressions over statements, and design with Higher Order Functions. Even more, he will explain how the above rules are closing you to functional programming.</p>
-  <p>This book isn't a&nbsp;crime fiction, but you will not be able to stop reading about designing with lambda expressions, recursion optimisation, parallelization, mapping and reducing, until you'll find who killed your last software development efforts.</p>
-  <p>This book isn't about easy things, but if you want to learn about something new, or systematise and extend your knowledge, you should choose your Mentor carefully. Believe me, Venkat and his book is a&nbsp;really good choice.</p>
-  <p>Rating: 5/5</p>
-</blockquote>
-
-
-<h3>Recenzent</h3>
-
-<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/jastak-michal.jpg" />
-<strong>Michał Jaśtak</strong></p>
-
-<p>Programista Java z&nbsp;wieloletnim doświadczeniem, pracujący obecnie na stanowisku CTO w&nbsp;firmie AIS.PL. W&nbsp;wolnych chwilach dzieli się własnymi spostrzeżeniami na swoim blogu (<a href="http://vard-lokkur.blogspot.com" target="_blank">Warlock&rsquo;s Thoughts</a>) oraz Twitterze (<a href="https://twitter.com/vardlokkur" target="_blank">@vardlokkur</a>). Prywatnie &ndash; fan <a href="http://eu.battle.net/sc2/pl/profile/933084/1/Anakin/" target="_blank">Protossów</a> ;)</p>
 
 <p><span class="clearfix"></span></p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-01-07T16:44:09+01:00</updated>
+  <updated>2015-01-09T06:07:42+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON TDD]]></title>
+    <link href="http://torun.jug.pl/news/2015/01/09/zapowiedz-konferencji-geecon-tdd/"/>
+    <updated>2015-01-09T06:05:47+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/01/09/zapowiedz-konferencji-geecon-tdd</id>
+    <content type="html"><![CDATA[<p>GeeCON wraca do Poznania! Tym razem w&nbsp;zupełnie nowej odsłonie – <a href="http://2015.tdd.geecon.org" target="_blank">GeeCON TDD</a>.</p>
+
+<p>Oto co mówią organizatorzy na temat tego wydarzenia:</p>
+
+<blockquote>
+<p>30 stycznia zapraszamy wszystkich zainteresowanych tematyką testów, a&nbsp;w&nbsp;szczególności Test Driven Development! Oprócz tego będziemy dyskutować o&nbsp;jakości w&nbsp;procesie wytwarzania oprogramowania, testowalności, dobrych technikach programistycznych.</p>
+<p>Nie ograniczamy się do Javy, nie ograniczamy się do technologii JVM, chcemy przyjrzeć się tematowi z&nbsp;możliwie szerokiej perspektywy niezależnie od języka programowania, platformy i&nbsp;architektury.</p>
+</blockquote>
+
+
+
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2015.tdd.geecon.org" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
+    </a>
+  </div>
+</div>
+
+
+<p>Dostępna jest już <a href="http://2015.tdd.geecon.org/#schedule" target="_blank">wstępna agenda konferencji</a>.</p>
+
+<p>Rejestracja ruszyła kilka dni temu i&nbsp;znajdziecie ją pod adresem: <a href="http://2015.tdd.geecon.org/register/" target="_blank">2015.tdd.geecon.org/register</a>. Nie zwlekajcie! Liczba miejsc jest ograniczona!</p>
+
+<p>Można się już również rejestrować na <a href="http://2015.tdd.geecon.org/workshops/" target="_blank">warsztaty</a>, które odbędą się dzień przed konferencją, 29 stycznia.</p>
+
+<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://2015.tdd.geecon.org" target="_blank">2015.tdd.geecon.org</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z ósmego spotkania]]></title>
@@ -706,86 +742,6 @@
 <p>Dzięki uprzejmości nowego sponsora będziemy mogli wylosować darmowy ebook z&nbsp;ich katalogu wśród uczestników kolejnych spotkań. Dodatkowo dla każdego chętnego mamy kod promocyjny uprawniający do 30% zniżki na ebooki. W&nbsp;celu uzyskania kodu prosimy o&nbsp;kontakt z&nbsp;Piotrem Prądzyńskim.</p>
 
 <p>Możliwe jest również otrzymanie na&nbsp;własność kopii wybranego ebooka w&nbsp;zamian za&nbsp;jego recenzję. Więcej informacji na ten temat możecie znaleźć na naszej <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">grupie dyskusyjnej</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Recenzja książki: Functional JavaScript]]></title>
-    <link href="http://torun.jug.pl/news/2014/09/17/recenzja-ksiazki-functional-javascript/"/>
-    <updated>2014-09-17T05:59:25+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/09/17/recenzja-ksiazki-functional-javascript</id>
-    <content type="html"><![CDATA[<p>Mamy dla Was kolejną recenzję! <strong>Tomasz Bielawa</strong> zrecenzował książkę <em>Functional JavaScript: Introducing Functional Programming with Underscore.js</em> autorstwa Michaela Fogusa.</p>
-
-<!--more-->
-
-
-<h3>Książka</h3>
-
-<p><img class="no-border book-cover" src="http://torun.jug.pl/images/reviews/books/functional-javascript.jpg" />
-<strong><em>Functional JavaScript: Introducing Functional Programming with Underscore.js</em></strong></p>
-
-<p>How can you overcome JavaScript language oddities and unsafe features? With <a href="http://shop.oreilly.com/product/0636920028857.do" target="_blank">this book</a>, you&rsquo;ll learn how to create code that&rsquo;s beautiful, safe, and simple to understand and test by using JavaScript&rsquo;s functional programming support. Author Michael Fogus shows you how to apply functional-style concepts with Underscore.js, a&nbsp;JavaScript library that facilitates functional programming techniques. Sample code is available on <a href="https://github.com/funjs/book-source" target="_blank">GitHub</a>.</p>
-
-<p>Fogus helps you think in a&nbsp;functional way to help you minimize complexity in the programs you build. If you&rsquo;re a&nbsp;JavaScript programmer hoping to learn functional programming techniques, or a&nbsp;functional programmer looking to learn JavaScript, this book is the ideal introduction.</p>
-
-<ul>
-  <li>Use applicative programming techniques with first-class functions</li>
-  <li>Understand how and why you might leverage variable scoping and closures</li>
-  <li>Delve into higher-order functions-and learn how they take other functions as arguments for maximum advantage</li>
-  <li>Explore ways to compose new functions from existing functions</li>
-  <li>Get around JavaScript&#8217;s limitations for using recursive functions</li>
-  <li>Reduce, hide, or eliminate the footprint of state change in your programs</li>
-  <li>Practice flow-based programming with chains and functional pipelines</li>
-  <li>Discover how to code without using classes</li>
-</ul>
-
-
-<p><span class="clearfix"></span></p>
-
-<h3>Autor</h3>
-
-<p><strong>Michael Fogus</strong> is software developer with experience in distributed simulation, machine vision, and expert systems construction. He&rsquo;s actively involved in the Clojure and Scala communities.</p>
-
-<h3>Recenzja</h3>
-
-<blockquote>
-  <p>
-    Over the last years the JavaScript returned to favor thanks to the popularity of HTML5 and jQuery. Many developers want to learn more about this language and to know JS&#8217;s most significant libraries. Very popular products are distinguished by Jeremy Ashkenas. I think all developers heard about CoffeeScript or Backbone.js framework. Ashkenas also is the creator of UnderscoreJs library which provides a&nbsp;very useful utility functions.
-  </p>
-  <p>
-    On the second hand, a&nbsp;very common tag is functional-style concept. At every step, terms like closures, currying, folding, come to our ears and eyes. Surely as a&nbsp;programmer you want to read a&nbsp;good book about it. This book should be absorbing, have good style of writing and practical examples. And first of all, author should have a&nbsp;considerable knowledge about things he describes.
-  </p>
-  <p>
-    I think Michael Fogus, as a&nbsp;contributor to the Clojure and Underscore.js library is a&nbsp;right person in the right place. While reading, you can fell that the writer has a&nbsp;practical and real-life skills about functional programming and JS. You can see that he devoted much time to bite into this. For example Fogus bring us a&nbsp;precise chapter about closures. Yes! In JavaScript.  It&#8217;s not the frequent term in a&nbsp;base of articles in a&nbsp;world&#8217;s JS&#8217;s blogs and books. It is not what a&nbsp;typical developer who writes only Dom-tree-JS-code knows.
-  </p>
-  <p>
-    If you want to know how to use things like closures, currying, folding. Or you want to get knowledge about functions as units of behavior, functional recursion on data &#8220;table-like&#8221; (great thing!), recursion as a&nbsp;base of deeper understanding of a&nbsp;functional style, hiding mutable states, a&nbsp;way to implement laziness, this book may be your first step in an adventure of functional programming in (wait for it!) JavaScript. You will be familiarized with UnderscoreJs functions as a&nbsp;tools in everyday-coding-life.
-  </p>
-  <p>
-    Honestly, the only thing that bothered me in this book is the small emphasis of graphic representation in highlighting important terms.
-  </p>
-  <p>
-    Besides, &#8220;Functional JavaScript: Introducing Functional Programming with Underscore.js&#8221; assure many hours spending in reading interesting code, especially if reader will spend some hours to analyze written code and test it in IDE. Surely it should bear fruits in developer&#8217;s future coding sessions.
-  </p>
-  <p>
-    So, if anyone is interested in JavaScript and want to learn about functional programming techniques, this book is a&nbsp;very good start and may change perspective of seeing this language.
-  </p>
-  <p>Rating: 9/10</p>
-</blockquote>
-
-
-<h3>Recenzent</h3>
-
-<p><img class="no-border reviewer-face" src="http://torun.jug.pl/images/reviews/reviewers/bielawa-tomasz.jpg" />
-<strong>Tomasz Bielawa</strong></p>
-
-<p>Programista i&nbsp;WebDeveloper, miłośnik wszelakich technologii frontendowych, muzyki oraz wszystkiego co można przeczytać. Można mnie znaleźć na Twitterze (<a href="https://twitter.com/bielawka" target="_blank">@bielawka</a>).</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Szukamy kolejnych odważnych</h3>
-
-<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a> i <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-01-07T16:50:35+01:00</updated>
+  <updated>2015-01-09T06:10:37+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON TDD]]></title>
+    <link href="http://torun.jug.pl/news/2015/01/09/zapowiedz-konferencji-geecon-tdd/"/>
+    <updated>2015-01-09T06:05:47+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/01/09/zapowiedz-konferencji-geecon-tdd</id>
+    <content type="html"><![CDATA[<p>GeeCON wraca do Poznania! Tym razem w&nbsp;zupełnie nowej odsłonie – <a href="http://2015.tdd.geecon.org" target="_blank">GeeCON TDD</a>.</p>
+
+<p>Oto co mówią organizatorzy na temat tego wydarzenia:</p>
+
+<blockquote>
+<p>30 stycznia zapraszamy wszystkich zainteresowanych tematyką testów, a&nbsp;w&nbsp;szczególności Test Driven Development! Oprócz tego będziemy dyskutować o&nbsp;jakości w&nbsp;procesie wytwarzania oprogramowania, testowalności, dobrych technikach programistycznych.</p>
+<p>Nie ograniczamy się do Javy, nie ograniczamy się do technologii JVM, chcemy przyjrzeć się tematowi z&nbsp;możliwie szerokiej perspektywy niezależnie od języka programowania, platformy i&nbsp;architektury.</p>
+</blockquote>
+
+
+
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2015.tdd.geecon.org" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
+    </a>
+  </div>
+</div>
+
+
+<p>Dostępna jest już <a href="http://2015.tdd.geecon.org/#schedule" target="_blank">wstępna agenda konferencji</a>.</p>
+
+<p>Rejestracja ruszyła kilka dni temu i&nbsp;znajdziecie ją pod adresem: <a href="http://2015.tdd.geecon.org/register/" target="_blank">2015.tdd.geecon.org/register</a>. Nie zwlekajcie! Liczba miejsc jest ograniczona!</p>
+
+<p>Można się już również rejestrować na <a href="http://2015.tdd.geecon.org/workshops/" target="_blank">warsztaty</a>, które odbędą się dzień przed konferencją, 29 stycznia.</p>
+
+<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://2015.tdd.geecon.org" target="_blank">2015.tdd.geecon.org</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[nofluffjobs.com naszym nowym partnerem]]></title>
@@ -113,40 +149,6 @@
 
 
 <p>Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 15% zniżki na wejściówkę. Jedyne co trzeba zrobić, to wejść na stronę <a href="http://2014.agilebyexample.com/tickets/" target="_blank">2014.agilebyexample.com/tickets/</a> i&nbsp;podczas rejestracji wpisać kod promocyjny, który możecie otrzymać kontaktując się z&nbsp;nami (najlepiej z&nbsp;Piotrem Prądzyńskim).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: Mobile Central Europe 2015. Mamy dla Was 20% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2014/08/26/zapowiedz-konferencji-mobile-central-europe-2015/"/>
-    <updated>2014-08-26T07:30:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/08/26/zapowiedz-konferencji-mobile-central-europe-2015</id>
-    <content type="html"><![CDATA[<p>W&nbsp;dniach 4-6 lutego 2015 roku odbędzie się druga edycja konferencji <a href="http://mceconf.com" target="_blank">Mobile Central Europe</a>. Wydarzenie organizowane jest przez firmę <a href="http://www.polidea.com" target="_blank">Polidea</a> i&nbsp;będzie miało miejsce w&nbsp;Pałac Kultury i&nbsp;Nauki w&nbsp;Warszawie.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://mceconf.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/mce2015.png" alt="Mobile Central Europe 2015" />
-    </a>
-  </div>
-</div>
-
-
-<p>Poniżej kilka słów od organizatorów konferencji. <!--more--></p>
-
-<blockquote>
-  <p>
-    Mobile Central Europe is a&nbsp;Warsaw-based mobile technology conference created by geeks for geeks. It's two days of intense technical talks about design, coding, testing and anything else that might make you a&nbsp;better developer. MCE&nbsp;2015 is the second edition and it is going to be twice as big as this year: four tracks, fifty speakers, workshops, parties, competitions... Knowledge and networking galore. First minute tickets are available until the end of August, but there are only a&nbsp;couple left. In September, prices will go up, because of some major announcements: the first speakers are going to be revealed! There's already a&nbsp;great number confirmed and they are truly first class specialists.
-  </p>
-  <p>
-    Go to <a href="http://mceconf.com" target="_blank">mceconf.com</a> to see up-to-date info, get the latest news and buy your ticket!
-  </p>
-</blockquote>
-
-
-<p>Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 20% zniżki na wejściówkę. Jedyne co trzeba zrobić, to wejść na stronę <a href="http://register.mceconf.com" target="_blank">register.mceconf.com</a> i&nbsp;podczas rejestracji wpisać kod promocyjny, który możecie otrzymać kontaktując się z&nbsp;nami (najlepiej z&nbsp;Piotrem Prądzyńskim).</p>
-
-<p>Zachęcamy do udziału w konferencji, gdyż jest to jedna z najciekawszych pozycji na liście konferencji mobilnych w&nbsp;Polsce.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-01-12T06:03:35+01:00</updated>
+  <updated>2015-01-12T18:51:39+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: JDD. Mamy dla Was 15% zniżki!]]></title>
+    <link href="http://torun.jug.pl/news/2015/01/13/zapowiedz-konferencji-jdd/"/>
+    <updated>2015-01-13T05:35:35+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/01/13/zapowiedz-konferencji-jdd</id>
+    <content type="html"><![CDATA[<p><a href="http://jdd.org.pl" target="_blank">JDD</a> jest dwudniową konferencją adresowaną do wszystkich miłośników Java, zarówno w&nbsp;życiu prywatnym, jak i&nbsp;zawodowym. Wydarzenie jest doskonałą okazją do wzięcia udziału w&nbsp;merytorycznych wykładach, rozwijających warsztatach oraz interaktywnych szkoleniach. Nowatorski charakter JDD oraz wykłady w&nbsp;języku angielskim skutecznie przyciągają coraz większą liczbę uczestników z&nbsp;całego świata.<!--more--></p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/jdd.png" alt="JDD Conference 2015" />
+    </a>
+  </div>
+</div>
+
+
+<p>Konferencja JDD cieszy się ogromną popularnością i&nbsp;z&nbsp;roku na rok zyskuje nowych sympatyków. Tegoroczna edycja odbędzie się 12-13 października 2015 roku w&nbsp;Krakowie. Wszyscy zainteresowani mogą już dzisiaj zarejestrować się na <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=6DA370F515629554D9F2E744725CFB1E" target="_blank">stronie konferencji</a>. W&nbsp;tym roku organizator przewiduje jeszcze więcej wyjątkowych atrakcji, połączonych z&nbsp;merytorycznymi dyskusjami w&nbsp;przyjaznej atmosferze.</p>
+
+<p>Organizatorem konferencji jest krakowska firma <a href="http://www.proidea.org.pl" target="_blank">PROIDEA</a>, która specjalizuje się w&nbsp;kompleksowej organizacji eventów na arenie zarówno polskiej, jak i&nbsp;międzynarodowej.</p>
+
+<p>Jako partnerzy konferencji mamy dla Was <strong>15% zniżki</strong>! Żeby ją otrzymać, wystarczy zgłosić się po kod promocyjny do Piotra Prądzyńskiego.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: 4Developers. Mamy dla Was 15% zniżki!]]></title>
@@ -23,7 +47,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://4developers.org.pl" target="_blank">
-      <img class="no-border" src="/images/partners/4developers.png" alt="4Developers" />
+      <img class="no-border" src="{{ root_url }}/images/partners/4developers.png" alt="4Developers" />
     </a>
   </div>
 </div>
@@ -57,7 +81,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.tdd.geecon.org" target="_blank">
-      <img class="no-border" src="/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
+      <img class="no-border" src="{{ root_url }}/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
     </a>
   </div>
 </div>
@@ -94,22 +118,6 @@
 <p><a href="http://geecon.cz" target="_blank">GeeCON Prague 2014</a> odbędzie się w&nbsp;dniach 23-24 października 2014 roku. Mamy nadzieję, że mimo krótkiego czasu do startu konferencji znajdzie się kilku chętnych na wycieczkę do Pragi.</p>
 
 <p>Jeśli ktoś z&nbsp;Was byłby zainteresowany to zachęcamy do kontaktu z&nbsp;Piotrem Prądzyńskim w&nbsp;celu otrzymania kodu promocyjnego.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SOA w skali mikro, czyli architektura oparta na nanoserwisach]]></title>
-    <link href="http://torun.jug.pl/news/2014/09/09/soa-w-skali-mikro-czyli-architektura-oparta-na-nanoserwisach/"/>
-    <updated>2014-09-09T05:53:14+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/09/09/soa-w-skali-mikro-czyli-architektura-oparta-na-nanoserwisach</id>
-    <content type="html"><![CDATA[<p>Jeśli nie mieliście jeszcze okazji zobaczyć prezentacji Sławka Piotrowskiego, jednego z&nbsp;pierwszych JUGowiczów, z&nbsp;tegorocznej Confitury, to to jest &ldquo;ostatni moment&rdquo;, jak mawiał doktor Kurpiel ;)</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <iframe width="640" height="360" src="//www.youtube.com/embed/GG0vU7StXFs?rel=0" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
-
 ]]></content>
   </entry>
   

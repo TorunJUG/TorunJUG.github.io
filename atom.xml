@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-01-12T06:03:35+01:00</updated>
+  <updated>2015-01-12T18:46:13+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: JDD. Mamy dla Was 15% zniżki!]]></title>
+    <link href="http://torun.jug.pl/news/2015/01/13/zapowiedz-konferencji-jdd/"/>
+    <updated>2015-01-13T05:35:35+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/01/13/zapowiedz-konferencji-jdd</id>
+    <content type="html"><![CDATA[<p><a href="http://jdd.org.pl" target="_blank">JDD</a> jest dwudniową konferencją adresowaną do wszystkich miłośników Java, zarówno w&nbsp;życiu prywatnym, jak i&nbsp;zawodowym. Wydarzenie jest doskonałą okazją do wzięcia udziału w&nbsp;merytorycznych wykładach, rozwijających warsztatach oraz interaktywnych szkoleniach. Nowatorski charakter JDD oraz wykłady w&nbsp;języku angielskim skutecznie przyciągają coraz większą liczbę uczestników z&nbsp;całego świata.<!--more--></p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/jdd.png" alt="JDD Conference 2015" />
+    </a>
+  </div>
+</div>
+
+
+<p>Konferencja JDD cieszy się ogromną popularnością i&nbsp;z&nbsp;roku na rok zyskuje nowych sympatyków. Tegoroczna edycja odbędzie się 12-13 października 2015 roku w&nbsp;Krakowie. Wszyscy zainteresowani mogą już dzisiaj zarejestrować się na <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=6DA370F515629554D9F2E744725CFB1E" target="_blank">stronie konferencji</a>. W&nbsp;tym roku organizator przewiduje jeszcze więcej wyjątkowych atrakcji, połączonych z&nbsp;merytorycznymi dyskusjami w&nbsp;przyjaznej atmosferze.</p>
+
+<p>Organizatorem konferencji jest krakowska firma <a href="http://www.proidea.org.pl" target="_blank">PROIDEA</a>, która specjalizuje się w&nbsp;kompleksowej organizacji eventów na arenie zarówno polskiej, jak i&nbsp;międzynarodowej.</p>
+
+<p>Jako partnerzy konferencji mamy dla Was <strong>15% zniżki</strong>! Żeby ją otrzymać, wystarczy zgłosić się po kod promocyjny do Piotra Prądzyńskiego.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: 4Developers. Mamy dla Was 15% zniżki!]]></title>
@@ -673,77 +697,6 @@
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Recenzja książki: Continuous Enterprise Development in Java]]></title>
-    <link href="http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java/"/>
-    <updated>2014-09-24T05:51:22+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java</id>
-    <content type="html"><![CDATA[<p><strong>Sebastian Łaskawiec</strong>, którego mieliśmy przyjemność słuchać na naszym <a href="http://torun.jug.pl/news/2014/06/07/spotkanie-4/">czwartym spotkaniu</a>, popełnił recenzję książki <em>Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian</em> autorstwa Andrew Lee Rubingera i&nbsp;Aslaka Knutsena. To już czwarta <a href="http://torun.jug.pl/news/categories/recenzje/">recenzja</a> na koncie naszych JUGowiczów!</p>
-
-<!--more-->
-
-
-<h3>Książka</h3>
-
-<p><img class="no-border book-cover" src="http://torun.jug.pl/images/reviews/books/continuous-enterprise-development-in-java.jpg" />
-<strong><em>Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian</em></strong></p>
-
-<p>Learn a&nbsp;use-case approach for developing Java enterprise applications in a&nbsp;continuously test-driven fashion. With <a href="http://shop.oreilly.com/product/0636920025368.do" target="_blank">this hands-on guide</a>, authors and JBoss project leaders Andrew Lee Rubinger and Aslak Knutsen show you how to build high-level components, from persistent storage to the user interface, using the Arquillian testing platform and several other JBoss projects and tools.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Autorzy</h3>
-
-<p><strong>Andrew Lee Rubinger</strong>, a&nbsp;Senior Software Engineer at JBoss, a&nbsp;Division of Red Hat, primarily responsible for development of the company&rsquo;s EJB 3.x implementation. He was an early adopter of Java EE technologies and an active contributor in the tech community.</p>
-
-<p><strong>Aslak Knutsen</strong>, the project lead of Arquillian, is a&nbsp;Senior SoftwareEngineer at JBoss, by Red Hat. He&rsquo;s involved in projects such as Arquillian, ShrinkWrap, Weld and Seam 3, one of the founders of theJBoss Testing initiative and a&nbsp;speaker at major industry conferences including Devoxx, JavaOne, Jazoon, JFokus, and Geecon.</p>
-
-<h3>Recenzja</h3>
-
-<blockquote>
-  <p>
-    <strong>Content</strong>
-  </p>
-  <p>
-    The book covers theoretical and practical aspects of programming using modern tools and JEE technologies. The first paragraph introduces basics concepts of software development and shows that writing tests is actually part of creating the software. In the second paragraph the authors introduce basic tooling and explains briefly how each framework works. Along to standard tools like Git or Maven there are some others - less known - like JBoss Forge or Red Hat OpenShift. In the next paragraph the authors define requirements for building application which will be developed throughout the book (No! I won&#8217;t tell you what it is - check out yourself!). Next few paragraphs show how to build and test different layers of the application - starting from relational database and NoSQL frameworks, going through REST services and ending with testing user interface. The last paragraph describes things, which should be considered when deploying application on production.
-  </p>
-  <p>
-    <strong>Writing style</strong>
-  </p>
-  <p>
-    Andrew and Aslak wrote this publication in workbook style. Each chapter is preceded by theoretical introduction. Shortly after that the authors present given concepts (like graph databases) in context of application requirements, which are followed by the implementation and testing. This approach is very convenient for less advanced readers. On the other hand experts may find many very useful tricks during the implementation phase.
-  </p>
-  <p>
-    <strong>Conclusion and recommendation</strong>
-  </p>
-  <p>
-    When I started reading <em>Continuous Enterprise Development in Java</em> I thought this would be a&nbsp;detailed Arquillian guide. Instead, Andrew and Aslak took me for a&nbsp;journey of most recently used technologies and JEE spec. Many of those tools I started to use in my everyday job (like JBoss Forge). After reading this book I have a basic idea how to test JS based web application front-ends - which is something new for a strong back-end developer - like me.
-  </p>
-  <p>
-    This publication also broadened my knowledge of Arquillian. Many concepts were explained in details - for example views in Shrinkwrap framework. Understanding such concepts is the key for writing maintainable test code.
-  </p>
-  <p>
-    I strongly recommend this book for every developer who wants to learn new things about modern tools, technologies and testing approach. If you are creating an&nbsp;enterprise or web application - this book is definitely for you.
-  </p>
-  <p>Rating: 5/5</p>
-</blockquote>
-
-
-<h3>Recenzent</h3>
-
-<p><img class="no-border reviewer-face" src="http://torun.jug.pl/images/reviews/reviewers/laskawiec-sebastian.jpg" />
-<strong>Sebastian Łaskawiec</strong></p>
-
-<p>Senior Software Engineer w firmie Red Hat, interesujący się kontenerami JEE oraz pisaniem dobrego kodu. W&nbsp;wolnym czasie pasjonat nart, łyżew, rolek, a&nbsp;także domowego piwa i&nbsp;dobrych gier.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Szukamy kolejnych odważnych</h3>
-
-<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a>, <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> i&nbsp;<a href="https://www.apress.com" target="_blank">Apress</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
 ]]></content>
   </entry>
   

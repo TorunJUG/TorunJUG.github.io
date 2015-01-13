@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Nagrania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/nagrania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-01-12T06:03:35+01:00</updated>
+  <updated>2015-01-12T18:51:39+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -18,7 +18,7 @@
     <link href="http://torun.jug.pl/news/2015/01/07/nagranie-z-osmego-spotkania/"/>
     <updated>2015-01-07T16:55:55+01:00</updated>
     <id>http://torun.jug.pl/news/2015/01/07/nagranie-z-osmego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2546" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="/news/2014/12/04/spotkanie-8/">ósmego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2546" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="{{ root_url }}/news/2014/12/04/spotkanie-8/">ósmego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -42,7 +42,7 @@
     <link href="http://torun.jug.pl/news/2014/12/05/nagranie-z-siodmego-spotkania/"/>
     <updated>2014-12-05T05:49:45+01:00</updated>
     <id>http://torun.jug.pl/news/2014/12/05/nagranie-z-siodmego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2510" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="/news/2014/11/13/spotkanie-7/">siódmego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2510" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="{{ root_url }}/news/2014/11/13/spotkanie-7/">siódmego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -66,7 +66,7 @@
     <link href="http://torun.jug.pl/news/2014/11/16/nagranie-z-szostego-spotkania/"/>
     <updated>2014-11-16T19:09:45+01:00</updated>
     <id>http://torun.jug.pl/news/2014/11/16/nagranie-z-szostego-spotkania</id>
-    <content type="html"><![CDATA[<p>Kilka dni temu, na stronie <a href="http://tv.umk.pl/?id=2492" target="_blank">UMK TV</a> pojawiło się nagranie <a href="/news/2014/10/15/spotkanie-6/">szóstego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Kilka dni temu, na stronie <a href="http://tv.umk.pl/?id=2492" target="_blank">UMK TV</a> pojawiło się nagranie <a href="{{ root_url }}/news/2014/10/15/spotkanie-6/">szóstego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -90,7 +90,7 @@
     <link href="http://torun.jug.pl/news/2014/10/03/nagranie-z-piatego-spotkania/"/>
     <updated>2014-10-03T22:22:34+02:00</updated>
     <id>http://torun.jug.pl/news/2014/10/03/nagranie-z-piatego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2451" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2014/09/10/spotkanie-5/">piątego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2451" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{ root_url }}/news/2014/09/10/spotkanie-5/">piątego spotkania</a> naszej grupy. Film można obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -114,7 +114,7 @@
     <link href="http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1/"/>
     <updated>2014-09-30T20:55:40+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">

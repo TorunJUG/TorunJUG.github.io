@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-01-14T05:42:44+01:00</updated>
+  <updated>2015-01-14T06:04:44+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -32,7 +32,7 @@
 
 <p>Projektowanie dzisiejszych aplikacji to nie lada wyzwanie. Jedną z&nbsp;pierwszych rzeczy, o&nbsp;jakie musimy zadbać, to skalowalność. Podczas prezentacji weźmiemy pod lupę styk aplikacji oraz bazy danych i&nbsp;zobaczymy, jak Infinispan może nam w&nbsp;tym pomóc.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/laskawiec-sebastian.jpg" /></p>
 
 <h4>Sebastian Łaskawiec</h4>
 
@@ -46,7 +46,7 @@
 
 <p>W&nbsp;prezentacji chciałbym opowiedzieć o&nbsp;swoich doświadczeniach w&nbsp;pracy z&nbsp;zastanym kodem. Zrobię to od poziomu refaktoringu pojedynczych fragmentów kodu, poprzez zmiany całych komponentów i&nbsp;aplikacji, aż do transformacji złożonych systemów.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/muchewicz-krzysztof.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/muchewicz-krzysztof.jpg" /></p>
 
 <h4>Krzysztof Muchewicz</h4>
 
@@ -77,7 +77,7 @@
 
 <p>Podczas prezentacji przedstawię podstawowe zastosowanie CQRS, a&nbsp;także postaram się opowiedzieć o&nbsp;tym, za pomocą jakich narzędzi można stworzyć szybko aplikację opartą na zasadach tego wzorca.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/papierski-zbyszko.jpg" /></p>
 
 <h4>Zbyszko Papierski</h4>
 
@@ -91,7 +91,7 @@
 
 <p>Chciałbym podzielić się swoim doświadczeniem zarówno z&nbsp;perspektywy osoby pracującej zdalnie, jak i&nbsp;z&nbsp;perspektywy wyzwań stojących przed całym zespołem.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/wrzeszcz-pawel.png" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/wrzeszcz-pawel.png" /></p>
 
 <h4>Paweł Wrzeszcz</h4>
 
@@ -118,7 +118,7 @@
 
 <p>Prezentacja dobrych praktyk projektowania systemów IT w&nbsp;chmurze obliczeniowej. Jak budować wysoko-dostępne, skalowalne i&nbsp;rozproszone geograficznie aplikacje. Wnioski i&nbsp;przykłady będą zaprezentowane na podstawie wdrożeń wykonanych przez prowadzącego &ndash; m.in. systemu dla linii lotniczych opartego o&nbsp;usługi Amazon Web Services.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/balinski-michal.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/balinski-michal.jpg" /></p>
 
 <h4>Michał Baliński</h4>
 
@@ -132,7 +132,7 @@
 
 <p><del>Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.</del></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/modzelewski-piotr.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/modzelewski-piotr.jpg" /></p>
 
 <h4><del>Piotr Modzelewski</del></h4>
 
@@ -144,7 +144,7 @@
 
 <p>Historia interfejsów użytkownika w świecie Javy jest historią bez szczęśliwego zakończenia. Mnogość rozwiązań wydaje się być tylko ostatnim krzykiem tonącego. Zamiast jednak płakać nad obecną sytuacją oswójmy się z nadchodzącą rewolucją. W tej prezentacji chciałbym pokazać jak w środowiskach opartych o Javę używać jednej z bardziej udanych bibliotek JavasSriptowych &ndash; AngularJS.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/piotrowski-slawek.jpg" /></p>
 
 <h4>Sławek Piotrowski</h4>
 
@@ -171,7 +171,7 @@
 
 <p>Chciałbym przedstawić model aktorów jako alternatywę do standardowego modelu współbieżności oraz wielowątkowości &ndash; czyli asynchroniczne przesyłane wiadomości pomiędzy aktorami zamiast semaforów, locków i&nbsp;innych prób walki z&nbsp;wątkami. Prezentacja oparta będzie o&nbsp;framework Akka.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/fejzer-mikolaj.jpg" /></p>
 
 <h4>Mikołaj Fejzer</h4>
 
@@ -183,7 +183,7 @@
 
 <p>In this talk, right after introduction to Docker, Marek will dive into examples how you can leverage this tool to create a&nbsp;deployment environment for your applications. You will see how to cluster WildFly and deploy application to it. Marek will share some tips and tricks too: for example how to manage logs or customize the configuration of WildFly to be able to deploy your applications. Prezentacja będzie po polsku.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/goldmann-marek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/goldmann-marek.jpg" /></p>
 
 <h4>Marek Goldmann</h4>
 
@@ -208,7 +208,7 @@
 
 <p>Złapałem się ostatnio na rzeczy, która dla niektórych może wydawać się dziwna (w&nbsp;każdym razie dla mojej żony tak i&nbsp;nie chodzi tu o &nbsp;nietypowe techniki w&nbsp;pożyciu małżeńskim) &ndash; fajnie jest popisać testy. Postrzeganie problemów zmienia się z&nbsp;czasem (nie chcąc pisać &ldquo;z&nbsp;wiekiem&rdquo;). Może z&nbsp;tego samego powodu polubiłem piwo pszeniczne i&nbsp;zacząłem kupować oryginalny software. Tą prezentacją, o&nbsp;temacie z&nbsp;pozoru banalnym, chciałbym zachęcić (szczególnie &ldquo;młodych gniewnych&rdquo;) do pisania lepszych testów jednostkowych, które nie tylko testują ale i&nbsp;potrafią udokumentować kod produkcyjny. Przedstawię zbiór kilku przykładów i&nbsp;propozycji na to, jak zrobić testy bardziej sexy.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/sawicki-lukasz.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/sawicki-lukasz.jpg" /></p>
 
 <h4>Łukasz Sawicki</h4>
 
@@ -220,7 +220,7 @@
 
 <p>Coraz większy napływ informacji do naszych systemów wymaga nowego podejścia do problemu przetwarzania danych. Jak przechować interesujące nas tweety? Co zrobić z&nbsp;nadmiarem logów? Jak zbudować system rekomendacji? Rozwiązaniem naszych problemów może być Hadoop. W&nbsp;trakcie krótkiej prezentacji omówimy podstawowe założenia systemu, wyjaśnimy jak szybko przetwarzać duże zbiory danych oraz uruchomimy nasz pierwszy klaster Hadoopa.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/osinski-arek.png" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/osinski-arek.png" /></p>
 
 <h4>Arek Osiński</h4>
 

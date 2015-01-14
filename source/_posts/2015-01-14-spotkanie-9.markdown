@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Spotkanie #9 [2015-01-28]"
+description: "Toruń JUG - Spotkanie #9 [2015-01-28]"
+date: 2015-01-14 05:45:14 +0100
+comments: true
+categories: Spotkania
+---
+Dziewiąte spotkanie toruńskiej grupy użytkowników języka Java odbędzie się **w&nbsp;środę, 28 stycznia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/219822291/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1576490685899588/" target="_blank">Facebook</a>.
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)
+
+**Uwaga!** Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta **dla wszystkich od godziny 17:30**. Serdecznie zapraszamy! <!-- more -->
+
+### Infinispan - Data Grid do zadań specjalnych
+Projektowanie dzisiejszych aplikacji to nie lada wyzwanie. Jedną z&nbsp;pierwszych rzeczy, o&nbsp;jakie musimy zadbać, to skalowalność. Podczas prezentacji weźmiemy pod lupę styk aplikacji oraz bazy danych i&nbsp;zobaczymy, jak Infinispan może nam w&nbsp;tym pomóc.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" />
+#### Sebastian Łaskawiec
+Programista pracujący w&nbsp;Red Hat, na co dzień zajmujący się projektem JBoss Data Grid. Amator projektów OpenSource, czystego kodu i&nbsp;dobrych unit testów. Prywatnie, zapalony narciarz i&nbsp;domowy piwowar.
+
+<span class="clearfix"></span>
+### Jak sobie radzić z&nbsp;zastanym kodem
+W&nbsp;pracy programisty być może więcej czasu poświęcamy na zmianę istniejącego kodu niż na tworzenie nowego. Jesteśmy szczęśliwcami, jeśli musimy zmieniać jedynie swój własny kod. Często jednak zmieniamy słaby kod napisany przez ludzi których już nie ma w&nbsp;naszej organizacji.
+
+W&nbsp;prezentacji chciałbym opowiedzieć o&nbsp;swoich doświadczeniach w&nbsp;pracy z&nbsp;zastanym kodem. Zrobię to od poziomu refaktoringu pojedynczych fragmentów kodu, poprzez zmiany całych komponentów i&nbsp;aplikacji, aż do transformacji złożonych systemów.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/muchewicz-krzysztof.jpg" />
+#### Krzysztof Muchewicz
+Jestem "Architektem Rozwiązań" w&nbsp;grupie Allegro. Moim głównym zadaniem jest transformacja PHP-owej platformy Allegro do cywilizowanej postaci. W&nbsp;ciągu dziesięciu lat kariery informatycznej (po)pełniłem każdą możliwą rolę w&nbsp;IT od programisty, poprzez lidera, menadżera, po architekta.
+
+Miałem okazję tworzyć rozwiązania w&nbsp;C++, .NET, Java. Programowałem i&nbsp;projektowałem aplikacje desktopowe, bazodanowe, webowe. Obecnie najbardziej jara mnie Domain Driven Design i&nbsp;architektura Lambda. Prywatnie kręcą mnie buddyzm i&nbsp;podróże.

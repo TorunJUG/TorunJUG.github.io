@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-01-14T06:04:44+01:00</updated>
+  <updated>2015-01-22T05:46:49+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: Scalar 2015]]></title>
+    <link href="http://torun.jug.pl/news/2015/01/22/zapowiedz-konferencji-scalar-2015/"/>
+    <updated>2015-01-22T05:45:45+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/01/22/zapowiedz-konferencji-scalar-2015</id>
+    <content type="html"><![CDATA[<p>Już 11.04.2015 w&nbsp;Warszawie w&nbsp;Bibliotece Narodowej przy al. Niepodległości 213 odbędzie się II edycja międzynarodowej konferencji <a href="http://scalar-conf.com" target="_blank">Scalar</a> dla zainteresowanych programowaniem w&nbsp;Scali. Udział w tym wydarzeniu jest całkowicie <strong>bezpłatny</strong>.</p>
+
+<p>Organizatorem wydarzenia jest <a href="https://softwaremill.com" target="_blank">SoftwareMill</a> &ndash; firma w&nbsp;100% pracująca zdalnie, o&nbsp;płaskiej strukturze, znana w&nbsp;środowisku programistycznym z&nbsp;zaangażowania w&nbsp;konferencje, społeczności oraz zastosowania nowych technologii w&nbsp;projektach dla klientów z&nbsp;Australii, Afryki, USA i&nbsp;Europy.<!--more--></p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://scalar-conf.com" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/scalar-2015.png" alt="Scalar 2015" />
+    </a>
+  </div>
+</div>
+
+
+<p>Prelegentami będą zarówno zagraniczni goście, autorytety ze świata Scali, zaproszeni przez SoftwareMill jak również osoby wyłonione przez kapitułę konferencji na podstawie <a href="https://docs.google.com/a/softwaremill.pl/forms/d/1LtbOxICVsLtwt0WPkr_k9o5YO3HgrztVv4cGsThI_M0/viewform" target="_blank">call for papers</a>. Zgłoszenia od prelegentów przyjmowane są do 8-go lutego.</p>
+
+<p>W&nbsp;ubiegłym roku 300 bezpłatnych wejściówek rozeszło się w&nbsp;2&nbsp;dni (!!!). Dlatego sugerujemy zapisanie się na newsletter konferencji i&nbsp;śledzenie twittera <a href="https://twitter.com/scalarconf" target="_blank">@scalarconf</a>, żeby nie przegapić tegorocznej rejestracji na Scalara. Więcej na <a href="http://scalar-conf.com" target="_blank">scalar-conf.com</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: JDD. Mamy dla Was 15% zniżki!]]></title>
@@ -23,7 +47,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
-      <img class="no-border" src="/images/partners/jdd.png" alt="JDD Conference 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/jdd.png" alt="JDD Conference 2015" />
     </a>
   </div>
 </div>
@@ -47,7 +71,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://4developers.org.pl" target="_blank">
-      <img class="no-border" src="/images/partners/4developers.png" alt="4Developers" />
+      <img class="no-border" src="{{ root_url }}/images/partners/4developers.png" alt="4Developers" />
     </a>
   </div>
 </div>
@@ -81,7 +105,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.tdd.geecon.org" target="_blank">
-      <img class="no-border" src="/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
+      <img class="no-border" src="{{ root_url }}/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
     </a>
   </div>
 </div>
@@ -118,26 +142,13 @@
 <div class="row text-center" style="margin-bottom: 10px;">
   <div class="col-md-12">
     <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">
-      <img class="no-border" src="/images/partners/no_fluff_jobs_com_logo.jpg" alt="nofluffjobs - oferty praca dla informatykow">
+      <img class="no-border" src="{{ root_url }}/images/partners/no_fluff_jobs_com_logo.jpg" alt="nofluffjobs - oferty praca dla informatykow">
     </a>
   </div>
 </div>
 
 
 <p>Jest nam bardzo miło zakomunikować, że udało nam się porozumieć z&nbsp;twórcami portalu <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a> i&nbsp;podjąć długoterminową współpracę na zasadach obustronnego partnerstwa. Życzymy twórcom samych sukcesów i&nbsp;czekamy na owoce współpracy :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[10% zniżki na GeeCON Prague 2014!]]></title>
-    <link href="http://torun.jug.pl/news/2014/10/17/znizka-na-geecon-prague-2014/"/>
-    <updated>2014-10-17T05:38:45+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/10/17/znizka-na-geecon-prague-2014</id>
-    <content type="html"><![CDATA[<p>Wiadomość z&nbsp;ostatniej chwili! Właśnie otrzymaliśmy informację od organizatorów konferencji GeeCON o&nbsp;przyznaniu nam 10-procentowej zniżki na bilety na jej pierwszą praską edycję.</p>
-
-<p><a href="http://geecon.cz" target="_blank">GeeCON Prague 2014</a> odbędzie się w&nbsp;dniach 23-24 października 2014 roku. Mamy nadzieję, że mimo krótkiego czasu do startu konferencji znajdzie się kilku chętnych na wycieczkę do Pragi.</p>
-
-<p>Jeśli ktoś z&nbsp;Was byłby zainteresowany to zachęcamy do kontaktu z&nbsp;Piotrem Prądzyńskim w&nbsp;celu otrzymania kodu promocyjnego.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-01-14T06:04:44+01:00</updated>
+  <updated>2015-01-22T05:42:47+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: Scalar 2015]]></title>
+    <link href="http://torun.jug.pl/news/2015/01/22/zapowiedz-konferencji-scalar-2015/"/>
+    <updated>2015-01-22T05:45:45+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/01/22/zapowiedz-konferencji-scalar-2015</id>
+    <content type="html"><![CDATA[<p>Już 11.04.2015 w&nbsp;Warszawie w&nbsp;Bibliotece Narodowej przy al. Niepodległości 213 odbędzie się II edycja międzynarodowej konferencji <a href="http://scalar-conf.com" target="_blank">Scalar</a> dla zainteresowanych programowaniem w&nbsp;Scali. Udział w tym wydarzeniu jest całkowicie <strong>bezpłatny</strong>.</p>
+
+<p>Organizatorem wydarzenia jest <a href="https://softwaremill.com" target="_blank">SoftwareMill</a> &ndash; firma w&nbsp;100% pracująca zdalnie, o&nbsp;płaskiej strukturze, znana w&nbsp;środowisku programistycznym z&nbsp;zaangażowania w&nbsp;konferencje, społeczności oraz zastosowania nowych technologii w&nbsp;projektach dla klientów z&nbsp;Australii, Afryki, USA i&nbsp;Europy.<!--more--></p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://scalar-conf.com" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/scalar-2015.png" alt="Scalar 2015" />
+    </a>
+  </div>
+</div>
+
+
+<p>Prelegentami będą zarówno zagraniczni goście, autorytety ze świata Scali, zaproszeni przez SoftwareMill jak również osoby wyłonione przez kapitułę konferencji na podstawie <a href="https://docs.google.com/a/softwaremill.pl/forms/d/1LtbOxICVsLtwt0WPkr_k9o5YO3HgrztVv4cGsThI_M0/viewform" target="_blank">call for papers</a>. Zgłoszenia od prelegentów przyjmowane są do 8-go lutego.</p>
+
+<p>W&nbsp;ubiegłym roku 300 bezpłatnych wejściówek rozeszło się w&nbsp;2&nbsp;dni (!!!). Dlatego sugerujemy zapisanie się na newsletter konferencji i&nbsp;śledzenie twittera <a href="https://twitter.com/scalarconf" target="_blank">@scalarconf</a>, żeby nie przegapić tegorocznej rejestracji na Scalara. Więcej na <a href="http://scalar-conf.com" target="_blank">scalar-conf.com</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #9 [2015-01-28]]]></title>
@@ -674,30 +698,6 @@
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Wideorelacja z Hackathornu #1]]></title>
-    <link href="http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1/"/>
-    <updated>2014-09-30T20:55:40+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="http://torun.jug.pl/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=2449&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło za realizację nagrania.</p>
-
-<p>Wideorelacja pojawi się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
 ]]></content>
   </entry>
   

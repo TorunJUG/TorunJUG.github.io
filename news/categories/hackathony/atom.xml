@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Hackathony | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/hackathony/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-02-05T05:39:53+01:00</updated>
+  <updated>2015-02-13T18:42:44+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[BrainCode Mobi #2 już 13 marca!]]></title>
+    <link href="http://torun.jug.pl/news/2015/02/13/braincode-mobi-2-juz-13-marca/"/>
+    <updated>2015-02-13T18:24:25+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/02/13/braincode-mobi-2-juz-13-marca</id>
+    <content type="html"><![CDATA[<p>W <strong>piątek 13 marca 2015r.</strong> wystartuje <strong>druga edycja hackathonu BrainCode Mobi</strong> przygotowana przez Grupę Allegro przy współpracy z najlepszymi uczelniami w Polsce. Ta edycja będzie wyjątkowa, ponieważ odbywać się będzie jednocześnie w czterech miastach: Krakowie, Poznaniu, <strong>Toruniu</strong>, oraz Warszawie.</p>
+
+<p>Już za miesiąc sprawdzimy czy w 24 godziny maksymalnie czteroosobowe zespoły są w stanie zbudować ciekawą i innowacyjną aplikację mobilną.</p>
+
+<p>Spotykamy się w piątek, 13 marca o godzinie 16:00. Po rejestracji uczestników i krótkim wprowadzeniu rozpoczniemy kodowanie, które zakończy się w sobotę o godzinie 17:00. Jury rozpocznie wówczas ocenę projektów. Imprezę zakończymy podsumowaniem oraz nagrodzeniem najlepszych pomysłów. W Toruniu hackaton odbędzie się <strong>na Wydziale Matematyki i Informatyki UMK, ul. Chopina 12/18</strong>. <!-- more --></p>
+
+<p>Zespoły zmierzą się w dwóch kategoriach:</p>
+
+<ul>
+<li><strong>Open</strong> &ndash; najlepsza aplikacja mobilna: stwórz dowolną aplikację korzystając z SDK dostępnego na daną platformę mobilną,</li>
+<li><strong>Allegro</strong> &ndash; najlepsze wykorzystanie API Allegro.pl: korzystając z dostępnego API serwisu Allegro.pl stwórz aplikację na dowolną platformę mobilną.
+Uczestnicy będą pracować w maksymalnie 4-osobowych zespołach, które uformują się na miejscu wydarzenia po prezentacji pomysłów uczestników.</li>
+</ul>
+
+
+<p>Uczestnicy będą pracować w maksymalnie 4-osobowych zespołach, które uformują się na miejscu wydarzenia po prezentacji pomysłów uczestników.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://braincode.mobi" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/braincode.png" alt="BrainCode Mobi" />
+    </a>
+  </div>
+</div>
+
+
+<p>Na drugą edycję <strong>BrainCode Mobi</strong> zapraszamy wszystkich zainteresowanych tworzeniem aplikacji mobilnych: zarówno studentów rozpoczynających swoją przygodę z technologiami mobilnymi, jak i osoby, które na co dzień, zawodowo czy hobbystycznie, zajmują się podobnymi zagadnieniami: developerów, testerów i projektantów UX.</p>
+
+<h3>Wiedza i zabawa</h3>
+
+<p>Poza samym konkursem w piątek równolegle planujemy otwarte warsztaty. Będzie można zapoznać się z zaawansowanymi zagadnieniami dotyczącymi tworzenia aplikacji dla wybranych platform mobilnych oraz poznać inne ciekawe technologie.</p>
+
+<p>Na miejscu będzie można spotkać specjalistów od technologii mobilnych i backendowych z Grupy Allegro, koderów na wszystkie platformy mobilne, speców z branży, koleżanki i kolegów po fachu. Dla uczestników przewidzieliśmy w trakcie trwania imprezy gry oraz krótkie konkursy.
+Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają atrakcyjne nagrody.</p>
+
+<h3>Chętni? Zarejestrujcie się już dziś!</h3>
+
+<p>Udział w wydarzeniu jest <strong>darmowy</strong>, a zapisy potrwają do 6 marca lub do wyczerpania limitu miejsc przypadających na lokalizację.</p>
+
+<p><strong>WAŻNE:</strong> Wszystkim, którzy zapiszą się do 26 lutego włącznie gwarantujemy koszulki w wybranych rozmiarach!</p>
+
+<p>Regulamin, harmonogram oraz pozostałe informacje znajdziecie na stronie <a href="http://braincode.mobi" target="_blank">braincode.mobi</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Wideorelacja z Hackathornu #1]]></title>
@@ -185,19 +235,6 @@
 <p>Hackathon to wiele długich godzin kodowania, dlatego nie zaszkodzi do swojego porannego planu dnia dołożyć kilka prostych ćwiczeń fizycznych, które pozwolą przygotować ciało na ten wysiłek. Nie wolno zapomnieć o&nbsp;przygotowaniu umysłu. Warto poświęcić chwilę czasu na zapoznanie się z&nbsp;<a href="http://www.meetup.com/meetup_api/" target="_blank">Meetup API</a> oraz zakodować kilka prostych przykładów, testując je na <a href="http://www.meetup.com/Meetup-API-Testing/" target="_blank">ogólnodostępnej grupie testowej</a>. Tak przygotowani powinniśmy bez problemu rozwiązać skutecznie zadanie, jakim jest przygotowanie działającego prototypu aplikacji.</p>
 
 <p>Chcielibyśmy również przypomnieć o&nbsp;zapoznaniu się z&nbsp;kompletnym <a href="{{ root_url }}/materials/hackathons/1/regulamin.pdf" target="_blank">regulaminem</a> zbliżającego się hackathonu.</p>
-
-<p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[[Hackathorn #1] Sponsorzy]]></title>
-    <link href="http://torun.jug.pl/news/2014/08/25/hackathorn-1-sponsorzy/"/>
-    <updated>2014-08-25T17:36:39+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/08/25/hackathorn-1-sponsorzy</id>
-    <content type="html"><![CDATA[<p>Żaden poważny darmowy event nie może obyć się bez poważnych sponsorów. Dotyczy to również zbliżającego się <a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>.</p>
-
-<p><a href="{{ root_url }}/news/2014/08/23/hackathorn-1-exea-smart-space/">Wspominaliśmy już wcześniej</a>, że współorganizator wydarzenia, jakim jest <a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, zapewni nam miejscówkę i&nbsp;ciepły posiłek. Oprócz Smarta swoją cegiełkę dorzucą również <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Allegro</a> i <a href="http://www.rulefinancial.com" target="_blank">Rule Financial</a>. Dzięki Allegro, każdy z&nbsp;uczestników hackathonu otrzyma pamiątkową koszulkę, a&nbsp;w&nbsp;trakcie kodowania nikomu nie zabraknie przekąsek i&nbsp;napojów. Za sprawą Rule Financial, zwycięska drużyna otrzyma atrakcyjne nagrody książkowe. Więcej szczegółów o&nbsp;naszych sponsorach dowiecie się z&nbsp;<a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego artykułu</a> na temat hackathonu.</p>
 
 <p>Przypominamy o&nbsp;<a href="http://www.meetup.com/Torun-JUG/events/201836452/" target="_blank">rejestracji na hackathon</a> &ndash; <strong>na Wasze zgłoszenia czekamy do 31 sierpnia</strong>. Nie zwlekaj, zarejestruj się już teraz!</p>
 ]]></content>

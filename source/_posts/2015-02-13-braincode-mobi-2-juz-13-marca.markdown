@@ -2,6 +2,7 @@
 layout: post
 title: "BrainCode Mobi #2 już 13 marca!"
 description: "Druga edycja hackathonu BrainCode Mobi już 13 marca!"
+cover: "/images/partners/braincode.png"
 date: 2015-02-13 18:24:25 +0100
 comments: true
 categories: Hackathony

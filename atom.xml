@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-02-13T18:46:27+01:00</updated>
+  <updated>2015-02-14T10:48:22+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z dziewiątego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/02/14/nagranie-z-dziewiatego-spotkania/"/>
+    <updated>2015-02-14T10:43:37+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/02/14/nagranie-z-dziewiatego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2589" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="http://torun.jug.pl/news/2015/01/14/spotkanie-9/">dziewiątego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2589&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[BrainCode Mobi #2 już 13 marca!]]></title>
@@ -657,45 +681,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <p><a href="http://geecon.cz" target="_blank">GeeCON Prague 2014</a> odbędzie się w&nbsp;dniach 23-24 października 2014 roku. Mamy nadzieję, że mimo krótkiego czasu do startu konferencji znajdzie się kilku chętnych na wycieczkę do Pragi.</p>
 
 <p>Jeśli ktoś z&nbsp;Was byłby zainteresowany to zachęcamy do kontaktu z&nbsp;Piotrem Prądzyńskim w&nbsp;celu otrzymania kodu promocyjnego.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #6 [2014-10-29]]]></title>
-    <link href="http://torun.jug.pl/news/2014/10/15/spotkanie-6/"/>
-    <updated>2014-10-15T19:17:25+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/10/15/spotkanie-6</id>
-    <content type="html"><![CDATA[<p>Szóste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 29 października 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/213609002/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1497663360507969/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<h3>Wprowadzenie do modelu aktorów na JVM</h3>
-
-<p>Chciałbym przedstawić model aktorów jako alternatywę do standardowego modelu współbieżności oraz wielowątkowości &ndash; czyli asynchroniczne przesyłane wiadomości pomiędzy aktorami zamiast semaforów, locków i&nbsp;innych prób walki z&nbsp;wątkami. Prezentacja oparta będzie o&nbsp;framework Akka.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/fejzer-mikolaj.jpg" /></p>
-
-<h4>Mikołaj Fejzer</h4>
-
-<p>Doktorant, zawodowo programista Java, obecnie związany z&nbsp;PayU. Entuzjasta programowania funkcyjnego.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Docker and JBoss – the perfect combination</h3>
-
-<p>In this talk, right after introduction to Docker, Marek will dive into examples how you can leverage this tool to create a&nbsp;deployment environment for your applications. You will see how to cluster WildFly and deploy application to it. Marek will share some tips and tricks too: for example how to manage logs or customize the configuration of WildFly to be able to deploy your applications. Prezentacja będzie po polsku.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/goldmann-marek.jpg" /></p>
-
-<h4>Marek Goldmann</h4>
-
-<p>Marek joined Red Hat in January 2009 and started hacking on Cloud-related JBoss projects. Currently Marek leads the WildFly integration effort with the Fedora operating system, and makes sure that JBoss&#8217; projects run well on Docker.</p>
 ]]></content>
   </entry>
   

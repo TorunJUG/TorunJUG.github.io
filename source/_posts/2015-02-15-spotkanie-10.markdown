@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Spotkanie #10 [2015-02-25]"
+description: "Toruń JUG - Spotkanie #10 [2015-02-25]"
+date: 2015-02-15 07:26:14 +0100
+comments: true
+categories: Spotkania
+---
+Dziesiąte spotkanie toruńskiej grupy użytkowników języka Java odbędzie się **w&nbsp;środę, 25 lutego 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/220531738/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1004709639543475/" target="_blank">Facebook</a>.
+
+Pierwszy raz w&nbsp;historii toruńskiego JUGa spotkanie będzie sponsorowane. Sponsorem będzie Gdańska firma <a href="https://www.spartez.com" target="_blank">Spartez</a>, partner strategiczny firmy Atlassian. Dzięki temu, **każdy zarejestrowany uczestnik spotkania otrzyma darmowe piwo w&nbsp;trakcie tradycyjnego afterparty** w&nbsp;Krajinie Piva, a dla bardziej aktywnych będą również drobne upominki, m.in. firmowe koszulki Spartez :)
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="https://www.spartez.com" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/spartez.png" alt="Spartez" />
+    </a>
+  </div>
+</div>
+
+**Uwaga!** Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta **dla wszystkich od godziny 17:30**.
+
+Serdecznie zapraszamy! <!-- more -->
+
+### Wykorzystanie języka Groovy w&nbsp;testach jednostkowych, integracyjnych i&nbsp;automatycznych
+Nikogo nie trzeba chyba przekonywać do tego, jak ważne jest właściwe testowanie aplikacji, zarówno manualne jak i&nbsp;automatyczne. Większość osób zajmujących się na co dzień programowaniem w&nbsp;Javie korzystało z&nbsp;takich bibliotek jak JUnit czy Mockito. Na prezentacji pokażę trochę inny stack technologiczny służący do testowania aplikacji Javowych. Zaprezentuję przykłady testów jednostkowych, integracyjnych oraz automatycznych napisanych z&nbsp;wykorzystaniem Groovy'ego, Spocka oraz Geb'a, i&nbsp;opowiem o&nbsp;zaletach (i&nbsp;wadach) tych rozwiązań.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/golda-miroslaw.jpg" />
+#### Mirosław Gołda
+Programista Java (wcześniej PHP) od 3,5 roku związany z&nbsp;Grupą Allegro. W&nbsp;wolnych chwilach lubi poczytać (głównie książki o&nbsp;programowaniu, na inne nie ma już niestety czasu), pograć w&nbsp;tenisa stołowego, piłkarzyki oraz w&nbsp;backgammona (tryktraka).
+
+<span class="clearfix"></span>
+### 5-10-15-... lat kariery Java developera
+Nie ma się co oszukiwać - żyjemy w&nbsp;czasach wyjątkowo sprzyjających inżynierom IT, a&nbsp;już przede wszystkim software developerom. Zwłaszcza języka Java. Wielkie "ssanie" na rynku pracy. Setki firm z&nbsp;kraju i&nbsp;zagranicy walczących o&nbsp;pracowników w&nbsp;Polsce. Naprawdę spore pieniądze - zwłaszcza na tle innych profesji.
+
+Nic, tylko spocząć na laurach i&nbsp;dać się adorować pracodawcom.
+
+Takie podejście to jednak błogi początek raczej szybkiego końca. I&nbsp;widać wiele ofiar takiego stanu rzeczy - rynek rozpieszczający nas jest de facto naszym największym zagrożeniem.
+
+Jak kolejno 5, 10 i&nbsp;15 lat doświadczenia w&nbsp;branży zmienia naszą percepcję na tę platformę oraz przede wszystkim na nas samych - nasze miejsce i&nbsp;wartość jako profesjonalnych Java developerów? Jakie są zagrożenia związane z&nbsp;naszym zawodem i&nbsp;naszą ukochaną platformą? Czy jesteśmy wyjątkowi? Co jest ważne, a&nbsp;co nie w&nbsp;naszej profesji? Czy znajomość Javy czyni nas "nieśmiertelnymi" zawodowo? Czy można być software developerem z&nbsp;30-letnim stażem?
+
+Wojtek postara się odpowiedzieć dosyć szeroko na takie pytania. Rozwieje pewne mity dotyczące profesji Java developera oraz podzieli się różnymi przemyśleniami bazującymi na obserwacjach oraz setkach odbytych rozmów z&nbsp;ludźmi z branży - od nowicjuszy do ludzi z&nbsp;ponad 30-letnim doświadczeniem zawodowym.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/seliga-wojciech.jpg" />
+#### Wojciech Seliga
+Jest software developerem z&nbsp;natury (programuje od 6-tego roku życia, a&nbsp;w&nbsp;języku Java od ponad 16 lat), choć w ostatnim czasie pochłania go przede wszystkim rozwijanie firmy Spartez, którą współzałożył w 2007 roku.
+
+Od wielu lat Wojciech zajmuje się różnymi aspektami software developmentu: propagowaniem metodologii agile, prowadzeniem projektów i&nbsp;zespołów software'owych, zatrudnianiem najlepszych specjalistów z&nbsp;branży, rozwojem biznesowym, mentoringiem i&nbsp;szkoleniami dla developerów, a&nbsp;nocą nadal kodowaniem. Obecnie z&nbsp;blisko 70-tką fantastycznych ludzi w&nbsp;Spartez pracuje nad narzędziami z&nbsp;ekosystemu Atlassiana, takimi jak JIRA, Bamboo, Crucible, FishEye, Agile Cards, TFS4JIRA czy najnowszy produkt firmy - Ephor.
+
+Wojciech prezentuje (nieraz w&nbsp;dosyć kontrowersyjny sposób) dosyć często na różnych konferencjach w&nbsp;kraju, jak i&nbsp;za granicą (np. Devoxx, 33rd Degree, GeeCON, Confitura, InfoSHARE, Agile, Atlassian Summit czy XPDays).

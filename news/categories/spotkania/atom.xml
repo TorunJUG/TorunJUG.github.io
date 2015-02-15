@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-02-14T10:53:20+01:00</updated>
+  <updated>2015-02-15T07:29:37+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,68 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #10 [2015-02-25]]]></title>
+    <link href="http://torun.jug.pl/news/2015/02/15/spotkanie-10/"/>
+    <updated>2015-02-15T07:26:14+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/02/15/spotkanie-10</id>
+    <content type="html"><![CDATA[<p>Dziesiąte spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 25 lutego 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/220531738/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1004709639543475/" target="_blank">Facebook</a>.</p>
+
+<p>Pierwszy raz w&nbsp;historii toruńskiego JUGa spotkanie będzie sponsorowane. Sponsorem będzie Gdańska firma <a href="https://www.spartez.com" target="_blank">Spartez</a>, partner strategiczny firmy Atlassian. Dzięki temu, <strong>każdy zarejestrowany uczestnik spotkania otrzyma darmowe piwo w&nbsp;trakcie tradycyjnego afterparty</strong> w&nbsp;Krajinie Piva, a dla bardziej aktywnych będą również drobne upominki, m.in. firmowe koszulki Spartez :)</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="https://www.spartez.com" target="_blank">
+      <img class="no-border" src="/images/partners/spartez.png" alt="Spartez" />
+    </a>
+  </div>
+</div>
+
+
+<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>.</p>
+
+<p>Serdecznie zapraszamy! <!-- more --></p>
+
+<h3>Wykorzystanie języka Groovy w&nbsp;testach jednostkowych, integracyjnych i&nbsp;automatycznych</h3>
+
+<p>Nikogo nie trzeba chyba przekonywać do tego, jak ważne jest właściwe testowanie aplikacji, zarówno manualne jak i&nbsp;automatyczne. Większość osób zajmujących się na co dzień programowaniem w&nbsp;Javie korzystało z&nbsp;takich bibliotek jak JUnit czy Mockito. Na prezentacji pokażę trochę inny stack technologiczny służący do testowania aplikacji Javowych. Zaprezentuję przykłady testów jednostkowych, integracyjnych oraz automatycznych napisanych z&nbsp;wykorzystaniem Groovy'ego, Spocka oraz Geb'a, i&nbsp;opowiem o&nbsp;zaletach (i&nbsp;wadach) tych rozwiązań.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/golda-miroslaw.jpg" /></p>
+
+<h4>Mirosław Gołda</h4>
+
+<p>Programista Java (wcześniej PHP) od 3,5 roku związany z&nbsp;Grupą Allegro. W&nbsp;wolnych chwilach lubi poczytać (głównie książki o&nbsp;programowaniu, na inne nie ma już niestety czasu), pograć w&nbsp;tenisa stołowego, piłkarzyki oraz w&nbsp;backgammona (tryktraka).</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>5-10-15-&hellip; lat kariery Java developera</h3>
+
+<p>Nie ma się co oszukiwać &ndash; żyjemy w&nbsp;czasach wyjątkowo sprzyjających inżynierom IT, a&nbsp;już przede wszystkim software developerom. Zwłaszcza języka Java. Wielkie &ldquo;ssanie&rdquo; na rynku pracy. Setki firm z&nbsp;kraju i&nbsp;zagranicy walczących o&nbsp;pracowników w&nbsp;Polsce. Naprawdę spore pieniądze &ndash; zwłaszcza na tle innych profesji.</p>
+
+<p>Nic, tylko spocząć na laurach i&nbsp;dać się adorować pracodawcom.</p>
+
+<p>Takie podejście to jednak błogi początek raczej szybkiego końca. I&nbsp;widać wiele ofiar takiego stanu rzeczy &ndash; rynek rozpieszczający nas jest de facto naszym największym zagrożeniem.</p>
+
+<p>Jak kolejno 5, 10 i&nbsp;15 lat doświadczenia w&nbsp;branży zmienia naszą percepcję na tę platformę oraz przede wszystkim na nas samych &ndash; nasze miejsce i&nbsp;wartość jako profesjonalnych Java developerów? Jakie są zagrożenia związane z&nbsp;naszym zawodem i&nbsp;naszą ukochaną platformą? Czy jesteśmy wyjątkowi? Co jest ważne, a&nbsp;co nie w&nbsp;naszej profesji? Czy znajomość Javy czyni nas &ldquo;nieśmiertelnymi&rdquo; zawodowo? Czy można być software developerem z&nbsp;30-letnim stażem?</p>
+
+<p>Wojtek postara się odpowiedzieć dosyć szeroko na takie pytania. Rozwieje pewne mity dotyczące profesji Java developera oraz podzieli się różnymi przemyśleniami bazującymi na obserwacjach oraz setkach odbytych rozmów z&nbsp;ludźmi z branży &ndash; od nowicjuszy do ludzi z&nbsp;ponad 30-letnim doświadczeniem zawodowym.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/seliga-wojciech.jpg" /></p>
+
+<h4>Wojciech Seliga</h4>
+
+<p>Jest software developerem z&nbsp;natury (programuje od 6-tego roku życia, a&nbsp;w&nbsp;języku Java od ponad 16 lat), choć w ostatnim czasie pochłania go przede wszystkim rozwijanie firmy Spartez, którą współzałożył w 2007 roku.</p>
+
+<p>Od wielu lat Wojciech zajmuje się różnymi aspektami software developmentu: propagowaniem metodologii agile, prowadzeniem projektów i&nbsp;zespołów software'owych, zatrudnianiem najlepszych specjalistów z&nbsp;branży, rozwojem biznesowym, mentoringiem i&nbsp;szkoleniami dla developerów, a&nbsp;nocą nadal kodowaniem. Obecnie z&nbsp;blisko 70-tką fantastycznych ludzi w&nbsp;Spartez pracuje nad narzędziami z&nbsp;ekosystemu Atlassiana, takimi jak JIRA, Bamboo, Crucible, FishEye, Agile Cards, TFS4JIRA czy najnowszy produkt firmy &ndash; Ephor.</p>
+
+<p>Wojciech prezentuje (nieraz w&nbsp;dosyć kontrowersyjny sposób) dosyć często na różnych konferencjach w&nbsp;kraju, jak i&nbsp;za granicą (np. Devoxx, 33rd Degree, GeeCON, Confitura, InfoSHARE, Agile, Atlassian Summit czy XPDays).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #9 [2015-01-28]]]></title>
@@ -32,7 +94,7 @@
 
 <p>Projektowanie dzisiejszych aplikacji to nie lada wyzwanie. Jedną z&nbsp;pierwszych rzeczy, o&nbsp;jakie musimy zadbać, to skalowalność. Podczas prezentacji weźmiemy pod lupę styk aplikacji oraz bazy danych i&nbsp;zobaczymy, jak Infinispan może nam w&nbsp;tym pomóc.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/laskawiec-sebastian.jpg" /></p>
 
 <h4>Sebastian Łaskawiec</h4>
 
@@ -46,7 +108,7 @@
 
 <p>W&nbsp;prezentacji chciałbym opowiedzieć o&nbsp;swoich doświadczeniach w&nbsp;pracy z&nbsp;zastanym kodem. Zrobię to od poziomu refaktoringu pojedynczych fragmentów kodu, poprzez zmiany całych komponentów i&nbsp;aplikacji, aż do transformacji złożonych systemów.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/muchewicz-krzysztof.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/muchewicz-krzysztof.jpg" /></p>
 
 <h4>Krzysztof Muchewicz</h4>
 
@@ -77,7 +139,7 @@
 
 <p>Podczas prezentacji przedstawię podstawowe zastosowanie CQRS, a&nbsp;także postaram się opowiedzieć o&nbsp;tym, za pomocą jakich narzędzi można stworzyć szybko aplikację opartą na zasadach tego wzorca.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/papierski-zbyszko.jpg" /></p>
 
 <h4>Zbyszko Papierski</h4>
 
@@ -91,7 +153,7 @@
 
 <p>Chciałbym podzielić się swoim doświadczeniem zarówno z&nbsp;perspektywy osoby pracującej zdalnie, jak i&nbsp;z&nbsp;perspektywy wyzwań stojących przed całym zespołem.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/wrzeszcz-pawel.png" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/wrzeszcz-pawel.png" /></p>
 
 <h4>Paweł Wrzeszcz</h4>
 
@@ -118,7 +180,7 @@
 
 <p>Prezentacja dobrych praktyk projektowania systemów IT w&nbsp;chmurze obliczeniowej. Jak budować wysoko-dostępne, skalowalne i&nbsp;rozproszone geograficznie aplikacje. Wnioski i&nbsp;przykłady będą zaprezentowane na podstawie wdrożeń wykonanych przez prowadzącego &ndash; m.in. systemu dla linii lotniczych opartego o&nbsp;usługi Amazon Web Services.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/balinski-michal.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/balinski-michal.jpg" /></p>
 
 <h4>Michał Baliński</h4>
 
@@ -132,7 +194,7 @@
 
 <p><del>Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.</del></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/modzelewski-piotr.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/modzelewski-piotr.jpg" /></p>
 
 <h4><del>Piotr Modzelewski</del></h4>
 
@@ -144,7 +206,7 @@
 
 <p>Historia interfejsów użytkownika w świecie Javy jest historią bez szczęśliwego zakończenia. Mnogość rozwiązań wydaje się być tylko ostatnim krzykiem tonącego. Zamiast jednak płakać nad obecną sytuacją oswójmy się z nadchodzącą rewolucją. W tej prezentacji chciałbym pokazać jak w środowiskach opartych o Javę używać jednej z bardziej udanych bibliotek JavasSriptowych &ndash; AngularJS.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/piotrowski-slawek.jpg" /></p>
 
 <h4>Sławek Piotrowski</h4>
 
@@ -171,7 +233,7 @@
 
 <p>Chciałbym przedstawić model aktorów jako alternatywę do standardowego modelu współbieżności oraz wielowątkowości &ndash; czyli asynchroniczne przesyłane wiadomości pomiędzy aktorami zamiast semaforów, locków i&nbsp;innych prób walki z&nbsp;wątkami. Prezentacja oparta będzie o&nbsp;framework Akka.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/fejzer-mikolaj.jpg" /></p>
 
 <h4>Mikołaj Fejzer</h4>
 
@@ -183,48 +245,11 @@
 
 <p>In this talk, right after introduction to Docker, Marek will dive into examples how you can leverage this tool to create a&nbsp;deployment environment for your applications. You will see how to cluster WildFly and deploy application to it. Marek will share some tips and tricks too: for example how to manage logs or customize the configuration of WildFly to be able to deploy your applications. Prezentacja będzie po polsku.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/goldmann-marek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/goldmann-marek.jpg" /></p>
 
 <h4>Marek Goldmann</h4>
 
 <p>Marek joined Red Hat in January 2009 and started hacking on Cloud-related JBoss projects. Currently Marek leads the WildFly integration effort with the Fedora operating system, and makes sure that JBoss' projects run well on Docker.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #5 [2014-09-24]]]></title>
-    <link href="http://torun.jug.pl/news/2014/09/10/spotkanie-5/"/>
-    <updated>2014-09-10T05:55:23+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/09/10/spotkanie-5</id>
-    <content type="html"><![CDATA[<p>Halo, halo! Nadszedł długo wyczekiwany moment &ndash; wracamy po wakacyjnej przerwie! Mamy nadzieję, że zdążyliście &ldquo;naładować baterie&rdquo; przed nowym sezonem spotkań JUGowych i&nbsp;stawicie się licznie na piąte spotkanie toruńskiego JUGa, które odbędzie się <strong>w&nbsp;środę, 24 września 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S3 na&nbsp;Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul.&nbsp;Chopina 12/18</a>).</p>
-
-<p>Wstęp na&nbsp;spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/206212552/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na&nbsp;stronę wydarzenia na&nbsp;portalu <a href="https://www.facebook.com/events/337936389708541/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)<!-- more --></p>
-
-<h3>Sexy unit testy</h3>
-
-<p>Złapałem się ostatnio na rzeczy, która dla niektórych może wydawać się dziwna (w&nbsp;każdym razie dla mojej żony tak i&nbsp;nie chodzi tu o &nbsp;nietypowe techniki w&nbsp;pożyciu małżeńskim) &ndash; fajnie jest popisać testy. Postrzeganie problemów zmienia się z&nbsp;czasem (nie chcąc pisać &ldquo;z&nbsp;wiekiem&rdquo;). Może z&nbsp;tego samego powodu polubiłem piwo pszeniczne i&nbsp;zacząłem kupować oryginalny software. Tą prezentacją, o&nbsp;temacie z&nbsp;pozoru banalnym, chciałbym zachęcić (szczególnie &ldquo;młodych gniewnych&rdquo;) do pisania lepszych testów jednostkowych, które nie tylko testują ale i&nbsp;potrafią udokumentować kod produkcyjny. Przedstawię zbiór kilku przykładów i&nbsp;propozycji na to, jak zrobić testy bardziej sexy.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/sawicki-lukasz.jpg" /></p>
-
-<h4>Łukasz Sawicki</h4>
-
-<p>Programista Java z&nbsp;całkiem sporym stażem, wyznawca zwinności z&nbsp;doświadczeniem scrum-masterskim, wciąż i&nbsp;ciągle poszukujący tej właściwej drogi pisania lepszego kodu. Od 3&nbsp;lat pracujący w&nbsp;PayU głównie nad rozwiązaniami anty-fraudowymi. Wielbiciel dobrej kawy, iteracyjnego ulepszania swojej gitary i&nbsp;używania sprzętu fotograficznego nie tylko w&nbsp;celach relaksacyjnych.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Hadoop &ndash; szybki start</h3>
-
-<p>Coraz większy napływ informacji do naszych systemów wymaga nowego podejścia do problemu przetwarzania danych. Jak przechować interesujące nas tweety? Co zrobić z&nbsp;nadmiarem logów? Jak zbudować system rekomendacji? Rozwiązaniem naszych problemów może być Hadoop. W&nbsp;trakcie krótkiej prezentacji omówimy podstawowe założenia systemu, wyjaśnimy jak szybko przetwarzać duże zbiory danych oraz uruchomimy nasz pierwszy klaster Hadoopa.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/osinski-arek.png" /></p>
-
-<h4>Arek Osiński</h4>
-
-<p>Na co dzień sysadmin. Od dłuższego czasu związany z&nbsp;BigData. Entuzjasta Linuxa, nowych technologii oraz jazdy na rowerze.</p>
 ]]></content>
   </entry>
   

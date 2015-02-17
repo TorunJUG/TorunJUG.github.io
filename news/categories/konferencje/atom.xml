@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-02-15T07:29:37+01:00</updated>
+  <updated>2015-02-17T05:48:49+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -25,7 +25,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://scalar-conf.com" target="_blank">
-      <img class="no-border" src="/images/partners/scalar-2015.png" alt="Scalar 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/scalar-2015.png" alt="Scalar 2015" />
     </a>
   </div>
 </div>
@@ -47,7 +47,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
-      <img class="no-border" src="/images/partners/jdd.png" alt="JDD Conference 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/jdd.png" alt="JDD Conference 2015" />
     </a>
   </div>
 </div>
@@ -71,7 +71,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://4developers.org.pl" target="_blank">
-      <img class="no-border" src="/images/partners/4developers.png" alt="4Developers" />
+      <img class="no-border" src="{{ root_url }}/images/partners/4developers.png" alt="4Developers" />
     </a>
   </div>
 </div>
@@ -105,7 +105,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.tdd.geecon.org" target="_blank">
-      <img class="no-border" src="/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
+      <img class="no-border" src="{{ root_url }}/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
     </a>
   </div>
 </div>

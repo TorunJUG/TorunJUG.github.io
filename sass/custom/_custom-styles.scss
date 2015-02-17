@@ -38,12 +38,12 @@ $screen-lg: 1200px;
 
 @media (min-width: $screen-md) {
   .navbar-nav > li > a {
-    padding: 14.5px 11px;
+    padding: 14.5px 10.5px;
   }
 }
 
-body { 
-  padding-top: 73px; 
+body {
+  padding-top: 73px;
 }
 
 .panel.about-us {

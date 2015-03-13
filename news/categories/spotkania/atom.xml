@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-03-04T18:27:17+01:00</updated>
+  <updated>2015-03-13T17:23:46+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #11 [2015-03-27]]]></title>
+    <link href="http://torun.jug.pl/news/2015/03/13/spotkanie-11/"/>
+    <updated>2015-03-13T17:14:45+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/03/13/spotkanie-11</id>
+    <content type="html"><![CDATA[<p><strong>To już rok od kiedy co miesiąc spotykamy się w&nbsp;Toruniu i&nbsp;rozmawiamy o&nbsp;tym co nas interesuje w&nbsp;świecie JVM! :)</strong></p>
+
+<p>Jedenaste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>wyjątkowo w&nbsp;piątek, 27 marca 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/221109474/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek (tym razem <strong>nie tylko</strong> elektronicznych!).</p>
+
+<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/949322135078173/" target="_blank">Facebook</a>.</p>
+
+<p>Spotkanie to będzie inne niż wszystkie dotychczasowe &ndash; gościć będziemy jednego prelegenta, który przyjedzie do nas specjalnie z&nbsp;Krakowa, i&nbsp;który swoją prezentacją otworzy nowy rok toruńskiego JUGa. Wcześniej jednak kapituła Toruń JUG przedstawi krótkie podsumowanie ostatnich dwunastu miesięcy i&nbsp;podzieli się pomysłami na kolejny rok. Liczymy również na Wasz udział! Do realizacji większości pomysłów będziemy potrzebować Waszego wsparcia, więc przygotujcie się na to, że kończy się era &ldquo;tylko siedzenia&rdquo; :)</p>
+
+<p>Po spotkaniu tradycyjnie zapraszamy na afterparty do Krajina Piva. Oprócz standardowego networkingu czekać będzie na Was mała <strong>niespodzianka</strong>, ale o&nbsp;tym przekonacie się na miejscu :) Zarezerwujcie sobie ten piątkowy wieczór już dziś.</p>
+
+<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>.</p>
+
+<p>Serdecznie zapraszamy! <!-- more --></p>
+
+<h3>Czterej jeźdźcy apokalipsy, gdy Armagedon w JVM nadchodzi</h3>
+
+<p>JVM towarzyszy mi w&nbsp;projektach od prawie 15 lat. Łączą nas dobre chwile i&nbsp;złe wspomnienia, którymi będę się chciał z&nbsp;Wami podzielić. Opowiem o&nbsp;4 jeźdźcach apokalipsy którzy zamieszkują maszynę wirtualną i&nbsp;od czasu do czas dają znać o&nbsp;swojej obecności. Podstępnie zakradają się do zakamarków waszego systemu operacyjnego, procesorów i&nbsp;obszarów pamięci RAM, powodując że wasza aplikacja na produkcji zachowuje się jak wygłodniałe, acz powolne zombie.</p>
+
+<p>Kim są Ci odrażający jeźdźcy? To GC, operacje I/O, wątki i&nbsp;interpretowany bytecode. Postaram się na przykładach pokazać narzędzia dostępne w&nbsp;JDK jak i&nbsp;w&nbsp;Waszym systemie operacyjnym, które pozwolą Wam rozpoznać, z&nbsp;którym z&nbsp;nich macie do czynienia, a&nbsp;także techniki radzenia sobie z&nbsp;spadkiem wydajności. Prezentacja będzie pokazywać ekstremalne przypadki, które wymagać będą nietypowych technik, jednak wszystko odbędzie się zgodnie z&nbsp;zasadami sztuki, a&nbsp;pokazane rozwiązania oparte będą na API i&nbsp;technikach dostępnym w&nbsp;każdym JDK.</p>
+
+<p>Więc o&nbsp;czym tak naprawdę będzie?</p>
+
+<p>Usłyszycie słów kilka o&nbsp;&ldquo;off-heap memory&rdquo;, gdy wszystkie rozsądne techniki optymalizacji GC zawiodły.</p>
+
+<p>A&nbsp;także o&nbsp;&ldquo;non-blocking IO&rdquo; i&nbsp;&ldquo;zero-copy buffers&rdquo;, gdy już klasyczne IO zawiodło.</p>
+
+<p>Nie obędzie się bez łagodnego wstępu do java.util.concurrent.atomic.* i&nbsp;&ldquo;lock free programming&rdquo;, gdy już nie radzicie sobie z&nbsp;ilością wątków.</p>
+
+<p>A&nbsp;na koniec opowiem o&nbsp;&ldquo;just-in time compilation&rdquo; i&nbsp;jak pisać kod, który jest &ldquo;JIT friendly&rdquo;.</p>
+
+<p>To wszystko i&nbsp;więcej o&nbsp;wydajności i&nbsp;optymalizacji JVM, dla Waszej radości i&nbsp;uciechy przyszłych pokoleń.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/palka-jaroslaw.jpg" /></p>
+
+<h4>Jarosław Pałka</h4>
+
+<p>Od ponad 10 lat w&nbsp;branży IT, jako administrator baz danych, programista, architekt, manager i&nbsp;&ldquo;inżynier od spraw katastrof&rdquo;. Brałem udział w&nbsp;małych, średnich i&nbsp;nonsensownie dużych projektach, prowadzonych zgodnie zasadami &ldquo;waterfall&rdquo;, Agile oraz przy braku jakichkolwiek metodyk, z&nbsp;tym samym zawsze skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo, jak robisz to dobrze, w&nbsp;najprostszy z&nbsp;możliwych sposobów i&nbsp;używasz właściwych narzędzi które wykonają pracę za ciebie. W&nbsp;międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w&nbsp;swej prostocie pomysły jak REST, JavaScript i&nbsp;NoSQL, by potem porzucić je by zgłębić tajniki &ldquo;system thinking&rdquo; i&nbsp;zachwycić się siłą jaką niesie z&nbsp;sobą &ldquo;metafora&rdquo; i&nbsp;odkryć, że rządzą nami te same prawa &ldquo;natury&rdquo;. Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w&nbsp;Polsce. W&nbsp;chwilach wolnych członek SSEEP i&nbsp;autor bloga na <a href="http://geekyprimitives.wordpress.com" target="_blank">geekyprimitives.wordpress.com</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #10 [2015-02-25]]]></title>
@@ -29,7 +76,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="https://www.spartez.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/spartez.png" alt="Spartez" />
+      <img class="no-border" src="/images/partners/spartez.png" alt="Spartez" />
     </a>
   </div>
 </div>
@@ -43,7 +90,7 @@
 
 <p>Nikogo nie trzeba chyba przekonywać do tego, jak ważne jest właściwe testowanie aplikacji, zarówno manualne jak i&nbsp;automatyczne. Większość osób zajmujących się na co dzień programowaniem w&nbsp;Javie korzystało z&nbsp;takich bibliotek jak JUnit czy Mockito. Na prezentacji pokażę trochę inny stack technologiczny służący do testowania aplikacji Javowych. Zaprezentuję przykłady testów jednostkowych, integracyjnych oraz automatycznych napisanych z&nbsp;wykorzystaniem Groovy'ego, Spocka oraz Geb'a, i&nbsp;opowiem o&nbsp;zaletach (i&nbsp;wadach) tych rozwiązań.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/golda-miroslaw.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/golda-miroslaw.jpg" /></p>
 
 <h4>Mirosław Gołda</h4>
 
@@ -63,7 +110,7 @@
 
 <p>Wojtek postara się odpowiedzieć dosyć szeroko na takie pytania. Rozwieje pewne mity dotyczące profesji Java developera oraz podzieli się różnymi przemyśleniami bazującymi na obserwacjach oraz setkach odbytych rozmów z&nbsp;ludźmi z branży &ndash; od nowicjuszy do ludzi z&nbsp;ponad 30-letnim doświadczeniem zawodowym.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/seliga-wojciech.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/seliga-wojciech.jpg" /></p>
 
 <h4>Wojciech Seliga</h4>
 
@@ -94,7 +141,7 @@
 
 <p>Projektowanie dzisiejszych aplikacji to nie lada wyzwanie. Jedną z&nbsp;pierwszych rzeczy, o&nbsp;jakie musimy zadbać, to skalowalność. Podczas prezentacji weźmiemy pod lupę styk aplikacji oraz bazy danych i&nbsp;zobaczymy, jak Infinispan może nam w&nbsp;tym pomóc.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/laskawiec-sebastian.jpg" /></p>
 
 <h4>Sebastian Łaskawiec</h4>
 
@@ -108,7 +155,7 @@
 
 <p>W&nbsp;prezentacji chciałbym opowiedzieć o&nbsp;swoich doświadczeniach w&nbsp;pracy z&nbsp;zastanym kodem. Zrobię to od poziomu refaktoringu pojedynczych fragmentów kodu, poprzez zmiany całych komponentów i&nbsp;aplikacji, aż do transformacji złożonych systemów.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/muchewicz-krzysztof.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/muchewicz-krzysztof.jpg" /></p>
 
 <h4>Krzysztof Muchewicz</h4>
 
@@ -139,7 +186,7 @@
 
 <p>Podczas prezentacji przedstawię podstawowe zastosowanie CQRS, a&nbsp;także postaram się opowiedzieć o&nbsp;tym, za pomocą jakich narzędzi można stworzyć szybko aplikację opartą na zasadach tego wzorca.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/papierski-zbyszko.jpg" /></p>
 
 <h4>Zbyszko Papierski</h4>
 
@@ -153,7 +200,7 @@
 
 <p>Chciałbym podzielić się swoim doświadczeniem zarówno z&nbsp;perspektywy osoby pracującej zdalnie, jak i&nbsp;z&nbsp;perspektywy wyzwań stojących przed całym zespołem.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/wrzeszcz-pawel.png" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/wrzeszcz-pawel.png" /></p>
 
 <h4>Paweł Wrzeszcz</h4>
 
@@ -180,7 +227,7 @@
 
 <p>Prezentacja dobrych praktyk projektowania systemów IT w&nbsp;chmurze obliczeniowej. Jak budować wysoko-dostępne, skalowalne i&nbsp;rozproszone geograficznie aplikacje. Wnioski i&nbsp;przykłady będą zaprezentowane na podstawie wdrożeń wykonanych przez prowadzącego &ndash; m.in. systemu dla linii lotniczych opartego o&nbsp;usługi Amazon Web Services.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/balinski-michal.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/balinski-michal.jpg" /></p>
 
 <h4>Michał Baliński</h4>
 
@@ -194,7 +241,7 @@
 
 <p><del>Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.</del></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/modzelewski-piotr.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/modzelewski-piotr.jpg" /></p>
 
 <h4><del>Piotr Modzelewski</del></h4>
 
@@ -206,50 +253,11 @@
 
 <p>Historia interfejsów użytkownika w świecie Javy jest historią bez szczęśliwego zakończenia. Mnogość rozwiązań wydaje się być tylko ostatnim krzykiem tonącego. Zamiast jednak płakać nad obecną sytuacją oswójmy się z nadchodzącą rewolucją. W tej prezentacji chciałbym pokazać jak w środowiskach opartych o Javę używać jednej z bardziej udanych bibliotek JavasSriptowych &ndash; AngularJS.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/piotrowski-slawek.jpg" /></p>
 
 <h4>Sławek Piotrowski</h4>
 
 <p>Programista Java, obecnie związany z PayU, gdzie zajmuje się rozwijaniem wiodącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, Moonshine.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #6 [2014-10-29]]]></title>
-    <link href="http://torun.jug.pl/news/2014/10/15/spotkanie-6/"/>
-    <updated>2014-10-15T19:17:25+02:00</updated>
-    <id>http://torun.jug.pl/news/2014/10/15/spotkanie-6</id>
-    <content type="html"><![CDATA[<p>Szóste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 29 października 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/213609002/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne nagrody w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1497663360507969/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<h3>Wprowadzenie do modelu aktorów na JVM</h3>
-
-<p>Chciałbym przedstawić model aktorów jako alternatywę do standardowego modelu współbieżności oraz wielowątkowości &ndash; czyli asynchroniczne przesyłane wiadomości pomiędzy aktorami zamiast semaforów, locków i&nbsp;innych prób walki z&nbsp;wątkami. Prezentacja oparta będzie o&nbsp;framework Akka.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" /></p>
-
-<h4>Mikołaj Fejzer</h4>
-
-<p>Doktorant, zawodowo programista Java, obecnie związany z&nbsp;PayU. Entuzjasta programowania funkcyjnego.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Docker and JBoss – the perfect combination</h3>
-
-<p>In this talk, right after introduction to Docker, Marek will dive into examples how you can leverage this tool to create a&nbsp;deployment environment for your applications. You will see how to cluster WildFly and deploy application to it. Marek will share some tips and tricks too: for example how to manage logs or customize the configuration of WildFly to be able to deploy your applications. Prezentacja będzie po polsku.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/goldmann-marek.jpg" /></p>
-
-<h4>Marek Goldmann</h4>
-
-<p>Marek joined Red Hat in January 2009 and started hacking on Cloud-related JBoss projects. Currently Marek leads the WildFly integration effort with the Fedora operating system, and makes sure that JBoss' projects run well on Docker.</p>
 ]]></content>
   </entry>
   

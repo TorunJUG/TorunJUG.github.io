@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-03-13T17:23:46+01:00</updated>
+  <updated>2015-03-15T11:48:39+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: DevCrowd'15]]></title>
+    <link href="http://torun.jug.pl/news/2015/03/15/zapowiedz-konferencji-devcrowd-15/"/>
+    <updated>2015-03-15T11:33:51+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/03/15/zapowiedz-konferencji-devcrowd-15</id>
+    <content type="html"><![CDATA[<p>Dziś prezentujemy Wam zapowiedź konferencji DevCrowd&#8217;15 przysłaną nam przez organizatorów.</p>
+
+<p><strong>18 kwietnia</strong> w&nbsp;Szczecinie odbędzie się siódma edycja <strong>bezpłatnej</strong> i&nbsp;otwartej dla wszystkich konferencji <a href="http://devcrowd.pl" target="_blank">DevCrowd</a>. Konferencja obraca się głównie wokół tematów związanych z&nbsp;Javą, ale inni pracownicy IT też znajdą coś dla siebie. Na konferencję przyjadą prelegenci <strong>z&nbsp;całej Polski</strong>, by podzielić się swoim bogatym doświadczeniem, zaś po konferencji spotykamy się na <strong>after party</strong>.</p>
+
+<p>Otrzymaliśmy ponad <strong>40 propozycji prelekcji</strong>, spośród których wybierzecie kilkanaście, które pojawią się na konferencji. Głosować na prelekcje można do 20 marca poprzez <a href="http://2015.devcrowd.pl" target="_blank">naszą stronę</a>.<!--more--></p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2015.devcrowd.pl" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/devcrowd15.png" alt="DevCrowd'15" />
+    </a>
+  </div>
+</div>
+
+
+<p>Przykładowe prelekcje, na które możecie głosować:</p>
+
+<ul>
+<li>Adam Bien &ndash; <em>Java EE 7 / Java 8 in 2015</em></li>
+<li>Paweł Szulc &ndash; <em>Apache Spark &ndash; Living the post-mapreduce world</em></li>
+<li>Bartek &ldquo;Koziołek&rdquo; Kuczyński &ndash; <em>Typy pieniężne w&nbsp;Javie</em></li>
+<li>Matt Harasymczuk &ndash; <em>Agile Software Engineering Practices that Helps Deliver Business Values</em></li>
+<li>Maciej Walkowiak &ndash; <em>Keep calm and use Spring Boot</em></li>
+<li>Sebastian Łaciak &ndash; <em>Clean JavaScript code &ndash; only dream or reality</em></li>
+<li>Dominik Przybysz &ndash; <em>Spock, czyli przyjemne testowanie</em></li>
+<li>Łukasz Lenart &ndash; <em>Lift, CoffeeScript, SCSS i&nbsp;GitHub PRs w&nbsp;akcji, czyli jazda po bandzie w&nbsp;następnym projekcie</em></li>
+</ul>
+
+
+<p>i&nbsp;wiele innych.</p>
+
+<p>Wszystkie propozycje, wraz z&nbsp;szerszym opisem znajdziecie na <a href="http://2015.devcrowd.pl" target="_blank">naszej stronie</a>.</p>
+
+<p>Wstęp na konferencje będzie otwarty, jednak zarejestrowane osoby mogą liczyć na <strong>gadżety i&nbsp;posiłek</strong>.</p>
+
+<p>Rejestracja, głosowanie na prelekcje oraz więcej informacji znajdziecie na <a href="http://2015.devcrowd.pl" target="_blank">2015.devcrowd.pl</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #11 [2015-03-27]]]></title>
@@ -713,17 +757,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie GeeCON Prague 2014]]></title>
-    <link href="http://torun.jug.pl/news/2014/11/18/podsumowanie-geecon-prague-2014/"/>
-    <updated>2014-11-18T20:41:15+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/11/18/podsumowanie-geecon-prague-2014</id>
-    <content type="html"><![CDATA[<p>Niecały miesiąc temu, w&nbsp;dniach 23-24&nbsp;października, odbyła się konferencja GeeCON w&nbsp;Pradze. Zgromadziła ona ponad 40 prelegentów i&nbsp;600 uczestników. Podczas tych dwóch dni uczestnicy mogli wziąć udział w&nbsp;50 wykładach o&nbsp;tematyce związanej przede wszystkim z&nbsp;Javą. Chętni mogli uczestniczyć również w&nbsp;<a href="http://geecon.cz/workshops/" target="_blank">warsztatach</a> dotyczących Gradle, Javy&nbsp;8 lub <a href="https://archkatas.herokuapp.com" target="_blank">architektury</a>. Na pozostałe tematy uczestnicy mogli porozmawiać przy piwie na zorganizowanym po pierwszym dniu konferencji rejsie po Wełtawie :)</p>
-
-<p>Harmonogram wykładów dostępny jest stronie konferencji (<a href="http://geecon.cz/schedule/" target="_blank">dzień 1</a>, <a href="http://geecon.cz/schedule-day2/" target="_blank">dzień 2</a>). Do większości wykładów załączone zostały materiały w&nbsp;postaci slajdów (dostępne z&nbsp;poziomu <a href="http://geecon.cz/speakers/" target="_blank">prelegentów</a>). Zdjęcia z&nbsp;konferencji można obejrzeć zarówno na <a href="https://plus.google.com/photos/105850113940545414196/albums/6081210147002808449" target="_blank">Google+</a> jak i&nbsp;na <a href="https://facebook.com/media/set/?set=a.10152891945950701.1073741825.354953985700" target="_blank">Facebooku</a>. Na nagrania wideo niestety jeszcze czekamy &ndash; powiadomimy, gdy się pojawią.</p>
 ]]></content>
   </entry>
   

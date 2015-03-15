@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-03-13T17:23:46+01:00</updated>
+  <updated>2015-03-15T11:53:59+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: DevCrowd'15]]></title>
+    <link href="http://torun.jug.pl/news/2015/03/15/zapowiedz-konferencji-devcrowd-15/"/>
+    <updated>2015-03-15T11:33:51+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/03/15/zapowiedz-konferencji-devcrowd-15</id>
+    <content type="html"><![CDATA[<p>Dziś prezentujemy Wam zapowiedź konferencji DevCrowd'15 przysłaną nam przez organizatorów.</p>
+
+<p><strong>18 kwietnia</strong> w&nbsp;Szczecinie odbędzie się siódma edycja <strong>bezpłatnej</strong> i&nbsp;otwartej dla wszystkich konferencji <a href="http://devcrowd.pl" target="_blank">DevCrowd</a>. Konferencja obraca się głównie wokół tematów związanych z&nbsp;Javą, ale inni pracownicy IT też znajdą coś dla siebie. Na konferencję przyjadą prelegenci <strong>z&nbsp;całej Polski</strong>, by podzielić się swoim bogatym doświadczeniem, zaś po konferencji spotykamy się na <strong>after party</strong>.</p>
+
+<p>Otrzymaliśmy ponad <strong>40 propozycji prelekcji</strong>, spośród których wybierzecie kilkanaście, które pojawią się na konferencji. Głosować na prelekcje można do 20 marca poprzez <a href="http://2015.devcrowd.pl" target="_blank">naszą stronę</a>.<!--more--></p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2015.devcrowd.pl" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/devcrowd15.png" alt="DevCrowd'15" />
+    </a>
+  </div>
+</div>
+
+
+<p>Przykładowe prelekcje, na które możecie głosować:</p>
+
+<ul>
+<li>Adam Bien &ndash; <em>Java EE 7 / Java 8 in 2015</em></li>
+<li>Paweł Szulc &ndash; <em>Apache Spark &ndash; Living the post-mapreduce world</em></li>
+<li>Bartek &ldquo;Koziołek&rdquo; Kuczyński &ndash; <em>Typy pieniężne w&nbsp;Javie</em></li>
+<li>Matt Harasymczuk &ndash; <em>Agile Software Engineering Practices that Helps Deliver Business Values</em></li>
+<li>Maciej Walkowiak &ndash; <em>Keep calm and use Spring Boot</em></li>
+<li>Sebastian Łaciak &ndash; <em>Clean JavaScript code &ndash; only dream or reality</em></li>
+<li>Dominik Przybysz &ndash; <em>Spock, czyli przyjemne testowanie</em></li>
+<li>Łukasz Lenart &ndash; <em>Lift, CoffeeScript, SCSS i&nbsp;GitHub PRs w&nbsp;akcji, czyli jazda po bandzie w&nbsp;następnym projekcie</em></li>
+</ul>
+
+
+<p>i&nbsp;wiele innych.</p>
+
+<p>Wszystkie propozycje, wraz z&nbsp;szerszym opisem znajdziecie na <a href="http://2015.devcrowd.pl" target="_blank">naszej stronie</a>.</p>
+
+<p>Wstęp na konferencje będzie otwarty, jednak zarejestrowane osoby mogą liczyć na <strong>gadżety i&nbsp;posiłek</strong>.</p>
+
+<p>Rejestracja, głosowanie na prelekcje oraz więcej informacji znajdziecie na <a href="http://2015.devcrowd.pl" target="_blank">2015.devcrowd.pl</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: Scalar 2015]]></title>
@@ -25,7 +69,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://scalar-conf.com" target="_blank">
-      <img class="no-border" src="/images/partners/scalar-2015.png" alt="Scalar 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/scalar-2015.png" alt="Scalar 2015" />
     </a>
   </div>
 </div>
@@ -47,7 +91,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
-      <img class="no-border" src="/images/partners/jdd.png" alt="JDD Conference 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/jdd.png" alt="JDD Conference 2015" />
     </a>
   </div>
 </div>
@@ -71,7 +115,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://4developers.org.pl" target="_blank">
-      <img class="no-border" src="/images/partners/4developers.png" alt="4Developers" />
+      <img class="no-border" src="{{ root_url }}/images/partners/4developers.png" alt="4Developers" />
     </a>
   </div>
 </div>
@@ -105,7 +149,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.tdd.geecon.org" target="_blank">
-      <img class="no-border" src="/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
+      <img class="no-border" src="{{ root_url }}/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
     </a>
   </div>
 </div>
@@ -118,37 +162,6 @@
 <p>Można się już również rejestrować na <a href="http://2015.tdd.geecon.org/workshops/" target="_blank">warsztaty</a>, które odbędą się dzień przed konferencją, 29 stycznia.</p>
 
 <p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://2015.tdd.geecon.org" target="_blank">2015.tdd.geecon.org</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[nofluffjobs.com naszym nowym partnerem]]></title>
-    <link href="http://torun.jug.pl/news/2014/12/01/nofluffjobs-naszym-nowym-partnerem/"/>
-    <updated>2014-12-01T18:12:13+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/12/01/nofluffjobs-naszym-nowym-partnerem</id>
-    <content type="html"><![CDATA[<p>Czy widzieliście już portal <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a>? Jeśli nie, to zachęcamy, żebyście przyjrzeli się mu bliżej.</p>
-
-<p>Jak sami o&nbsp;sobie piszą:</p>
-
-<blockquote>
-<p><a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a> to portal, który wprowadza nowe standardy rekrutacji IT.</p>
-<p>Wszystkie oferty są przejrzyste, porównywalne między sobą oraz zawierają mnóstwo informacji o&nbsp;firmie i&nbsp;projekcie wraz z&nbsp;widełkami płacowymi.</p>
-<p>Celem portalu nofluffjobs.com jest stworzenie "ekosystemu" znanych, cenionych firm, którym zależy na pełnej otwartości w&nbsp;rekrutacji IT.</p>
-</blockquote>
-
-
-
-
-<div class="row text-center" style="margin-bottom: 10px;">
-  <div class="col-md-12">
-    <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">
-      <img class="no-border" src="/images/partners/no_fluff_jobs_com_logo.jpg" alt="nofluffjobs - oferty praca dla informatykow">
-    </a>
-  </div>
-</div>
-
-
-<p>Jest nam bardzo miło zakomunikować, że udało nam się porozumieć z&nbsp;twórcami portalu <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a> i&nbsp;podjąć długoterminową współpracę na zasadach obustronnego partnerstwa. Życzymy twórcom samych sukcesów i&nbsp;czekamy na owoce współpracy :)</p>
 ]]></content>
   </entry>
   

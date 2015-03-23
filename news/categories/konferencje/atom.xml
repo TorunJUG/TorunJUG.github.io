@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-03-15T11:53:59+01:00</updated>
+  <updated>2015-03-23T17:50:58+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON 2015]]></title>
+    <link href="http://torun.jug.pl/news/2015/03/23/zapowiedz-konferencji-geecon-2015/"/>
+    <updated>2015-03-23T17:45:22+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/03/23/zapowiedz-konferencji-geecon-2015</id>
+    <content type="html"><![CDATA[<p><a href="http://java.pl" target="_blank"><strong>PolishJUG</strong></a> serdecznie zaprasza wszystkich chętnych na konferencję <a href="http://2015.geecon.org" target="_blank">GeeCON 2015</a>. Jest to spotkanie zorganizowane dla specjalistów i&nbsp;programistów technologii <strong>Java</strong> oraz <strong>Java Virtual Machine</strong>. Odbędzie się ona <strong>w&nbsp;dniach 13–15 maja 2015 roku</strong> w&nbsp;<strong>Krakowie</strong> w&nbsp;<strong>Multikinie</strong> przy <strong>ulicy Dobrego Pasterza 128</strong>. W&nbsp;planie imprezy przewidziane są wystąpienia kilkudziesięciu prelegentów, w&nbsp;tym: Angelika Langer, Gerrit Grunwald, Sam Newman, Rafael Winterhalter oraz Nicolas Fränkel.<!--more--></p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2015.geecon.org" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/geecon2015.jpg" alt="GeeCON 2015" />
+    </a>
+  </div>
+</div>
+
+
+<p>Na miejscu ma się odbyć ponad <strong>80 różnego rodzaju sesji</strong>, a&nbsp;samych prelegentów ma być więcej, niż <strong>75</strong>. Przewiduje się <strong>około 1200 uczestników</strong> podczas <strong>3 dni</strong> imprezy. Konferencja GeeCON 2015 jest płatna i&nbsp;wymaga <a href="http://2015.geecon.org/register/" target="_blank">rejestracji</a>.</p>
+
+<p>Organizatorzy przewidują wiele atrakcji, jak luźne rozmowy, panele dyskusyjne, networking oraz afterparty.</p>
+
+<p>Dzięki uprzejmości organizatorów mamy do rozdania <strong>sześć 20-procentowych zniżek</strong> na zakup wejściówek na konferencję GeeCON 2015! Osoby zainteresowane prosimy o&nbsp;kontakt z&nbsp;Piotrem Prądzyńskim. <strong>Kto pierwszy ten lepszy!</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: DevCrowd'15]]></title>
@@ -126,42 +150,6 @@
 <p>Konferencja organizowana jest corocznie, począwszy od 2009 roku, kiedy to odbyła się jej pierwsza edycja. 4Developers organizowany jest przez krakowską firmę <a href="http://www.proidea.org.pl" target="_blank">PROIDEA</a>, która specjalizuje się w kompleksowej organizacji polskich i&nbsp;międzynarodowych eventów z&nbsp;dziedziny IT oraz aktywnie działa na rzecz rozwoju tego rynku w&nbsp;Europie Środkowo-Wschodniej.</p>
 
 <p>Jako partnerzy konferencji mamy dla Was <strong>15% zniżki</strong>! Żeby ją otrzymać, wystarczy zgłosić się po kod promocyjny do Piotra Prądzyńskiego. Zachęcamy do uczestnictwa w&nbsp;kolejnej już edycji 4Developers. Zarejestrować można się na <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=D8D9237058A5072EFD4E48A8557B8149" target="_blank">stronie konferencji</a>. Niższa cena wejściówek obowiązuje do 9&nbsp;lutego.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON TDD]]></title>
-    <link href="http://torun.jug.pl/news/2015/01/09/zapowiedz-konferencji-geecon-tdd/"/>
-    <updated>2015-01-09T06:05:47+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/01/09/zapowiedz-konferencji-geecon-tdd</id>
-    <content type="html"><![CDATA[<p>GeeCON wraca do Poznania! Tym razem w&nbsp;zupełnie nowej odsłonie – <a href="http://2015.tdd.geecon.org" target="_blank">GeeCON TDD</a>.</p>
-
-<p>Oto co mówią organizatorzy na temat tego wydarzenia:</p>
-
-<blockquote>
-<p>30 stycznia zapraszamy wszystkich zainteresowanych tematyką testów, a&nbsp;w&nbsp;szczególności Test Driven Development! Oprócz tego będziemy dyskutować o&nbsp;jakości w&nbsp;procesie wytwarzania oprogramowania, testowalności, dobrych technikach programistycznych.</p>
-<p>Nie ograniczamy się do Javy, nie ograniczamy się do technologii JVM, chcemy przyjrzeć się tematowi z&nbsp;możliwie szerokiej perspektywy niezależnie od języka programowania, platformy i&nbsp;architektury.</p>
-</blockquote>
-
-
-
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2015.tdd.geecon.org" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
-    </a>
-  </div>
-</div>
-
-
-<p>Dostępna jest już <a href="http://2015.tdd.geecon.org/#schedule" target="_blank">wstępna agenda konferencji</a>.</p>
-
-<p>Rejestracja ruszyła kilka dni temu i&nbsp;znajdziecie ją pod adresem: <a href="http://2015.tdd.geecon.org/register/" target="_blank">2015.tdd.geecon.org/register</a>. Nie zwlekajcie! Liczba miejsc jest ograniczona!</p>
-
-<p>Można się już również rejestrować na <a href="http://2015.tdd.geecon.org/workshops/" target="_blank">warsztaty</a>, które odbędą się dzień przed konferencją, 29 stycznia.</p>
-
-<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://2015.tdd.geecon.org" target="_blank">2015.tdd.geecon.org</a></p>
 ]]></content>
   </entry>
   

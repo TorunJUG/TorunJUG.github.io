@@ -45,7 +45,7 @@
 
 
 
-  
+
   
 <meta property="og:title" content="Nagranie z piątego spotkania - Toruń JUG">
 
@@ -63,7 +63,7 @@
 <meta property="og:locale" content="pl_PL" />
 </head>
 
-  <body   >
+  <body  ng-app="TorunJugApp" ng-controller="MainController as mainCtrl"   >
     <div id="wrap">
       <header role="banner">
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -296,6 +296,21 @@
   <div id="duke-image">
     <img src="/images/duke/duke-torun-jug-big-narrow.png" style="max-width: 100%;" />
   </div>
+</section><section class="panel panel-primary hall-of-fame" class="ng-cloak" ng-cloak>
+  <div class="panel-heading">
+    <h3 class="panel-title">Hall of Fame</h3>
+  </div>
+  <div class="panel-body text-center" ng-repeat="speaker in mainCtrl.randomSpeakers">
+  	<div>
+  		<img class="no-border" ng-src="[[mainCtrl.imageUrl(speaker.img)]]" />
+  	</div>
+  	<div>
+  		<h4 ng-bind="speaker.name"></h4>
+  	</div>
+  </div>
+  <div class="panel-footer text-right">
+  	<a href="/hall-of-fame/" class="btn btn-primary btn-sm">Więcej</a>
+  </div>
 </section><section class="panel panel-default">
   <div class="panel-heading">
     <h3 class="panel-title">Ostatnie wpisy</h3>
@@ -384,7 +399,7 @@
     </div>
     <footer role="contentinfo"><div class="container">
     <p class="text-muted credits">
-  Copyright &copy; 2015 - Toruń JUG<br>
+  Copyright &copy; 2014-2015 by Toruń JUG<br>
   <small>
       <span class="credit">Powered by <a href="http://octopress.org" target="_blank">Octopress</a></span>,
       <span class="credit">customized with <a href="https://github.com/kAworu/octostrap3" target="_blank">octostrap3</a></span>.
@@ -397,6 +412,8 @@
 </footer>
     <script src="/assets/bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="/javascripts/modernizr-2.0.js"></script>
+<script src="/javascripts/libs/angular.min.js"></script>
+<script src="/javascripts/app.js"></script>
 
 
 <script type="text/javascript">

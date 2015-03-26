@@ -181,3 +181,51 @@ img.former-partner {
 div.former-partner {
   display: none;
 }
+
+@media (max-width: ($screen-sm - 1)) {
+  .panel.hof-speaker {
+    .talks {
+      padding-left: 15px;
+    }
+  }
+}
+
+@media (min-width: ($screen-sm)) {
+  .panel.hof-speaker {
+    .talks {
+      padding-left: 0;
+    }
+  }
+}
+
+.panel.hof-speaker {
+  .panel-body {
+    padding: 0;
+    margin: 0;
+    table {
+      margin-bottom: 0;
+      a {
+        text-decoration: none;
+      }
+    }
+    .face {
+      padding-right: 0;
+    }
+    .speaker-name {
+      padding-right: 15px;
+    }
+  }
+}
+
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important;
+}
+
+.panel.hall-of-fame {
+  .panel-body {
+    padding-bottom: 5px;
+  }
+  .panel-footer {
+    padding: 5px;
+  }
+}

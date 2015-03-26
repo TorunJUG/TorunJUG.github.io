@@ -1,0 +1,267 @@
+[
+    {
+        "name" : "Sławek Piotrowski",
+        "img" : "piotrowski-slawek.jpg",
+        "lastMeeting": 7,
+        "talks" : [
+            {
+                "meetingNumber" : 1,
+                "title" : "ClassIndex – szybka alternatywa dla skanowania klas",
+                "youtube" : "https://www.youtube.com/watch?v=L9UOpEo0E1s",
+                "slides" : "http://torun.jug.pl/materials/meetings/1/ClassIndex_-_szybka_alternatywa_dla_skanowania_klas_by_Slawek_Piotrowski.pdf"
+            },
+            {
+                "meetingNumber" : 7,
+                "title" : "Wstęp do AngularJS dla programisty Java",
+                "youtube" : "https://www.youtube.com/watch?v=uyWqZc59-B8",
+                "slides" : "http://torun.jug.pl/materials/meetings/7/Wstep_do_AngularJS_dla_programisty_Java_by_Slawek_Piotrowski.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Szymon Stępniak",
+        "img" : "stepniak-szymon.jpg",
+        "lastMeeting": 1,
+        "talks" : [
+            {
+                "meetingNumber" : 1,
+                "title" : "Wprowadzenie do wybranych zagadnień JDK 8",
+                "youtube" : "https://www.youtube.com/watch?v=VizSYSbspok",
+                "slides" : "http://torun.jug.pl/materials/meetings/1/Wprowadzenie_do_wybranych_zagadnien_JDK_8_by_Szymon_Stepniak.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Michał Wojtyna",
+        "img" : "wojtyna-michal.jpg",
+        "lastMeeting": 2,
+        "talks" : [
+            {
+                "meetingNumber" : 2,
+                "title" : "O fragmentach w Androidzie",
+                "youtube" : "https://www.youtube.com/watch?v=mGmX9y7iRlY",
+                "slides" : "http://torun.jug.pl/materials/meetings/2/O_fragmentach_w_Androidzie_by_Michal_Wojtyna.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Maciej Boniewicz",
+        "img" : "boniewicz-maciej.jpg",
+        "lastMeeting": 2,
+        "talks" : [
+            {
+                "meetingNumber" : 2,
+                "title" : "JTwig, czyli Twig w Javie",
+                "youtube" : "https://www.youtube.com/watch?v=KcrFDcLHhAQ",
+                "slides" : "http://torun.jug.pl/materials/meetings/2/JTwig_czyli_Twig_w_Javie_by_Maciej_Boniewicz.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Jakub Westfalewski",
+        "img" : "westfalewski-jakub.jpg",
+        "lastMeeting": 2,
+        "talks" : [
+            {
+                "meetingNumber" : 2,
+                "title" : "Continuous Delivery",
+                "youtube" : "https://www.youtube.com/watch?v=4mKR-DdHac8",
+                "slides" : "http://torun.jug.pl/materials/meetings/2/Continuous_Delivery_by_Jakub_Westfalewski.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Zbyszko Papierski",
+        "img" : "papierski-zbyszko.jpg",
+        "lastMeeting": 8,
+        "talks" : [
+            {
+                "meetingNumber" : 3,
+                "title" : "Jak szukać? – Kilka słów o Lucene i jej znajomych",
+                "youtube" : "https://www.youtube.com/watch?v=_9AnMQNxQuE",
+                "slides" : "http://torun.jug.pl/materials/meetings/3/Jak_szukac_-_Kilka_slow_o_Lucene_i_jej_znajomych_by_Zbyszko_Papierski.pdf"
+            },
+            {
+                "meetingNumber" : 8,
+                "title" : "Pytaj albo Rób, czyli mały wstęp do CQRS",
+                "youtube" : "https://www.youtube.com/watch?v=HQSeEJ6BnDM",
+                "slides" : "http://torun.jug.pl/materials/meetings/8/Pytaj_albo_Rob_czyli_maly_wstep_do_CQRS_by_Zbyszko_Papierski.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Paweł Rekowski",
+        "img" : "rekowski-pawel.jpg",
+        "lastMeeting": 3,
+        "talks" : [
+            {
+                "meetingNumber" : 3,
+                "title" : "Historia pewnego szkieletora – Walking Skeleton & ATDD",
+                "youtube" : "https://www.youtube.com/watch?v=urAUAY6bnus",
+                "slides" : "http://torun.jug.pl/materials/meetings/3/Historia_pewnego_szkieletora_%E2%80%93_Walking_Skeleton_and_ATDD_by_Pawel_Rekowski.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Sebastian Łaskawiec",
+        "img" : "laskawiec-sebastian.jpg",
+        "lastMeeting": 9,
+        "talks" : [
+            {
+                "meetingNumber" : 4,
+                "title" : "Testujemy z Arquillianem",
+                "youtube" : "https://www.youtube.com/watch?v=q5FYE3h8SNY",
+                "slides" : "http://prezi.com/bsocwzn4rfue/arquillian/"
+            },
+            {
+                "meetingNumber" : 9,
+                "title" : "Infinispan – Data Grid do zadań specjalnych",
+                "youtube" : "https://www.youtube.com/watch?v=RQXV_PPS4aA",
+                "slides" : "https://prezi.com/jvh2ktfvbqcu/infinispan/"
+            }
+        ]
+    },
+    {
+        "name" : "Jacek Laskowski",
+        "img" : "laskowski-jacek.jpg",
+        "lastMeeting": 4,
+        "talks" : [
+            {
+                "meetingNumber" : 4,
+                "title" : "Akka, Play, Spray, Scalatra, Spark z perspektywy sbt",
+                "youtube" : "https://www.youtube.com/watch?v=vLMRwMeWDTs",
+                "slides" : "http://jlaskowski.blogspot.com/2014/06/relacja-ze-spotkania-scalowego-o-sbt-i.html"
+            }
+        ]
+    },
+    {
+        "name" : "Łukasz Sawicki",
+        "img" : "sawicki-lukasz.jpg",
+        "lastMeeting": 5,
+        "talks" : [
+            {
+                "meetingNumber" : 5,
+                "title" : "Sexy unit testy",
+                "youtube" : "https://www.youtube.com/watch?v=zxFPwT0r_JM",
+                "slides" : "http://torun.jug.pl/materials/meetings/5/Sexy_unit_testy_by_Lukasz_Sawicki.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Arek Osiński",
+        "img" : "osinski-arek.png",
+        "lastMeeting": 5,
+        "talks" : [
+            {
+                "meetingNumber" : 5,
+                "title" : "Hadoop – szybki start",
+                "youtube" : "https://www.youtube.com/watch?v=oJ9c2yzC7Ug",
+                "slides" : "http://torun.jug.pl/materials/meetings/5/Hadoop_-_szybki_start_by_Arek_Osinski.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Mikołaj Fejzer",
+        "img" : "fejzer-mikolaj.jpg",
+        "lastMeeting": 6,
+        "talks" : [
+            {
+                "meetingNumber" : 6,
+                "title" : "Wprowadzenie do modelu aktorów na JVM",
+                "youtube" : "https://www.youtube.com/watch?v=GEDqUIEHoj4",
+                "slides" : "http://torun.jug.pl/materials/meetings/6/Wprowadzenie_do_modelu_aktorow_na_JVM_by_Mikolaj_Fejzer.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Marek Goldmann",
+        "img" : "goldmann-marek.jpg",
+        "lastMeeting": 6,
+        "talks" : [
+            {
+                "meetingNumber" : 6,
+                "title" : "Docker and JBoss – the perfect combination",
+                "youtube" : "https://www.youtube.com/watch?v=982jJGgqPww",
+                "slides" : "https://goldmann.pl/presentations/2014-torun-jug-docker/"
+            }
+        ]
+    },
+    {
+        "name" : "Michał Baliński",
+        "img" : "balinski-michal.jpg",
+        "lastMeeting": 7,
+        "talks" : [
+            {
+                "meetingNumber" : 7,
+                "title" : "Dobre praktyki projektowania systemów dla chmury AWS",
+                "youtube" : "https://www.youtube.com/watch?v=z_rZrN2GQmk",
+                "slides" : "https://www.slideshare.net/secret/t4uE4WSR1YdlgU"
+            }
+        ]
+    },
+    {
+        "name" : "Paweł Wrzeszcz",
+        "img" : "wrzeszcz-pawel.png",
+        "lastMeeting": 8,
+        "talks" : [
+            {
+                "meetingNumber" : 8,
+                "title" : "9 lat pracy zdalnej – czego się nauczyłem? Jak efektywnie pracować w zespole rozproszonym?",
+                "youtube" : "https://www.youtube.com/watch?v=Ms3jmcPQi70",
+                "slides" : "http://www.slideshare.net/pawelwrzeszcz/9-lat-pracy-zdalnej-czego-si-nauczyem"
+            }
+        ]
+    },
+    {
+        "name" : "Krzysztof Muchewicz",
+        "img" : "muchewicz-krzysztof.jpg",
+        "lastMeeting": 9,
+        "talks" : [
+            {
+                "meetingNumber" : 9,
+                "title" : "Jak sobie radzić z zastanym kodem",
+                "youtube" : "https://www.youtube.com/watch?v=fbmuw1Rn15c",
+                "slides" : "http://torun.jug.pl/materials/meetings/9/Jak_sobie_radzic_z_zastanym_kodem_by_Krzysztof_Muchewicz.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Mirosław Gołda",
+        "img" : "golda-miroslaw.jpg",
+        "lastMeeting": 10,
+        "talks" : [
+            {
+                "meetingNumber" : 10,
+                "title" : "Wykorzystanie języka Groovy w testach jednostkowych, integracyjnych i automatycznych",
+                "youtube" : "https://www.youtube.com/watch?v=EGKOSUBGy8M",
+                "slides" : "http://torun.jug.pl/materials/meetings/10/Wykorzystanie_jezyka_Groovy_w_testach_jednostkowych_integracyjnych_i_automatycznych_by_Miroslaw_Golda.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Wojciech Seliga",
+        "img" : "seliga-wojciech.jpg",
+        "lastMeeting": 10,
+        "talks" : [
+            {
+                "meetingNumber" : 10,
+                "title" : "5-10-15-… lat kariery Java developera",
+                "youtube" : "https://www.youtube.com/watch?v=HcYRwJYMadg",
+                "slides" : "http://torun.jug.pl/materials/meetings/10/5-10-15-_lat_kariery_Java_developera_by_Wojciech_Seliga.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Jarosław Pałka",
+        "img" : "palka-jaroslaw.jpg",
+        "lastMeeting": 11,
+        "talks" : [
+            {
+                "meetingNumber" : 11,
+                "title" : "Czterej jeźdźcy apokalipsy, gdy Armagedon w JVM nadchodzi",
+                "youtube" : "",
+                "slides" : ""
+            }
+        ]
+    }
+]

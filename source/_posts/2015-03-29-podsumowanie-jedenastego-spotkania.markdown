@@ -23,8 +23,8 @@ Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
       <em>Toruń JUG - prolog</em></a> (slajdy z&nbsp;prezentacji Szymona Stępniaka podsumowującej pierwszy rok działania JUGa)
   </li>
   <li>
-    <a href="#TBD">
-      <em>Czterej jeźdźcy apokalipsy, gdy Armagedon w&nbsp;JVM nadchodzi</em></a> (slajdy z&nbsp;prezentacji Jarosława Pałki) - <strong>TBD</strong>
+    <a href="http://www.slideshare.net/kcrimson/czterej-jedcy-apokalipsy-gdy-armagedon-w-jvm-nadchodzi" target="_blank">
+      <em>Czterej jeźdźcy apokalipsy, gdy Armagedon w&nbsp;JVM nadchodzi</em></a> (slajdy z&nbsp;prezentacji Jarosława Pałki)
   </li>
 </ul>
 

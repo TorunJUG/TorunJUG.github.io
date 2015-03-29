@@ -6,9 +6,11 @@
 
   app.controller('MainController', function($scope, $http) {
   	$self = this;
+    $self.speakers = [];
+    $self.randomSpeakers = [];
     $http.get('/hall-of-fame/speakers.json').success(function(data, status, headers, config) {
+      $self.randomSpeakers = new Array(data[Math.floor(Math.random()*data.length)]);
     	$self.speakers = data;
-    	$self.randomSpeakers = new Array(data[Math.floor(Math.random()*data.length)]);
     });
     this.imageUrl = function(img) {
     	return "/images/speakers/" + img;

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-03-26T21:21:10+01:00</updated>
+  <updated>2015-03-29T12:10:05+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie jedenastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/03/29/podsumowanie-jedenastego-spotkania/"/>
+    <updated>2015-03-29T12:13:23+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/03/29/podsumowanie-jedenastego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;ubiegły piątek odbyło się <a href="news/2015/03/13/spotkanie-11/">jedenaste</a>, urodzinowe spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za liczne przybycie. Padł absolutny rekord frekwencji :) Szczególne podziękowania należą się <strong>Jarkowi</strong>, który przyjechał do nas specjalnie z&nbsp;dalekiego Krakowa, aby pokazać co kryje się w&nbsp;czeluściach JVM. Mamy również nadzieję, że podobała Wam się sentymentalna podróż przez pierwszy rok działalności JUGa, którą poprowadził <strong>Szymon</strong>.</p>
+
+<p>Jeszcze raz gratulujemy <strong>Sebastianowi Łaskawcowi</strong>, który został <strong>Prelegentem Roku 2014</strong>!</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva. Dziękujemy!</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/12E4NFaep3hqMzSpqYkF2CiBz_74RW9EA7FDNuGJbcwM/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.<!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1627185670838253.1073741842.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26009502/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://www.slideshare.net/SzymonStpniak/toru-jug-1st-anniversary-27032015" target="_blank">
+      <em>Toruń JUG - prolog</em></a> (slajdy z&nbsp;prezentacji Szymona Stępniaka podsumowującej pierwszy rok działania JUGa)
+  </li>
+  <li>
+    <a href="#TBD">
+      <em>Czterej jeźdźcy apokalipsy, gdy Armagedon w&nbsp;JVM nadchodzi</em></a> (slajdy z&nbsp;prezentacji Jarosława Pałki) - <strong>TBD</strong>
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek i&nbsp;<a href="http://torun.jug.pl/hall-of-fame/">wieczną chwałę</a> :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON 2015. Mamy dla Was 20% zniżki!]]></title>
@@ -711,37 +748,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <h4>Paweł Wrzeszcz</h4>
 
 <p>Trener, konsultant w&nbsp;BNS IT. Współtwórca sukcesu w&nbsp;pełni rozproszonej, zwinnej i&nbsp;pozbawionej managerów firmy SoftwareMill. Mieszka w&nbsp;Warszawie. Pochodzi z&nbsp;Torunia. Blog: <a href="http://pawel.wrzesz.cz" target="_blank">pawel.wrzesz.cz</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[nofluffjobs.com naszym nowym partnerem]]></title>
-    <link href="http://torun.jug.pl/news/2014/12/01/nofluffjobs-naszym-nowym-partnerem/"/>
-    <updated>2014-12-01T18:12:13+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/12/01/nofluffjobs-naszym-nowym-partnerem</id>
-    <content type="html"><![CDATA[<p>Czy widzieliście już portal <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a>? Jeśli nie, to zachęcamy, żebyście przyjrzeli się mu bliżej.</p>
-
-<p>Jak sami o&nbsp;sobie piszą:</p>
-
-<blockquote>
-<p><a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a> to portal, który wprowadza nowe standardy rekrutacji IT.</p>
-<p>Wszystkie oferty są przejrzyste, porównywalne między sobą oraz zawierają mnóstwo informacji o&nbsp;firmie i&nbsp;projekcie wraz z&nbsp;widełkami płacowymi.</p>
-<p>Celem portalu nofluffjobs.com jest stworzenie &#8220;ekosystemu&#8221; znanych, cenionych firm, którym zależy na pełnej otwartości w&nbsp;rekrutacji IT.</p>
-</blockquote>
-
-
-
-
-<div class="row text-center" style="margin-bottom: 10px;">
-  <div class="col-md-12">
-    <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/no_fluff_jobs_com_logo.jpg" alt="nofluffjobs - oferty praca dla informatykow">
-    </a>
-  </div>
-</div>
-
-
-<p>Jest nam bardzo miło zakomunikować, że udało nam się porozumieć z&nbsp;twórcami portalu <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">nofluffjobs.com</a> i&nbsp;podjąć długoterminową współpracę na zasadach obustronnego partnerstwa. Życzymy twórcom samych sukcesów i&nbsp;czekamy na owoce współpracy :)</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-03-29T22:20:09+02:00</updated>
+  <updated>2015-04-03T11:20:44+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lightning Talks - go for it!]]></title>
+    <link href="http://torun.jug.pl/news/2015/04/03/lightning-talks-go-for-it/"/>
+    <updated>2015-04-03T11:15:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/04/03/lightning-talks-go-for-it</id>
+    <content type="html"><![CDATA[<p>Myślałeś kiedyś o&nbsp;wystąpieniu na deskach toruńskiego JUGa, ale brakowało Ci motywacji do przygotowania 45-minutowej prezentacji? A co byś powiedział na krótszą, <strong>max. 15-minutową</strong> prezentację? Brzmi atrakcyjnie? No pewnie, że tak! :)</p>
+
+<p>Podczas najbliższego spotkania Toruń JUG (środa, 29.04.2015) chcielibyśmy wypróbować nową formułę, która mogłaby wpisać się na stałe do programu naszych spotkań. W&nbsp;miejsce jednej 45-minutowej prezentacji proponujemy 3&nbsp;lightning talki, po 15 minut każdy. Do zrealizowania tego planu potrzebujemy <strong>Waszej pomocy</strong> &ndash; szukamy chętnych do wystąpienia w&nbsp;tej formule.</p>
+
+<p>Pod poniższym linkiem znajdziecie <a href="https://docs.google.com/forms/d/1zZT2jwgddZxGLUaX_jXOUGF23Mhaskj-0BLi2fWUJTk/viewform" target="_blank">formularz zgłoszeniowy</a>.</p>
+
+<p>Na zgłoszenia czekamy <strong>do 9&nbsp;kwietnia włącznie</strong> &ndash; nie zwlekaj, <strong>zgłoś swoją propozycję już dziś</strong>!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie jedenastego spotkania]]></title>
@@ -705,49 +720,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #8 [2014-12-17]]]></title>
-    <link href="http://torun.jug.pl/news/2014/12/04/spotkanie-8/"/>
-    <updated>2014-12-04T09:31:34+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/12/04/spotkanie-8</id>
-    <content type="html"><![CDATA[<p>Ósme spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 17 grudnia 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/219060454/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/639427786165648/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<h3>Pytaj albo Rób, czyli mały wstęp do CQRS</h3>
-
-<p>Nie samym kodem człowiek żyje, więc najwyższa pora opowiedzieć troszeczkę na temat fajnych pomysłów na architekturę. Jednym z&nbsp;najbardziej istotnych jest CQRS &ndash; Command Query Responsibility Separation. Idea, choć w&nbsp;swoich podstawach dość prosta, pozwala nam na tworzenie szybkich, łatwo rozszerzalnych aplikacji.</p>
-
-<p>Podczas prezentacji przedstawię podstawowe zastosowanie CQRS, a&nbsp;także postaram się opowiedzieć o&nbsp;tym, za pomocą jakich narzędzi można stworzyć szybko aplikację opartą na zasadach tego wzorca.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/papierski-zbyszko.jpg" /></p>
-
-<h4>Zbyszko Papierski</h4>
-
-<p>Architekt rozwiązań w Grupie Allegro, czciciel JVM i&nbsp;wszystkiego co z&nbsp;nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz i&nbsp;komiksiarz.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>9 lat pracy zdalnej &ndash; czego się nauczyłem? Jak efektywnie pracować w&nbsp;zespole rozproszonym?</h3>
-
-<p>Na przestrzeni ostatnich 9&nbsp;lat pracowałem zdalnie w&nbsp;4&nbsp;zupełnie różnych zespołach &ndash; w&nbsp;korporacji (JBoss/Red Hat), w&nbsp;międzynarodowym startupie (Vocado), we własnej firmie (SoftwareMill) i&nbsp;jako trener/konsultant (BNS IT).</p>
-
-<p>Chciałbym podzielić się swoim doświadczeniem zarówno z&nbsp;perspektywy osoby pracującej zdalnie, jak i&nbsp;z&nbsp;perspektywy wyzwań stojących przed całym zespołem.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/wrzeszcz-pawel.png" /></p>
-
-<h4>Paweł Wrzeszcz</h4>
-
-<p>Trener, konsultant w&nbsp;BNS IT. Współtwórca sukcesu w&nbsp;pełni rozproszonej, zwinnej i&nbsp;pozbawionej managerów firmy SoftwareMill. Mieszka w&nbsp;Warszawie. Pochodzi z&nbsp;Torunia. Blog: <a href="http://pawel.wrzesz.cz" target="_blank">pawel.wrzesz.cz</a></p>
 ]]></content>
   </entry>
   

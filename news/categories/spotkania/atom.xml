@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-03-29T22:23:30+02:00</updated>
+  <updated>2015-04-03T11:25:48+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lightning Talks - go for it!]]></title>
+    <link href="http://torun.jug.pl/news/2015/04/03/lightning-talks-go-for-it/"/>
+    <updated>2015-04-03T11:15:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/04/03/lightning-talks-go-for-it</id>
+    <content type="html"><![CDATA[<p>Myślałeś kiedyś o&nbsp;wystąpieniu na deskach toruńskiego JUGa, ale brakowało Ci motywacji do przygotowania 45-minutowej prezentacji? A co byś powiedział na krótszą, <strong>max. 15-minutową</strong> prezentację? Brzmi atrakcyjnie? No pewnie, że tak! :)</p>
+
+<p>Podczas najbliższego spotkania Toruń JUG (środa, 29.04.2015) chcielibyśmy wypróbować nową formułę, która mogłaby wpisać się na stałe do programu naszych spotkań. W&nbsp;miejsce jednej 45-minutowej prezentacji proponujemy 3&nbsp;lightning talki, po 15 minut każdy. Do zrealizowania tego planu potrzebujemy <strong>Waszej pomocy</strong> &ndash; szukamy chętnych do wystąpienia w&nbsp;tej formule.</p>
+
+<p>Pod poniższym linkiem znajdziecie <a href="https://docs.google.com/forms/d/1zZT2jwgddZxGLUaX_jXOUGF23Mhaskj-0BLi2fWUJTk/viewform" target="_blank">formularz zgłoszeniowy</a>.</p>
+
+<p>Na zgłoszenia czekamy <strong>do 9&nbsp;kwietnia włącznie</strong> &ndash; nie zwlekaj, <strong>zgłoś swoją propozycję już dziś</strong>!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #11 [2015-03-27]]]></title>
@@ -205,59 +220,6 @@
 <h4>Paweł Wrzeszcz</h4>
 
 <p>Trener, konsultant w&nbsp;BNS IT. Współtwórca sukcesu w&nbsp;pełni rozproszonej, zwinnej i&nbsp;pozbawionej managerów firmy SoftwareMill. Mieszka w&nbsp;Warszawie. Pochodzi z&nbsp;Torunia. Blog: <a href="http://pawel.wrzesz.cz" target="_blank">pawel.wrzesz.cz</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #7 [2014-11-26]]]></title>
-    <link href="http://torun.jug.pl/news/2014/11/13/spotkanie-7/"/>
-    <updated>2014-11-13T06:05:05+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/11/13/spotkanie-7</id>
-    <content type="html"><![CDATA[<p>Siódme spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 26 listopada 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/218644526/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1514855825439863/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<h3>Dobre praktyki projektowania systemów dla chmury AWS</h3>
-
-<p>Prezentacja dobrych praktyk projektowania systemów IT w&nbsp;chmurze obliczeniowej. Jak budować wysoko-dostępne, skalowalne i&nbsp;rozproszone geograficznie aplikacje. Wnioski i&nbsp;przykłady będą zaprezentowane na podstawie wdrożeń wykonanych przez prowadzącego &ndash; m.in. systemu dla linii lotniczych opartego o&nbsp;usługi Amazon Web Services.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/balinski-michal.jpg" /></p>
-
-<h4>Michał Baliński</h4>
-
-<p>Software Architect / IT Manager w&nbsp;firmie AMG.net. Na co dzień zajmuje się Javowymi projektami integracyjnymi (SOA / ESB / REST API), chmurami obliczeniowymi oraz HPC middelware. AWS Certified Solution Architect (Associate).</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3><del>O co chodzi z tym programowanie funkcyjnym?</del></h3>
-
-<p><del>Języki funkcyjne są stare. Przykładowo Erlang pojawił się w&nbsp;1986 roku, a&nbsp;Haskell w&nbsp;1990. Dlaczego dopiero teraz w&nbsp;XXI wieku programiści JVM zainteresowali się tą tematyką? Java w&nbsp;wersji 8 wprowadza sporo elementów programowania funkcyjnego oficjalnie uznając go za wiodący nurt. Czy to po prostu nowy hype? Nowa moda?</del></p>
-
-<p><del>Prezentacja pokaże skąd wzięła się potrzeba na elementy programowania funkcyjnego w&nbsp;Javie i&nbsp;jak odbijają się one na wydajności aplikacji.</del></p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/modzelewski-piotr.jpg" /></p>
-
-<h4><del>Piotr Modzelewski</del></h4>
-
-<p><del>Programista Java pracujący przy systemach wymagających wysokiej wydajności i&nbsp;skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z&nbsp;dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w&nbsp;codziennej pracy. Wierzy w&nbsp;siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i&nbsp;opasłych rozwiązań JEE woli proste i&nbsp;dedykowane rozwiązania.</del></p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Wstęp do AngularJS dla programisty Java</h3>
-
-<p>Historia interfejsów użytkownika w świecie Javy jest historią bez szczęśliwego zakończenia. Mnogość rozwiązań wydaje się być tylko ostatnim krzykiem tonącego. Zamiast jednak płakać nad obecną sytuacją oswójmy się z nadchodzącą rewolucją. W tej prezentacji chciałbym pokazać jak w środowiskach opartych o Javę używać jednej z bardziej udanych bibliotek JavasSriptowych &ndash; AngularJS.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" /></p>
-
-<h4>Sławek Piotrowski</h4>
-
-<p>Programista Java, obecnie związany z PayU, gdzie zajmuje się rozwijaniem wiodącej polskiej platformy płatności online, autor kilku projektów open source: EvoInflector, ClassIndex, Moonshine.</p>
 ]]></content>
   </entry>
   

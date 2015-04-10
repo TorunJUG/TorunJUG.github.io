@@ -6,7 +6,7 @@ date: 2015-03-29 12:13:23 +0200
 comments: true
 categories: Materiały
 ---
-W&nbsp;ubiegły piątek odbyło się <a href="{{root_url}}news/2015/03/13/spotkanie-11/">jedenaste</a>, urodzinowe spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za liczne przybycie. Padł absolutny rekord frekwencji :) Szczególne podziękowania należą się **Jarkowi**, który przyjechał do nas specjalnie z&nbsp;dalekiego Krakowa, aby pokazać co kryje się w&nbsp;czeluściach JVM. Mamy również nadzieję, że podobała Wam się sentymentalna podróż przez pierwszy rok działalności JUGa, którą poprowadził **Szymon**.
+W&nbsp;ubiegły piątek odbyło się <a href="{{root_url}}/news/2015/03/13/spotkanie-11/">jedenaste</a>, urodzinowe spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za liczne przybycie. Padł absolutny rekord frekwencji :) Szczególne podziękowania należą się **Jarkowi**, który przyjechał do nas specjalnie z&nbsp;dalekiego Krakowa, aby pokazać co kryje się w&nbsp;czeluściach JVM. Mamy również nadzieję, że podobała Wam się sentymentalna podróż przez pierwszy rok działalności JUGa, którą poprowadził **Szymon**.
 
 Jeszcze raz gratulujemy **Sebastianowi Łaskawcowi**, który został **Prelegentem Roku 2014**!
 

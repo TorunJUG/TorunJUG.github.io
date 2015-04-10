@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-04-03T11:20:44+02:00</updated>
+  <updated>2015-04-10T12:33:37+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z jedenastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/04/10/nagranie-z-jedenastego-spotkania/"/>
+    <updated>2015-04-10T12:40:13+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/04/10/nagranie-z-jedenastego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2614" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2015/03/13/spotkanie-11/">jedenastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2614&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lightning Talks - go for it!]]></title>
@@ -33,7 +57,7 @@
     <link href="http://torun.jug.pl/news/2015/03/29/podsumowanie-jedenastego-spotkania/"/>
     <updated>2015-03-29T12:13:23+02:00</updated>
     <id>http://torun.jug.pl/news/2015/03/29/podsumowanie-jedenastego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;ubiegły piątek odbyło się <a href="news/2015/03/13/spotkanie-11/">jedenaste</a>, urodzinowe spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za liczne przybycie. Padł absolutny rekord frekwencji :) Szczególne podziękowania należą się <strong>Jarkowi</strong>, który przyjechał do nas specjalnie z&nbsp;dalekiego Krakowa, aby pokazać co kryje się w&nbsp;czeluściach JVM. Mamy również nadzieję, że podobała Wam się sentymentalna podróż przez pierwszy rok działalności JUGa, którą poprowadził <strong>Szymon</strong>.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;ubiegły piątek odbyło się <a href="http://torun.jug.pl/news/2015/03/13/spotkanie-11/">jedenaste</a>, urodzinowe spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za liczne przybycie. Padł absolutny rekord frekwencji :) Szczególne podziękowania należą się <strong>Jarkowi</strong>, który przyjechał do nas specjalnie z&nbsp;dalekiego Krakowa, aby pokazać co kryje się w&nbsp;czeluściach JVM. Mamy również nadzieję, że podobała Wam się sentymentalna podróż przez pierwszy rok działalności JUGa, którą poprowadził <strong>Szymon</strong>.</p>
 
 <p>Jeszcze raz gratulujemy <strong>Sebastianowi Łaskawcowi</strong>, który został <strong>Prelegentem Roku 2014</strong>!</p>
 
@@ -696,30 +720,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z siódmego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2014/12/05/nagranie-z-siodmego-spotkania/"/>
-    <updated>2014-12-05T05:49:45+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/12/05/nagranie-z-siodmego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2510" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="http://torun.jug.pl/news/2014/11/13/spotkanie-7/">siódmego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=2510&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
 ]]></content>
   </entry>
   

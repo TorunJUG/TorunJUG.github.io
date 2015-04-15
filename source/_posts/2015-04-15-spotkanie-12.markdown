@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Spotkanie #12 [2015-04-29]"
+description: "Toruń JUG - Spotkanie #12 [2015-04-29]"
+date: 2015-04-15 11:15:54 +0200
+comments: true
+categories: Spotkania
+---
+Dwunaste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się **w&nbsp;środę, 29 kwietnia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/221855003/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/757572787691843/" target="_blank">Facebook</a>.
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty - **tym razem jednak zmieniamy lokal**. Informację o tym gdzie widzimy się po spotkaniu opublikujemy w ciągu kilku najbliższych dni. Aktualnie pracujemy nad rezerwacją miejsca w jednym z kilku lokali.
+
+**Uwaga!** Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta **dla wszystkich od godziny 17:30**. Serdecznie zapraszamy! <!-- more -->
+
+### Designing API for mobile apps
+To provide a&nbsp;fair user experience, mobile app's performance must be well tuned. Loads of work are invested into designing screens to provide fast feedback to end user and make 3rd party services communication as invisible as possible. There is unfortunately a&nbsp;wall, that mobile devs cannot go through - making faster external calls, especially in difficult environment like poor connection quality. But we - backend developers - can minimize that pain, but only as a&nbsp;result of tight cooperation.
+
+Presentation contains a&nbsp;ton of knowledge about designing and developing mobile APIs and another ton of experience from the trenches.
+
+Prezentacja będzie po polsku.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/erbetowski-wojciech.png" />
+#### Wojtek Erbetowski
+Wojtek is Head of Engineering at Polidea - mobile/hardware software-house. That's an&nbsp;unusual environment for a&nbsp;backend dev - here it's the mobile app, that is the center of universe. Backend is the one that has to fit best, so that the app remains simple and robust. Thanks to that he has gathered many interesting tips and tricks, that he will gladly share.
+
+Wojtek invented MobileWarsaw, GitKata and Mobile Central Europe. He's also co-leader of Warsaw JUG and Warsjawa conference. Worked on Apphance Flow - an&nbsp;OS build tool for mobile and co-created a&nbsp;library for unit testing Android apps - RoboSpock.
+
+## LIGHTNING TALKS
+
+<span class="clearfix"></span>
+### 1. Fork/Join Framework
+Fork/Join Framework wspomaga rozwiązywanie problemów, które można podzielić na mniejsze, dokonać równoległych obliczeń i&nbsp;scalić wyniki. Zwalnia programistów z&nbsp;ręcznego zarządzania wątkami pozwalając na proste i&nbsp;efektywne wykorzystanie wszystkich rdzeni procesora.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/chyla-adam.jpg" />
+#### Adam Chyła
+Student Wydziału Matematyki i&nbsp;Informatyki UMK, pasjonat języka Java.
+
+<span class="clearfix"></span>
+### 2. Biblioteka PCJ do naukowych obliczeń równoległych
+Prezentacja w&nbsp;bardzo krótki sposób przedstawi bibliotekę PCJ, a&nbsp;w&nbsp;zasadzie jej interfejs i&nbsp;możliwości wraz z&nbsp;kodem źródłowym rozwiązującym prosty problem naukowy w&nbsp;sposób równoległy.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/nowicki-marek.jpg" />
+#### Marek Nowicki
+Programista-naukowiec związany z&nbsp;językiem Java, zajmujący się głównie obliczeniami równoległymi w&nbsp;tymże języku. Autor biblioteki PCJ.
+
+<span class="clearfix"></span>
+### 3. Implementacja Agregatów (DDD) w Akka
+W&nbsp;trakcie krótkiej prezentacji zaanonsuje pomysły związane z&nbsp;implementacją DDD w&nbsp;Akka, które w&nbsp;tej chwili realizujemy w&nbsp;Allegro.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/muchewicz-krzysztof.jpg" />
+#### Krzysztof Muchewicz
+Jestem "Architektem Rozwiązań" w&nbsp;grupie Allegro. Moim głównym zadaniem jest transformacja PHP-owej platformy Allegro do cywilizowanej postaci. W&nbsp;ciągu dziesięciu lat kariery informatycznej (po)pełniłem każdą możliwą rolę w&nbsp;IT od programisty, poprzez lidera, menadżera, po architekta.

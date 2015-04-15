@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-04-10T12:38:43+02:00</updated>
+  <updated>2015-04-15T11:11:56+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,77 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #12 [2015-04-29]]]></title>
+    <link href="http://torun.jug.pl/news/2015/04/15/spotkanie-12/"/>
+    <updated>2015-04-15T11:15:54+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/04/15/spotkanie-12</id>
+    <content type="html"><![CDATA[<p>Dwunaste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 29 kwietnia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/221855003/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/757572787691843/" target="_blank">Facebook</a>.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty &ndash; <strong>tym razem jednak zmieniamy lokal</strong>. Informację o tym gdzie widzimy się po spotkaniu opublikujemy w ciągu kilku najbliższych dni. Aktualnie pracujemy nad rezerwacją miejsca w jednym z kilku lokali.</p>
+
+<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
+
+<h3>Designing API for mobile apps</h3>
+
+<p>To provide a&nbsp;fair user experience, mobile app&rsquo;s performance must be well tuned. Loads of work are invested into designing screens to provide fast feedback to end user and make 3rd party services communication as invisible as possible. There is unfortunately a&nbsp;wall, that mobile devs cannot go through &ndash; making faster external calls, especially in difficult environment like poor connection quality. But we &ndash; backend developers &ndash; can minimize that pain, but only as a&nbsp;result of tight cooperation.</p>
+
+<p>Presentation contains a&nbsp;ton of knowledge about designing and developing mobile APIs and another ton of experience from the trenches.</p>
+
+<p>Prezentacja będzie po polsku.</p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/erbetowski-wojciech.png" /></p>
+
+<h4>Wojtek Erbetowski</h4>
+
+<p>Wojtek is Head of Engineering at Polidea &ndash; mobile/hardware software-house. That&rsquo;s an&nbsp;unusual environment for a&nbsp;backend dev &ndash; here it&rsquo;s the mobile app, that is the center of universe. Backend is the one that has to fit best, so that the app remains simple and robust. Thanks to that he has gathered many interesting tips and tricks, that he will gladly share.</p>
+
+<p>Wojtek invented MobileWarsaw, GitKata and Mobile Central Europe. He&rsquo;s also co-leader of Warsaw JUG and Warsjawa conference. Worked on Apphance Flow &ndash; an&nbsp;OS build tool for mobile and co-created a&nbsp;library for unit testing Android apps &ndash; RoboSpock.</p>
+
+<h2>LIGHTNING TALKS</h2>
+
+<p><span class="clearfix"></span></p>
+
+<h3>1. Fork/Join Framework</h3>
+
+<p>Fork/Join Framework wspomaga rozwiązywanie problemów, które można podzielić na mniejsze, dokonać równoległych obliczeń i&nbsp;scalić wyniki. Zwalnia programistów z&nbsp;ręcznego zarządzania wątkami pozwalając na proste i&nbsp;efektywne wykorzystanie wszystkich rdzeni procesora.</p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/chyla-adam.jpg" /></p>
+
+<h4>Adam Chyła</h4>
+
+<p>Student Wydziału Matematyki i&nbsp;Informatyki UMK, pasjonat języka Java.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>2. Biblioteka PCJ do naukowych obliczeń równoległych</h3>
+
+<p>Prezentacja w&nbsp;bardzo krótki sposób przedstawi bibliotekę PCJ, a&nbsp;w&nbsp;zasadzie jej interfejs i&nbsp;możliwości wraz z&nbsp;kodem źródłowym rozwiązującym prosty problem naukowy w&nbsp;sposób równoległy.</p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/nowicki-marek.jpg" /></p>
+
+<h4>Marek Nowicki</h4>
+
+<p>Programista-naukowiec związany z&nbsp;językiem Java, zajmujący się głównie obliczeniami równoległymi w&nbsp;tymże języku. Autor biblioteki PCJ.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>3. Implementacja Agregatów (DDD) w Akka</h3>
+
+<p>W&nbsp;trakcie krótkiej prezentacji zaanonsuje pomysły związane z&nbsp;implementacją DDD w&nbsp;Akka, które w&nbsp;tej chwili realizujemy w&nbsp;Allegro.</p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/muchewicz-krzysztof.jpg" /></p>
+
+<h4>Krzysztof Muchewicz</h4>
+
+<p>Jestem &ldquo;Architektem Rozwiązań&rdquo; w&nbsp;grupie Allegro. Moim głównym zadaniem jest transformacja PHP-owej platformy Allegro do cywilizowanej postaci. W&nbsp;ciągu dziesięciu lat kariery informatycznej (po)pełniłem każdą możliwą rolę w&nbsp;IT od programisty, poprzez lidera, menadżera, po architekta.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lightning Talks - go for it!]]></title>
@@ -177,49 +248,6 @@
 <p>Jestem &ldquo;Architektem Rozwiązań&rdquo; w&nbsp;grupie Allegro. Moim głównym zadaniem jest transformacja PHP-owej platformy Allegro do cywilizowanej postaci. W&nbsp;ciągu dziesięciu lat kariery informatycznej (po)pełniłem każdą możliwą rolę w&nbsp;IT od programisty, poprzez lidera, menadżera, po architekta.</p>
 
 <p>Miałem okazję tworzyć rozwiązania w&nbsp;C++, .NET, Java. Programowałem i&nbsp;projektowałem aplikacje desktopowe, bazodanowe, webowe. Obecnie najbardziej jara mnie Domain Driven Design i&nbsp;architektura Lambda. Prywatnie kręcą mnie buddyzm i&nbsp;podróże.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #8 [2014-12-17]]]></title>
-    <link href="http://torun.jug.pl/news/2014/12/04/spotkanie-8/"/>
-    <updated>2014-12-04T09:31:34+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/12/04/spotkanie-8</id>
-    <content type="html"><![CDATA[<p>Ósme spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 17 grudnia 2014 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/219060454/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/639427786165648/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<h3>Pytaj albo Rób, czyli mały wstęp do CQRS</h3>
-
-<p>Nie samym kodem człowiek żyje, więc najwyższa pora opowiedzieć troszeczkę na temat fajnych pomysłów na architekturę. Jednym z&nbsp;najbardziej istotnych jest CQRS &ndash; Command Query Responsibility Separation. Idea, choć w&nbsp;swoich podstawach dość prosta, pozwala nam na tworzenie szybkich, łatwo rozszerzalnych aplikacji.</p>
-
-<p>Podczas prezentacji przedstawię podstawowe zastosowanie CQRS, a&nbsp;także postaram się opowiedzieć o&nbsp;tym, za pomocą jakich narzędzi można stworzyć szybko aplikację opartą na zasadach tego wzorca.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" /></p>
-
-<h4>Zbyszko Papierski</h4>
-
-<p>Architekt rozwiązań w Grupie Allegro, czciciel JVM i&nbsp;wszystkiego co z&nbsp;nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz i&nbsp;komiksiarz.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>9 lat pracy zdalnej &ndash; czego się nauczyłem? Jak efektywnie pracować w&nbsp;zespole rozproszonym?</h3>
-
-<p>Na przestrzeni ostatnich 9&nbsp;lat pracowałem zdalnie w&nbsp;4&nbsp;zupełnie różnych zespołach &ndash; w&nbsp;korporacji (JBoss/Red Hat), w&nbsp;międzynarodowym startupie (Vocado), we własnej firmie (SoftwareMill) i&nbsp;jako trener/konsultant (BNS IT).</p>
-
-<p>Chciałbym podzielić się swoim doświadczeniem zarówno z&nbsp;perspektywy osoby pracującej zdalnie, jak i&nbsp;z&nbsp;perspektywy wyzwań stojących przed całym zespołem.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/wrzeszcz-pawel.png" /></p>
-
-<h4>Paweł Wrzeszcz</h4>
-
-<p>Trener, konsultant w&nbsp;BNS IT. Współtwórca sukcesu w&nbsp;pełni rozproszonej, zwinnej i&nbsp;pozbawionej managerów firmy SoftwareMill. Mieszka w&nbsp;Warszawie. Pochodzi z&nbsp;Torunia. Blog: <a href="http://pawel.wrzesz.cz" target="_blank">pawel.wrzesz.cz</a></p>
 ]]></content>
   </entry>
   

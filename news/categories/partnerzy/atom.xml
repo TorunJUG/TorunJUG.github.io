@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-04-16T22:00:14+02:00</updated>
+  <updated>2015-04-19T23:15:01+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -23,7 +23,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.geecon.org" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/geecon2015.jpg" alt="GeeCON 2015" />
+      <img class="no-border" src="/images/partners/geecon2015.jpg" alt="GeeCON 2015" />
     </a>
   </div>
 </div>
@@ -51,7 +51,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.devcrowd.pl" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/devcrowd15.png" alt="DevCrowd'15" />
+      <img class="no-border" src="/images/partners/devcrowd15.png" alt="DevCrowd'15" />
     </a>
   </div>
 </div>
@@ -93,7 +93,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://scalar-conf.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/scalar-2015.png" alt="Scalar 2015" />
+      <img class="no-border" src="/images/partners/scalar-2015.png" alt="Scalar 2015" />
     </a>
   </div>
 </div>
@@ -115,7 +115,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/jdd.png" alt="JDD Conference 2015" />
+      <img class="no-border" src="/images/partners/jdd.png" alt="JDD Conference 2015" />
     </a>
   </div>
 </div>
@@ -139,7 +139,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://4developers.org.pl" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/4developers.png" alt="4Developers" />
+      <img class="no-border" src="/images/partners/4developers.png" alt="4Developers" />
     </a>
   </div>
 </div>

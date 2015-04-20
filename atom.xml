@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-04-16T21:57:22+02:00</updated>
+  <updated>2015-04-19T23:15:01+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie ankiet 11. spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/04/20/podsumowanie-ankiet-11-spotkania/"/>
+    <updated>2015-04-20T11:35:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/04/20/podsumowanie-ankiet-11-spotkania</id>
+    <content type="html"><![CDATA[<p>Jak zapowiadaliśmy na spotkaniu, chcielibyśmy regularnie dzielić się z&nbsp;Wami wnioskami z&nbsp;ankiet, które wypełniacie. Odezwa Szymona nie pozostała bez echa &ndash; przyszły do nas 24 ankiety, co stanowi kilkukrotnie wyższą wartość niż spotkanie wcześniej! Dalej oczywiście jest pole do popisu :)</p>
+
+<p>Spotkanie zostało bardzo dobrze przyjęte &ndash; ogólnie oceniliście je na 8,8/10. Zarówno sentymentalna podróż Szymona, jak i&nbsp;opowieść o&nbsp;wnętrzu JVM Jarka zostały przez Was świetnie ocenione. Wasze wnioski trafiły już do obu prelegentów.</p>
+
+<p>Interesujące informacje wyciągnęliśmy z&nbsp;pytań o&nbsp;same spotkania JUGowe. Co najważniejsze dla nas, wszyscy respondenci zadeklarowali udział w&nbsp;najbliższym spotkaniu. Mieliśmy okazję zauważyć, że dla uczestników ostatniego spotkania było to średnio czwarte spotkanie i&nbsp;że najczęściej <a href="http://www.meetup.com/Torun-JUG/" target="_blank">Meetup</a> daje Wam znać, że zbliża się następne spotkanie. Większość z&nbsp;Was to zawodowi programiści, ale jest też kilku studentów.</p>
+
+<p>Najważniejsze pytania jednak dla nas to przede wszystkim te, w&nbsp;których podrzuciliście nam propozycje zmian i&nbsp;prelekcji. Bardzo za wszystkie dziękujemy! Na podstawie Waszych sugestii rozpoczęliśmy już działania, o&nbsp;których będziemy opowiadać na najbliższych spotkaniach.</p>
+
+<p>W&nbsp;dalszym ciągu podtrzymujemy gorącą prośbę o&nbsp;wypełnianie ankiet &ndash; nie ma nic ważniejszego w rozwoju niż feedback. Przypominamy też o&nbsp;zgłaszaniu się na <a href="http://torun.jug.pl/speakers/">prelegentów</a> &ndash; niezależnie czy ma to być prelekcja, warsztaty, lightning talk, czy cokolwiek Wam przyjdzie do głowy :) Szczególnie zachęcamy osoby, które obyły się już w&nbsp;korzystaniu z&nbsp;narzędzi, które rozdajemy na spotkaniach i&nbsp;czułyby się na siłach, żeby poprowadzić warsztaty dla innych JUGowiczów.</p>
+
+<p>Do zobaczenia na <a href="http://torun.jug.pl/news/2015/04/15/spotkanie-12/">najbliższym spotkaniu</a>!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #12 [2015-04-29]]]></title>
@@ -685,77 +704,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Recenzja książki: Java 8 Lambdas]]></title>
-    <link href="http://torun.jug.pl/news/2015/01/05/recenzja-ksiazki-java-8-lambdas/"/>
-    <updated>2015-01-05T12:52:21+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/01/05/recenzja-ksiazki-java-8-lambdas</id>
-    <content type="html"><![CDATA[<p>Witamy Was gorąco w&nbsp;Nowym Roku i&nbsp;życzymy samych słonecznych dni! Na dobry początek proponujemy zapoznać się z&nbsp;recenzją książki <em>Java 8 Lambdas</em>. Autorem książki jest Richard Warburton, autorem recenzji &ndash; <strong>Sebastian Łaskawiec</strong>. To druga recenzja na koncie Sebastiana i&nbsp;jednocześnie <a href="http://torun.jug.pl/news/categories/recenzje/">szósta</a> na koncie wszystkich naszych JUGowiczów.</p>
-
-<!--more-->
-
-
-<h3>Książka</h3>
-
-<p><img class="no-border book-cover" src="http://torun.jug.pl/images/reviews/books/java-8-lambdas.jpg" />
-<strong><em>Java 8 Lambdas: Functional Programming for the Masses</em></strong></p>
-
-<p>If you&rsquo;re a&nbsp;developer with core Java SE skills, this <a href="http://shop.oreilly.com/product/0636920030713.do" target="_blank">hands-on book</a> takes you through the language changes in Java 8 triggered by the addition of lambda expressions. You&rsquo;ll learn through code examples, exercises, and fluid explanations how these anonymous functions will help you write simple, clean, library-level code that solves business problems.</p>
-
-<p>Lambda expressions are a&nbsp;fairly simple change to Java, and the first part of the book shows you how to use them properly. Later chapters show you how lambda functions help you improve performance with parallelism, write simpler concurrent code, and model your domain more accurately, including building better DSLs.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Autor</h3>
-
-<p><strong>Richard Warburton</strong> is an empirical technologist and solver of deep-dive technical problems. He has professionally worked on static analysis problems, verifying part of a&nbsp; compiler and developing advanced automated bug detection technology. More recently his career has been focussed on data analytics for high performance computing. He is a&nbsp;leader in the London Java Community, sits on their JCP Committee and organises the Adopt-a-JSR programs for Lambdas and Date and Time in Java&nbsp;8. Richard is also a&nbsp;known conference speaker, having talked at JavaOne, DevoxxUK and JAX London. He obtained a&nbsp;PhD in Computer Science from The University of Warwick where his research focussed on compiler theory.</p>
-
-<h3>Recenzja</h3>
-
-<blockquote>
-  <p>
-    <strong>Content</strong>
-  </p>
-  <p>
-    The book describes practical approach to new features introduced in Java&nbsp;8. Most of the book is dedicated to Lambdas but the author also described other language and library add-ons.
-  </p>
-  <p>
-    The first two paragraphs contain introduction to Lambda expressions and explain why Java needs them. Third paragraph presents Stream&#8217;s key concepts. All operations (like map, filter or flatMap) are explained using very descriptive examples. Fourth paragraph goes into the details of other Java&nbsp;8 concepts like Optional, default/static methods in the interfaces and binary compatibility. After introducing those additional concepts the author goes into the details of collections and Collectors (starting from easy topics like element ordering and finishing on advanced like parallelism vs concurrency, debugging or refactoring). The last two paragraphs of the book describes architectural design patterns using Lambda expressions and shows some real life examples for topics like nonblocking I/O.
-  </p>
-  <p>
-    <strong>Writing style</strong>
-  </p>
-  <p>
-    <em>Java&nbsp;8 Lambdas</em> is written using very easy to learn style. All concepts are briefly described theoretically and explained in detail using examples. There is also a&nbsp;GitHub repository with exercises for presented topics. The author focuses on practical approach for Java&nbsp;8 features rather than theoretical aspects.
-  </p>
-  <p>
-    <strong>Conclusion and recommendation</strong>
-  </p>
-  <p>
-    <em>Java&nbsp;8 Lambdas</em> is a&nbsp;must-have book for those who start using new features introduced in Java&nbsp;8. The author clearly assumes basic understanding of previous Java features, so I wouldn&#8217;t recommend this book for beginners. On the other hand an experienced programmer will feel comfortable with key concepts of Lambdas after reading less then forty pages (!!).
-  </p>
-  <p>
-    I highly recommend reading this book in two parts. At first, read basic concepts and get familiar with them (paragraphs 1-4). Do some exercises or ever better - get involved into some project which uses Java&nbsp;8. Finally, finish reading the advanced topics of the book.
-  </p>
-  <p>Rating: 5/5</p>
-</blockquote>
-
-
-<h3>Recenzent</h3>
-
-<p><img class="no-border reviewer-face" src="http://torun.jug.pl/images/reviews/reviewers/laskawiec-sebastian.jpg" />
-<strong>Sebastian Łaskawiec</strong></p>
-
-<p>Senior Software Developer in Red Hat interested in JEE containers and Caching technologies who spends most of his free time on home brewing, ice skating or skiing.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Szukamy kolejnych odważnych</h3>
-
-<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a> oraz <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
 ]]></content>
   </entry>
   

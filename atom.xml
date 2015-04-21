@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-04-20T10:37:28+02:00</updated>
+  <updated>2015-04-21T20:13:20+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: PolyConf15]]></title>
+    <link href="http://torun.jug.pl/news/2015/04/21/zapowiedz-konferencji-polyconf15/"/>
+    <updated>2015-04-21T20:15:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/04/21/zapowiedz-konferencji-polyconf15</id>
+    <content type="html"><![CDATA[<p>Serdecznie zapraszamy do Poznania na konferencję <a href="http://polyconf.com" target="_blank">PolyConf15</a>, która odbędzie się w&nbsp;dniach od&nbsp;2 do&nbsp;4 lipca w&nbsp;samym centrum przy Alei Niepodległości 53 w&nbsp;nowoczesnym budynku Collegium Iuridicum UAM.</p>
+
+<p>PolyConf15 to 3-dniowa, jednowątkowa konferencja multidyscyplinarna w&nbsp;obszarze zaawansowanych technologii dla fanów poliglotycznego podejścia do programowania.</p>
+
+<p>To już 2&nbsp;edycja konferencji, która odbyła się w&nbsp;listopadzie zeszłego roku. Tutaj można zobaczyć krótkie <a href="https://www.youtube.com/watch?v=D4ilxziffl8" target="_blank">video</a> podsumowujące wydarzenie.<!--more--></p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://polyconf.com" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/polyconf15.png" alt="PolyConf15" />
+    </a>
+  </div>
+</div>
+
+
+<p>PolyConf15 koncentruje się na Clojure, Haskell, Erlang i&nbsp;Go, poruszając się w&nbsp;obszarze głównego nurtu technologicznego na równi z&nbsp;ezoterycznymi językami takie jak Prolog, Shen, Elm i&nbsp;LFE. Naszym celem jest połączenie i&nbsp;skonfrontowanie różnych technologii programowania oraz umożliwienie wymiany myśli i&nbsp;umiejętności pomiędzy członkami społeczności technicznych.</p>
+
+<p>Wśród prelegentów są: Robert Virding, Stefan Karpinski, Bodil Stokke, Jessica Kerr and Phil Nash. Konferencja jest płatna. W&nbsp;ramach biletu wstęp na warsztaty, imprezy towarzyszące oraz codzienne wieczorne party. Gorąco polecamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie ankiet 11. spotkania]]></title>
@@ -680,30 +706,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <p>Można się już również rejestrować na <a href="http://2015.tdd.geecon.org/workshops/" target="_blank">warsztaty</a>, które odbędą się dzień przed konferencją, 29 stycznia.</p>
 
 <p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://2015.tdd.geecon.org" target="_blank">2015.tdd.geecon.org</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z ósmego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/01/07/nagranie-z-osmego-spotkania/"/>
-    <updated>2015-01-07T16:55:55+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/01/07/nagranie-z-osmego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2546" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="http://torun.jug.pl/news/2014/12/04/spotkanie-8/">ósmego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=2546&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
 ]]></content>
   </entry>
   

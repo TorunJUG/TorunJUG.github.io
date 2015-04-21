@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-04-20T10:37:28+02:00</updated>
+  <updated>2015-04-21T20:16:31+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: PolyConf15]]></title>
+    <link href="http://torun.jug.pl/news/2015/04/21/zapowiedz-konferencji-polyconf15/"/>
+    <updated>2015-04-21T20:15:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/04/21/zapowiedz-konferencji-polyconf15</id>
+    <content type="html"><![CDATA[<p>Serdecznie zapraszamy do Poznania na konferencję <a href="http://polyconf.com" target="_blank">PolyConf15</a>, która odbędzie się w&nbsp;dniach od&nbsp;2 do&nbsp;4 lipca w&nbsp;samym centrum przy Alei Niepodległości 53 w&nbsp;nowoczesnym budynku Collegium Iuridicum UAM.</p>
+
+<p>PolyConf15 to 3-dniowa, jednowątkowa konferencja multidyscyplinarna w&nbsp;obszarze zaawansowanych technologii dla fanów poliglotycznego podejścia do programowania.</p>
+
+<p>To już 2&nbsp;edycja konferencji, która odbyła się w&nbsp;listopadzie zeszłego roku. Tutaj można zobaczyć krótkie <a href="https://www.youtube.com/watch?v=D4ilxziffl8" target="_blank">video</a> podsumowujące wydarzenie.<!--more--></p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://polyconf.com" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/polyconf15.png" alt="PolyConf15" />
+    </a>
+  </div>
+</div>
+
+
+<p>PolyConf15 koncentruje się na Clojure, Haskell, Erlang i&nbsp;Go, poruszając się w&nbsp;obszarze głównego nurtu technologicznego na równi z&nbsp;ezoterycznymi językami takie jak Prolog, Shen, Elm i&nbsp;LFE. Naszym celem jest połączenie i&nbsp;skonfrontowanie różnych technologii programowania oraz umożliwienie wymiany myśli i&nbsp;umiejętności pomiędzy członkami społeczności technicznych.</p>
+
+<p>Wśród prelegentów są: Robert Virding, Stefan Karpinski, Bodil Stokke, Jessica Kerr and Phil Nash. Konferencja jest płatna. W&nbsp;ramach biletu wstęp na warsztaty, imprezy towarzyszące oraz codzienne wieczorne party. Gorąco polecamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON 2015. Mamy dla Was 20% zniżki!]]></title>
@@ -23,7 +49,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.geecon.org" target="_blank">
-      <img class="no-border" src="/images/partners/geecon2015.jpg" alt="GeeCON 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/geecon2015.jpg" alt="GeeCON 2015" />
     </a>
   </div>
 </div>
@@ -51,7 +77,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.devcrowd.pl" target="_blank">
-      <img class="no-border" src="/images/partners/devcrowd15.png" alt="DevCrowd'15" />
+      <img class="no-border" src="{{ root_url }}/images/partners/devcrowd15.png" alt="DevCrowd'15" />
     </a>
   </div>
 </div>
@@ -93,7 +119,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://scalar-conf.com" target="_blank">
-      <img class="no-border" src="/images/partners/scalar-2015.png" alt="Scalar 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/scalar-2015.png" alt="Scalar 2015" />
     </a>
   </div>
 </div>
@@ -115,7 +141,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
-      <img class="no-border" src="/images/partners/jdd.png" alt="JDD Conference 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/jdd.png" alt="JDD Conference 2015" />
     </a>
   </div>
 </div>
@@ -126,30 +152,6 @@
 <p>Organizatorem konferencji jest krakowska firma <a href="http://www.proidea.org.pl" target="_blank">PROIDEA</a>, która specjalizuje się w&nbsp;kompleksowej organizacji eventów na arenie zarówno polskiej, jak i&nbsp;międzynarodowej.</p>
 
 <p>Jako partnerzy konferencji mamy dla Was <strong>15% zniżki</strong>! Żeby ją otrzymać, wystarczy zgłosić się po kod promocyjny do Piotra Prądzyńskiego.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: 4Developers. Mamy dla Was 15% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2015/01/12/zapowiedz-konferencji-4developers/"/>
-    <updated>2015-01-12T06:05:47+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/01/12/zapowiedz-konferencji-4developers</id>
-    <content type="html"><![CDATA[<p>Konferencja <a href="http://4developers.org.pl" target="_blank">4Developers</a> to interdyscyplinarna konferencja dla programistów. 4Developers składa się z&nbsp;15 ścieżek tematycznych prowadzonych w&nbsp;kameralnych grupach. Kierowana jest zarówno do wszystkich profesjonalistów, jak i&nbsp;amatorów z&nbsp;branży technologicznej, którzy wymieniając swoje doświadczenia i&nbsp;dzieląc się wiedzą, tworzą wyjątkowe miejsce do konstruktywnej dyskusji. Wydarzenie, z&nbsp;każdą kolejną edycją, zyskuje na prestiżu i&nbsp;rozwija się tak, aby jak najlepiej sprostać trendom i&nbsp;potrzebom środowiska informatycznego.<!--more--></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://4developers.org.pl" target="_blank">
-      <img class="no-border" src="/images/partners/4developers.png" alt="4Developers" />
-    </a>
-  </div>
-</div>
-
-
-<p>Poprzednia edycja konferencji osiągnęła duży sukces, gromadząc ponad 600 uczestników z&nbsp;kraju i&nbsp;zagranicy. Tegoroczna edycja odbędzie się 20 kwietnia w&nbsp;Hotelu Gromada w&nbsp;Warszawie i&nbsp;zaprezentuje jeszcze szerszy wachlarz poruszanych tematów. Nie zabraknie dyskusji o&nbsp;językach programowania, technologiach mobilnych, usability, tworzeniu architektury oprogramowania i&nbsp;produkcji gier. Ponadto będzie możliwość nabycia praktycznych umiejętności prezentacji i&nbsp;rozmowy z&nbsp;przedstawicielami biznesu oraz z&nbsp;zakresu zarządzania projektami IT. W zbliżającej się edycji 4Developers weźmie udział blisko 700 specjalistów, co czyni ją jedną z&nbsp;najliczniejszych i&nbsp;najbardziej merytorycznych konferencji z&nbsp;branży technologicznej.</p>
-
-<p>Konferencja organizowana jest corocznie, począwszy od 2009 roku, kiedy to odbyła się jej pierwsza edycja. 4Developers organizowany jest przez krakowską firmę <a href="http://www.proidea.org.pl" target="_blank">PROIDEA</a>, która specjalizuje się w kompleksowej organizacji polskich i&nbsp;międzynarodowych eventów z&nbsp;dziedziny IT oraz aktywnie działa na rzecz rozwoju tego rynku w&nbsp;Europie Środkowo-Wschodniej.</p>
-
-<p>Jako partnerzy konferencji mamy dla Was <strong>15% zniżki</strong>! Żeby ją otrzymać, wystarczy zgłosić się po kod promocyjny do Piotra Prądzyńskiego. Zachęcamy do uczestnictwa w&nbsp;kolejnej już edycji 4Developers. Zarejestrować można się na <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=D8D9237058A5072EFD4E48A8557B8149" target="_blank">stronie konferencji</a>. Niższa cena wejściówek obowiązuje do 9&nbsp;lutego.</p>
 ]]></content>
   </entry>
   

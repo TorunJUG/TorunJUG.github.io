@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-04-20T10:37:28+02:00</updated>
+  <updated>2015-04-21T20:16:31+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -18,7 +18,7 @@
     <link href="http://torun.jug.pl/news/2015/03/29/podsumowanie-jedenastego-spotkania/"/>
     <updated>2015-03-29T12:13:23+02:00</updated>
     <id>http://torun.jug.pl/news/2015/03/29/podsumowanie-jedenastego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;ubiegły piątek odbyło się <a href="/news/2015/03/13/spotkanie-11/">jedenaste</a>, urodzinowe spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za liczne przybycie. Padł absolutny rekord frekwencji :) Szczególne podziękowania należą się <strong>Jarkowi</strong>, który przyjechał do nas specjalnie z&nbsp;dalekiego Krakowa, aby pokazać co kryje się w&nbsp;czeluściach JVM. Mamy również nadzieję, że podobała Wam się sentymentalna podróż przez pierwszy rok działalności JUGa, którą poprowadził <strong>Szymon</strong>.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;ubiegły piątek odbyło się <a href="{{root_url}}/news/2015/03/13/spotkanie-11/">jedenaste</a>, urodzinowe spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za liczne przybycie. Padł absolutny rekord frekwencji :) Szczególne podziękowania należą się <strong>Jarkowi</strong>, który przyjechał do nas specjalnie z&nbsp;dalekiego Krakowa, aby pokazać co kryje się w&nbsp;czeluściach JVM. Mamy również nadzieję, że podobała Wam się sentymentalna podróż przez pierwszy rok działalności JUGa, którą poprowadził <strong>Szymon</strong>.</p>
 
 <p>Jeszcze raz gratulujemy <strong>Sebastianowi Łaskawcowi</strong>, który został <strong>Prelegentem Roku 2014</strong>!</p>
 
@@ -44,7 +44,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek i&nbsp;<a href="/hall-of-fame/">wieczną chwałę</a> :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek i&nbsp;<a href="{{root_url}}/hall-of-fame/">wieczną chwałę</a> :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -55,7 +55,7 @@
     <link href="http://torun.jug.pl/news/2015/02/26/podsumowanie-dziesiatego-spotkania/"/>
     <updated>2015-02-26T19:30:23+01:00</updated>
     <id>http://torun.jug.pl/news/2015/02/26/podsumowanie-dziesiatego-spotkania</id>
-    <content type="html"><![CDATA[<p>Wczoraj odbyło się <a href="/news/2015/02/15/spotkanie-10/">dziesiąte</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za bardzo liczne przybycie. Jeśli nie padł rekord frekwencji, to na pewno było to podium :) Szczególne podziękowania należą się prelegentom &ndash; Mirkowi, za pokazanie jak pisać testy, które są Spock-o i&nbsp;bardziej Groovy oraz Wojtkowi, za podzielenie się swoimi doświadczeniami w&nbsp;rozwoju kariery programisty Java. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>Wczoraj odbyło się <a href="{{root_url}}/news/2015/02/15/spotkanie-10/">dziesiąte</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za bardzo liczne przybycie. Jeśli nie padł rekord frekwencji, to na pewno było to podium :) Szczególne podziękowania należą się prelegentom &ndash; Mirkowi, za pokazanie jak pisać testy, które są Spock-o i&nbsp;bardziej Groovy oraz Wojtkowi, za podzielenie się swoimi doświadczeniami w&nbsp;rozwoju kariery programisty Java. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva. W&nbsp;tym miejscu szczególne podziękowania należą się również firmie <a href="https://www.spartez.com" target="_blank">Spartez</a> za sponsorowanie spotkania. Dziękujemy!</p>
 
@@ -67,7 +67,7 @@
 
 <ul>
   <li>
-    <a href="/materials/meetings/10/Wykorzystanie_jezyka_Groovy_w_testach_jednostkowych_integracyjnych_i_automatycznych_by_Miroslaw_Golda.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/10/Wykorzystanie_jezyka_Groovy_w_testach_jednostkowych_integracyjnych_i_automatycznych_by_Miroslaw_Golda.pdf" target="_blank">
       <em>Wykorzystanie języka Groovy w&nbsp;testach jednostkowych, integracyjnych i&nbsp;automatycznych</em></a> (slajdy z&nbsp;prezentacji Mirosława Gołdy)
   </li>
   <li>
@@ -75,7 +75,7 @@
       <em>Kod źródłowy prezentowany przez Mirka</em></a>
   </li>
   <li>
-    <a href="/materials/meetings/10/5-10-15-_lat_kariery_Java_developera_by_Wojciech_Seliga.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/10/5-10-15-_lat_kariery_Java_developera_by_Wojciech_Seliga.pdf" target="_blank">
       <em>5-10-15-... lat kariery Java developera</em></a> (slajdy z&nbsp;prezentacji Wojciecha Seligi)
   </li>
 </ul>
@@ -83,7 +83,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -94,7 +94,7 @@
     <link href="http://torun.jug.pl/news/2015/02/02/podsumowanie-dziewiatego-spotkania/"/>
     <updated>2015-02-02T17:53:25+01:00</updated>
     <id>http://torun.jug.pl/news/2015/02/02/podsumowanie-dziewiatego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/news/2015/01/14/spotkanie-9/">dziewiąte</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Sebastianowi, za przedstawienie czym jest Infinispan oraz Krzysztofowi, za podzielenie się swoimi doświadczeniami w&nbsp;radzeniu sobie z&nbsp;zastanym kodem. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/news/2015/01/14/spotkanie-9/">dziewiąte</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Sebastianowi, za przedstawienie czym jest Infinispan oraz Krzysztofowi, za podzielenie się swoimi doświadczeniami w&nbsp;radzeniu sobie z&nbsp;zastanym kodem. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
 
@@ -114,7 +114,7 @@
       <em>Obrazy Dockera użyte na prezentacji Sebastiana</em></a>
   </li>
   <li>
-    <a href="/materials/meetings/9/Jak_sobie_radzic_z_zastanym_kodem_by_Krzysztof_Muchewicz.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/9/Jak_sobie_radzic_z_zastanym_kodem_by_Krzysztof_Muchewicz.pdf" target="_blank">
       <em>Jak sobie radzić z zastanym kodem</em></a> (slajdy z&nbsp;prezentacji Krzysztofa Muchewicza)
   </li>
 </ul>
@@ -122,7 +122,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -133,7 +133,7 @@
     <link href="http://torun.jug.pl/news/2014/12/18/podsumowanie-osmego-spotkania/"/>
     <updated>2014-12-18T19:35:45+01:00</updated>
     <id>http://torun.jug.pl/news/2014/12/18/podsumowanie-osmego-spotkania</id>
-    <content type="html"><![CDATA[<p>Wczoraj odbyło się <a href="/news/2014/12/04/spotkanie-8/">ósme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Zbyszkowi, za przedstawienie czym jest CQRS oraz Pawłowi, za podzielenie się swoim 9-letnim doświadczeniem w&nbsp;pracy zdalnej. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>Wczoraj odbyło się <a href="{{root_url}}/news/2014/12/04/spotkanie-8/">ósme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Zbyszkowi, za przedstawienie czym jest CQRS oraz Pawłowi, za podzielenie się swoim 9-letnim doświadczeniem w&nbsp;pracy zdalnej. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;<del>Krajinie Piva</del> Tratwie.</p>
 
@@ -145,7 +145,7 @@
 
 <ul>
   <li>
-    <a href="/materials/meetings/8/Pytaj_albo_Rob_czyli_maly_wstep_do_CQRS_by_Zbyszko_Papierski.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/8/Pytaj_albo_Rob_czyli_maly_wstep_do_CQRS_by_Zbyszko_Papierski.pdf" target="_blank">
       <em>Pytaj albo Rób, czyli mały wstęp do CQRS</em></a> (slajdy z&nbsp;prezentacji Zbyszka Papierskiego)
   </li>
   <li>
@@ -157,7 +157,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -168,7 +168,7 @@
     <link href="http://torun.jug.pl/news/2014/11/28/podsumowanie-siodmego-spotkania/"/>
     <updated>2014-11-28T05:23:19+01:00</updated>
     <id>http://torun.jug.pl/news/2014/11/28/podsumowanie-siodmego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/news/2014/11/13/spotkanie-7/">siódme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Michałowi, za wprowadzenie nas do świata AWS oraz Sławkowi, za prezentacje o&nbsp;tym jak rozpocząć przygodę z&nbsp;AngularJS. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/news/2014/11/13/spotkanie-7/">siódme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Michałowi, za wprowadzenie nas do świata AWS oraz Sławkowi, za prezentacje o&nbsp;tym jak rozpocząć przygodę z&nbsp;AngularJS. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
 
@@ -184,7 +184,7 @@
       <em>Dobre praktyki projektowania systemów dla chmury AWS</em></a> (slajdy z&nbsp;prezentacji Michała Balińskiego)
   </li>
   <li>
-    <a href="/materials/meetings/7/Wstep_do_AngularJS_dla_programisty_Java_by_Slawek_Piotrowski.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/7/Wstep_do_AngularJS_dla_programisty_Java_by_Slawek_Piotrowski.pdf" target="_blank">
       <em>Wstęp do AngularJS dla programisty Java</em></a> (slajdy z&nbsp;prezentacji Sławka Piotrowskiego)
   </li>
   <li>
@@ -196,7 +196,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>

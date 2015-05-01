@@ -215,13 +215,19 @@
     {
         "name" : "Krzysztof Muchewicz",
         "img" : "muchewicz-krzysztof.jpg",
-        "lastMeeting": 9,
+        "lastMeeting": 12,
         "talks" : [
             {
                 "meetingNumber" : 9,
                 "title" : "Jak sobie radzić z zastanym kodem",
                 "youtube" : "https://www.youtube.com/watch?v=fbmuw1Rn15c",
                 "slides" : "http://torun.jug.pl/materials/meetings/9/Jak_sobie_radzic_z_zastanym_kodem_by_Krzysztof_Muchewicz.pdf"
+            },
+            {
+                "meetingNumber" : 12,
+                "title" : "Implementacja Agregatów (DDD) w Akka",
+                "youtube" : "",
+                "slides" : ""
             }
         ]
     },
@@ -261,6 +267,45 @@
                 "title" : "Czterej jeźdźcy apokalipsy, gdy Armagedon w JVM nadchodzi",
                 "youtube" : "https://www.youtube.com/watch?v=Mq9LT-gwQYU",
                 "slides" : "http://www.slideshare.net/kcrimson/czterej-jedcy-apokalipsy-gdy-armagedon-w-jvm-nadchodzi"
+            }
+        ]
+    },
+    {
+        "name" : "Wojtek Erbetowski",
+        "img" : "erbetowski-wojciech.png",
+        "lastMeeting": 12,
+        "talks" : [
+            {
+                "meetingNumber" : 12,
+                "title" : "Designing API for mobile apps",
+                "youtube" : "",
+                "slides" : "https://github.com/wojtekerbetowski/2015-04-29-torun-jug"
+            }
+        ]
+    },
+    {
+        "name" : "Adam Chyła",
+        "img" : "chyla-adam.jpg",
+        "lastMeeting": 12,
+        "talks" : [
+            {
+                "meetingNumber" : 12,
+                "title" : "Fork/Join Framework",
+                "youtube" : "",
+                "slides" : "http://torun.jug.pl/materials/meetings/12/Fork_Join_Framework_by_Adam_Chyla.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Marek Nowicki",
+        "img" : "nowicki-marek.jpg",
+        "lastMeeting": 12,
+        "talks" : [
+            {
+                "meetingNumber" : 12,
+                "title" : "Biblioteka PCJ do naukowych obliczeń równoległych",
+                "youtube" : "",
+                "slides" : "http://torun.jug.pl/materials/meetings/12/Biblioteka_PCJ_do_naukowych_obliczen_rownoleglych_by_Marek_Nowicki.pdf"
             }
         ]
     }

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-04-21T20:13:20+02:00</updated>
+  <updated>2015-05-01T13:36:29+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie dwunastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/05/01/podsumowanie-dwunastego-spotkania/"/>
+    <updated>2015-05-01T13:55:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/05/01/podsumowanie-dwunastego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2015/04/15/spotkanie-12/">dwunaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Wojtkowi, za podzielenie się swoimi doświadczeniami w&nbsp;tworzeniu API zoptymalizowanego pod urządzenia mobilne oraz Adamowi, Markowi i&nbsp;Krzysztofowi, za przetestowanie formuły lightning talków i&nbsp;wprowadzenie w zagadnienia współbieżności. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Cybermachina.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1ZmeLxqPCsRXZzxE3GfpZIi7FSc4fVSiuR91AtZtCb8I/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1640371532853000.1073741843.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26087115/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="https://github.com/wojtekerbetowski/2015-04-29-torun-jug" target="_blank">
+      <em>Designing API for mobile apps</em></a> (slajdy z&nbsp;prezentacji Wojtka Erbetowskiego)
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/12/Fork_Join_Framework_by_Adam_Chyla.pdf" target="_blank">
+      <em>Fork/Join Framework</em></a> (slajdy z&nbsp;prezentacji Adama Chyły)
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/12/Fork_Join_Framework_examples.zip" target="_blank">
+      Przykładowy kod źródłowy z prezentacji Adama</a>
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/12/Biblioteka_PCJ_do_naukowych_obliczen_rownoległych_by_Marek_Nowicki.pdf" target="_blank">
+      <em>Biblioteka PCJ do naukowych obliczeń równoległych</em></a> (slajdy z&nbsp;prezentacji Marka Nowickiego)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: PolyConf15]]></title>
@@ -670,42 +713,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <p>Konferencja organizowana jest corocznie, począwszy od 2009 roku, kiedy to odbyła się jej pierwsza edycja. 4Developers organizowany jest przez krakowską firmę <a href="http://www.proidea.org.pl" target="_blank">PROIDEA</a>, która specjalizuje się w kompleksowej organizacji polskich i&nbsp;międzynarodowych eventów z&nbsp;dziedziny IT oraz aktywnie działa na rzecz rozwoju tego rynku w&nbsp;Europie Środkowo-Wschodniej.</p>
 
 <p>Jako partnerzy konferencji mamy dla Was <strong>15% zniżki</strong>! Żeby ją otrzymać, wystarczy zgłosić się po kod promocyjny do Piotra Prądzyńskiego. Zachęcamy do uczestnictwa w&nbsp;kolejnej już edycji 4Developers. Zarejestrować można się na <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=D8D9237058A5072EFD4E48A8557B8149" target="_blank">stronie konferencji</a>. Niższa cena wejściówek obowiązuje do 9&nbsp;lutego.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON TDD]]></title>
-    <link href="http://torun.jug.pl/news/2015/01/09/zapowiedz-konferencji-geecon-tdd/"/>
-    <updated>2015-01-09T06:05:47+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/01/09/zapowiedz-konferencji-geecon-tdd</id>
-    <content type="html"><![CDATA[<p>GeeCON wraca do Poznania! Tym razem w&nbsp;zupełnie nowej odsłonie – <a href="http://2015.tdd.geecon.org" target="_blank">GeeCON TDD</a>.</p>
-
-<p>Oto co mówią organizatorzy na temat tego wydarzenia:</p>
-
-<blockquote>
-<p>30 stycznia zapraszamy wszystkich zainteresowanych tematyką testów, a&nbsp;w&nbsp;szczególności Test Driven Development! Oprócz tego będziemy dyskutować o&nbsp;jakości w&nbsp;procesie wytwarzania oprogramowania, testowalności, dobrych technikach programistycznych.</p>
-<p>Nie ograniczamy się do Javy, nie ograniczamy się do technologii JVM, chcemy przyjrzeć się tematowi z&nbsp;możliwie szerokiej perspektywy niezależnie od języka programowania, platformy i&nbsp;architektury.</p>
-</blockquote>
-
-
-
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2015.tdd.geecon.org" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/geecon-tdd-2015.png" alt="GeeCON TDD" />
-    </a>
-  </div>
-</div>
-
-
-<p>Dostępna jest już <a href="http://2015.tdd.geecon.org/#schedule" target="_blank">wstępna agenda konferencji</a>.</p>
-
-<p>Rejestracja ruszyła kilka dni temu i&nbsp;znajdziecie ją pod adresem: <a href="http://2015.tdd.geecon.org/register/" target="_blank">2015.tdd.geecon.org/register</a>. Nie zwlekajcie! Liczba miejsc jest ograniczona!</p>
-
-<p>Można się już również rejestrować na <a href="http://2015.tdd.geecon.org/workshops/" target="_blank">warsztaty</a>, które odbędą się dzień przed konferencją, 29 stycznia.</p>
-
-<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://2015.tdd.geecon.org" target="_blank">2015.tdd.geecon.org</a></p>
 ]]></content>
   </entry>
   

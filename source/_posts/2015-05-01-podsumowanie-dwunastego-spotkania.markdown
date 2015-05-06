@@ -32,6 +32,10 @@ Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
     <a href="{{root_url}}/materials/meetings/12/Biblioteka_PCJ_do_naukowych_obliczen_rownoleglych_by_Marek_Nowicki.pdf" target="_blank">
       <em>Biblioteka PCJ do naukowych obliczeń równoległych</em></a> (slajdy z&nbsp;prezentacji Marka Nowickiego)
   </li>
+  <li>
+    <a href="{{root_url}}/materials/meetings/12/Implementacja_Agregatow_w_Akka_by_Krzysztof_Muchewicz.pdf" target="_blank">
+      <em>Implementacja Agregatów (DDD) w Akka</em></a> (slajdy z&nbsp;prezentacji Krzysztofa Muchewicza)
+  </li>
 </ul>
 
 Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.

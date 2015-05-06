@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-05-01T13:58:54+02:00</updated>
+  <updated>2015-05-06T19:41:35+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -44,6 +44,10 @@
   <li>
     <a href="http://torun.jug.pl/materials/meetings/12/Biblioteka_PCJ_do_naukowych_obliczen_rownoleglych_by_Marek_Nowicki.pdf" target="_blank">
       <em>Biblioteka PCJ do naukowych obliczeń równoległych</em></a> (slajdy z&nbsp;prezentacji Marka Nowickiego)
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/12/Implementacja_Agregatow_w_Akka_by_Krzysztof_Muchewicz.pdf" target="_blank">
+      <em>Implementacja Agregatów (DDD) w Akka</em></a> (slajdy z&nbsp;prezentacji Krzysztofa Muchewicza)
   </li>
 </ul>
 

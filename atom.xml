@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-05-06T19:41:35+02:00</updated>
+  <updated>2015-05-08T18:27:39+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z dwunastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/05/08/nagranie-z-dwunastego-spotkania/"/>
+    <updated>2015-05-08T18:45:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/05/08/nagranie-z-dwunastego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2673" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2015/04/15/spotkanie-12/">dwunastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2673&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie dwunastego spotkania]]></title>
@@ -693,30 +717,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <p>Organizatorem konferencji jest krakowska firma <a href="http://www.proidea.org.pl" target="_blank">PROIDEA</a>, która specjalizuje się w&nbsp;kompleksowej organizacji eventów na arenie zarówno polskiej, jak i&nbsp;międzynarodowej.</p>
 
 <p>Jako partnerzy konferencji mamy dla Was <strong>15% zniżki</strong>! Żeby ją otrzymać, wystarczy zgłosić się po kod promocyjny do Piotra Prądzyńskiego.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: 4Developers. Mamy dla Was 15% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2015/01/12/zapowiedz-konferencji-4developers/"/>
-    <updated>2015-01-12T06:05:47+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/01/12/zapowiedz-konferencji-4developers</id>
-    <content type="html"><![CDATA[<p>Konferencja <a href="http://4developers.org.pl" target="_blank">4Developers</a> to interdyscyplinarna konferencja dla programistów. 4Developers składa się z&nbsp;15 ścieżek tematycznych prowadzonych w&nbsp;kameralnych grupach. Kierowana jest zarówno do wszystkich profesjonalistów, jak i&nbsp;amatorów z&nbsp;branży technologicznej, którzy wymieniając swoje doświadczenia i&nbsp;dzieląc się wiedzą, tworzą wyjątkowe miejsce do konstruktywnej dyskusji. Wydarzenie, z&nbsp;każdą kolejną edycją, zyskuje na prestiżu i&nbsp;rozwija się tak, aby jak najlepiej sprostać trendom i&nbsp;potrzebom środowiska informatycznego.<!--more--></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://4developers.org.pl" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/4developers.png" alt="4Developers" />
-    </a>
-  </div>
-</div>
-
-
-<p>Poprzednia edycja konferencji osiągnęła duży sukces, gromadząc ponad 600 uczestników z&nbsp;kraju i&nbsp;zagranicy. Tegoroczna edycja odbędzie się 20 kwietnia w&nbsp;Hotelu Gromada w&nbsp;Warszawie i&nbsp;zaprezentuje jeszcze szerszy wachlarz poruszanych tematów. Nie zabraknie dyskusji o&nbsp;językach programowania, technologiach mobilnych, usability, tworzeniu architektury oprogramowania i&nbsp;produkcji gier. Ponadto będzie możliwość nabycia praktycznych umiejętności prezentacji i&nbsp;rozmowy z&nbsp;przedstawicielami biznesu oraz z&nbsp;zakresu zarządzania projektami IT. W zbliżającej się edycji 4Developers weźmie udział blisko 700 specjalistów, co czyni ją jedną z&nbsp;najliczniejszych i&nbsp;najbardziej merytorycznych konferencji z&nbsp;branży technologicznej.</p>
-
-<p>Konferencja organizowana jest corocznie, począwszy od 2009 roku, kiedy to odbyła się jej pierwsza edycja. 4Developers organizowany jest przez krakowską firmę <a href="http://www.proidea.org.pl" target="_blank">PROIDEA</a>, która specjalizuje się w kompleksowej organizacji polskich i&nbsp;międzynarodowych eventów z&nbsp;dziedziny IT oraz aktywnie działa na rzecz rozwoju tego rynku w&nbsp;Europie Środkowo-Wschodniej.</p>
-
-<p>Jako partnerzy konferencji mamy dla Was <strong>15% zniżki</strong>! Żeby ją otrzymać, wystarczy zgłosić się po kod promocyjny do Piotra Prądzyńskiego. Zachęcamy do uczestnictwa w&nbsp;kolejnej już edycji 4Developers. Zarejestrować można się na <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=D8D9237058A5072EFD4E48A8557B8149" target="_blank">stronie konferencji</a>. Niższa cena wejściówek obowiązuje do 9&nbsp;lutego.</p>
 ]]></content>
   </entry>
   

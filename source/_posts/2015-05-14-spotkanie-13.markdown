@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Spotkanie #13 [2015-05-27]"
+description: "Toruń JUG - Spotkanie #13 [2015-05-27]"
+date: 2015-05-14 06:15:00 +0200
+comments: true
+categories: Spotkania
+---
+Trzynaste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się **w&nbsp;środę, 27 maja 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/222511915/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1593100447642402/" target="_blank">Facebook</a>.
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).
+
+**Uwaga!** Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta **dla wszystkich od godziny 17:30**. Serdecznie zapraszamy! <!-- more -->
+
+### Wprowadzenie do RxJava
+Chciałbym przedstawić istnienie możliwości pisania reaktywnych aplikacji na JVM. Wspomnę o&nbsp;pewnym podobieństwie pomiędzy Iterator oraz Iterable a&nbsp;Observer i&nbsp;Observable, rozważając jak różne transformacje oraz kompozycja pozwalają nam wnioskować o&nbsp;tego typu kodzie.
+
+Prezentacja oparta będzie o&nbsp;framework RxJava.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" />
+#### Mikołaj Fejzer
+Doktorant, zawodowo programista Java. Do moich zainteresowań należą uczenie maszynowe, tworzenie kodu o&nbsp;względnie dobrej jakości oraz programowanie funkcyjne.
+
+<span class="clearfix"></span>
+### Don't Panic - Hitchhiker's guide to the JVM monitoring
+Zdarzają się chwile, w&nbsp;których nawet najlepiej napisany system czy aplikacja odmawiają posłuszeństwa. Jak radzić sobie w&nbsp;kryzysowych sytuacjach? W&nbsp;jakie narzędzia się uzbroić? W&nbsp;prezentacji przedstawię przegląd narzędzi służących do monitorowania różnych aspektów działania wirtualnej maszyny Java wraz z&nbsp;praktycznymi przykładami ich wykorzystania.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/oczkowski-wojciech.jpg" />
+#### Wojciech Oczkowski
+Prowadzący własną działalność specjalista do spraw trudnych, zawodowo rozwiązuje problemy związane z&nbsp;projektowaniem architektury systemów, wydajnością i&nbsp;jakością kodu. Znajduje obsesyjną wręcz przyjemność w&nbsp;wynajdowaniu sensu w&nbsp;cudzym kodzie. Prywatnie rozwiązuje problemy związane z&nbsp;wychowaniem 2&nbsp;dzieciaków i&nbsp;znajdowaniem czasu na żeglowanie i&nbsp;czytanie literatury fantastycznej.

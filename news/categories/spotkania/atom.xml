@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-05-10T12:13:54+02:00</updated>
+  <updated>2015-05-14T06:15:44+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #13 [2015-05-27]]]></title>
+    <link href="http://torun.jug.pl/news/2015/05/14/spotkanie-13/"/>
+    <updated>2015-05-14T06:15:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/05/14/spotkanie-13</id>
+    <content type="html"><![CDATA[<p>Trzynaste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 27 maja 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/222511915/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1593100447642402/" target="_blank">Facebook</a>.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
+
+<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
+
+<h3>Wprowadzenie do RxJava</h3>
+
+<p>Chciałbym przedstawić istnienie możliwości pisania reaktywnych aplikacji na JVM. Wspomnę o&nbsp;pewnym podobieństwie pomiędzy Iterator oraz Iterable a&nbsp;Observer i&nbsp;Observable, rozważając jak różne transformacje oraz kompozycja pozwalają nam wnioskować o&nbsp;tego typu kodzie.</p>
+
+<p>Prezentacja oparta będzie o&nbsp;framework RxJava.</p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" /></p>
+
+<h4>Mikołaj Fejzer</h4>
+
+<p>Doktorant, zawodowo programista Java. Do moich zainteresowań należą uczenie maszynowe, tworzenie kodu o&nbsp;względnie dobrej jakości oraz programowanie funkcyjne.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Don&rsquo;t Panic &ndash; Hitchhiker&rsquo;s guide to the JVM monitoring</h3>
+
+<p>Zdarzają się chwile, w&nbsp;których nawet najlepiej napisany system czy aplikacja odmawiają posłuszeństwa. Jak radzić sobie w&nbsp;kryzysowych sytuacjach? W&nbsp;jakie narzędzia się uzbroić? W&nbsp;prezentacji przedstawię przegląd narzędzi służących do monitorowania różnych aspektów działania wirtualnej maszyny Java wraz z&nbsp;praktycznymi przykładami ich wykorzystania.</p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/oczkowski-wojciech.jpg" /></p>
+
+<h4>Wojciech Oczkowski</h4>
+
+<p>Prowadzący własną działalność specjalista do spraw trudnych, zawodowo rozwiązuje problemy związane z&nbsp;projektowaniem architektury systemów, wydajnością i&nbsp;jakością kodu. Znajduje obsesyjną wręcz przyjemność w&nbsp;wynajdowaniu sensu w&nbsp;cudzym kodzie. Prywatnie rozwiązuje problemy związane z&nbsp;wychowaniem 2&nbsp;dzieciaków i&nbsp;znajdowaniem czasu na żeglowanie i&nbsp;czytanie literatury fantastycznej.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #12 [2015-04-29]]]></title>
@@ -205,49 +246,6 @@
 <p>Od wielu lat Wojciech zajmuje się różnymi aspektami software developmentu: propagowaniem metodologii agile, prowadzeniem projektów i&nbsp;zespołów software'owych, zatrudnianiem najlepszych specjalistów z&nbsp;branży, rozwojem biznesowym, mentoringiem i&nbsp;szkoleniami dla developerów, a&nbsp;nocą nadal kodowaniem. Obecnie z&nbsp;blisko 70-tką fantastycznych ludzi w&nbsp;Spartez pracuje nad narzędziami z&nbsp;ekosystemu Atlassiana, takimi jak JIRA, Bamboo, Crucible, FishEye, Agile Cards, TFS4JIRA czy najnowszy produkt firmy &ndash; Ephor.</p>
 
 <p>Wojciech prezentuje (nieraz w&nbsp;dosyć kontrowersyjny sposób) dosyć często na różnych konferencjach w&nbsp;kraju, jak i&nbsp;za granicą (np. Devoxx, 33rd Degree, GeeCON, Confitura, InfoSHARE, Agile, Atlassian Summit czy XPDays).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #9 [2015-01-28]]]></title>
-    <link href="http://torun.jug.pl/news/2015/01/14/spotkanie-9/"/>
-    <updated>2015-01-14T05:45:14+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/01/14/spotkanie-9</id>
-    <content type="html"><![CDATA[<p>Dziewiąte spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 28 stycznia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/219822291/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1576490685899588/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<h3>Infinispan &ndash; Data Grid do zadań specjalnych</h3>
-
-<p>Projektowanie dzisiejszych aplikacji to nie lada wyzwanie. Jedną z&nbsp;pierwszych rzeczy, o&nbsp;jakie musimy zadbać, to skalowalność. Podczas prezentacji weźmiemy pod lupę styk aplikacji oraz bazy danych i&nbsp;zobaczymy, jak Infinispan może nam w&nbsp;tym pomóc.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
-
-<h4>Sebastian Łaskawiec</h4>
-
-<p>Programista pracujący w&nbsp;Red Hat, na co dzień zajmujący się projektem JBoss Data Grid. Amator projektów OpenSource, czystego kodu i&nbsp;dobrych unit testów. Prywatnie, zapalony narciarz i&nbsp;domowy piwowar.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Jak sobie radzić z&nbsp;zastanym kodem</h3>
-
-<p>W&nbsp;pracy programisty być może więcej czasu poświęcamy na zmianę istniejącego kodu niż na tworzenie nowego. Jesteśmy szczęśliwcami, jeśli musimy zmieniać jedynie swój własny kod. Często jednak zmieniamy słaby kod napisany przez ludzi których już nie ma w&nbsp;naszej organizacji.</p>
-
-<p>W&nbsp;prezentacji chciałbym opowiedzieć o&nbsp;swoich doświadczeniach w&nbsp;pracy z&nbsp;zastanym kodem. Zrobię to od poziomu refaktoringu pojedynczych fragmentów kodu, poprzez zmiany całych komponentów i&nbsp;aplikacji, aż do transformacji złożonych systemów.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/muchewicz-krzysztof.jpg" /></p>
-
-<h4>Krzysztof Muchewicz</h4>
-
-<p>Jestem &ldquo;Architektem Rozwiązań&rdquo; w&nbsp;grupie Allegro. Moim głównym zadaniem jest transformacja PHP-owej platformy Allegro do cywilizowanej postaci. W&nbsp;ciągu dziesięciu lat kariery informatycznej (po)pełniłem każdą możliwą rolę w&nbsp;IT od programisty, poprzez lidera, menadżera, po architekta.</p>
-
-<p>Miałem okazję tworzyć rozwiązania w&nbsp;C++, .NET, Java. Programowałem i&nbsp;projektowałem aplikacje desktopowe, bazodanowe, webowe. Obecnie najbardziej jara mnie Domain Driven Design i&nbsp;architektura Lambda. Prywatnie kręcą mnie buddyzm i&nbsp;podróże.</p>
 ]]></content>
   </entry>
   

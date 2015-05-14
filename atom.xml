@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-05-10T12:07:45+02:00</updated>
+  <updated>2015-05-14T06:09:34+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #13 [2015-05-27]]]></title>
+    <link href="http://torun.jug.pl/news/2015/05/14/spotkanie-13/"/>
+    <updated>2015-05-14T06:15:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/05/14/spotkanie-13</id>
+    <content type="html"><![CDATA[<p>Trzynaste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 27 maja 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/222511915/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1593100447642402/" target="_blank">Facebook</a>.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
+
+<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
+
+<h3>Wprowadzenie do RxJava</h3>
+
+<p>Chciałbym przedstawić istnienie możliwości pisania reaktywnych aplikacji na JVM. Wspomnę o&nbsp;pewnym podobieństwie pomiędzy Iterator oraz Iterable a&nbsp;Observer i&nbsp;Observable, rozważając jak różne transformacje oraz kompozycja pozwalają nam wnioskować o&nbsp;tego typu kodzie.</p>
+
+<p>Prezentacja oparta będzie o&nbsp;framework RxJava.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/fejzer-mikolaj.jpg" /></p>
+
+<h4>Mikołaj Fejzer</h4>
+
+<p>Doktorant, zawodowo programista Java. Do moich zainteresowań należą uczenie maszynowe, tworzenie kodu o&nbsp;względnie dobrej jakości oraz programowanie funkcyjne.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Don&rsquo;t Panic &ndash; Hitchhiker&rsquo;s guide to the JVM monitoring</h3>
+
+<p>Zdarzają się chwile, w&nbsp;których nawet najlepiej napisany system czy aplikacja odmawiają posłuszeństwa. Jak radzić sobie w&nbsp;kryzysowych sytuacjach? W&nbsp;jakie narzędzia się uzbroić? W&nbsp;prezentacji przedstawię przegląd narzędzi służących do monitorowania różnych aspektów działania wirtualnej maszyny Java wraz z&nbsp;praktycznymi przykładami ich wykorzystania.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/oczkowski-wojciech.jpg" /></p>
+
+<h4>Wojciech Oczkowski</h4>
+
+<p>Prowadzący własną działalność specjalista do spraw trudnych, zawodowo rozwiązuje problemy związane z&nbsp;projektowaniem architektury systemów, wydajnością i&nbsp;jakością kodu. Znajduje obsesyjną wręcz przyjemność w&nbsp;wynajdowaniu sensu w&nbsp;cudzym kodzie. Prywatnie rozwiązuje problemy związane z&nbsp;wychowaniem 2&nbsp;dzieciaków i&nbsp;znajdowaniem czasu na żeglowanie i&nbsp;czytanie literatury fantastycznej.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z dwunastego spotkania]]></title>
@@ -693,30 +734,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <p>Jestem &ldquo;Architektem Rozwiązań&rdquo; w&nbsp;grupie Allegro. Moim głównym zadaniem jest transformacja PHP-owej platformy Allegro do cywilizowanej postaci. W&nbsp;ciągu dziesięciu lat kariery informatycznej (po)pełniłem każdą możliwą rolę w&nbsp;IT od programisty, poprzez lidera, menadżera, po architekta.</p>
 
 <p>Miałem okazję tworzyć rozwiązania w&nbsp;C++, .NET, Java. Programowałem i&nbsp;projektowałem aplikacje desktopowe, bazodanowe, webowe. Obecnie najbardziej jara mnie Domain Driven Design i&nbsp;architektura Lambda. Prywatnie kręcą mnie buddyzm i&nbsp;podróże.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: JDD. Mamy dla Was 15% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2015/01/13/zapowiedz-konferencji-jdd/"/>
-    <updated>2015-01-13T05:35:35+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/01/13/zapowiedz-konferencji-jdd</id>
-    <content type="html"><![CDATA[<p><a href="http://jdd.org.pl" target="_blank">JDD</a> jest dwudniową konferencją adresowaną do wszystkich miłośników Java, zarówno w&nbsp;życiu prywatnym, jak i&nbsp;zawodowym. Wydarzenie jest doskonałą okazją do wzięcia udziału w&nbsp;merytorycznych wykładach, rozwijających warsztatach oraz interaktywnych szkoleniach. Nowatorski charakter JDD oraz wykłady w&nbsp;języku angielskim skutecznie przyciągają coraz większą liczbę uczestników z&nbsp;całego świata.<!--more--></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/jdd.png" alt="JDD Conference 2015" />
-    </a>
-  </div>
-</div>
-
-
-<p>Konferencja JDD cieszy się ogromną popularnością i&nbsp;z&nbsp;roku na rok zyskuje nowych sympatyków. Tegoroczna edycja odbędzie się 12-13 października 2015 roku w&nbsp;Krakowie. Wszyscy zainteresowani mogą już dzisiaj zarejestrować się na <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=6DA370F515629554D9F2E744725CFB1E" target="_blank">stronie konferencji</a>. W&nbsp;tym roku organizator przewiduje jeszcze więcej wyjątkowych atrakcji, połączonych z&nbsp;merytorycznymi dyskusjami w&nbsp;przyjaznej atmosferze.</p>
-
-<p>Organizatorem konferencji jest krakowska firma <a href="http://www.proidea.org.pl" target="_blank">PROIDEA</a>, która specjalizuje się w&nbsp;kompleksowej organizacji eventów na arenie zarówno polskiej, jak i&nbsp;międzynarodowej.</p>
-
-<p>Jako partnerzy konferencji mamy dla Was <strong>15% zniżki</strong>! Żeby ją otrzymać, wystarczy zgłosić się po kod promocyjny do Piotra Prądzyńskiego.</p>
 ]]></content>
   </entry>
   

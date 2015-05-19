@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-05-14T06:09:34+02:00</updated>
+  <updated>2015-05-19T06:49:30+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie ankiet 12. spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/05/19/podsumowanie-ankiet-12-spotkania/"/>
+    <updated>2015-05-19T07:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/05/19/podsumowanie-ankiet-12-spotkania</id>
+    <content type="html"><![CDATA[<p>Po ostatnim spotkaniu ankiety wypełniło 11 osób. Bardzo dziękujemy wszystkim, za chęć podzielenia się z&nbsp;nami swoją opinią.</p>
+
+<p>Spotkanie zostało ocenione na 8,2/10. Próba z&nbsp;lightning talks została oceniona pozytywnie, jednak czuliście pewien niedosyt i&nbsp;chęć dogłębniejszego poznania prezentowanych tematów. Oczywiście wszystkie uwagi przekażemy prelegentom.</p>
+
+<p>Większość osób wypełniających ankiety, to osoby pracujące w zawodzie. Część z&nbsp;nich również studiuje.</p>
+
+<p>Przeważali starzy wyjadacze(uczestnicy 5+ spotkań), którzy jako źródło wiedzy o&nbsp;spotkaniu zaznaczyli pocztę pantoflową i&nbsp;portal Meetup.</p>
+
+<p>Ponownie wszystkie osoby zadeklarowały uczestnictwo w&nbsp;następnym spotkaniu :)</p>
+
+<p>Jeszcze raz dziękujemy wszystkim i&nbsp;przypominamy, że dzięki Waszym sugestiom możemy stać się tylko lepsi. Pamiętajcie, że każdy głos się liczy! ;)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #13 [2015-05-27]]]></title>
@@ -691,49 +710,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <p>Prelegentami będą zarówno zagraniczni goście, autorytety ze świata Scali, zaproszeni przez SoftwareMill jak również osoby wyłonione przez kapitułę konferencji na podstawie <a href="https://docs.google.com/a/softwaremill.pl/forms/d/1LtbOxICVsLtwt0WPkr_k9o5YO3HgrztVv4cGsThI_M0/viewform" target="_blank">call for papers</a>. Zgłoszenia od prelegentów przyjmowane są do 8-go lutego.</p>
 
 <p>W&nbsp;ubiegłym roku 300 bezpłatnych wejściówek rozeszło się w&nbsp;2&nbsp;dni (!!!). Dlatego sugerujemy zapisanie się na newsletter konferencji i&nbsp;śledzenie twittera <a href="https://twitter.com/scalarconf" target="_blank">@scalarconf</a>, żeby nie przegapić tegorocznej rejestracji na Scalara. Więcej na <a href="http://scalar-conf.com" target="_blank">scalar-conf.com</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #9 [2015-01-28]]]></title>
-    <link href="http://torun.jug.pl/news/2015/01/14/spotkanie-9/"/>
-    <updated>2015-01-14T05:45:14+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/01/14/spotkanie-9</id>
-    <content type="html"><![CDATA[<p>Dziewiąte spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 28 stycznia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/219822291/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1576490685899588/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do Krajiny Piva :)</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<h3>Infinispan &ndash; Data Grid do zadań specjalnych</h3>
-
-<p>Projektowanie dzisiejszych aplikacji to nie lada wyzwanie. Jedną z&nbsp;pierwszych rzeczy, o&nbsp;jakie musimy zadbać, to skalowalność. Podczas prezentacji weźmiemy pod lupę styk aplikacji oraz bazy danych i&nbsp;zobaczymy, jak Infinispan może nam w&nbsp;tym pomóc.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/laskawiec-sebastian.jpg" /></p>
-
-<h4>Sebastian Łaskawiec</h4>
-
-<p>Programista pracujący w&nbsp;Red Hat, na co dzień zajmujący się projektem JBoss Data Grid. Amator projektów OpenSource, czystego kodu i&nbsp;dobrych unit testów. Prywatnie, zapalony narciarz i&nbsp;domowy piwowar.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Jak sobie radzić z&nbsp;zastanym kodem</h3>
-
-<p>W&nbsp;pracy programisty być może więcej czasu poświęcamy na zmianę istniejącego kodu niż na tworzenie nowego. Jesteśmy szczęśliwcami, jeśli musimy zmieniać jedynie swój własny kod. Często jednak zmieniamy słaby kod napisany przez ludzi których już nie ma w&nbsp;naszej organizacji.</p>
-
-<p>W&nbsp;prezentacji chciałbym opowiedzieć o&nbsp;swoich doświadczeniach w&nbsp;pracy z&nbsp;zastanym kodem. Zrobię to od poziomu refaktoringu pojedynczych fragmentów kodu, poprzez zmiany całych komponentów i&nbsp;aplikacji, aż do transformacji złożonych systemów.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/muchewicz-krzysztof.jpg" /></p>
-
-<h4>Krzysztof Muchewicz</h4>
-
-<p>Jestem &ldquo;Architektem Rozwiązań&rdquo; w&nbsp;grupie Allegro. Moim głównym zadaniem jest transformacja PHP-owej platformy Allegro do cywilizowanej postaci. W&nbsp;ciągu dziesięciu lat kariery informatycznej (po)pełniłem każdą możliwą rolę w&nbsp;IT od programisty, poprzez lidera, menadżera, po architekta.</p>
-
-<p>Miałem okazję tworzyć rozwiązania w&nbsp;C++, .NET, Java. Programowałem i&nbsp;projektowałem aplikacje desktopowe, bazodanowe, webowe. Obecnie najbardziej jara mnie Domain Driven Design i&nbsp;architektura Lambda. Prywatnie kręcą mnie buddyzm i&nbsp;podróże.</p>
 ]]></content>
   </entry>
   

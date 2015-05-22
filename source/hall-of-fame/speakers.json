@@ -226,7 +226,7 @@
             {
                 "meetingNumber" : 12,
                 "title" : "Implementacja Agregatów (DDD) w Akka",
-                "youtube" : "",
+                "youtube" : "https://www.youtube.com/watch?v=Q-S98sVk3Q4",
                 "slides" : "http://torun.jug.pl/materials/meetings/12/Implementacja_Agregatow_w_Akka_by_Krzysztof_Muchewicz.pdf"
             }
         ]
@@ -278,7 +278,7 @@
             {
                 "meetingNumber" : 12,
                 "title" : "Designing API for mobile apps",
-                "youtube" : "",
+                "youtube" : "https://www.youtube.com/watch?v=XeG0yH59TCA",
                 "slides" : "https://github.com/wojtekerbetowski/2015-04-29-torun-jug"
             }
         ]
@@ -291,7 +291,7 @@
             {
                 "meetingNumber" : 12,
                 "title" : "Fork/Join Framework",
-                "youtube" : "",
+                "youtube" : "https://www.youtube.com/watch?v=RaDFePrKtks",
                 "slides" : "http://torun.jug.pl/materials/meetings/12/Fork_Join_Framework_by_Adam_Chyla.pdf"
             }
         ]
@@ -304,7 +304,7 @@
             {
                 "meetingNumber" : 12,
                 "title" : "Biblioteka PCJ do naukowych obliczeń równoległych",
-                "youtube" : "",
+                "youtube" : "https://www.youtube.com/watch?v=w-7U1vA8UMk",
                 "slides" : "http://torun.jug.pl/materials/meetings/12/Biblioteka_PCJ_do_naukowych_obliczen_rownoleglych_by_Marek_Nowicki.pdf"
             }
         ]

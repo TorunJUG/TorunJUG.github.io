@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-05-29T19:58:01+02:00</updated>
+  <updated>2015-06-05T08:10:53+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hackathorn #2: Community/Integration Edition]]></title>
+    <link href="http://torun.jug.pl/news/2015/06/05/hackathorn-2-community-integration-edition/"/>
+    <updated>2015-06-05T08:30:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/06/05/hackathorn-2-community-integration-edition</id>
+    <content type="html"><![CDATA[<p>Toruński JUG razem z&nbsp;<a href="http://smartspace.io" target="_blank">Exea Smart Space</a> zapraszają wszystkich JUGowiczów na kolejny hackathon toruńskiej grupy użytkowników Javy!</p>
+
+<p>Tym razem bierzemy na warsztat temat wszelkiego rodzaju społeczności. Czy jesteś członkiem JUGa, czy Stowarzyszenia Wędkarzy Polskich, chcemy stworzyć narzędzia wspomagające &ndash; np. aplikacje łączące n&nbsp;narzędzi do zarządzania social feedami, członkami społeczności, konkursami, spotkaniami, wyjazdami&hellip; &ndash; czyli właściwie cokolwiek Wam przyjdzie do głowy związanego z&nbsp;tematyką!</p>
+
+<p>Sprawy organizacyjne &ndash; zaczynamy <strong>w&nbsp;sobotę 20 czerwca o&nbsp;godzinie 13, kończymy w&nbsp;niedzielę 21 czerwca o&nbsp;godzinie 13</strong>. Zespoły mogą być maksymalnie czteroosobowe. Po zakończeniu kodowania będziemy mieli okazję zaprezentować wszystkie aplikacje oraz wybrać drogą głosowania najlepszą z&nbsp;nich. <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Grupa Allegro</a> zapewni nam jedzenie i&nbsp;picie podczas całego wydarzenia. Firma <a href="http://www.gft.com" target="_blank">GFT</a> zasponsoruje koszulki dla wszystkich uczestników.</p>
+
+<p>Hackathon odbędzie się w&nbsp;budynku Exea Smart Space przy <a href="https://www.google.pl/maps/place/Włocławska+167,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ulicy Włocławskiej 167 w&nbsp;Toruniu</a>. Rejestracja odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/222983568/" target="_blank">Meetup</a>. Ilość miejsc ograniczona. Jeśli jednak dojdziemy do limitu, pomyślimy nad dodatkowymi przestrzeniami do kodowania.</p>
+
+<p><a href="http://www.meetup.com/Torun-JUG/events/222983568/" target="_blank">Zarejestruj się</a> już teraz!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie trzynastego spotkania]]></title>
@@ -682,45 +699,6 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 <p><strong>WAŻNE:</strong> Wszystkim, którzy zapiszą się do 26 lutego włącznie gwarantujemy koszulki w wybranych rozmiarach!</p>
 
 <p>Regulamin, harmonogram oraz pozostałe informacje znajdziecie na stronie <a href="http://braincode.mobi" target="_blank">braincode.mobi</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie dziewiątego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/02/02/podsumowanie-dziewiatego-spotkania/"/>
-    <updated>2015-02-02T17:53:25+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/02/02/podsumowanie-dziewiatego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2015/01/14/spotkanie-9/">dziewiąte</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Sebastianowi, za przedstawienie czym jest Infinispan oraz Krzysztofowi, za podzielenie się swoimi doświadczeniami w&nbsp;radzeniu sobie z&nbsp;zastanym kodem. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
-
-<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;Krajinie Piva.</p>
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1gPQf3nrtj7SpEaLfm-wMSnoWHqEYf4nV5zaiW4VgHQA/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1604091103147710.1073741840.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/25880328/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="https://prezi.com/jvh2ktfvbqcu/infinispan/" target="_blank">
-      <em>Infinispan – Data Grid do zadań specjalnych</em></a> (slajdy z&nbsp;prezentacji Sebastiana Łaskawca)
-  </li>
-  <li>
-    <a href="https://github.com/slaskawi/docker-infinispan-clustered" target="_blank">
-      <em>Obrazy Dockera użyte na prezentacji Sebastiana</em></a>
-  </li>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/9/Jak_sobie_radzic_z_zastanym_kodem_by_Krzysztof_Muchewicz.pdf" target="_blank">
-      <em>Jak sobie radzić z zastanym kodem</em></a> (slajdy z&nbsp;prezentacji Krzysztofa Muchewicza)
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
   </entry>
   

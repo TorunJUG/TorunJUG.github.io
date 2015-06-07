@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Ankiety | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/ankiety/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-06-05T08:10:53+02:00</updated>
+  <updated>2015-06-07T07:36:40+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie ankiet 13. spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/06/07/podsumowanie-ankiet-13-spotkania/"/>
+    <updated>2015-06-07T07:45:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/06/07/podsumowanie-ankiet-13-spotkania</id>
+    <content type="html"><![CDATA[<p>Dziękujemy wszystkim 14 osobom, które wypełniły ankiety po ostatnim spotkaniu.</p>
+
+<p>Spotkanie zostało ocenione na 8,07/10.</p>
+
+<p>Ciepło przyjęliście temat RxJavy, ale oczekiwaliście trochę szerszego spojrzenia na temat.</p>
+
+<p>Natomiast z&nbsp;wielkim entuzjazmem została przyjęta prezentacja Wojtka Oczkowskiego, który w&nbsp;ciekawy i&nbsp;przystępny sposób przekazał wiele merytorycznych i&nbsp;praktycznych aspektów monitoringu wirtualnej maszyny Java.</p>
+
+<p>Wysoko oceniliście także przygotowanie spotkania. Dziękujemy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie ankiet 12. spotkania]]></title>
@@ -45,9 +62,9 @@
 
 <p>Najważniejsze pytania jednak dla nas to przede wszystkim te, w&nbsp;których podrzuciliście nam propozycje zmian i&nbsp;prelekcji. Bardzo za wszystkie dziękujemy! Na podstawie Waszych sugestii rozpoczęliśmy już działania, o&nbsp;których będziemy opowiadać na najbliższych spotkaniach.</p>
 
-<p>W&nbsp;dalszym ciągu podtrzymujemy gorącą prośbę o&nbsp;wypełnianie ankiet &ndash; nie ma nic ważniejszego w rozwoju niż feedback. Przypominamy też o&nbsp;zgłaszaniu się na <a href="/speakers/">prelegentów</a> &ndash; niezależnie czy ma to być prelekcja, warsztaty, lightning talk, czy cokolwiek Wam przyjdzie do głowy :) Szczególnie zachęcamy osoby, które obyły się już w&nbsp;korzystaniu z&nbsp;narzędzi, które rozdajemy na spotkaniach i&nbsp;czułyby się na siłach, żeby poprowadzić warsztaty dla innych JUGowiczów.</p>
+<p>W&nbsp;dalszym ciągu podtrzymujemy gorącą prośbę o&nbsp;wypełnianie ankiet &ndash; nie ma nic ważniejszego w rozwoju niż feedback. Przypominamy też o&nbsp;zgłaszaniu się na <a href="{{root_url}}/speakers/">prelegentów</a> &ndash; niezależnie czy ma to być prelekcja, warsztaty, lightning talk, czy cokolwiek Wam przyjdzie do głowy :) Szczególnie zachęcamy osoby, które obyły się już w&nbsp;korzystaniu z&nbsp;narzędzi, które rozdajemy na spotkaniach i&nbsp;czułyby się na siłach, żeby poprowadzić warsztaty dla innych JUGowiczów.</p>
 
-<p>Do zobaczenia na <a href="/news/2015/04/15/spotkanie-12/">najbliższym spotkaniu</a>!</p>
+<p>Do zobaczenia na <a href="{{root_url}}/news/2015/04/15/spotkanie-12/">najbliższym spotkaniu</a>!</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-06-05T08:10:53+02:00</updated>
+  <updated>2015-06-07T07:33:20+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie ankiet 13. spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/06/07/podsumowanie-ankiet-13-spotkania/"/>
+    <updated>2015-06-07T07:45:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/06/07/podsumowanie-ankiet-13-spotkania</id>
+    <content type="html"><![CDATA[<p>Dziękujemy wszystkim 14 osobom, które wypełniły ankiety po ostatnim spotkaniu.</p>
+
+<p>Spotkanie zostało ocenione na 8,07/10.</p>
+
+<p>Ciepło przyjęliście temat RxJavy, ale oczekiwaliście trochę szerszego spojrzenia na temat.</p>
+
+<p>Natomiast z&nbsp;wielkim entuzjazmem została przyjęta prezentacja Wojtka Oczkowskiego, który w&nbsp;ciekawy i&nbsp;przystępny sposób przekazał wiele merytorycznych i&nbsp;praktycznych aspektów monitoringu wirtualnej maszyny Java.</p>
+
+<p>Wysoko oceniliście także przygotowanie spotkania. Dziękujemy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hackathorn #2: Community/Integration Edition]]></title>
@@ -649,56 +666,6 @@
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[BrainCode Mobi #2 już 13 marca!]]></title>
-    <link href="http://torun.jug.pl/news/2015/02/13/braincode-mobi-2-juz-13-marca/"/>
-    <updated>2015-02-13T18:24:25+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/02/13/braincode-mobi-2-juz-13-marca</id>
-    <content type="html"><![CDATA[<p>W <strong>piątek 13 marca 2015r.</strong> wystartuje <strong>druga edycja hackathonu BrainCode Mobi</strong> przygotowana przez Grupę Allegro przy współpracy z najlepszymi uczelniami w Polsce. Ta edycja będzie wyjątkowa, ponieważ odbywać się będzie jednocześnie w czterech miastach: Krakowie, Poznaniu, <strong>Toruniu</strong>, oraz Warszawie.</p>
-
-<p>Już za miesiąc sprawdzimy czy w 24 godziny maksymalnie czteroosobowe zespoły są w stanie zbudować ciekawą i innowacyjną aplikację mobilną.</p>
-
-<p>Spotykamy się w piątek, 13 marca o godzinie 16:00. Po rejestracji uczestników i krótkim wprowadzeniu rozpoczniemy kodowanie, które zakończy się w sobotę o godzinie 17:00. Jury rozpocznie wówczas ocenę projektów. Imprezę zakończymy podsumowaniem oraz nagrodzeniem najlepszych pomysłów. W Toruniu hackaton odbędzie się <strong>na Wydziale Matematyki i Informatyki UMK, ul. Chopina 12/18</strong>. <!-- more --></p>
-
-<p>Zespoły zmierzą się w dwóch kategoriach:</p>
-
-<ul>
-<li><strong>Open</strong> &ndash; najlepsza aplikacja mobilna: stwórz dowolną aplikację korzystając z SDK dostępnego na daną platformę mobilną,</li>
-<li><strong>Allegro</strong> &ndash; najlepsze wykorzystanie API Allegro.pl: korzystając z dostępnego API serwisu Allegro.pl stwórz aplikację na dowolną platformę mobilną.
-Uczestnicy będą pracować w maksymalnie 4-osobowych zespołach, które uformują się na miejscu wydarzenia po prezentacji pomysłów uczestników.</li>
-</ul>
-
-
-<p>Uczestnicy będą pracować w maksymalnie 4-osobowych zespołach, które uformują się na miejscu wydarzenia po prezentacji pomysłów uczestników.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://braincode.mobi" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/braincode.png" alt="BrainCode Mobi" />
-    </a>
-  </div>
-</div>
-
-
-<p>Na drugą edycję <strong>BrainCode Mobi</strong> zapraszamy wszystkich zainteresowanych tworzeniem aplikacji mobilnych: zarówno studentów rozpoczynających swoją przygodę z technologiami mobilnymi, jak i osoby, które na co dzień, zawodowo czy hobbystycznie, zajmują się podobnymi zagadnieniami: developerów, testerów i projektantów UX.</p>
-
-<h3>Wiedza i zabawa</h3>
-
-<p>Poza samym konkursem w piątek równolegle planujemy otwarte warsztaty. Będzie można zapoznać się z zaawansowanymi zagadnieniami dotyczącymi tworzenia aplikacji dla wybranych platform mobilnych oraz poznać inne ciekawe technologie.</p>
-
-<p>Na miejscu będzie można spotkać specjalistów od technologii mobilnych i backendowych z Grupy Allegro, koderów na wszystkie platformy mobilne, speców z branży, koleżanki i kolegów po fachu. Dla uczestników przewidzieliśmy w trakcie trwania imprezy gry oraz krótkie konkursy.
-Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają atrakcyjne nagrody.</p>
-
-<h3>Chętni? Zarejestrujcie się już dziś!</h3>
-
-<p>Udział w wydarzeniu jest <strong>darmowy</strong>, a zapisy potrwają do 6 marca lub do wyczerpania limitu miejsc przypadających na lokalizację.</p>
-
-<p><strong>WAŻNE:</strong> Wszystkim, którzy zapiszą się do 26 lutego włącznie gwarantujemy koszulki w wybranych rozmiarach!</p>
-
-<p>Regulamin, harmonogram oraz pozostałe informacje znajdziecie na stronie <a href="http://braincode.mobi" target="_blank">braincode.mobi</a>.</p>
 ]]></content>
   </entry>
   

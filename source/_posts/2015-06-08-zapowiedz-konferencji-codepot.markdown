@@ -3,11 +3,11 @@ layout: post
 title: "Zapowiedź konferencji: Codepot"
 description: "Pierwsza edycja konferencji Codepot odbędzie się w dniach 28-29 sierpnia 2015 w Warszawie."
 cover: "/images/partners/codepot.png"
-date: 2015-06-08 14:00:00 +0200
+date: 2015-06-08 14:30:00 +0200
 comments: true
 categories: [Partnerzy, Konferencje]
 ---
-### Czym jest Codepot?
+<h3 style="margin-top:0px;">Czym jest Codepot?</h3>
 **Codepot** jest konferencją o&nbsp;formule warsztatowej, przeznaczoną dla programistów JVM, designerów, androidowców, iosowców, webowców, agilersów, devopsów i&nbsp;innych programistów lub osób związanych ze światem IT. Warsztaty są prowadzone przez ekspertów, którzy chcą podzielić się swoją wiedzą i&nbsp;doświadczeniami. Konferencja jest dwudniowym wydarzeniem **w dniach 28-29 sierpnia**.
 
 ### Skąd pomysł?

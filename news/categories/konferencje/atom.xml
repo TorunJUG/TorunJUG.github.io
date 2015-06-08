@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-06-08T14:15:57+02:00</updated>
+  <updated>2015-06-08T14:43:18+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -16,9 +16,10 @@
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: Codepot]]></title>
     <link href="http://torun.jug.pl/news/2015/06/08/zapowiedz-konferencji-codepot/"/>
-    <updated>2015-06-08T14:00:00+02:00</updated>
+    <updated>2015-06-08T14:30:00+02:00</updated>
     <id>http://torun.jug.pl/news/2015/06/08/zapowiedz-konferencji-codepot</id>
-    <content type="html"><![CDATA[<h3>Czym jest Codepot?</h3>
+    <content type="html"><![CDATA[<h3 style="margin-top:0px;">Czym jest Codepot?</h3>
+
 
 <p><strong>Codepot</strong> jest konferencją o&nbsp;formule warsztatowej, przeznaczoną dla programistów JVM, designerów, androidowców, iosowców, webowców, agilersów, devopsów i&nbsp;innych programistów lub osób związanych ze światem IT. Warsztaty są prowadzone przez ekspertów, którzy chcą podzielić się swoją wiedzą i&nbsp;doświadczeniami. Konferencja jest dwudniowym wydarzeniem <strong>w dniach 28-29 sierpnia</strong>.</p>
 
@@ -29,7 +30,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://codepot.pl" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/codepot.png" alt="Codepot" />
+      <img class="no-border" src="/images/partners/codepot.png" alt="Codepot" />
     </a>
   </div>
 </div>
@@ -67,7 +68,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://polyconf.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/polyconf15.png" alt="PolyConf15" />
+      <img class="no-border" src="/images/partners/polyconf15.png" alt="PolyConf15" />
     </a>
   </div>
 </div>
@@ -89,7 +90,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.geecon.org" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/geecon2015.jpg" alt="GeeCON 2015" />
+      <img class="no-border" src="/images/partners/geecon2015.jpg" alt="GeeCON 2015" />
     </a>
   </div>
 </div>
@@ -117,7 +118,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.devcrowd.pl" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/devcrowd15.png" alt="DevCrowd'15" />
+      <img class="no-border" src="/images/partners/devcrowd15.png" alt="DevCrowd'15" />
     </a>
   </div>
 </div>
@@ -159,7 +160,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://scalar-conf.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/scalar-2015.png" alt="Scalar 2015" />
+      <img class="no-border" src="/images/partners/scalar-2015.png" alt="Scalar 2015" />
     </a>
   </div>
 </div>

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-06-08T14:10:03+02:00</updated>
+  <updated>2015-06-08T14:43:18+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -16,9 +16,10 @@
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: Codepot]]></title>
     <link href="http://torun.jug.pl/news/2015/06/08/zapowiedz-konferencji-codepot/"/>
-    <updated>2015-06-08T14:00:00+02:00</updated>
+    <updated>2015-06-08T14:30:00+02:00</updated>
     <id>http://torun.jug.pl/news/2015/06/08/zapowiedz-konferencji-codepot</id>
-    <content type="html"><![CDATA[<h3>Czym jest Codepot?</h3>
+    <content type="html"><![CDATA[<h3 style="margin-top:0px;">Czym jest Codepot?</h3>
+
 
 <p><strong>Codepot</strong> jest konferencją o&nbsp;formule warsztatowej, przeznaczoną dla programistów JVM, designerów, androidowców, iosowców, webowców, agilersów, devopsów i&nbsp;innych programistów lub osób związanych ze światem IT. Warsztaty są prowadzone przez ekspertów, którzy chcą podzielić się swoją wiedzą i&nbsp;doświadczeniami. Konferencja jest dwudniowym wydarzeniem <strong>w dniach 28-29 sierpnia</strong>.</p>
 

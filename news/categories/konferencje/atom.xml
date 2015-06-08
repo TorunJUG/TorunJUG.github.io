@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-06-07T07:36:40+02:00</updated>
+  <updated>2015-06-08T14:15:57+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: Codepot]]></title>
+    <link href="http://torun.jug.pl/news/2015/06/08/zapowiedz-konferencji-codepot/"/>
+    <updated>2015-06-08T14:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/06/08/zapowiedz-konferencji-codepot</id>
+    <content type="html"><![CDATA[<h3>Czym jest Codepot?</h3>
+
+<p><strong>Codepot</strong> jest konferencją o&nbsp;formule warsztatowej, przeznaczoną dla programistów JVM, designerów, androidowców, iosowców, webowców, agilersów, devopsów i&nbsp;innych programistów lub osób związanych ze światem IT. Warsztaty są prowadzone przez ekspertów, którzy chcą podzielić się swoją wiedzą i&nbsp;doświadczeniami. Konferencja jest dwudniowym wydarzeniem <strong>w dniach 28-29 sierpnia</strong>.</p>
+
+<h3>Skąd pomysł?</h3>
+
+<p>Uczestniczyliśmy w&nbsp;wielu konferencjach, zarówno jako organizatorzy, ale też wolontariusze i&nbsp;uczestnicy. Formułą każdej z&nbsp;nich był kilkudziesięciominutowy wykład. Brakowało nam spożytkowania tej wiedzy w&nbsp;praktyce. Stąd pomysł by zrobić konferencje, w&nbsp;którym głównym celem będzie uczenie przez działanie. Doceniamy przekazywanie wiedzy poprzez prowadzenie wykładów. Chcemy być ciekawym uzupełnieniem konferencji, które preferują wykładową formę przekazywania wiedzy. <!--more--></p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://codepot.pl" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/codepot.png" alt="Codepot" />
+    </a>
+  </div>
+</div>
+
+
+<h3>Kto organizuje?</h3>
+
+<p>Jesteśmy tak jak większość uczestników programistami, liderami zespołów, devopsami. Jednym słowem pracujemy nad wytwarzaniem oprogramowania. Organizacja konferencji to dla nas rozrywka oraz duże wyzwanie. Ale konferencja to nie tylko nasza kilku osobowa grupka osób. Konferencja to przede wszystkim uczestnicy, partnerzy, sponsorzy, którzy tworzą wspaniałą atmosferę wymiany wiedzy.</p>
+
+<h3>Co będzie się działo?</h3>
+
+<p>Planujemy przygotować 72 warsztaty, w&nbsp;12 równoległych ścieżkach. Wszystkich naszych prelegentów można znaleźć na stronie <a href="https://codepot.pl" target="_blank">codepot.pl</a>. Jest już tam silna reprezentacja osób ze świata JVM oraz ze świata mobilnego. Znajdziemy tam też osoby z&nbsp;innych branż. Komponujemy ścieżkę webową, agilową, pythonową, znajdzie się też coś dla zwolenników Rubiego oraz devopsów. Obecnie trwa <a href="https://codepot.pl/call-for-papers" target="_blank">Call 4 Papers</a>, na którym na pewno znajdzie się wiele ciekawych tematów i&nbsp;propozycji.</p>
+
+<h3>Cena?</h3>
+
+<p>Nasze doświadczenie pokazało, że wydarzenie takiego typu musi być płatne. Poprzez zapłacenie symbolicznej kwoty, chcemy zmotywować uczestników do stawienia się na wybranych przez siebie warsztatach. Kwota, jaką będzie trzeba zapłacić za wstęp, będzie oscylowała w&nbsp;granicach kilkogodzinnego wynagrodzenia programisty. Jako dodatkową formę atrakcji planujemy zdradzić nasz budżet, czyli podzielić się informacjami ile i&nbsp;na co wydaliśmy.</p>
+
+<h3>Dlaczego warto tam być?</h3>
+
+<p>Chcemy sprawić aby Codepot był świętem dla programistów. Wierzymy, że ta inicjatywa przerodzi się w&nbsp;tętniące życiem miejsce do wymiany doświadczeń. Naszym celem, oprócz doskonalenia się w&nbsp;znanych technologiach, jest również aktywne poznawanie nowych zagadnień w&nbsp;stylu learn-by-doing. Nasza impreza zgromadzi ponad 70 specjalistów, którzy chcą podzielić się swoją wiedzą. Codepot to nie tylko warsztaty oraz nauka. To także szansa do zupełnego oderwania się od rzeczywistości przy warsztatach miękkich. Nieoderwalnym i&nbsp;jednym z&nbsp;ważniejszych elementem tej konferencji będzie także networking wśród nowo poznanych znajomych, do którego klimat konferencji będzie zachęcał.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: PolyConf15]]></title>
@@ -128,30 +168,6 @@
 <p>Prelegentami będą zarówno zagraniczni goście, autorytety ze świata Scali, zaproszeni przez SoftwareMill jak również osoby wyłonione przez kapitułę konferencji na podstawie <a href="https://docs.google.com/a/softwaremill.pl/forms/d/1LtbOxICVsLtwt0WPkr_k9o5YO3HgrztVv4cGsThI_M0/viewform" target="_blank">call for papers</a>. Zgłoszenia od prelegentów przyjmowane są do 8-go lutego.</p>
 
 <p>W&nbsp;ubiegłym roku 300 bezpłatnych wejściówek rozeszło się w&nbsp;2&nbsp;dni (!!!). Dlatego sugerujemy zapisanie się na newsletter konferencji i&nbsp;śledzenie twittera <a href="https://twitter.com/scalarconf" target="_blank">@scalarconf</a>, żeby nie przegapić tegorocznej rejestracji na Scalara. Więcej na <a href="http://scalar-conf.com" target="_blank">scalar-conf.com</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: JDD. Mamy dla Was 15% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2015/01/13/zapowiedz-konferencji-jdd/"/>
-    <updated>2015-01-13T05:35:35+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/01/13/zapowiedz-konferencji-jdd</id>
-    <content type="html"><![CDATA[<p><a href="http://jdd.org.pl" target="_blank">JDD</a> jest dwudniową konferencją adresowaną do wszystkich miłośników Java, zarówno w&nbsp;życiu prywatnym, jak i&nbsp;zawodowym. Wydarzenie jest doskonałą okazją do wzięcia udziału w&nbsp;merytorycznych wykładach, rozwijających warsztatach oraz interaktywnych szkoleniach. Nowatorski charakter JDD oraz wykłady w&nbsp;języku angielskim skutecznie przyciągają coraz większą liczbę uczestników z&nbsp;całego świata.<!--more--></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/jdd.png" alt="JDD Conference 2015" />
-    </a>
-  </div>
-</div>
-
-
-<p>Konferencja JDD cieszy się ogromną popularnością i&nbsp;z&nbsp;roku na rok zyskuje nowych sympatyków. Tegoroczna edycja odbędzie się 12-13 października 2015 roku w&nbsp;Krakowie. Wszyscy zainteresowani mogą już dzisiaj zarejestrować się na <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=6DA370F515629554D9F2E744725CFB1E" target="_blank">stronie konferencji</a>. W&nbsp;tym roku organizator przewiduje jeszcze więcej wyjątkowych atrakcji, połączonych z&nbsp;merytorycznymi dyskusjami w&nbsp;przyjaznej atmosferze.</p>
-
-<p>Organizatorem konferencji jest krakowska firma <a href="http://www.proidea.org.pl" target="_blank">PROIDEA</a>, która specjalizuje się w&nbsp;kompleksowej organizacji eventów na arenie zarówno polskiej, jak i&nbsp;międzynarodowej.</p>
-
-<p>Jako partnerzy konferencji mamy dla Was <strong>15% zniżki</strong>! Żeby ją otrzymać, wystarczy zgłosić się po kod promocyjny do Piotra Prądzyńskiego.</p>
 ]]></content>
   </entry>
   

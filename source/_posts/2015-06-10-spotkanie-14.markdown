@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Spotkanie #14 [2015-06-24]"
+description: "Toruń JUG - Spotkanie #14 [2015-06-24]"
+date: 2015-06-10 06:00:00 +0200
+comments: true
+categories: Spotkania
+---
+Czternaste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się **w&nbsp;środę, 24 czerwca 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/223133594/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/590517497756107/" target="_blank">Facebook</a>.
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).
+
+**Uwaga!** Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta **dla wszystkich od godziny 17:30**. Serdecznie zapraszamy! <!-- more -->
+
+### Java microservices made easy with Ratel
+Architektura mikrousług zdobywa ostatnio coraz większą popularność, więc powstają standardy, dobre praktyki i&nbsp;popularne biblioteki do realizacji systemów tego typu. Jednym z&nbsp;trendów jest zapewnianie narzędzi integracji niezależnych od języka, czy technologii. To podejście ma pewne zalety, ale jeśli integrujemy ze sobą tylko systemy napisane w&nbsp;Javie, to w&nbsp;sumie co nam daje niezależność od języka, prócz dodatkowego narzutu?
+
+Ratel to biblioteka, która pozwala wygodnie pisać rozproszone aplikacje z&nbsp;użyciem mikroserwisów, tak łatwo i&nbsp;szybko jakby chodziło o&nbsp;system lokalny, co między innymi oznacza, że mamy doskonałe wsparcie wielu istniejących od dawna narzędzi. Używając Ratela, korzystamy z&nbsp;wszystkich dobrodziejstw architektury SOA, bez ponoszenia kosztów wspomnianego wcześniej narzutu.
+
+Serdecznie zapraszam na prezentację i&nbsp;do dyskusji.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/pulawski-lukasz.jpg" />
+#### Łukasz Puławski
+Architekt z&nbsp;doświadczeniem w&nbsp;refaktoryzacji dużych systemów. W&nbsp;mojej pracy, przed przystąpieniem do czyszczenia software-u, często staram się tworzyć proste biblioteki i&nbsp;rozwiązania szyte na miarę, które rozwiązują konkretne problemy i&nbsp;pozwalają szybko zmieniać architekturę systemów. Na tym spotkaniu mam nadzieje opowiedzieć Wam o&nbsp;takim właśnie przypadku.
+
+<span class="clearfix"></span>
+### Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści
+Rekrutacje wyglądają różnie, ale finalnie po ładnych paniach od HR-u i&nbsp;tak spotkasz się z&nbsp;programistami. Ich nie interesuje jakim byłbyś zwierzęciem, czy odpowiedź na pytanie "Jaka jest Twoja największa wada?", gdzie na pewno w&nbsp;100% szczerze opowiesz o&nbsp;swoim nałogowym graniu w&nbsp;World of Tanks w&nbsp;godzinach pracy czy uzależnieniu od Facebooka. Programista zainteresowany jest dwoma rzeczami:
+
+1. czy da się z&nbsp;tobą pracować w&nbsp;jednym zespole,
+2. czy kod, który wyprodukujesz nadaje się do czegokolwiek.
+
+W&nbsp;tej prezentacji pokażę jak niektóre błędy z&nbsp;CV i&nbsp;przebiegu rekrutacji są zadziwiająco podobne do błędów jakie popełniamy kodując. Jak te błędy wpływają na postrzeganie kandydata przez programistę - rekrutera. I&nbsp;jak ich wyeliminowanie może umożliwić Ci dostanie pracy w&nbsp;wymarzonej firmie.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/dziurko-tomasz.jpg" />
+#### Tomasz Dziurko
+Programista od prawie 7&nbsp;lat, pracował w&nbsp;korporacji, startupie za unijną dotację, a&nbsp;nawet sklepie z&nbsp;bielizną. Od 4&nbsp;lat zdalnie buduję potęgę SoftwareMill jako programista i&nbsp;CEO, a&nbsp;czasem jako specjalista od rekrutacji.
+
+Fan Apache Wicket oraz Spocka. Typ "działacza", pisze bloga, organizował dwie edycje Confitury, jedną Warsjawę, był w&nbsp;radzie programowej 4Developers, kieruje GeeCON Trainem i&nbsp;udziela się jako jeden z&nbsp;liderów warszawskiego JUG-a.
+
+Aktualnie, w&nbsp;ramach wychodzenia z&nbsp;comfort-zone, początkujący i&nbsp;przerażony prelegent.

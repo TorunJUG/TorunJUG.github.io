@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-06-16T21:58:50+02:00</updated>
+  <updated>2015-06-26T06:08:40+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie czternastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/06/26/podsumowanie-czternastego-spotkania/"/>
+    <updated>2015-06-26T06:15:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/06/26/podsumowanie-czternastego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2015/06/10/spotkanie-14/">czternaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Łukaszowi, za wprowadzenie do tworzenia microserwisów z&nbsp;użyciem biblioteki Ratel oraz Tomkowi, za podzielenie się swoim spostrzeżeniami na temat błędów popełnianych przez developerów w&nbsp;procesie rekrutacji. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Cybermachina.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1j7nV-pwAQHbsa5kN74cyPniCPoE4WzfieL_GEpiQ_e8/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=TODO" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26220114/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://tinyurl.com/brzydka-pani-hr-bledy-devow" target="_blank">
+      <em>Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści</em></a> (slajdy z&nbsp;prezentacji Tomasza Dziurko)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Udajemy się na krótkie wakacje &ndash; z&nbsp;regularnymi spotkaniami wracamy we wrześniu. Tymczasem zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z trzynastego spotkania]]></title>
@@ -637,30 +668,6 @@
 <h4>Jarosław Pałka</h4>
 
 <p>Od ponad 10 lat w&nbsp;branży IT, jako administrator baz danych, programista, architekt, manager i&nbsp;&ldquo;inżynier od spraw katastrof&rdquo;. Brałem udział w&nbsp;małych, średnich i&nbsp;nonsensownie dużych projektach, prowadzonych zgodnie zasadami &ldquo;waterfall&rdquo;, Agile oraz przy braku jakichkolwiek metodyk, z&nbsp;tym samym zawsze skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo, jak robisz to dobrze, w&nbsp;najprostszy z&nbsp;możliwych sposobów i&nbsp;używasz właściwych narzędzi które wykonają pracę za ciebie. W&nbsp;międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w&nbsp;swej prostocie pomysły jak REST, JavaScript i&nbsp;NoSQL, by potem porzucić je by zgłębić tajniki &ldquo;system thinking&rdquo; i&nbsp;zachwycić się siłą jaką niesie z&nbsp;sobą &ldquo;metafora&rdquo; i&nbsp;odkryć, że rządzą nami te same prawa &ldquo;natury&rdquo;. Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w&nbsp;Polsce. W&nbsp;chwilach wolnych członek SSEEP i&nbsp;autor bloga na <a href="http://geekyprimitives.wordpress.com" target="_blank">geekyprimitives.wordpress.com</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z dziesiątego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/03/04/nagranie-z-dziesiatego-spotkania/"/>
-    <updated>2015-03-04T18:32:56+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/03/04/nagranie-z-dziesiatego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2597" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2015/02/15/spotkanie-10/">dziesiątego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=2597&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
 ]]></content>
   </entry>
   

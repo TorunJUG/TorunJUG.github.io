@@ -174,7 +174,7 @@
             {
                 "meetingNumber" : 13,
                 "title" : "Wprowadzenie do RxJava",
-                "youtube" : "",
+                "youtube" : "https://www.youtube.com/watch?v=1tIKzibf_k4",
                 "slides" : "http://torun.jug.pl/materials/meetings/13/Wprowadzenie_do_RxJava_by_Mikolaj_Fejzer.pdf"
             }
         ]
@@ -323,8 +323,34 @@
             {
                 "meetingNumber" : 13,
                 "title" : "Don't Panic – Hitchhiker's guide to the JVM monitoring",
-                "youtube" : "",
+                "youtube" : "https://www.youtube.com/watch?v=kM4_GC5lBOE",
                 "slides" : "http://torun.jug.pl/materials/meetings/13/Dont_Panic_-_Hitchhikers_guide_to_the_JVM_monitoring_by_Wojciech_Oczkowski.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Łukasz Puławski",
+        "img" : "pulawski-lukasz.jpg",
+        "lastMeeting": 14,
+        "talks" : [
+            {
+                "meetingNumber" : 14,
+                "title" : "Java microservices made easy with Ratel",
+                "youtube" : "",
+                "slides" : ""
+            }
+        ]
+    },
+    {
+        "name" : "Tomasz Dziurko",
+        "img" : "dziurko-tomasz.jpg",
+        "lastMeeting": 14,
+        "talks" : [
+            {
+                "meetingNumber" : 14,
+                "title" : "Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści",
+                "youtube" : "",
+                "slides" : "http://tinyurl.com/brzydka-pani-hr-bledy-devow"
             }
         ]
     }

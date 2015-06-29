@@ -16,6 +16,9 @@ Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.c
 
 Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
 <ul>
+	<li>
+    <a href="https://github.com/PayU-Tech/Ratel/" target="_blank">Dokumentacja biblioteki Ratel, o której opowiadał Łukasz Puławski</a>
+  </li>
   <li>
     <a href="http://tinyurl.com/brzydka-pani-hr-bledy-devow" target="_blank">
       <em>Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści</em></a> (slajdy z&nbsp;prezentacji Tomasza Dziurko)

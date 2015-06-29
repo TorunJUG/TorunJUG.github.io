@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-06-26T06:08:40+02:00</updated>
+  <updated>2015-06-29T07:20:09+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -29,6 +29,9 @@
 <p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
 
 <ul>
+    <li>
+    <a href="https://github.com/PayU-Tech/Ratel/" target="_blank">Dokumentacja biblioteki Ratel, o której opowiadał Łukasz Puławski</a>
+  </li>
   <li>
     <a href="http://tinyurl.com/brzydka-pani-hr-bledy-devow" target="_blank">
       <em>Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści</em></a> (slajdy z&nbsp;prezentacji Tomasza Dziurko)

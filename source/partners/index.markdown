@@ -93,6 +93,13 @@ footer: false
   </div>
 </div>
 
+### Szkolenia sponsoruje
+<div>
+  <a class="no-text-decoration" href="http://www.pluralsight.com" target="_blank" title="Pluralsight">
+    <img class="no-border" src="{{ root_url }}/images/partners/pluralsight.png" alt="Pluralsight" />
+  </a>
+</div>
+
 ### Oferty pracy dostarcza
 <div class="row" style="margin-bottom: 10px;">
   <div>

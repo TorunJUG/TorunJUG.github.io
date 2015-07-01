@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konkursy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konkursy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-06-29T07:20:09+02:00</updated>
+  <updated>2015-07-01T06:10:11+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -18,7 +18,7 @@
     <link href="http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu/"/>
     <updated>2014-04-16T08:36:00+02:00</updated>
     <id>http://torun.jug.pl/news/2014/04/16/geecon-2014-wyniki-konkursu</id>
-    <content type="html"><![CDATA[<p>Poniżej zamieszczamy nagranie z&nbsp;rozstrzygnięcia <a href="/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania/">konkursu</a>, w&nbsp;którym do&nbsp;wygrania była darmowa wejściówka na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>.</p>
+    <content type="html"><![CDATA[<p>Poniżej zamieszczamy nagranie z&nbsp;rozstrzygnięcia <a href="{{ root_url }}/news/2014/04/09/darmowa-wejsciowka-na-geecon-do-wygrania/">konkursu</a>, w&nbsp;którym do&nbsp;wygrania była darmowa wejściówka na&nbsp;<a href="http://2014.geecon.org" target="_blank">tegoroczny GeeCON</a>.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">

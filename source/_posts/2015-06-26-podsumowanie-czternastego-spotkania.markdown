@@ -12,7 +12,7 @@ Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">
 
 Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1j7nV-pwAQHbsa5kN74cyPniCPoE4WzfieL_GEpiQ_e8/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more-->
 
-Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=TODO" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26220114/" target="_blank">Meetupie</a>.
+Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1662909060599247.1073741845.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26220114/" target="_blank">Meetupie</a>.
 
 Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
 <ul>

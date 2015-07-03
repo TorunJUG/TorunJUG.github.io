@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-07-02T05:51:31+02:00</updated>
+  <updated>2015-07-03T18:22:43+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z czternastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/07/03/nagranie-z-czternastego-spotkania/"/>
+    <updated>2015-07-03T18:45:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/07/03/nagranie-z-czternastego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2717" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2015/05/14/spotkanie-13/">czternastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2717&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pluralsight naszym nowym partnerem]]></title>
@@ -600,50 +624,6 @@
 <p>Organizatorzy przewidują wiele atrakcji, jak luźne rozmowy, panele dyskusyjne, networking oraz afterparty.</p>
 
 <p>Dzięki uprzejmości organizatorów mamy do rozdania <strong>sześć 20-procentowych zniżek</strong> na zakup wejściówek na konferencję GeeCON 2015! Osoby zainteresowane prosimy o&nbsp;kontakt z&nbsp;Piotrem Prądzyńskim. <strong>Kto pierwszy ten lepszy!</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: DevCrowd'15]]></title>
-    <link href="http://torun.jug.pl/news/2015/03/15/zapowiedz-konferencji-devcrowd-15/"/>
-    <updated>2015-03-15T11:33:51+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/03/15/zapowiedz-konferencji-devcrowd-15</id>
-    <content type="html"><![CDATA[<p>Dziś prezentujemy Wam zapowiedź konferencji DevCrowd&#8217;15 przysłaną nam przez organizatorów.</p>
-
-<p><strong>18 kwietnia</strong> w&nbsp;Szczecinie odbędzie się siódma edycja <strong>bezpłatnej</strong> i&nbsp;otwartej dla wszystkich konferencji <a href="http://devcrowd.pl" target="_blank">DevCrowd</a>. Konferencja obraca się głównie wokół tematów związanych z&nbsp;Javą, ale inni pracownicy IT też znajdą coś dla siebie. Na konferencję przyjadą prelegenci <strong>z&nbsp;całej Polski</strong>, by podzielić się swoim bogatym doświadczeniem, zaś po konferencji spotykamy się na <strong>after party</strong>.</p>
-
-<p>Otrzymaliśmy ponad <strong>40 propozycji prelekcji</strong>, spośród których wybierzecie kilkanaście, które pojawią się na konferencji. Głosować na prelekcje można do 20 marca poprzez <a href="http://2015.devcrowd.pl" target="_blank">naszą stronę</a>.<!--more--></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2015.devcrowd.pl" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/devcrowd15.png" alt="DevCrowd'15" />
-    </a>
-  </div>
-</div>
-
-
-<p>Przykładowe prelekcje, na które możecie głosować:</p>
-
-<ul>
-<li>Adam Bien &ndash; <em>Java EE 7 / Java 8 in 2015</em></li>
-<li>Paweł Szulc &ndash; <em>Apache Spark &ndash; Living the post-mapreduce world</em></li>
-<li>Bartek &ldquo;Koziołek&rdquo; Kuczyński &ndash; <em>Typy pieniężne w&nbsp;Javie</em></li>
-<li>Matt Harasymczuk &ndash; <em>Agile Software Engineering Practices that Helps Deliver Business Values</em></li>
-<li>Maciej Walkowiak &ndash; <em>Keep calm and use Spring Boot</em></li>
-<li>Sebastian Łaciak &ndash; <em>Clean JavaScript code &ndash; only dream or reality</em></li>
-<li>Dominik Przybysz &ndash; <em>Spock, czyli przyjemne testowanie</em></li>
-<li>Łukasz Lenart &ndash; <em>Lift, CoffeeScript, SCSS i&nbsp;GitHub PRs w&nbsp;akcji, czyli jazda po bandzie w&nbsp;następnym projekcie</em></li>
-</ul>
-
-
-<p>i&nbsp;wiele innych.</p>
-
-<p>Wszystkie propozycje, wraz z&nbsp;szerszym opisem znajdziecie na <a href="http://2015.devcrowd.pl" target="_blank">naszej stronie</a>.</p>
-
-<p>Wstęp na konferencje będzie otwarty, jednak zarejestrowane osoby mogą liczyć na <strong>gadżety i&nbsp;posiłek</strong>.</p>
-
-<p>Rejestracja, głosowanie na prelekcje oraz więcej informacji znajdziecie na <a href="http://2015.devcrowd.pl" target="_blank">2015.devcrowd.pl</a>.</p>
 ]]></content>
   </entry>
   

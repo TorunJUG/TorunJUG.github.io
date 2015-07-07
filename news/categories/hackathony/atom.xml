@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Hackathony | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/hackathony/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-07-03T18:22:43+02:00</updated>
+  <updated>2015-07-07T21:16:12+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -55,7 +55,7 @@ Uczestnicy będą pracować w maksymalnie 4-osobowych zespołach, które uformuj
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://braincode.mobi" target="_blank">
-      <img class="no-border" src="/images/partners/braincode.png" alt="BrainCode Mobi" />
+      <img class="no-border" src="{{ root_url }}/images/partners/braincode.png" alt="BrainCode Mobi" />
     </a>
   </div>
 </div>
@@ -85,7 +85,7 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
     <link href="http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1/"/>
     <updated>2014-09-30T20:55:40+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/30/wideorelacja-z-hackathornu-1</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2449" target="_blank">UMK TV</a> pojawiła się dzisiaj wideorelacja z&nbsp;<a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a>. Można ją obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -109,13 +109,13 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
     <link href="http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu/"/>
     <updated>2014-09-07T13:03:30+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu</id>
-    <content type="html"><![CDATA[<p><a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Pierwszy toruński hackathon</a> za nami. 12 godzin kodowania minęło w&nbsp;błyskawicznym tempie. Nadeszła pora na małe podsumowanie wczorajszego dnia.</p>
+    <content type="html"><![CDATA[<p><a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">Pierwszy toruński hackathon</a> za nami. 12 godzin kodowania minęło w&nbsp;błyskawicznym tempie. Nadeszła pora na małe podsumowanie wczorajszego dnia.</p>
 
 <p>Hackathorn #1 odbył się w&nbsp;budynku <a href="http://smart.exea.pl" target="_blank">Exea Smart Space</a>, naszego partnera i&nbsp;współorganizatora wydarzenia.</p>
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/hackathons/1/photo-1.jpg" />
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-1.jpg" />
   </div>
 </div>
 
@@ -124,7 +124,7 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/hackathons/1/photo-2.jpg" />
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-2.jpg" />
   </div>
 </div>
 
@@ -138,7 +138,7 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/hackathons/1/photo-3.jpg" />
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-3.jpg" />
   </div>
 </div>
 
@@ -147,7 +147,7 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/hackathons/1/photo-4.jpg" />
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-4.jpg" />
   </div>
 </div>
 
@@ -156,7 +156,7 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/hackathons/1/photo-5.jpg" />
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-5.jpg" />
   </div>
 </div>
 
@@ -165,16 +165,16 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/hackathons/1/photo-6.jpg" />
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-6.jpg" />
   </div>
 </div>
 
 
-<p>Były też upominki od <a href="/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorów</a>.</p>
+<p>Były też upominki od <a href="{{ root_url }}/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorów</a>.</p>
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/hackathons/1/photo-7.jpg" />
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-7.jpg" />
   </div>
 </div>
 
@@ -183,7 +183,7 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/hackathons/1/photo-8.jpg" />
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-8.jpg" />
   </div>
 </div>
 
@@ -192,7 +192,7 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/hackathons/1/photo-9.jpg" />
+    <img class="no-border" src="{{ root_url }}/images/hackathons/1/photo-9.jpg" />
   </div>
 </div>
 
@@ -230,7 +230,7 @@ Na zespoły, które wykonają oraz zaprezentują najlepsze rozwiązania czekają
     <link href="http://torun.jug.pl/news/2014/08/29/hackathorn-1-agenda/"/>
     <updated>2014-08-29T11:26:48+02:00</updated>
     <id>http://torun.jug.pl/news/2014/08/29/hackathorn-1-agenda</id>
-    <content type="html"><![CDATA[<p>Do <a href="/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a> coraz bliżej. Wiecie już wszystko o&nbsp;<a href="/news/2014/08/23/hackathorn-1-exea-smart-space/">organizatorach</a>, <a href="/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorach</a> i&nbsp;<a href="/news/2014/08/27/hackathorn-1-meetup-challenge/">zadaniu</a>. Nadeszła pora, żeby zapoznać się z&nbsp;agendą wydarzenia.</p>
+    <content type="html"><![CDATA[<p>Do <a href="{{ root_url }}/news/2014/08/19/torun-hackathon-1-meetup-challenge/">pierwszego toruńskiego hackathonu</a> coraz bliżej. Wiecie już wszystko o&nbsp;<a href="{{ root_url }}/news/2014/08/23/hackathorn-1-exea-smart-space/">organizatorach</a>, <a href="{{ root_url }}/news/2014/08/25/hackathorn-1-sponsorzy/">sponsorach</a> i&nbsp;<a href="{{ root_url }}/news/2014/08/27/hackathorn-1-meetup-challenge/">zadaniu</a>. Nadeszła pora, żeby zapoznać się z&nbsp;agendą wydarzenia.</p>
 
 <p>Startujemy o&nbsp;godzinie 10:00. Pierwsze pół godziny przeznaczone jest na przywitanie, rozdanie upominków (m.in. koszulek ufundowanych przez firmę <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Allegro</a>), wprowadzenie do tematu i&nbsp;utworzenie zespołów programistycznych.</p>
 

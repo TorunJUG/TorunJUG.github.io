@@ -336,7 +336,7 @@
             {
                 "meetingNumber" : 14,
                 "title" : "Java microservices made easy with Ratel",
-                "youtube" : "",
+                "youtube" : "https://www.youtube.com/watch?v=27bY3E4CJRg",
                 "slides" : "https://github.com/PayU-Tech/Ratel/"
             }
         ]
@@ -349,7 +349,7 @@
             {
                 "meetingNumber" : 14,
                 "title" : "Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści",
-                "youtube" : "",
+                "youtube" : "https://www.youtube.com/watch?v=3by7dvZkvsk",
                 "slides" : "http://tinyurl.com/brzydka-pani-hr-bledy-devow"
             }
         ]

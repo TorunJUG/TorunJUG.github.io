@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-07-07T21:08:57+02:00</updated>
+  <updated>2015-07-15T05:55:16+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: Mobilization^5]]></title>
+    <link href="http://torun.jug.pl/news/2015/07/15/zapowiedz-konferencji-mobilization-5/"/>
+    <updated>2015-07-15T06:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/07/15/zapowiedz-konferencji-mobilization-5</id>
+    <content type="html"><![CDATA[<p>17-go października odbędzie się piąta edycja konferencji <a href="http://www.mobilization.pl" target="_blank">Mobilization</a>. Wydarzenie jest organizowane przez <a href="http://www.juglodz.pl" target="_blank">Java User Group Łódź</a> i&nbsp;będzie miało miejsce w&nbsp;Łodzi, przy alei Politechniki 4, w&nbsp;budynku Centrum Konferencyjno-Wystawienniczego Międzynarodowych Targów Łódzkich.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2015.mobilization.pl" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/mobilization5.png" alt="Mobilization^5" />
+    </a>
+  </div>
+</div>
+
+
+<p>Mobilization to największa w&nbsp;Polsce, darmowa konferencja poświęcona w&nbsp;całości tematyce urządzeń mobilnych. Poprzednie edycje stały na bardzo wysokim poziomie, warto więc zarezerwować sobie czas 17-go października i&nbsp;wybrać się na to wydarzenie.</p>
+
+<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://www.mobilization.pl" target="_blank">mobilization.pl</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z czternastego spotkania]]></title>
@@ -600,30 +622,6 @@
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek i&nbsp;<a href="http://torun.jug.pl/hall-of-fame/">wieczną chwałę</a> :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON 2015. Mamy dla Was 20% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2015/03/23/zapowiedz-konferencji-geecon-2015/"/>
-    <updated>2015-03-23T17:45:22+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/03/23/zapowiedz-konferencji-geecon-2015</id>
-    <content type="html"><![CDATA[<p><a href="http://java.pl" target="_blank"><strong>PolishJUG</strong></a> serdecznie zaprasza wszystkich chętnych na konferencję <a href="http://2015.geecon.org" target="_blank">GeeCON 2015</a>. Jest to spotkanie zorganizowane dla specjalistów i&nbsp;programistów technologii <strong>Java</strong> oraz <strong>Java Virtual Machine</strong>. Odbędzie się ona <strong>w&nbsp;dniach 13–15 maja 2015 roku</strong> w&nbsp;<strong>Krakowie</strong> w&nbsp;<strong>Multikinie</strong> przy <strong>ulicy Dobrego Pasterza 128</strong>. W&nbsp;planie imprezy przewidziane są wystąpienia kilkudziesięciu prelegentów, w&nbsp;tym: Angelika Langer, Gerrit Grunwald, Sam Newman, Rafael Winterhalter oraz Nicolas Fränkel.<!--more--></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2015.geecon.org" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/geecon2015.jpg" alt="GeeCON 2015" />
-    </a>
-  </div>
-</div>
-
-
-<p>Na miejscu ma się odbyć ponad <strong>80 różnego rodzaju sesji</strong>, a&nbsp;samych prelegentów ma być więcej, niż <strong>75</strong>. Przewiduje się <strong>około 1200 uczestników</strong> podczas <strong>3 dni</strong> imprezy. Konferencja GeeCON 2015 jest płatna i&nbsp;wymaga <a href="http://2015.geecon.org/register/" target="_blank">rejestracji</a>.</p>
-
-<p>Organizatorzy przewidują wiele atrakcji, jak luźne rozmowy, panele dyskusyjne, networking oraz afterparty.</p>
-
-<p>Dzięki uprzejmości organizatorów mamy do rozdania <strong>sześć 20-procentowych zniżek</strong> na zakup wejściówek na konferencję GeeCON 2015! Osoby zainteresowane prosimy o&nbsp;kontakt z&nbsp;Piotrem Prądzyńskim. <strong>Kto pierwszy ten lepszy!</strong></p>
 ]]></content>
   </entry>
   

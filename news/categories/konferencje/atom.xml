@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-07-07T21:16:12+02:00</updated>
+  <updated>2015-07-15T06:02:19+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: Mobilization^5]]></title>
+    <link href="http://torun.jug.pl/news/2015/07/15/zapowiedz-konferencji-mobilization-5/"/>
+    <updated>2015-07-15T06:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/07/15/zapowiedz-konferencji-mobilization-5</id>
+    <content type="html"><![CDATA[<p>17-go października odbędzie się piąta edycja konferencji <a href="http://www.mobilization.pl" target="_blank">Mobilization</a>. Wydarzenie jest organizowane przez <a href="http://www.juglodz.pl" target="_blank">Java User Group Łódź</a> i&nbsp;będzie miało miejsce w&nbsp;Łodzi, przy alei Politechniki 4, w&nbsp;budynku Centrum Konferencyjno-Wystawienniczego Międzynarodowych Targów Łódzkich.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2015.mobilization.pl" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/mobilization5.png" alt="Mobilization^5" />
+    </a>
+  </div>
+</div>
+
+
+<p>Mobilization to największa w&nbsp;Polsce, darmowa konferencja poświęcona w&nbsp;całości tematyce urządzeń mobilnych. Poprzednie edycje stały na bardzo wysokim poziomie, warto więc zarezerwować sobie czas 17-go października i&nbsp;wybrać się na to wydarzenie.</p>
+
+<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://www.mobilization.pl" target="_blank">mobilization.pl</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: Codepot]]></title>
@@ -145,30 +167,6 @@
 <p>Wstęp na konferencje będzie otwarty, jednak zarejestrowane osoby mogą liczyć na <strong>gadżety i&nbsp;posiłek</strong>.</p>
 
 <p>Rejestracja, głosowanie na prelekcje oraz więcej informacji znajdziecie na <a href="http://2015.devcrowd.pl" target="_blank">2015.devcrowd.pl</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: Scalar 2015]]></title>
-    <link href="http://torun.jug.pl/news/2015/01/22/zapowiedz-konferencji-scalar-2015/"/>
-    <updated>2015-01-22T05:45:45+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/01/22/zapowiedz-konferencji-scalar-2015</id>
-    <content type="html"><![CDATA[<p>Już 11.04.2015 w&nbsp;Warszawie w&nbsp;Bibliotece Narodowej przy al. Niepodległości 213 odbędzie się II edycja międzynarodowej konferencji <a href="http://scalar-conf.com" target="_blank">Scalar</a> dla zainteresowanych programowaniem w&nbsp;Scali. Udział w tym wydarzeniu jest całkowicie <strong>bezpłatny</strong>.</p>
-
-<p>Organizatorem wydarzenia jest <a href="https://softwaremill.com" target="_blank">SoftwareMill</a> &ndash; firma w&nbsp;100% pracująca zdalnie, o&nbsp;płaskiej strukturze, znana w&nbsp;środowisku programistycznym z&nbsp;zaangażowania w&nbsp;konferencje, społeczności oraz zastosowania nowych technologii w&nbsp;projektach dla klientów z&nbsp;Australii, Afryki, USA i&nbsp;Europy.<!--more--></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://scalar-conf.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/scalar-2015.png" alt="Scalar 2015" />
-    </a>
-  </div>
-</div>
-
-
-<p>Prelegentami będą zarówno zagraniczni goście, autorytety ze świata Scali, zaproszeni przez SoftwareMill jak również osoby wyłonione przez kapitułę konferencji na podstawie <a href="https://docs.google.com/a/softwaremill.pl/forms/d/1LtbOxICVsLtwt0WPkr_k9o5YO3HgrztVv4cGsThI_M0/viewform" target="_blank">call for papers</a>. Zgłoszenia od prelegentów przyjmowane są do 8-go lutego.</p>
-
-<p>W&nbsp;ubiegłym roku 300 bezpłatnych wejściówek rozeszło się w&nbsp;2&nbsp;dni (!!!). Dlatego sugerujemy zapisanie się na newsletter konferencji i&nbsp;śledzenie twittera <a href="https://twitter.com/scalarconf" target="_blank">@scalarconf</a>, żeby nie przegapić tegorocznej rejestracji na Scalara. Więcej na <a href="http://scalar-conf.com" target="_blank">scalar-conf.com</a>.</p>
 ]]></content>
   </entry>
   

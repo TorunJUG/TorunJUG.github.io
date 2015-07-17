@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-07-15T06:02:19+02:00</updated>
+  <updated>2015-07-17T05:49:48+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,64 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: AgileByExample 2015. Mamy dla Was 15% zniżki!]]></title>
+    <link href="http://torun.jug.pl/news/2015/07/17/zapowiedz-konferencji-agilebyexample-2015/"/>
+    <updated>2015-07-17T06:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/07/17/zapowiedz-konferencji-agilebyexample-2015</id>
+    <content type="html"><![CDATA[<p>Mamy przyjemność ogłosić, że już drugi rok z&nbsp;rzędu wspieramy konferencję AgileByExample.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2015.agilebyexample.com" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/agile-by-example-2015.jpg" alt="AgileByExample 2015" />
+    </a>
+  </div>
+</div>
+
+
+<p>Poniżej kilka słów od organizatorów na temat tegorocznej edycji.</p>
+
+<!--more-->
+
+
+
+
+<blockquote>
+<p>Witajcie!</p>
+<p>Rejestracja na <strong>AgileByExample 2015</strong> jest już otwarta! Konferencja odbędzie się <strong>28-30 września w&nbsp;Warszawie</strong>.</p>
+<p>Do końca sierpnia bilety w doskonałej cenie 1000 zł (+VAT). W&nbsp;cenie dwa dni prezentacji, okraszone open spacem, lightning talkami, coaching clinic oraz panelem dyskusyjnym. Pierwsze 150 osób może się również zarejestrować na Lean Agile Dojo (300 zł (+VAT)), czyli dzień warsztatowy na dobry początek. Zapraszamy na <a href="http://2015.agilebyexample.com/tickets/" target="_blank">http://2015.agilebyexample.com/tickets/</a>.</p>
+<p>Oczywiście dla zaprzyjaźnionych społeczności <strong>mamy 15% zniżki</strong>. Wystarczy podczas rejestracji użyć kodu, po który należy zgłosić się do Piotra Prądzyńskiego. Kupon rabatowy zadziała dla pierwszych pięciu osób, więc nie zwlekajcie z&nbsp;rezerwacją.</p>
+<p>Tym razem, podążając za opiniami po poprzedniej edycji, Dojo robimy pierwszego dnia - tak żebyście mieli okazję się poznać, energicznie wejść w&nbsp;nastrój kaizen i&nbsp;w&nbsp;ogóle wynieść z&nbsp;ABE jak najwięcej :)</p>
+<p>Z&nbsp;innych nowości - szykujemy tym razem trzy ścieżki:
+<ul>
+<li>Zespół (planowanie, retro, przywództwo, coaching,... )</li>
+<li>Produkt (Lean Startup, EVO, UX, Impact Mapping,... )</li>
+<li>Zarządzanie (skalowanie, management 3.0, metryki, kontrakty,...)</li></ul></p>
+<p>Jeśli chodzi o&nbsp;prelegentów - już teraz wiemy, że ABE15 to będzie najlepsze ABE do tej pory, a&nbsp;staramy się, żeby było lepsze niż wszystkie dotychczasowe konferencje z&nbsp;Polski razem wzięte. Swój udział już potwierdzili:
+<ul>
+<li>Bjarte Bogsnes</li>
+<li>Jim Benson</li>
+<li>Vasco Duarte</li>
+<li>Karl Scotland</li>
+<li>Gojko Adzic</li>
+</ul>
+i&nbsp;wielu innych (<a href="http://2015.agilebyexample.com/speakers/" target="_blank">http://2015.agilebyexample.com/speakers/</a>). Prawie wszyscy z&nbsp;nich zazwyczaj robią keynote'y, mamy nadzieję, że wybór konkretnych prezentacji do obejrzenia będzie w&nbsp;tym roku na ABE trudny. Będą też konkretne historie znanych firm, spodziewajcie się usłyszeć np. o&nbsp;Spotify, Lego, Google i&nbsp;Telefonice.</p>
+<p>Zaraz po ABE (1-2 października) organizujemy też kilka szkoleń. Informacje na ten temat już wkrótce na stronie.</p>
+<p>Szukamy też polskich prelegentów i&nbsp;trenerów - Call4Speakers jest już otwarte: <a href="http://2015.agilebyexample.com/c4p/" target="_blank">http://2015.agilebyexample.com/c4p/</a>. Przede wszystkim liczymy na trenerów - potrzebujemy 3-3.5 godzinnych warsztatów na Dojo (28.09). Prezentacje będą krótkie i&nbsp;do rzeczy - 15-20 minut to w&nbsp;sam raz by dokładnie omówić jedną praktykę albo technikę. Najbardziej zależy nam na prezentacjach praktycznych: "By Example".</p>
+<p>Pracujemy pełną parą by również w&nbsp;tym roku znaleźć się w&nbsp;pierwszej dziesiątce (sic!) najlepszych agile'owych konferencji na świecie (ranking autorstwa Vasco Duarte: <a href="http://softwaredevelopmenttoday.com/2015/01/the-top-50-agile-conferences-including-lean-kanba-scrum/" target="_blank">http://softwaredevelopmenttoday.com/2015/01/the-top-50-agile-conferences-including-lean-kanba-scrum/</a>)</p>
+<p>Więcej szczegółów już wkrótce!</p>
+<p>Ukłony<br/>
+Zespół AgileByExample 2015<br/>
+Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Szóstek i&nbsp;Paweł Wyszyński
+</p>
+<p>PS. Na stronie: <a href="http://2015.agilebyexample.com/spread-the-word/" target="_blank">http://2015.agilebyexample.com/spread-the-word/</a> znajdziecie mnóstwo bannerów do promowania AgileByExample - zapraszamy :)</p>
+<p>PS2. Polubcie nasz <a href="https://www.facebook.com/AgileByExample" target="_blank">fanpage na Facebooku</a>, <a href="https://twitter.com/AgileByExample" target="_blank">kanał Twittera</a> albo <a href="http://agilebyexample.us2.list-manage.com/subscribe?u=b7f55bf68e01d408bb1ab4ac0&id=f013c289c4" target="_blank">zasubskrybujcie newsletter</a>.</p>
+</blockquote>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: Mobilization^5]]></title>
@@ -123,50 +181,6 @@
 <p>Organizatorzy przewidują wiele atrakcji, jak luźne rozmowy, panele dyskusyjne, networking oraz afterparty.</p>
 
 <p>Dzięki uprzejmości organizatorów mamy do rozdania <strong>sześć 20-procentowych zniżek</strong> na zakup wejściówek na konferencję GeeCON 2015! Osoby zainteresowane prosimy o&nbsp;kontakt z&nbsp;Piotrem Prądzyńskim. <strong>Kto pierwszy ten lepszy!</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: DevCrowd'15]]></title>
-    <link href="http://torun.jug.pl/news/2015/03/15/zapowiedz-konferencji-devcrowd-15/"/>
-    <updated>2015-03-15T11:33:51+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/03/15/zapowiedz-konferencji-devcrowd-15</id>
-    <content type="html"><![CDATA[<p>Dziś prezentujemy Wam zapowiedź konferencji DevCrowd'15 przysłaną nam przez organizatorów.</p>
-
-<p><strong>18 kwietnia</strong> w&nbsp;Szczecinie odbędzie się siódma edycja <strong>bezpłatnej</strong> i&nbsp;otwartej dla wszystkich konferencji <a href="http://devcrowd.pl" target="_blank">DevCrowd</a>. Konferencja obraca się głównie wokół tematów związanych z&nbsp;Javą, ale inni pracownicy IT też znajdą coś dla siebie. Na konferencję przyjadą prelegenci <strong>z&nbsp;całej Polski</strong>, by podzielić się swoim bogatym doświadczeniem, zaś po konferencji spotykamy się na <strong>after party</strong>.</p>
-
-<p>Otrzymaliśmy ponad <strong>40 propozycji prelekcji</strong>, spośród których wybierzecie kilkanaście, które pojawią się na konferencji. Głosować na prelekcje można do 20 marca poprzez <a href="http://2015.devcrowd.pl" target="_blank">naszą stronę</a>.<!--more--></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2015.devcrowd.pl" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/devcrowd15.png" alt="DevCrowd'15" />
-    </a>
-  </div>
-</div>
-
-
-<p>Przykładowe prelekcje, na które możecie głosować:</p>
-
-<ul>
-<li>Adam Bien &ndash; <em>Java EE 7 / Java 8 in 2015</em></li>
-<li>Paweł Szulc &ndash; <em>Apache Spark &ndash; Living the post-mapreduce world</em></li>
-<li>Bartek &ldquo;Koziołek&rdquo; Kuczyński &ndash; <em>Typy pieniężne w&nbsp;Javie</em></li>
-<li>Matt Harasymczuk &ndash; <em>Agile Software Engineering Practices that Helps Deliver Business Values</em></li>
-<li>Maciej Walkowiak &ndash; <em>Keep calm and use Spring Boot</em></li>
-<li>Sebastian Łaciak &ndash; <em>Clean JavaScript code &ndash; only dream or reality</em></li>
-<li>Dominik Przybysz &ndash; <em>Spock, czyli przyjemne testowanie</em></li>
-<li>Łukasz Lenart &ndash; <em>Lift, CoffeeScript, SCSS i&nbsp;GitHub PRs w&nbsp;akcji, czyli jazda po bandzie w&nbsp;następnym projekcie</em></li>
-</ul>
-
-
-<p>i&nbsp;wiele innych.</p>
-
-<p>Wszystkie propozycje, wraz z&nbsp;szerszym opisem znajdziecie na <a href="http://2015.devcrowd.pl" target="_blank">naszej stronie</a>.</p>
-
-<p>Wstęp na konferencje będzie otwarty, jednak zarejestrowane osoby mogą liczyć na <strong>gadżety i&nbsp;posiłek</strong>.</p>
-
-<p>Rejestracja, głosowanie na prelekcje oraz więcej informacji znajdziecie na <a href="http://2015.devcrowd.pl" target="_blank">2015.devcrowd.pl</a>.</p>
 ]]></content>
   </entry>
   

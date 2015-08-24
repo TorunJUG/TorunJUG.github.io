@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-08-21T16:40:10+02:00</updated>
+  <updated>2015-08-23T12:30:59+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON Microservices w Sopocie. Skorzystaj z 10% zniżki!]]></title>
+    <link href="http://torun.jug.pl/news/2015/08/24/zapowiedz-konferencji-geecon-microservices-sopot/"/>
+    <updated>2015-08-24T06:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/08/24/zapowiedz-konferencji-geecon-microservices-sopot</id>
+    <content type="html"><![CDATA[<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2015.microservices.geecon.org/" target="_blank">
+      <img class="no-border" src="/images/partners/geecon-microservices-2015.jpg" alt="GeeCON Microservices" />
+    </a>
+  </div>
+</div>
+
+
+<p><a href="http://2015.microservices.geecon.org" target="_blank"><strong>GeeCON Microservices</strong></a> to 1-dniowa, jednowątkowa konferencja w&nbsp;pełni poświęcona tematyce mikrousług. Organizatorzy zadbali, aby program konferencji wypełniły osoby, które posiadają bogate praktyczne doświadczenie w&nbsp;projektowaniu, budowaniu oraz testowaniu mikrousług. Jest to świetna okazja do tego, aby dopiero poznać, dowiedzieć się więcej lub podzielić się własnymi spostrzeżeniami i&nbsp;doświadczeniami na temat tej zdobywającej coraz więcej zwolenników (oraz przeciwników) architektury. Przyjedź do Sopotu i skorzystaj z tej niesamowitej okazji do zdobycia wiedzy!</p>
+
+<p>Mamy dla was również kod rabatowy -10% do wykorzystania podczas <a href="http://2015.microservices.geecon.org/register/" target="_blank"><strong>rejestracji</strong></a> &ndash; wpiszcie <strong>GEECON_MICRO10</strong>, a zaoszczędzone w ten sposób pieniądze wykorzystajcie np. podczas pokonferencyjnego after party :&ndash;)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: AgileByExample 2015. Mamy dla Was 15% zniżki!]]></title>
@@ -157,30 +177,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>PolyConf15 koncentruje się na Clojure, Haskell, Erlang i&nbsp;Go, poruszając się w&nbsp;obszarze głównego nurtu technologicznego na równi z&nbsp;ezoterycznymi językami takie jak Prolog, Shen, Elm i&nbsp;LFE. Naszym celem jest połączenie i&nbsp;skonfrontowanie różnych technologii programowania oraz umożliwienie wymiany myśli i&nbsp;umiejętności pomiędzy członkami społeczności technicznych.</p>
 
 <p>Wśród prelegentów są: Robert Virding, Stefan Karpinski, Bodil Stokke, Jessica Kerr and Phil Nash. Konferencja jest płatna. W&nbsp;ramach biletu wstęp na warsztaty, imprezy towarzyszące oraz codzienne wieczorne party. Gorąco polecamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON 2015. Mamy dla Was 20% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2015/03/23/zapowiedz-konferencji-geecon-2015/"/>
-    <updated>2015-03-23T17:45:22+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/03/23/zapowiedz-konferencji-geecon-2015</id>
-    <content type="html"><![CDATA[<p><a href="http://java.pl" target="_blank"><strong>PolishJUG</strong></a> serdecznie zaprasza wszystkich chętnych na konferencję <a href="http://2015.geecon.org" target="_blank">GeeCON 2015</a>. Jest to spotkanie zorganizowane dla specjalistów i&nbsp;programistów technologii <strong>Java</strong> oraz <strong>Java Virtual Machine</strong>. Odbędzie się ona <strong>w&nbsp;dniach 13–15 maja 2015 roku</strong> w&nbsp;<strong>Krakowie</strong> w&nbsp;<strong>Multikinie</strong> przy <strong>ulicy Dobrego Pasterza 128</strong>. W&nbsp;planie imprezy przewidziane są wystąpienia kilkudziesięciu prelegentów, w&nbsp;tym: Angelika Langer, Gerrit Grunwald, Sam Newman, Rafael Winterhalter oraz Nicolas Fränkel.<!--more--></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2015.geecon.org" target="_blank">
-      <img class="no-border" src="/images/partners/geecon2015.jpg" alt="GeeCON 2015" />
-    </a>
-  </div>
-</div>
-
-
-<p>Na miejscu ma się odbyć ponad <strong>80 różnego rodzaju sesji</strong>, a&nbsp;samych prelegentów ma być więcej, niż <strong>75</strong>. Przewiduje się <strong>około 1200 uczestników</strong> podczas <strong>3 dni</strong> imprezy. Konferencja GeeCON 2015 jest płatna i&nbsp;wymaga <a href="http://2015.geecon.org/register/" target="_blank">rejestracji</a>.</p>
-
-<p>Organizatorzy przewidują wiele atrakcji, jak luźne rozmowy, panele dyskusyjne, networking oraz afterparty.</p>
-
-<p>Dzięki uprzejmości organizatorów mamy do rozdania <strong>sześć 20-procentowych zniżek</strong> na zakup wejściówek na konferencję GeeCON 2015! Osoby zainteresowane prosimy o&nbsp;kontakt z&nbsp;Piotrem Prądzyńskim. <strong>Kto pierwszy ten lepszy!</strong></p>
 ]]></content>
   </entry>
   

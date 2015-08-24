@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-08-21T16:40:10+02:00</updated>
+  <updated>2015-08-23T12:30:59+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON Microservices w Sopocie. Skorzystaj z 10% zniżki!]]></title>
+    <link href="http://torun.jug.pl/news/2015/08/24/zapowiedz-konferencji-geecon-microservices-sopot/"/>
+    <updated>2015-08-24T06:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/08/24/zapowiedz-konferencji-geecon-microservices-sopot</id>
+    <content type="html"><![CDATA[<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2015.microservices.geecon.org/" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/geecon-microservices-2015.jpg" alt="GeeCON Microservices" />
+    </a>
+  </div>
+</div>
+
+
+<p><a href="http://2015.microservices.geecon.org" target="_blank"><strong>GeeCON Microservices</strong></a> to 1-dniowa, jednowątkowa konferencja w&nbsp;pełni poświęcona tematyce mikrousług. Organizatorzy zadbali, aby program konferencji wypełniły osoby, które posiadają bogate praktyczne doświadczenie w&nbsp;projektowaniu, budowaniu oraz testowaniu mikrousług. Jest to świetna okazja do tego, aby dopiero poznać, dowiedzieć się więcej lub podzielić się własnymi spostrzeżeniami i&nbsp;doświadczeniami na temat tej zdobywającej coraz więcej zwolenników (oraz przeciwników) architektury. Przyjedź do Sopotu i skorzystaj z tej niesamowitej okazji do zdobycia wiedzy!</p>
+
+<p>Mamy dla was również kod rabatowy -10% do wykorzystania podczas <a href="http://2015.microservices.geecon.org/register/" target="_blank"><strong>rejestracji</strong></a> &ndash; wpiszcie <strong>GEECON_MICRO10</strong>, a zaoszczędzone w ten sposób pieniądze wykorzystajcie np. podczas pokonferencyjnego after party :&ndash;)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: AgileByExample 2015. Mamy dla Was 15% zniżki!]]></title>
@@ -628,21 +648,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lightning Talks - go for it!]]></title>
-    <link href="http://torun.jug.pl/news/2015/04/03/lightning-talks-go-for-it/"/>
-    <updated>2015-04-03T11:15:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/04/03/lightning-talks-go-for-it</id>
-    <content type="html"><![CDATA[<p>Myślałeś kiedyś o&nbsp;wystąpieniu na deskach toruńskiego JUGa, ale brakowało Ci motywacji do przygotowania 45-minutowej prezentacji? A co byś powiedział na krótszą, <strong>max. 15-minutową</strong> prezentację? Brzmi atrakcyjnie? No pewnie, że tak! :)</p>
-
-<p>Podczas najbliższego spotkania Toruń JUG (środa, 29.04.2015) chcielibyśmy wypróbować nową formułę, która mogłaby wpisać się na stałe do programu naszych spotkań. W&nbsp;miejsce jednej 45-minutowej prezentacji proponujemy 3&nbsp;lightning talki, po 15 minut każdy. Do zrealizowania tego planu potrzebujemy <strong>Waszej pomocy</strong> &ndash; szukamy chętnych do wystąpienia w&nbsp;tej formule.</p>
-
-<p>Pod poniższym linkiem znajdziecie <a href="https://docs.google.com/forms/d/1zZT2jwgddZxGLUaX_jXOUGF23Mhaskj-0BLi2fWUJTk/viewform" target="_blank">formularz zgłoszeniowy</a>.</p>
-
-<p>Na zgłoszenia czekamy <strong>do 9&nbsp;kwietnia włącznie</strong> &ndash; nie zwlekaj, <strong>zgłoś swoją propozycję już dziś</strong>!</p>
 ]]></content>
   </entry>
   

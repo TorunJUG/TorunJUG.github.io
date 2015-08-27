@@ -23,9 +23,9 @@ footer: false
 
 ### Upominki dla prelegentów sponsoruje
 <div class="row" style="margin-bottom: 10px;">
-  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
-    <a class="no-text-decoration" href="http://www.allegro.pl" target="_blank" title="Grupa Allegro">
-      <img class="no-border" src="{{ root_url }}/images/partners/allegro.jpg" alt="Grupa Allegro" />
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-6">
+    <a class="no-text-decoration" href="http://www.ais.pl" target="_blank" title="AIS.PL">
+      <img class="no-border" src="{{ root_url }}/images/partners/ais.png" alt="AIS.PL" />
     </a>
   </div>
 </div>

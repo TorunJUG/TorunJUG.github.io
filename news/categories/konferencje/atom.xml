@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-08-27T21:24:57+02:00</updated>
+  <updated>2015-08-31T21:32:42+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.microservices.geecon.org/" target="_blank">
-      <img class="no-border" src="/images/partners/geecon-microservices-2015.jpg" alt="GeeCON Microservices" />
+      <img class="no-border" src="{{ root_url }}/images/partners/geecon-microservices-2015.jpg" alt="GeeCON Microservices" />
     </a>
   </div>
 </div>
@@ -43,7 +43,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.agilebyexample.com" target="_blank">
-      <img class="no-border" src="/images/partners/agile-by-example-2015.jpg" alt="AgileByExample 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/agile-by-example-2015.jpg" alt="AgileByExample 2015" />
     </a>
   </div>
 </div>
@@ -101,7 +101,7 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.mobilization.pl" target="_blank">
-      <img class="no-border" src="/images/partners/mobilization5.png" alt="Mobilization^5" />
+      <img class="no-border" src="{{ root_url }}/images/partners/mobilization5.png" alt="Mobilization^5" />
     </a>
   </div>
 </div>
@@ -130,7 +130,7 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://codepot.pl" target="_blank">
-      <img class="no-border" src="/images/partners/codepot.png" alt="Codepot" />
+      <img class="no-border" src="{{ root_url }}/images/partners/codepot.png" alt="Codepot" />
     </a>
   </div>
 </div>
@@ -168,7 +168,7 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://polyconf.com" target="_blank">
-      <img class="no-border" src="/images/partners/polyconf15.png" alt="PolyConf15" />
+      <img class="no-border" src="{{ root_url }}/images/partners/polyconf15.png" alt="PolyConf15" />
     </a>
   </div>
 </div>

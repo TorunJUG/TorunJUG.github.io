@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-09-14T06:12:19+02:00</updated>
+  <updated>2015-09-15T20:11:52+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Wspólny wyjazd na JDD - 30% zniżki na wyjzd grupowy]]></title>
+    <link href="http://torun.jug.pl/news/2015/09/15/wspolny-wyjazd-jdd/"/>
+    <updated>2015-09-15T20:05:05+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/09/15/wspolny-wyjazd-jdd</id>
+    <content type="html"><![CDATA[<p><a href="http://jdd.org.pl" target="_blank">JDD</a> jest dwudniową konferencją adresowaną do wszystkich miłośników Java, zarówno w&nbsp;życiu prywatnym, jak i&nbsp;zawodowym. Wydarzenie jest doskonałą okazją do wzięcia udziału w&nbsp;merytorycznych wykładach, rozwijających warsztatach oraz interaktywnych szkoleniach. Nowatorski charakter JDD oraz wykłady w&nbsp;języku angielskim skutecznie przyciągają coraz większą liczbę uczestników z&nbsp;całego świata.<!--more--></p>
+
+<p>Kilka miesięcy temu <a href="{{root_url}}/news/2015/01/13/zapowiedz-konferencji-jdd/">pisaliśmy o konferencji JDD</a>, która odbędzie się w&nbsp;dniach 12-13 października w Krakowie. Dzisiaj mamy dla Was kolejną dobrą wiadomość &ndash; otrzymaliśmy <strong>30% zniżki</strong> na wyjzd grupowy (5+ osób).</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/jdd.png" alt="JDD Conference 2015" />
+    </a>
+  </div>
+</div>
+
+
+<p>W jaki sposób można skorzystać ze zniżki? Bardzo prosto &ndash; wystarczy wpisać się na listę ochotników w <a href="http://www.meetup.com/Torun-JUG/messages/boards/thread/49246666" target="_blank">tym wątku na forum dyskusyjnym</a>. Na zgłoszenia czekamy do 25 września. W razie jakichkolwiek pytań, piszcie na forum, żadne pytanie nie pozostanie bez odpowiedzi.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON Microservices w Sopocie. Skorzystaj z 10% zniżki!]]></title>
@@ -151,32 +173,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <h3>Dlaczego warto tam być?</h3>
 
 <p>Chcemy sprawić aby Codepot był świętem dla programistów. Wierzymy, że ta inicjatywa przerodzi się w&nbsp;tętniące życiem miejsce do wymiany doświadczeń. Naszym celem, oprócz doskonalenia się w&nbsp;znanych technologiach, jest również aktywne poznawanie nowych zagadnień w&nbsp;stylu learn-by-doing. Nasza impreza zgromadzi ponad 70 specjalistów, którzy chcą podzielić się swoją wiedzą. Codepot to nie tylko warsztaty oraz nauka. To także szansa do zupełnego oderwania się od rzeczywistości przy warsztatach miękkich. Nieoderwalnym i&nbsp;jednym z&nbsp;ważniejszych elementem tej konferencji będzie także networking wśród nowo poznanych znajomych, do którego klimat konferencji będzie zachęcał.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: PolyConf15]]></title>
-    <link href="http://torun.jug.pl/news/2015/04/21/zapowiedz-konferencji-polyconf15/"/>
-    <updated>2015-04-21T20:15:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/04/21/zapowiedz-konferencji-polyconf15</id>
-    <content type="html"><![CDATA[<p>Serdecznie zapraszamy do Poznania na konferencję <a href="http://polyconf.com" target="_blank">PolyConf15</a>, która odbędzie się w&nbsp;dniach od&nbsp;2 do&nbsp;4 lipca w&nbsp;samym centrum przy Alei Niepodległości 53 w&nbsp;nowoczesnym budynku Collegium Iuridicum UAM.</p>
-
-<p>PolyConf15 to 3-dniowa, jednowątkowa konferencja multidyscyplinarna w&nbsp;obszarze zaawansowanych technologii dla fanów poliglotycznego podejścia do programowania.</p>
-
-<p>To już 2&nbsp;edycja konferencji, która odbyła się w&nbsp;listopadzie zeszłego roku. Tutaj można zobaczyć krótkie <a href="https://www.youtube.com/watch?v=D4ilxziffl8" target="_blank">video</a> podsumowujące wydarzenie.<!--more--></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://polyconf.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/polyconf15.png" alt="PolyConf15" />
-    </a>
-  </div>
-</div>
-
-
-<p>PolyConf15 koncentruje się na Clojure, Haskell, Erlang i&nbsp;Go, poruszając się w&nbsp;obszarze głównego nurtu technologicznego na równi z&nbsp;ezoterycznymi językami takie jak Prolog, Shen, Elm i&nbsp;LFE. Naszym celem jest połączenie i&nbsp;skonfrontowanie różnych technologii programowania oraz umożliwienie wymiany myśli i&nbsp;umiejętności pomiędzy członkami społeczności technicznych.</p>
-
-<p>Wśród prelegentów są: Robert Virding, Stefan Karpinski, Bodil Stokke, Jessica Kerr and Phil Nash. Konferencja jest płatna. W&nbsp;ramach biletu wstęp na warsztaty, imprezy towarzyszące oraz codzienne wieczorne party. Gorąco polecamy!</p>
 ]]></content>
   </entry>
   

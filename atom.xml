@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-09-15T20:07:35+02:00</updated>
+  <updated>2015-09-18T05:55:31+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #15 [2015-09-30]]]></title>
+    <link href="http://torun.jug.pl/news/2015/09/18/spotkanie-15/"/>
+    <updated>2015-09-18T06:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/09/18/spotkanie-15</id>
+    <content type="html"><![CDATA[<p>Toruń JUG wraca po letniej przerwie i zaprasza na piętnaste spotkanie, które odbędzie się <strong>w&nbsp;środę, 30 września 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/225429610/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
+
+<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
+
+<p><strong>KAŻDY OBECNY NA SPOTKANIU UCZESTNIK OTRZYMA SKROMNY UPOMINEK-NIESPODZIANKĘ, ALE CO TO BĘDZIE &ndash; NIE POWIEMY :&ndash;)</strong></p>
+
+<h3>Scrum na co dzień</h3>
+
+<p>Scrum Master, Product Owner i Developer przygotowali dla was coś czego jeszcze nie widzieliście. Nie będzie to kolejna opowiastka o teorii Scrum’a, ale o tym, jak praca z nim wygląda na co dzień.</p>
+
+<p>Poruszymy wszystkie te niewygodne i niedomówione tematy, które zazwyczaj na prezentacjach się omija. Podzielimy się z wami naszymi patentami i technikami na zwinne tworzenie oprogramowania w nieidealnych warunkach życia codziennego.</p>
+
+<p>Dodatkowo to Ty, siedząc na sali, będziesz miał wpływ na to o czym usłyszysz, więc przyjdź i bądź częścią tego niecodziennego wydarzenia.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/bryk-rafal.jpg" /></p>
+
+<h4>Rafał Bryk</h4>
+
+<p>Scrum Master z backgroundem technologicznym. Pasjonat wytwarzania dobrego software&#8217;u dobrze. Na co dzień pracuje z ludźmi rozwijającymi oprogramowanie polskiego e-commerce&#8217;u, wspomagając procesy podejmowania optymalnych decyzji. Prywatnie miłośnik nowych technologii, gier planszowych i rekreacyjnych wypraw rowerowych.
+<span class="clearfix"></span></p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/modzelewski-piotr.jpg" /></p>
+
+<h4>Piotr Modzelewski</h4>
+
+<p>Programista z wieloletnim stażem. Entuzjasta zwinnego wytwarzania oprogramowania. Na co dzień pracuje z systemami przetwarzającymi duże ilości danych w czasie rzeczywistym. Wielokrotnie wspomagał wprowadzanie zwinnej metodyki pracy w różnych zespołach. W wolnym czasie oprocz programowania pasjonują go Sci-fi oraz gry te bardziej i mniej wirtualne
+<span class="clearfix"></span></p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/taflinski-maciej.jpg" /></p>
+
+<h4>Maciej Tafliński</h4>
+
+<p>Product Owner który lubi swoją pracę :) Lubi tworzyć produkty które są użyteczne i używalne zarazem, niekoniecznie muszą być ładne. Aktualnie pracuje nad rozwiązaniami big data oraz raportowaniem. W czasie prywatnym backlog wypełniają mu dzieci i od czasu do czasu sport.
+<span class="clearfix"></span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Wspólny wyjazd na JDD - 30% zniżki na wyjzd grupowy]]></title>
@@ -575,77 +621,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>W&nbsp;dalszym ciągu podtrzymujemy gorącą prośbę o&nbsp;wypełnianie ankiet &ndash; nie ma nic ważniejszego w rozwoju niż feedback. Przypominamy też o&nbsp;zgłaszaniu się na <a href="http://torun.jug.pl/speakers/">prelegentów</a> &ndash; niezależnie czy ma to być prelekcja, warsztaty, lightning talk, czy cokolwiek Wam przyjdzie do głowy :) Szczególnie zachęcamy osoby, które obyły się już w&nbsp;korzystaniu z&nbsp;narzędzi, które rozdajemy na spotkaniach i&nbsp;czułyby się na siłach, żeby poprowadzić warsztaty dla innych JUGowiczów.</p>
 
 <p>Do zobaczenia na <a href="http://torun.jug.pl/news/2015/04/15/spotkanie-12/">najbliższym spotkaniu</a>!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #12 [2015-04-29]]]></title>
-    <link href="http://torun.jug.pl/news/2015/04/15/spotkanie-12/"/>
-    <updated>2015-04-15T11:15:54+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/04/15/spotkanie-12</id>
-    <content type="html"><![CDATA[<p>Dwunaste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 29 kwietnia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/221855003/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/757572787691843/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty &ndash; <strong>tym razem jednak zmieniamy lokal</strong>. Informację o tym gdzie widzimy się po spotkaniu opublikujemy w ciągu kilku najbliższych dni. Aktualnie pracujemy nad rezerwacją miejsca w jednym z kilku lokali.</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<h3>Designing API for mobile apps</h3>
-
-<p>To provide a&nbsp;fair user experience, mobile app&rsquo;s performance must be well tuned. Loads of work are invested into designing screens to provide fast feedback to end user and make 3rd party services communication as invisible as possible. There is unfortunately a&nbsp;wall, that mobile devs cannot go through &ndash; making faster external calls, especially in difficult environment like poor connection quality. But we &ndash; backend developers &ndash; can minimize that pain, but only as a&nbsp;result of tight cooperation.</p>
-
-<p>Presentation contains a&nbsp;ton of knowledge about designing and developing mobile APIs and another ton of experience from the trenches.</p>
-
-<p>Prezentacja będzie po polsku.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/erbetowski-wojciech.png" /></p>
-
-<h4>Wojtek Erbetowski</h4>
-
-<p>Wojtek is Head of Engineering at Polidea &ndash; mobile/hardware software-house. That&rsquo;s an&nbsp;unusual environment for a&nbsp;backend dev &ndash; here it&rsquo;s the mobile app, that is the center of universe. Backend is the one that has to fit best, so that the app remains simple and robust. Thanks to that he has gathered many interesting tips and tricks, that he will gladly share.</p>
-
-<p>Wojtek invented MobileWarsaw, GitKata and Mobile Central Europe. He&rsquo;s also co-leader of Warsaw JUG and Warsjawa conference. Worked on Apphance Flow &ndash; an&nbsp;OS build tool for mobile and co-created a&nbsp;library for unit testing Android apps &ndash; RoboSpock.</p>
-
-<h2>LIGHTNING TALKS</h2>
-
-<p><span class="clearfix"></span></p>
-
-<h3>1. Fork/Join Framework</h3>
-
-<p>Fork/Join Framework wspomaga rozwiązywanie problemów, które można podzielić na mniejsze, dokonać równoległych obliczeń i&nbsp;scalić wyniki. Zwalnia programistów z&nbsp;ręcznego zarządzania wątkami pozwalając na proste i&nbsp;efektywne wykorzystanie wszystkich rdzeni procesora.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/chyla-adam.jpg" /></p>
-
-<h4>Adam Chyła</h4>
-
-<p>Student Wydziału Matematyki i&nbsp;Informatyki UMK, pasjonat języka Java.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>2. Biblioteka PCJ do naukowych obliczeń równoległych</h3>
-
-<p>Prezentacja w&nbsp;bardzo krótki sposób przedstawi bibliotekę PCJ, a&nbsp;w&nbsp;zasadzie jej interfejs i&nbsp;możliwości wraz z&nbsp;kodem źródłowym rozwiązującym prosty problem naukowy w&nbsp;sposób równoległy.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/nowicki-marek.jpg" /></p>
-
-<h4>Marek Nowicki</h4>
-
-<p>Programista-naukowiec związany z&nbsp;językiem Java, zajmujący się głównie obliczeniami równoległymi w&nbsp;tymże języku. Autor biblioteki PCJ.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>3. Implementacja Agregatów (DDD) w Akka</h3>
-
-<p>W&nbsp;trakcie krótkiej prezentacji zaanonsuje pomysły związane z&nbsp;implementacją DDD w&nbsp;Akka, które w&nbsp;tej chwili realizujemy w&nbsp;Allegro.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/muchewicz-krzysztof.jpg" /></p>
-
-<h4>Krzysztof Muchewicz</h4>
-
-<p>Jestem &ldquo;Architektem Rozwiązań&rdquo; w&nbsp;grupie Allegro. Moim głównym zadaniem jest transformacja PHP-owej platformy Allegro do cywilizowanej postaci. W&nbsp;ciągu dziesięciu lat kariery informatycznej (po)pełniłem każdą możliwą rolę w&nbsp;IT od programisty, poprzez lidera, menadżera, po architekta.</p>
 ]]></content>
   </entry>
   

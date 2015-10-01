@@ -353,5 +353,44 @@
                 "slides" : "http://tinyurl.com/brzydka-pani-hr-bledy-devow"
             }
         ]
+    },
+    {
+        "name" : "Rafał Bryk",
+        "img" : "bryk-rafal.jpg",
+        "lastMeeting": 15,
+        "talks" : [
+            {
+                "meetingNumber" : 15,
+                "title" : "Scrum na co dzień",
+                "youtube" : "",
+                "slides" : ""
+            }
+        ]
+    },
+    {
+        "name" : "Piotr Modzelewski",
+        "img" : "modzelewski-piotr.jpg",
+        "lastMeeting": 15,
+        "talks" : [
+            {
+                "meetingNumber" : 15,
+                "title" : "Scrum na co dzień",
+                "youtube" : "",
+                "slides" : ""
+            }
+        ]
+    },
+    {
+        "name" : "Maciej Tafliński",
+        "img" : "taflinski-maciej.jpg",
+        "lastMeeting": 15,
+        "talks" : [
+            {
+                "meetingNumber" : 15,
+                "title" : "Scrum na co dzień",
+                "youtube" : "",
+                "slides" : ""
+            }
+        ]
     }
 ]

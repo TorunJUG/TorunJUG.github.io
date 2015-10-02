@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-09-18T05:55:31+02:00</updated>
+  <updated>2015-10-02T21:57:56+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie piętnastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/10/02/podsumowanie-pietnastego-spotkania/"/>
+    <updated>2015-10-02T22:15:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/10/02/podsumowanie-pietnastego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2015/09/18/spotkanie-15/">piętnaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Rafałowi, Piotrowi i Maciejowi za podzielenie się swoimi doświadczeniami z codziennej pracy ze Scrumem. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Cybermachina.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1VvYP7_Na-_miVZTRqueB7j9sX1nZagKBK3q5cjRa2iE/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1692598607630292.1073741846.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26445923/" target="_blank">Meetupie</a>.</p>
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Gorąco zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #15 [2015-09-30]]]></title>
@@ -602,25 +623,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>PolyConf15 koncentruje się na Clojure, Haskell, Erlang i&nbsp;Go, poruszając się w&nbsp;obszarze głównego nurtu technologicznego na równi z&nbsp;ezoterycznymi językami takie jak Prolog, Shen, Elm i&nbsp;LFE. Naszym celem jest połączenie i&nbsp;skonfrontowanie różnych technologii programowania oraz umożliwienie wymiany myśli i&nbsp;umiejętności pomiędzy członkami społeczności technicznych.</p>
 
 <p>Wśród prelegentów są: Robert Virding, Stefan Karpinski, Bodil Stokke, Jessica Kerr and Phil Nash. Konferencja jest płatna. W&nbsp;ramach biletu wstęp na warsztaty, imprezy towarzyszące oraz codzienne wieczorne party. Gorąco polecamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie ankiet 11. spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/04/20/podsumowanie-ankiet-11-spotkania/"/>
-    <updated>2015-04-20T11:35:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/04/20/podsumowanie-ankiet-11-spotkania</id>
-    <content type="html"><![CDATA[<p>Jak zapowiadaliśmy na spotkaniu, chcielibyśmy regularnie dzielić się z&nbsp;Wami wnioskami z&nbsp;ankiet, które wypełniacie. Odezwa Szymona nie pozostała bez echa &ndash; przyszły do nas 24 ankiety, co stanowi kilkukrotnie wyższą wartość niż spotkanie wcześniej! Dalej oczywiście jest pole do popisu :)</p>
-
-<p>Spotkanie zostało bardzo dobrze przyjęte &ndash; ogólnie oceniliście je na 8,8/10. Zarówno sentymentalna podróż Szymona, jak i&nbsp;opowieść o&nbsp;wnętrzu JVM Jarka zostały przez Was świetnie ocenione. Wasze wnioski trafiły już do obu prelegentów.</p>
-
-<p>Interesujące informacje wyciągnęliśmy z&nbsp;pytań o&nbsp;same spotkania JUGowe. Co najważniejsze dla nas, wszyscy respondenci zadeklarowali udział w&nbsp;najbliższym spotkaniu. Mieliśmy okazję zauważyć, że dla uczestników ostatniego spotkania było to średnio czwarte spotkanie i&nbsp;że najczęściej <a href="http://www.meetup.com/Torun-JUG/" target="_blank">Meetup</a> daje Wam znać, że zbliża się następne spotkanie. Większość z&nbsp;Was to zawodowi programiści, ale jest też kilku studentów.</p>
-
-<p>Najważniejsze pytania jednak dla nas to przede wszystkim te, w&nbsp;których podrzuciliście nam propozycje zmian i&nbsp;prelekcji. Bardzo za wszystkie dziękujemy! Na podstawie Waszych sugestii rozpoczęliśmy już działania, o&nbsp;których będziemy opowiadać na najbliższych spotkaniach.</p>
-
-<p>W&nbsp;dalszym ciągu podtrzymujemy gorącą prośbę o&nbsp;wypełnianie ankiet &ndash; nie ma nic ważniejszego w rozwoju niż feedback. Przypominamy też o&nbsp;zgłaszaniu się na <a href="http://torun.jug.pl/speakers/">prelegentów</a> &ndash; niezależnie czy ma to być prelekcja, warsztaty, lightning talk, czy cokolwiek Wam przyjdzie do głowy :) Szczególnie zachęcamy osoby, które obyły się już w&nbsp;korzystaniu z&nbsp;narzędzi, które rozdajemy na spotkaniach i&nbsp;czułyby się na siłach, żeby poprowadzić warsztaty dla innych JUGowiczów.</p>
-
-<p>Do zobaczenia na <a href="http://torun.jug.pl/news/2015/04/15/spotkanie-12/">najbliższym spotkaniu</a>!</p>
 ]]></content>
   </entry>
   

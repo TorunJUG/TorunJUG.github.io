@@ -6,7 +6,7 @@ date: 2015-07-03 18:45:00 +0200
 comments: true
 categories: Nagrania
 ---
-Na stronie <a href="http://tv.umk.pl/?id=2717" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{root_url}}/news/2015/05/14/spotkanie-13/">czternastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.
+Na stronie <a href="http://tv.umk.pl/?id=2717" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{root_url}}/news/2015/06/10/spotkanie-14/">czternastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">

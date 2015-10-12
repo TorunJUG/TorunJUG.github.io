@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Nagrania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/nagrania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-10-02T21:57:56+02:00</updated>
+  <updated>2015-10-12T19:12:21+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -14,11 +14,35 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Nagranie z piętnastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/10/12/nagranie-z-pietnastego-spotkania/"/>
+    <updated>2015-10-12T19:15:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/10/12/nagranie-z-pietnastego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2756" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2015/09/18/spotkanie-15/">piętnastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2756&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Nagranie z czternastego spotkania]]></title>
     <link href="http://torun.jug.pl/news/2015/07/03/nagranie-z-czternastego-spotkania/"/>
     <updated>2015-07-03T18:45:00+02:00</updated>
     <id>http://torun.jug.pl/news/2015/07/03/nagranie-z-czternastego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2717" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2015/05/14/spotkanie-13/">czternastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2717" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2015/06/10/spotkanie-14/">czternastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -98,30 +122,6 @@
       <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
       <param name="allowScriptAccess" value="always" />
       <param name="flashVars" value="movieID=2614&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z dziesiątego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/03/04/nagranie-z-dziesiatego-spotkania/"/>
-    <updated>2015-03-04T18:32:56+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/03/04/nagranie-z-dziesiatego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2597" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2015/02/15/spotkanie-10/">dziesiątego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=2597&amp;width=640" />
     </object>
   </div>
 </div>

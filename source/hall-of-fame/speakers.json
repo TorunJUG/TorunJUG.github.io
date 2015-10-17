@@ -392,5 +392,16 @@
                 "slides" : ""
             }
         ]
+    },
+    {
+        "name" : "Sebastian Łaskawiec",
+        "img" : "laskawiec-sebastian.jpg",
+        "lastMeeting": 16,
+        "talks" : [
+            {
+                "meetingNumber" : 16,
+                "title" : "JGroups - efektywny framework do komunikacji w klastrze"
+            }
+        ]
     }
 ]

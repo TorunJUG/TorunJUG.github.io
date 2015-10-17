@@ -105,7 +105,7 @@
     {
         "name" : "Sebastian Łaskawiec",
         "img" : "laskawiec-sebastian.jpg",
-        "lastMeeting": 9,
+        "lastMeeting": 16,
         "talks" : [
             {
                 "meetingNumber" : 4,
@@ -118,6 +118,10 @@
                 "title" : "Infinispan – Data Grid do zadań specjalnych",
                 "youtube" : "https://www.youtube.com/watch?v=RQXV_PPS4aA",
                 "slides" : "https://prezi.com/jvh2ktfvbqcu/infinispan/"
+            },
+            {
+                "meetingNumber" : 16,
+                "title" : "JGroups - efektywny framework do komunikacji w klastrze"
             }
         ]
     },
@@ -361,9 +365,7 @@
         "talks" : [
             {
                 "meetingNumber" : 15,
-                "title" : "Scrum na co dzień",
-                "youtube" : "",
-                "slides" : ""
+                "title" : "Scrum na co dzień"
             }
         ]
     },
@@ -374,9 +376,7 @@
         "talks" : [
             {
                 "meetingNumber" : 15,
-                "title" : "Scrum na co dzień",
-                "youtube" : "",
-                "slides" : ""
+                "title" : "Scrum na co dzień"
             }
         ]
     },
@@ -387,9 +387,7 @@
         "talks" : [
             {
                 "meetingNumber" : 15,
-                "title" : "Scrum na co dzień",
-                "youtube" : "",
-                "slides" : ""
+                "title" : "Scrum na co dzień"
             }
         ]
     }

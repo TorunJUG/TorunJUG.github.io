@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-10-12T19:12:21+02:00</updated>
+  <updated>2015-10-17T17:51:49+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #16 [2015-10-28]]]></title>
+    <link href="http://torun.jug.pl/news/2015/10/17/spotkanie-16/"/>
+    <updated>2015-10-17T18:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2015/10/17/spotkanie-16</id>
+    <content type="html"><![CDATA[<p>Toruń JUG zaprasza na szesnaste spotkanie, które odbędzie się <strong>w&nbsp;środę, 28 października 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/226121516/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
+
+<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
+
+<h3>JGroups &ndash; efektywny framework do komunikacji w klastrze</h3>
+
+<p>Pisanie bezstanowych aplikacji komunikujących się po HTTP to chleb powszechni każdego programisty. Dzisiaj chciałbym Was zabrać w inną podróż &ndash; do świata klastrów, protokołów sieciowych i wywołań RPC. Zapnijcie pasy &ndash; będzie niezła zabawa!</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/laskawiec-sebastian.jpg" /></p>
+
+<h4>Sebastian Łaskawiec</h4>
+
+<p>Programista pracujący w Red Hat, na co dzień zajmujący się projektem JBoss Data Grid. Niepoprawny optymista wierzący, że klastry się nie rozpadają, amator prostego kodu oraz domowego piwa.
+<span class="clearfix"></span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z piętnastego spotkania]]></title>
@@ -574,53 +600,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie dwunastego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/05/01/podsumowanie-dwunastego-spotkania/"/>
-    <updated>2015-05-01T13:55:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/05/01/podsumowanie-dwunastego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2015/04/15/spotkanie-12/">dwunaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Wojtkowi, za podzielenie się swoimi doświadczeniami w&nbsp;tworzeniu API zoptymalizowanego pod urządzenia mobilne oraz Adamowi, Markowi i&nbsp;Krzysztofowi, za przetestowanie formuły lightning talków i&nbsp;wprowadzenie w zagadnienia współbieżności. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
-
-<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Cybermachina.</p>
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1ZmeLxqPCsRXZzxE3GfpZIi7FSc4fVSiuR91AtZtCb8I/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1640371532853000.1073741843.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26087115/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="https://github.com/wojtekerbetowski/2015-04-29-torun-jug" target="_blank">
-      <em>Designing API for mobile apps</em></a> (slajdy z&nbsp;prezentacji Wojtka Erbetowskiego)
-  </li>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/12/Fork_Join_Framework_by_Adam_Chyla.pdf" target="_blank">
-      <em>Fork/Join Framework</em></a> (slajdy z&nbsp;prezentacji Adama Chyły)
-  </li>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/12/Fork_Join_Framework_examples.zip" target="_blank">
-      Przykładowy kod źródłowy z prezentacji Adama</a>
-  </li>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/12/Biblioteka_PCJ_do_naukowych_obliczen_rownoleglych_by_Marek_Nowicki.pdf" target="_blank">
-      <em>Biblioteka PCJ do naukowych obliczeń równoległych</em></a> (slajdy z&nbsp;prezentacji Marka Nowickiego)
-  </li>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/12/Implementacja_Agregatow_w_Akka_by_Krzysztof_Muchewicz.pdf" target="_blank">
-      <em>Implementacja Agregatów (DDD) w Akka</em></a> (slajdy z&nbsp;prezentacji Krzysztofa Muchewicza)
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
   </entry>
   

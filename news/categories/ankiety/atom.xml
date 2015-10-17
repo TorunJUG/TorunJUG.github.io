@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Ankiety | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/ankiety/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-10-12T19:12:21+02:00</updated>
+  <updated>2015-10-17T17:55:41+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -62,9 +62,9 @@
 
 <p>Najważniejsze pytania jednak dla nas to przede wszystkim te, w&nbsp;których podrzuciliście nam propozycje zmian i&nbsp;prelekcji. Bardzo za wszystkie dziękujemy! Na podstawie Waszych sugestii rozpoczęliśmy już działania, o&nbsp;których będziemy opowiadać na najbliższych spotkaniach.</p>
 
-<p>W&nbsp;dalszym ciągu podtrzymujemy gorącą prośbę o&nbsp;wypełnianie ankiet &ndash; nie ma nic ważniejszego w rozwoju niż feedback. Przypominamy też o&nbsp;zgłaszaniu się na <a href="/speakers/">prelegentów</a> &ndash; niezależnie czy ma to być prelekcja, warsztaty, lightning talk, czy cokolwiek Wam przyjdzie do głowy :) Szczególnie zachęcamy osoby, które obyły się już w&nbsp;korzystaniu z&nbsp;narzędzi, które rozdajemy na spotkaniach i&nbsp;czułyby się na siłach, żeby poprowadzić warsztaty dla innych JUGowiczów.</p>
+<p>W&nbsp;dalszym ciągu podtrzymujemy gorącą prośbę o&nbsp;wypełnianie ankiet &ndash; nie ma nic ważniejszego w rozwoju niż feedback. Przypominamy też o&nbsp;zgłaszaniu się na <a href="{{root_url}}/speakers/">prelegentów</a> &ndash; niezależnie czy ma to być prelekcja, warsztaty, lightning talk, czy cokolwiek Wam przyjdzie do głowy :) Szczególnie zachęcamy osoby, które obyły się już w&nbsp;korzystaniu z&nbsp;narzędzi, które rozdajemy na spotkaniach i&nbsp;czułyby się na siłach, żeby poprowadzić warsztaty dla innych JUGowiczów.</p>
 
-<p>Do zobaczenia na <a href="/news/2015/04/15/spotkanie-12/">najbliższym spotkaniu</a>!</p>
+<p>Do zobaczenia na <a href="{{root_url}}/news/2015/04/15/spotkanie-12/">najbliższym spotkaniu</a>!</p>
 ]]></content>
   </entry>
   

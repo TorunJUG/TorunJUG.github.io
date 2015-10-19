@@ -29,13 +29,11 @@ footer: false
                   <a ng-show="talk.youtube" ng-href="[[talk.youtube]]" target="_blank">
                     <span class="fa fa-video-camera fa-1-5x"></span>
                   </a>
-                  <span ng-hide="talk.youtube" class="fa fa-video-camera fa-1-5x"></span>
                 </td>
                 <td class="col-tn-1 text-center">
                   <a ng-show="talk.slides" ng-href="[[talk.slides]]" target="_blank">
                     <span class="fa fa-picture-o fa-1-5x"></span>
                   </a>
-                  <span ng-hide="talk.slides" class="fa fa-picture-o fa-1-5x"></span>
                 </td>
               </tr>
             </tbody>

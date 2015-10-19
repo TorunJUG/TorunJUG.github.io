@@ -365,7 +365,8 @@
         "talks" : [
             {
                 "meetingNumber" : 15,
-                "title" : "Scrum na co dzień"
+                "title" : "Scrum na co dzień",
+                "youtube" : "https://www.youtube.com/watch?v=8MQBKtlSNUo"
             }
         ]
     },
@@ -376,7 +377,8 @@
         "talks" : [
             {
                 "meetingNumber" : 15,
-                "title" : "Scrum na co dzień"
+                "title" : "Scrum na co dzień",
+                "youtube" : "https://www.youtube.com/watch?v=8MQBKtlSNUo"
             }
         ]
     },
@@ -387,7 +389,8 @@
         "talks" : [
             {
                 "meetingNumber" : 15,
-                "title" : "Scrum na co dzień"
+                "title" : "Scrum na co dzień",
+                "youtube" : "https://www.youtube.com/watch?v=8MQBKtlSNUo"
             }
         ]
     }

@@ -121,7 +121,8 @@
             },
             {
                 "meetingNumber" : 16,
-                "title" : "JGroups - efektywny framework do komunikacji w klastrze"
+                "title" : "JGroups - efektywny framework do komunikacji w klastrze",
+                "slides" : "http://redhat.slides.com/slaskawi/jgroups?token=5ZJs7jhV"
             }
         ]
     },

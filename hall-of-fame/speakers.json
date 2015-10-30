@@ -121,7 +121,8 @@
             },
             {
                 "meetingNumber" : 16,
-                "title" : "JGroups - efektywny framework do komunikacji w klastrze"
+                "title" : "JGroups - efektywny framework do komunikacji w klastrze",
+                "slides" : "http://redhat.slides.com/slaskawi/jgroups?token=5ZJs7jhV"
             }
         ]
     },
@@ -365,7 +366,8 @@
         "talks" : [
             {
                 "meetingNumber" : 15,
-                "title" : "Scrum na co dzień"
+                "title" : "Scrum na co dzień",
+                "youtube" : "https://www.youtube.com/watch?v=8MQBKtlSNUo"
             }
         ]
     },
@@ -376,7 +378,8 @@
         "talks" : [
             {
                 "meetingNumber" : 15,
-                "title" : "Scrum na co dzień"
+                "title" : "Scrum na co dzień",
+                "youtube" : "https://www.youtube.com/watch?v=8MQBKtlSNUo"
             }
         ]
     },
@@ -387,7 +390,8 @@
         "talks" : [
             {
                 "meetingNumber" : 15,
-                "title" : "Scrum na co dzień"
+                "title" : "Scrum na co dzień",
+                "youtube" : "https://www.youtube.com/watch?v=8MQBKtlSNUo"
             }
         ]
     }

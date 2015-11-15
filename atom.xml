@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-11-10T20:12:33+01:00</updated>
+  <updated>2015-11-15T19:21:10+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #17 [2015-11-25]]]></title>
+    <link href="http://torun.jug.pl/news/2015/11/15/spotkanie-17/"/>
+    <updated>2015-11-15T18:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/11/15/spotkanie-17</id>
+    <content type="html"><![CDATA[<p>Toruń JUG zaprasza na siedemnaste spotkanie, które odbędzie się <strong>w&nbsp;środę, 25 listopada 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/226787041/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
+
+<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>Na co czekamy w Javie 9</h3>
+
+<p>Całkiem niedawno pojawiła się Java 8 przynosząc nam wyrażenia lambda, nowe API dla czasu i wiele innych. A my już czekamy na to, co zobaczymy w następnej wersji. Na prezentacji opowiem jakie nowości przyniesie Java 9, co to jest project Jigsaw, jak będziemy liczyć pieniądze oraz o kilku innych.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/przybysz-dominik.jpg" /></p>
+
+<h4>Dominik Przybysz</h4>
+
+<p>Większość życia spędził pisząc w javie i groovym, ale zdarzało mu się oskryptowywać różne rzeczy w pythonie lub shellu. Aktualnie developer w TouKu i użytkownik scali. Uwielbia testowanie (szczególnie z pomocą Spocka) oraz wszelką automatyzację w procesie wytwarzania oprogramowania. Stara się dbać o czystość kodu (własnego i cudzego) poprzez częste code review.
+<span class="clearfix"></span></p>
+
+<h3>Clojure okiem neofity</h3>
+
+<p>Jeżeli kodujesz już od lat, to pewnie nie raz były przed Tobą podobne pytania:<br />
+&ndash; Dlaczego miałbyś nauczyć się nowego języka? Jakiego?<br />
+&ndash; FP? A może &ldquo;OOP is my life&rdquo;?<br />
+&ndash; Który programista przejmuje się ROI?<br />
+&ndash; Dlaczego warto zrobić krok &ldquo;w kierunku historii&rdquo; i nauczyć się LISPa?<br /></p>
+
+<p>W prezentacji postaram się powiedzieć na te pytania i dlaczego odpowiadam na nie: Clojure. A jaka jest Twoja odpowiedź?</p>
+
+<p>Zachęcam do zabrania ze sobą urządzeń elektronicznych (niekoniecznie laptopów, telefon z przeglądarką wystarczy).</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/kapala-pawel.jpg" /></p>
+
+<h4>Paweł Kapała</h4>
+
+<p>Pragmatyczny koder-poliglota, startupowy deweloper, entuzjasta przedsiębiorczości. Ewangelista prostoty i dekompozycji. (reduce code <a href="https://twitter.com/kapware" target="_blank">@kapware</a>)
+<span class="clearfix"></span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z szesnastego spotkania]]></title>
@@ -575,25 +620,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie ankiet 12. spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/05/19/podsumowanie-ankiet-12-spotkania/"/>
-    <updated>2015-05-19T07:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/05/19/podsumowanie-ankiet-12-spotkania</id>
-    <content type="html"><![CDATA[<p>Po ostatnim spotkaniu ankiety wypełniło 11 osób. Bardzo dziękujemy wszystkim, za chęć podzielenia się z&nbsp;nami swoją opinią.</p>
-
-<p>Spotkanie zostało ocenione na 8,2/10. Próba z&nbsp;lightning talks została oceniona pozytywnie, jednak czuliście pewien niedosyt i&nbsp;chęć dogłębniejszego poznania prezentowanych tematów. Oczywiście wszystkie uwagi przekażemy prelegentom.</p>
-
-<p>Większość osób wypełniających ankiety, to osoby pracujące w zawodzie. Część z&nbsp;nich również studiuje.</p>
-
-<p>Przeważali starzy wyjadacze(uczestnicy 5+ spotkań), którzy jako źródło wiedzy o&nbsp;spotkaniu zaznaczyli pocztę pantoflową i&nbsp;portal Meetup.</p>
-
-<p>Ponownie wszystkie osoby zadeklarowały uczestnictwo w&nbsp;następnym spotkaniu :)</p>
-
-<p>Jeszcze raz dziękujemy wszystkim i&nbsp;przypominamy, że dzięki Waszym sugestiom możemy stać się tylko lepsi. Pamiętajcie, że każdy głos się liczy! ;)</p>
 ]]></content>
   </entry>
   

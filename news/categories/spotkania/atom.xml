@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-11-10T20:12:33+01:00</updated>
+  <updated>2015-11-15T19:25:26+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #17 [2015-11-25]]]></title>
+    <link href="http://torun.jug.pl/news/2015/11/15/spotkanie-17/"/>
+    <updated>2015-11-15T18:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/11/15/spotkanie-17</id>
+    <content type="html"><![CDATA[<p>Toruń JUG zaprasza na siedemnaste spotkanie, które odbędzie się <strong>w&nbsp;środę, 25 listopada 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/226787041/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
+
+<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>Na co czekamy w Javie 9</h3>
+
+<p>Całkiem niedawno pojawiła się Java 8 przynosząc nam wyrażenia lambda, nowe API dla czasu i wiele innych. A my już czekamy na to, co zobaczymy w następnej wersji. Na prezentacji opowiem jakie nowości przyniesie Java 9, co to jest project Jigsaw, jak będziemy liczyć pieniądze oraz o kilku innych.</p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/przybysz-dominik.jpg" /></p>
+
+<h4>Dominik Przybysz</h4>
+
+<p>Większość życia spędził pisząc w javie i groovym, ale zdarzało mu się oskryptowywać różne rzeczy w pythonie lub shellu. Aktualnie developer w TouKu i użytkownik scali. Uwielbia testowanie (szczególnie z pomocą Spocka) oraz wszelką automatyzację w procesie wytwarzania oprogramowania. Stara się dbać o czystość kodu (własnego i cudzego) poprzez częste code review.
+<span class="clearfix"></span></p>
+
+<h3>Clojure okiem neofity</h3>
+
+<p>Jeżeli kodujesz już od lat, to pewnie nie raz były przed Tobą podobne pytania:<br />
+&ndash; Dlaczego miałbyś nauczyć się nowego języka? Jakiego?<br />
+&ndash; FP? A może &ldquo;OOP is my life&rdquo;?<br />
+&ndash; Który programista przejmuje się ROI?<br />
+&ndash; Dlaczego warto zrobić krok &ldquo;w kierunku historii&rdquo; i nauczyć się LISPa?<br /></p>
+
+<p>W prezentacji postaram się powiedzieć na te pytania i dlaczego odpowiadam na nie: Clojure. A jaka jest Twoja odpowiedź?</p>
+
+<p>Zachęcam do zabrania ze sobą urządzeń elektronicznych (niekoniecznie laptopów, telefon z przeglądarką wystarczy).</p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/kapala-pawel.jpg" /></p>
+
+<h4>Paweł Kapała</h4>
+
+<p>Pragmatyczny koder-poliglota, startupowy deweloper, entuzjasta przedsiębiorczości. Ewangelista prostoty i dekompozycji. (reduce code <a href="https://twitter.com/kapware" target="_blank">@kapware</a>)
+<span class="clearfix"></span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #16 [2015-10-28]]]></title>
@@ -30,7 +75,7 @@
 
 <p>Pisanie bezstanowych aplikacji komunikujących się po HTTP to chleb powszechni każdego programisty. Dzisiaj chciałbym Was zabrać w inną podróż &ndash; do świata klastrów, protokołów sieciowych i wywołań RPC. Zapnijcie pasy &ndash; będzie niezła zabawa!</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/laskawiec-sebastian.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
 
 <h4>Sebastian Łaskawiec</h4>
 
@@ -62,21 +107,21 @@
 
 <p>Dodatkowo to Ty, siedząc na sali, będziesz miał wpływ na to o czym usłyszysz, więc przyjdź i bądź częścią tego niecodziennego wydarzenia.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/bryk-rafal.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/bryk-rafal.jpg" /></p>
 
 <h4>Rafał Bryk</h4>
 
 <p>Scrum Master z backgroundem technologicznym. Pasjonat wytwarzania dobrego software'u dobrze. Na co dzień pracuje z ludźmi rozwijającymi oprogramowanie polskiego e-commerce'u, wspomagając procesy podejmowania optymalnych decyzji. Prywatnie miłośnik nowych technologii, gier planszowych i rekreacyjnych wypraw rowerowych.
 <span class="clearfix"></span></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/modzelewski-piotr.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/modzelewski-piotr.jpg" /></p>
 
 <h4>Piotr Modzelewski</h4>
 
 <p>Programista z wieloletnim stażem. Entuzjasta zwinnego wytwarzania oprogramowania. Na co dzień pracuje z systemami przetwarzającymi duże ilości danych w czasie rzeczywistym. Wielokrotnie wspomagał wprowadzanie zwinnej metodyki pracy w różnych zespołach. W wolnym czasie oprocz programowania pasjonują go Sci-fi oraz gry te bardziej i mniej wirtualne
 <span class="clearfix"></span></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/taflinski-maciej.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/taflinski-maciej.jpg" /></p>
 
 <h4>Maciej Tafliński</h4>
 
@@ -108,7 +153,7 @@
 
 <p>Serdecznie zapraszam na prezentację i&nbsp;do dyskusji.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/pulawski-lukasz.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/pulawski-lukasz.jpg" /></p>
 
 <h4>Łukasz Puławski</h4>
 
@@ -128,7 +173,7 @@
 
 <p>W&nbsp;tej prezentacji pokażę jak niektóre błędy z&nbsp;CV i&nbsp;przebiegu rekrutacji są zadziwiająco podobne do błędów jakie popełniamy kodując. Jak te błędy wpływają na postrzeganie kandydata przez programistę &ndash; rekrutera. I&nbsp;jak ich wyeliminowanie może umożliwić Ci dostanie pracy w&nbsp;wymarzonej firmie.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/dziurko-tomasz.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/dziurko-tomasz.jpg" /></p>
 
 <h4>Tomasz Dziurko</h4>
 
@@ -161,7 +206,7 @@
 
 <p>Prezentacja oparta będzie o&nbsp;framework RxJava.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/fejzer-mikolaj.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" /></p>
 
 <h4>Mikołaj Fejzer</h4>
 
@@ -173,82 +218,11 @@
 
 <p>Zdarzają się chwile, w&nbsp;których nawet najlepiej napisany system czy aplikacja odmawiają posłuszeństwa. Jak radzić sobie w&nbsp;kryzysowych sytuacjach? W&nbsp;jakie narzędzia się uzbroić? W&nbsp;prezentacji przedstawię przegląd narzędzi służących do monitorowania różnych aspektów działania wirtualnej maszyny Java wraz z&nbsp;praktycznymi przykładami ich wykorzystania.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/oczkowski-wojciech.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/oczkowski-wojciech.jpg" /></p>
 
 <h4>Wojciech Oczkowski</h4>
 
 <p>Prowadzący własną działalność specjalista do spraw trudnych, zawodowo rozwiązuje problemy związane z&nbsp;projektowaniem architektury systemów, wydajnością i&nbsp;jakością kodu. Znajduje obsesyjną wręcz przyjemność w&nbsp;wynajdowaniu sensu w&nbsp;cudzym kodzie. Prywatnie rozwiązuje problemy związane z&nbsp;wychowaniem 2&nbsp;dzieciaków i&nbsp;znajdowaniem czasu na żeglowanie i&nbsp;czytanie literatury fantastycznej.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #12 [2015-04-29]]]></title>
-    <link href="http://torun.jug.pl/news/2015/04/15/spotkanie-12/"/>
-    <updated>2015-04-15T11:15:54+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/04/15/spotkanie-12</id>
-    <content type="html"><![CDATA[<p>Dwunaste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 29 kwietnia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/221855003/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/757572787691843/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty &ndash; <strong>tym razem jednak zmieniamy lokal</strong>. Informację o tym gdzie widzimy się po spotkaniu opublikujemy w ciągu kilku najbliższych dni. Aktualnie pracujemy nad rezerwacją miejsca w jednym z kilku lokali.</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<h3>Designing API for mobile apps</h3>
-
-<p>To provide a&nbsp;fair user experience, mobile app&rsquo;s performance must be well tuned. Loads of work are invested into designing screens to provide fast feedback to end user and make 3rd party services communication as invisible as possible. There is unfortunately a&nbsp;wall, that mobile devs cannot go through &ndash; making faster external calls, especially in difficult environment like poor connection quality. But we &ndash; backend developers &ndash; can minimize that pain, but only as a&nbsp;result of tight cooperation.</p>
-
-<p>Presentation contains a&nbsp;ton of knowledge about designing and developing mobile APIs and another ton of experience from the trenches.</p>
-
-<p>Prezentacja będzie po polsku.</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/erbetowski-wojciech.png" /></p>
-
-<h4>Wojtek Erbetowski</h4>
-
-<p>Wojtek is Head of Engineering at Polidea &ndash; mobile/hardware software-house. That&rsquo;s an&nbsp;unusual environment for a&nbsp;backend dev &ndash; here it&rsquo;s the mobile app, that is the center of universe. Backend is the one that has to fit best, so that the app remains simple and robust. Thanks to that he has gathered many interesting tips and tricks, that he will gladly share.</p>
-
-<p>Wojtek invented MobileWarsaw, GitKata and Mobile Central Europe. He&rsquo;s also co-leader of Warsaw JUG and Warsjawa conference. Worked on Apphance Flow &ndash; an&nbsp;OS build tool for mobile and co-created a&nbsp;library for unit testing Android apps &ndash; RoboSpock.</p>
-
-<h2>LIGHTNING TALKS</h2>
-
-<p><span class="clearfix"></span></p>
-
-<h3>1. Fork/Join Framework</h3>
-
-<p>Fork/Join Framework wspomaga rozwiązywanie problemów, które można podzielić na mniejsze, dokonać równoległych obliczeń i&nbsp;scalić wyniki. Zwalnia programistów z&nbsp;ręcznego zarządzania wątkami pozwalając na proste i&nbsp;efektywne wykorzystanie wszystkich rdzeni procesora.</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/chyla-adam.jpg" /></p>
-
-<h4>Adam Chyła</h4>
-
-<p>Student Wydziału Matematyki i&nbsp;Informatyki UMK, pasjonat języka Java.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>2. Biblioteka PCJ do naukowych obliczeń równoległych</h3>
-
-<p>Prezentacja w&nbsp;bardzo krótki sposób przedstawi bibliotekę PCJ, a&nbsp;w&nbsp;zasadzie jej interfejs i&nbsp;możliwości wraz z&nbsp;kodem źródłowym rozwiązującym prosty problem naukowy w&nbsp;sposób równoległy.</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/nowicki-marek.jpg" /></p>
-
-<h4>Marek Nowicki</h4>
-
-<p>Programista-naukowiec związany z&nbsp;językiem Java, zajmujący się głównie obliczeniami równoległymi w&nbsp;tymże języku. Autor biblioteki PCJ.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>3. Implementacja Agregatów (DDD) w Akka</h3>
-
-<p>W&nbsp;trakcie krótkiej prezentacji zaanonsuje pomysły związane z&nbsp;implementacją DDD w&nbsp;Akka, które w&nbsp;tej chwili realizujemy w&nbsp;Allegro.</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/muchewicz-krzysztof.jpg" /></p>
-
-<h4>Krzysztof Muchewicz</h4>
-
-<p>Jestem &ldquo;Architektem Rozwiązań&rdquo; w&nbsp;grupie Allegro. Moim głównym zadaniem jest transformacja PHP-owej platformy Allegro do cywilizowanej postaci. W&nbsp;ciągu dziesięciu lat kariery informatycznej (po)pełniłem każdą możliwą rolę w&nbsp;IT od programisty, poprzez lidera, menadżera, po architekta.</p>
 ]]></content>
   </entry>
   

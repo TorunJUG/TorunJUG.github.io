@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Spotkanie #17 [2015-11-25]"
+description: "Toruń JUG - Spotkanie #17 [2015-11-25]"
+date: 2015-11-15 18:00:00 +0200
+comments: true
+categories: Spotkania
+---
+Toruń JUG zaprasza na siedemnaste spotkanie, które odbędzie się **w&nbsp;środę, 25 listopada 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/226787041/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).
+
+Sala S9 będzie otwarta **od godz. 17:30** - jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more -->
+
+### Na co czekamy w Javie 9
+Całkiem niedawno pojawiła się Java 8 przynosząc nam wyrażenia lambda, nowe API dla czasu i wiele innych. A my już czekamy na to, co zobaczymy w następnej wersji. Na prezentacji opowiem jakie nowości przyniesie Java 9, co to jest project Jigsaw, jak będziemy liczyć pieniądze oraz o kilku innych.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/przybysz-dominik.jpg" />
+#### Dominik Przybysz
+Większość życia spędził pisząc w javie i groovym, ale zdarzało mu się oskryptowywać różne rzeczy w pythonie lub shellu. Aktualnie developer w TouKu i użytkownik scali. Uwielbia testowanie (szczególnie z pomocą Spocka) oraz wszelką automatyzację w procesie wytwarzania oprogramowania. Stara się dbać o czystość kodu (własnego i cudzego) poprzez częste code review.
+<span class="clearfix"></span>
+
+### Clojure okiem neofity
+Jeżeli kodujesz już od lat, to pewnie nie raz były przed Tobą podobne pytania:<br />
+- Dlaczego miałbyś nauczyć się nowego języka? Jakiego?<br />
+- FP? A może "OOP is my life"?<br />
+- Który programista przejmuje się ROI?<br />
+- Dlaczego warto zrobić krok "w kierunku historii" i nauczyć się LISPa?<br />
+
+W prezentacji postaram się powiedzieć na te pytania i dlaczego odpowiadam na nie: Clojure. A jaka jest Twoja odpowiedź?
+
+Zachęcam do zabrania ze sobą urządzeń elektronicznych (niekoniecznie laptopów, telefon z przeglądarką wystarczy).
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/kapala-pawel.jpg" />
+#### Paweł Kapała
+Pragmatyczny koder-poliglota, startupowy deweloper, entuzjasta przedsiębiorczości. Ewangelista prostoty i dekompozycji. (reduce code <a href="https://twitter.com/kapware" target="_blank">@kapware</a>)
+<span class="clearfix"></span>

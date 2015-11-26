@@ -395,5 +395,29 @@
                 "youtube" : "https://www.youtube.com/watch?v=8MQBKtlSNUo"
             }
         ]
+    },
+    {
+        "name" : "Dominik Przybysz",
+        "img" : "przybysz-dominik.jpg",
+        "lastMeeting": 17,
+        "talks" : [
+            {
+                "meetingNumber" : 17,
+                "title" : "Na co czekamy w Javie 9",
+                "slides" : "http://torun.jug.pl/materials/meetings/17/Na_co_czekamy_w_Javie_9_by_Dominik_Przybysz.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Paweł Kapała",
+        "img" : "kapala-pawel.jpg",
+        "lastMeeting": 17,
+        "talks" : [
+            {
+                "meetingNumber" : 17,
+                "title" : "Clojure okiem neofity",
+                "slides" : "http://torun.jug.pl/materials/meetings/17/Clojure_okiem_neofity_by_Pawel_Kapala.pdf"
+            }
+        ]
     }
 ]

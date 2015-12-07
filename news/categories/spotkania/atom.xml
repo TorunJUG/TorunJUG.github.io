@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-11-26T21:54:59+01:00</updated>
+  <updated>2015-12-07T18:45:15+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #18 [2015-12-16]]]></title>
+    <link href="http://torun.jug.pl/news/2015/12/07/spotkanie-18/"/>
+    <updated>2015-12-07T19:00:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/12/07/spotkanie-18</id>
+    <content type="html"><![CDATA[<p>Toruń JUG zaprasza na osiemnaste spotkanie, które odbędzie się <strong>w&nbsp;środę, 16 grudnia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/227270961/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
+
+<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>W gąszczu grafów, czyli jak zostać bohaterem swoich danych w Neo4j</h3>
+
+<p>Zapraszam na przejażdkę w świat grafów podczas której zapoznamy się z teorią grafów i bazą danych Neo4j, by następnie po krótkim teoretycznym wstępie zapoznać się z językiem Cypher. Będziemy budować, materializować i przemierzać grafy, od tych małych do tych dużych. Zapoznamy się z algorytmami i technikami analizy sieci społecznościowych i nauczymy się podstaw silników rekomendacji. Wszystko to z pomocą języka który powstał na potrzeby bazy Neo4j, który łaczy ekspresyjność starego dobrego SQL i potęgę wyszukiwania wzorców w grafach, a wszystko to będzie wyglądało jak stary dobry &ldquo;ASCII art&rdquo;. Mam nadzieję, że po tym warsztacie raz na zawsze zapomnimy o klauzuli JOIN i iloczynie kartezjańskim.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/palka-jaroslaw.jpg" /></p>
+
+<h4>Jarosław Pałka</h4>
+
+<p>Od ponad 15 lat w branży IT, jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo, jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych narzędzi które wykonają pracę za ciebie. W międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL, by potem porzucić je by zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą „metafora” i odkryć, że rządzą nami te same prawa „natury”. Niepokorny wyznawca kościoła JVM, badacz bytecode'u i JIT oraz wszelkiej maści parserów, interpeterów i kompilatorów.  Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce. W wolnych chwilach trener w <a href="http://symentis.pl" target="_blank">symentis.pl</a> i autor bloga na <a href="http://geekyprimitives.wordpress.com/" target="_blank">geekyprimitives.wordpress.com</a>.
+<span class="clearfix"></span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #17 [2015-11-25]]]></title>
@@ -182,47 +208,6 @@
 <p>Fan Apache Wicket oraz Spocka. Typ &ldquo;działacza&rdquo;, pisze bloga, organizował dwie edycje Confitury, jedną Warsjawę, był w&nbsp;radzie programowej 4Developers, kieruje GeeCON Trainem i&nbsp;udziela się jako jeden z&nbsp;liderów warszawskiego JUG-a.</p>
 
 <p>Aktualnie, w&nbsp;ramach wychodzenia z&nbsp;comfort-zone, początkujący i&nbsp;przerażony prelegent.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #13 [2015-05-27]]]></title>
-    <link href="http://torun.jug.pl/news/2015/05/14/spotkanie-13/"/>
-    <updated>2015-05-14T06:15:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/05/14/spotkanie-13</id>
-    <content type="html"><![CDATA[<p>Trzynaste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 27 maja 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/222511915/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/1593100447642402/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<h3>Wprowadzenie do RxJava</h3>
-
-<p>Chciałbym przedstawić istnienie możliwości pisania reaktywnych aplikacji na JVM. Wspomnę o&nbsp;pewnym podobieństwie pomiędzy Iterator oraz Iterable a&nbsp;Observer i&nbsp;Observable, rozważając jak różne transformacje oraz kompozycja pozwalają nam wnioskować o&nbsp;tego typu kodzie.</p>
-
-<p>Prezentacja oparta będzie o&nbsp;framework RxJava.</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/fejzer-mikolaj.jpg" /></p>
-
-<h4>Mikołaj Fejzer</h4>
-
-<p>Doktorant, zawodowo programista Java. Do moich zainteresowań należą uczenie maszynowe, tworzenie kodu o&nbsp;względnie dobrej jakości oraz programowanie funkcyjne.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Don&rsquo;t Panic &ndash; Hitchhiker&rsquo;s guide to the JVM monitoring</h3>
-
-<p>Zdarzają się chwile, w&nbsp;których nawet najlepiej napisany system czy aplikacja odmawiają posłuszeństwa. Jak radzić sobie w&nbsp;kryzysowych sytuacjach? W&nbsp;jakie narzędzia się uzbroić? W&nbsp;prezentacji przedstawię przegląd narzędzi służących do monitorowania różnych aspektów działania wirtualnej maszyny Java wraz z&nbsp;praktycznymi przykładami ich wykorzystania.</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/oczkowski-wojciech.jpg" /></p>
-
-<h4>Wojciech Oczkowski</h4>
-
-<p>Prowadzący własną działalność specjalista do spraw trudnych, zawodowo rozwiązuje problemy związane z&nbsp;projektowaniem architektury systemów, wydajnością i&nbsp;jakością kodu. Znajduje obsesyjną wręcz przyjemność w&nbsp;wynajdowaniu sensu w&nbsp;cudzym kodzie. Prywatnie rozwiązuje problemy związane z&nbsp;wychowaniem 2&nbsp;dzieciaków i&nbsp;znajdowaniem czasu na żeglowanie i&nbsp;czytanie literatury fantastycznej.</p>
 ]]></content>
   </entry>
   

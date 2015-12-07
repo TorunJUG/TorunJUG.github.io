@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-11-26T21:54:59+01:00</updated>
+  <updated>2015-12-07T18:45:15+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #18 [2015-12-16]]]></title>
+    <link href="http://torun.jug.pl/news/2015/12/07/spotkanie-18/"/>
+    <updated>2015-12-07T19:00:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/12/07/spotkanie-18</id>
+    <content type="html"><![CDATA[<p>Toruń JUG zaprasza na osiemnaste spotkanie, które odbędzie się <strong>w&nbsp;środę, 16 grudnia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/227270961/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
+
+<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>W gąszczu grafów, czyli jak zostać bohaterem swoich danych w Neo4j</h3>
+
+<p>Zapraszam na przejażdkę w świat grafów podczas której zapoznamy się z teorią grafów i bazą danych Neo4j, by następnie po krótkim teoretycznym wstępie zapoznać się z językiem Cypher. Będziemy budować, materializować i przemierzać grafy, od tych małych do tych dużych. Zapoznamy się z algorytmami i technikami analizy sieci społecznościowych i nauczymy się podstaw silników rekomendacji. Wszystko to z pomocą języka który powstał na potrzeby bazy Neo4j, który łaczy ekspresyjność starego dobrego SQL i potęgę wyszukiwania wzorców w grafach, a wszystko to będzie wyglądało jak stary dobry &ldquo;ASCII art&rdquo;. Mam nadzieję, że po tym warsztacie raz na zawsze zapomnimy o klauzuli JOIN i iloczynie kartezjańskim.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/palka-jaroslaw.jpg" /></p>
+
+<h4>Jarosław Pałka</h4>
+
+<p>Od ponad 15 lat w branży IT, jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo, jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych narzędzi które wykonają pracę za ciebie. W międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL, by potem porzucić je by zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą „metafora” i odkryć, że rządzą nami te same prawa „natury”. Niepokorny wyznawca kościoła JVM, badacz bytecode&#8217;u i JIT oraz wszelkiej maści parserów, interpeterów i kompilatorów.  Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce. W wolnych chwilach trener w <a href="http://symentis.pl" target="_blank">symentis.pl</a> i autor bloga na <a href="http://geekyprimitives.wordpress.com/" target="_blank">geekyprimitives.wordpress.com</a>.
+<span class="clearfix"></span></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie siedemnastego spotkania]]></title>
@@ -24,7 +50,7 @@
 
 <p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1qGP4RO3CtVafrX21Yq5aonPP00AL4eV4pFdpSnxzcBE/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
 
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=TODO" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/TODO/" target="_blank">Meetupie</a>.</p>
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1705459696344183.1073741848.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26577402/" target="_blank">Meetupie</a>.</p>
 
 <p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
 
@@ -611,23 +637,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>Natomiast z&nbsp;wielkim entuzjazmem została przyjęta prezentacja Wojtka Oczkowskiego, który w&nbsp;ciekawy i&nbsp;przystępny sposób przekazał wiele merytorycznych i&nbsp;praktycznych aspektów monitoringu wirtualnej maszyny Java.</p>
 
 <p>Wysoko oceniliście także przygotowanie spotkania. Dziękujemy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hackathorn #2: Community/Integration Edition]]></title>
-    <link href="http://torun.jug.pl/news/2015/06/05/hackathorn-2-community-integration-edition/"/>
-    <updated>2015-06-05T08:30:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/06/05/hackathorn-2-community-integration-edition</id>
-    <content type="html"><![CDATA[<p>Toruński JUG razem z&nbsp;<a href="http://smartspace.io" target="_blank">Exea Smart Space</a> zapraszają wszystkich JUGowiczów na kolejny hackathon toruńskiej grupy użytkowników Javy!</p>
-
-<p>Tym razem bierzemy na warsztat temat wszelkiego rodzaju społeczności. Czy jesteś członkiem JUGa, czy Stowarzyszenia Wędkarzy Polskich, chcemy stworzyć narzędzia wspomagające &ndash; np. aplikacje łączące n&nbsp;narzędzi do zarządzania social feedami, członkami społeczności, konkursami, spotkaniami, wyjazdami&hellip; &ndash; czyli właściwie cokolwiek Wam przyjdzie do głowy związanego z&nbsp;tematyką!</p>
-
-<p>Sprawy organizacyjne &ndash; zaczynamy <strong>w&nbsp;sobotę 20 czerwca o&nbsp;godzinie 13, kończymy w&nbsp;niedzielę 21 czerwca o&nbsp;godzinie 13</strong>. Zespoły mogą być maksymalnie czteroosobowe. Po zakończeniu kodowania będziemy mieli okazję zaprezentować wszystkie aplikacje oraz wybrać drogą głosowania najlepszą z&nbsp;nich. <a href="http://allegro.pl/country_pages/1/0/marketing/about.php" target="_blank">Grupa Allegro</a> zapewni nam jedzenie i&nbsp;picie podczas całego wydarzenia. Firma <a href="http://www.gft.com" target="_blank">GFT</a> zasponsoruje koszulki dla wszystkich uczestników.</p>
-
-<p>Hackathon odbędzie się w&nbsp;budynku Exea Smart Space przy <a href="https://www.google.pl/maps/place/Włocławska+167,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ulicy Włocławskiej 167 w&nbsp;Toruniu</a>. Rejestracja odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/222983568/" target="_blank">Meetup</a>. Ilość miejsc ograniczona. Jeśli jednak dojdziemy do limitu, pomyślimy nad dodatkowymi przestrzeniami do kodowania.</p>
-
-<p><a href="http://www.meetup.com/Torun-JUG/events/222983568/" target="_blank">Zarejestruj się</a> już teraz!</p>
 ]]></content>
   </entry>
   

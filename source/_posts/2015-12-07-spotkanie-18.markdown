@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Spotkanie #18 [2015-12-16]"
+description: "Toruń JUG - Spotkanie #18 [2015-12-16]"
+date: 2015-12-07 19:30:00 +0200
+comments: true
+categories: Spotkania
+---
+Toruń JUG zaprasza na osiemnaste spotkanie, które odbędzie się **w&nbsp;środę, 16 grudnia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/227270961/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).
+
+Sala S9 będzie otwarta **od godz. 17:30** - jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more -->
+
+### W gąszczu grafów, czyli jak zostać bohaterem swoich danych w Neo4j
+Zapraszam na przejażdkę w świat grafów podczas której zapoznamy się z teorią grafów i bazą danych Neo4j, by następnie po krótkim teoretycznym wstępie zapoznać się z językiem Cypher. Będziemy budować, materializować i przemierzać grafy, od tych małych do tych dużych. Zapoznamy się z algorytmami i technikami analizy sieci społecznościowych i nauczymy się podstaw silników rekomendacji. Wszystko to z pomocą języka który powstał na potrzeby bazy Neo4j, który łaczy ekspresyjność starego dobrego SQL i potęgę wyszukiwania wzorców w grafach, a wszystko to będzie wyglądało jak stary dobry "ASCII art". Mam nadzieję, że po tym warsztacie raz na zawsze zapomnimy o klauzuli JOIN i iloczynie kartezjańskim.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/palka-jaroslaw.jpg" />
+#### Jarosław Pałka
+Od ponad 15 lat w branży IT, jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo, jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych narzędzi które wykonają pracę za ciebie. W międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL, by potem porzucić je by zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą „metafora” i odkryć, że rządzą nami te same prawa „natury”. Niepokorny wyznawca kościoła JVM, badacz bytecode'u i JIT oraz wszelkiej maści parserów, interpeterów i kompilatorów.  Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce. W wolnych chwilach trener w <a href="http://symentis.pl" target="_blank">http://symentis.pl</a> i autor bloga na <a href="http://geekyprimitives.wordpress.com/" target="_blank">http://geekyprimitives.wordpress.com/</a>.
+<span class="clearfix"></span>

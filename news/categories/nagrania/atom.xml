@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Nagrania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/nagrania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-12-07T18:45:15+01:00</updated>
+  <updated>2015-12-14T20:32:25+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z siedemnastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/12/14/nagranie-z-siedemnastego-spotkania/"/>
+    <updated>2015-12-14T21:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/12/14/nagranie-z-siedemnastego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2844" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2015/11/15/spotkanie-17/">siedemnastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2844&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z szesnastego spotkania]]></title>
@@ -98,30 +122,6 @@
       <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
       <param name="allowScriptAccess" value="always" />
       <param name="flashVars" value="movieID=2709&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z dwunastego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/05/08/nagranie-z-dwunastego-spotkania/"/>
-    <updated>2015-05-08T18:45:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/05/08/nagranie-z-dwunastego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2673" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/news/2015/04/15/spotkanie-12/">dwunastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=2673&amp;width=640" />
     </object>
   </div>
 </div>

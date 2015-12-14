@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-12-07T18:45:15+01:00</updated>
+  <updated>2015-12-14T20:32:25+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z siedemnastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2015/12/14/nagranie-z-siedemnastego-spotkania/"/>
+    <updated>2015-12-14T21:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2015/12/14/nagranie-z-siedemnastego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2844" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2015/11/15/spotkanie-17/">siedemnastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2844&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #18 [2015-12-16]]]></title>
@@ -620,23 +644,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <h3>Dlaczego warto tam być?</h3>
 
 <p>Chcemy sprawić aby Codepot był świętem dla programistów. Wierzymy, że ta inicjatywa przerodzi się w&nbsp;tętniące życiem miejsce do wymiany doświadczeń. Naszym celem, oprócz doskonalenia się w&nbsp;znanych technologiach, jest również aktywne poznawanie nowych zagadnień w&nbsp;stylu learn-by-doing. Nasza impreza zgromadzi ponad 70 specjalistów, którzy chcą podzielić się swoją wiedzą. Codepot to nie tylko warsztaty oraz nauka. To także szansa do zupełnego oderwania się od rzeczywistości przy warsztatach miękkich. Nieoderwalnym i&nbsp;jednym z&nbsp;ważniejszych elementem tej konferencji będzie także networking wśród nowo poznanych znajomych, do którego klimat konferencji będzie zachęcał.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie ankiet 13. spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/06/07/podsumowanie-ankiet-13-spotkania/"/>
-    <updated>2015-06-07T07:45:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/06/07/podsumowanie-ankiet-13-spotkania</id>
-    <content type="html"><![CDATA[<p>Dziękujemy wszystkim 14 osobom, które wypełniły ankiety po ostatnim spotkaniu.</p>
-
-<p>Spotkanie zostało ocenione na 8,07/10.</p>
-
-<p>Ciepło przyjęliście temat RxJavy, ale oczekiwaliście trochę szerszego spojrzenia na temat.</p>
-
-<p>Natomiast z&nbsp;wielkim entuzjazmem została przyjęta prezentacja Wojtka Oczkowskiego, który w&nbsp;ciekawy i&nbsp;przystępny sposób przekazał wiele merytorycznych i&nbsp;praktycznych aspektów monitoringu wirtualnej maszyny Java.</p>
-
-<p>Wysoko oceniliście także przygotowanie spotkania. Dziękujemy!</p>
 ]]></content>
   </entry>
   

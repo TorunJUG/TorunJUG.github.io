@@ -272,13 +272,18 @@
     {
         "name" : "Jarosław Pałka",
         "img" : "palka-jaroslaw.jpg",
-        "lastMeeting": 11,
+        "lastMeeting": 18,
         "talks" : [
             {
                 "meetingNumber" : 11,
                 "title" : "Czterej jeźdźcy apokalipsy, gdy Armagedon w JVM nadchodzi",
                 "youtube" : "https://www.youtube.com/watch?v=Mq9LT-gwQYU",
                 "slides" : "http://www.slideshare.net/kcrimson/czterej-jedcy-apokalipsy-gdy-armagedon-w-jvm-nadchodzi"
+            },
+            {
+                "meetingNumber" : 18,
+                "title" : "W gąszczu grafów, czyli jak zostać bohaterem swoich danych w Neo4j",
+                "slides" : "http://torun.jug.pl/materials/meetings/18/W_gaszczu_grafow_by_Jaroslaw_Palka.pdf"
             }
         ]
     },

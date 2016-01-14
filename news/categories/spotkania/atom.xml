@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-12-23T21:40:50+01:00</updated>
+  <updated>2016-01-14T06:24:20+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -30,7 +30,7 @@
 
 <p>Zapraszam na przejażdkę w świat grafów podczas której zapoznamy się z teorią grafów i bazą danych Neo4j, by następnie po krótkim teoretycznym wstępie zapoznać się z językiem Cypher. Będziemy budować, materializować i przemierzać grafy, od tych małych do tych dużych. Zapoznamy się z algorytmami i technikami analizy sieci społecznościowych i nauczymy się podstaw silników rekomendacji. Wszystko to z pomocą języka który powstał na potrzeby bazy Neo4j, który łaczy ekspresyjność starego dobrego SQL i potęgę wyszukiwania wzorców w grafach, a wszystko to będzie wyglądało jak stary dobry &ldquo;ASCII art&rdquo;. Mam nadzieję, że po tym warsztacie raz na zawsze zapomnimy o klauzuli JOIN i iloczynie kartezjańskim.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/palka-jaroslaw.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/palka-jaroslaw.jpg" /></p>
 
 <h4>Jarosław Pałka</h4>
 
@@ -56,7 +56,7 @@
 
 <p>Całkiem niedawno pojawiła się Java 8 przynosząc nam wyrażenia lambda, nowe API dla czasu i wiele innych. A my już czekamy na to, co zobaczymy w następnej wersji. Na prezentacji opowiem jakie nowości przyniesie Java 9, co to jest project Jigsaw, jak będziemy liczyć pieniądze oraz o kilku innych.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/przybysz-dominik.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/przybysz-dominik.jpg" /></p>
 
 <h4>Dominik Przybysz</h4>
 
@@ -75,7 +75,7 @@
 
 <p>Zachęcam do zabrania ze sobą urządzeń elektronicznych (niekoniecznie laptopów, telefon z przeglądarką wystarczy).</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/kapala-pawel.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/kapala-pawel.jpg" /></p>
 
 <h4>Paweł Kapała</h4>
 
@@ -101,7 +101,7 @@
 
 <p>Pisanie bezstanowych aplikacji komunikujących się po HTTP to chleb powszechni każdego programisty. Dzisiaj chciałbym Was zabrać w inną podróż &ndash; do świata klastrów, protokołów sieciowych i wywołań RPC. Zapnijcie pasy &ndash; będzie niezła zabawa!</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/laskawiec-sebastian.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
 
 <h4>Sebastian Łaskawiec</h4>
 
@@ -133,21 +133,21 @@
 
 <p>Dodatkowo to Ty, siedząc na sali, będziesz miał wpływ na to o czym usłyszysz, więc przyjdź i bądź częścią tego niecodziennego wydarzenia.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/bryk-rafal.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/bryk-rafal.jpg" /></p>
 
 <h4>Rafał Bryk</h4>
 
 <p>Scrum Master z backgroundem technologicznym. Pasjonat wytwarzania dobrego software'u dobrze. Na co dzień pracuje z ludźmi rozwijającymi oprogramowanie polskiego e-commerce'u, wspomagając procesy podejmowania optymalnych decyzji. Prywatnie miłośnik nowych technologii, gier planszowych i rekreacyjnych wypraw rowerowych.
 <span class="clearfix"></span></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/modzelewski-piotr.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/modzelewski-piotr.jpg" /></p>
 
 <h4>Piotr Modzelewski</h4>
 
 <p>Programista z wieloletnim stażem. Entuzjasta zwinnego wytwarzania oprogramowania. Na co dzień pracuje z systemami przetwarzającymi duże ilości danych w czasie rzeczywistym. Wielokrotnie wspomagał wprowadzanie zwinnej metodyki pracy w różnych zespołach. W wolnym czasie oprocz programowania pasjonują go Sci-fi oraz gry te bardziej i mniej wirtualne
 <span class="clearfix"></span></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/taflinski-maciej.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/taflinski-maciej.jpg" /></p>
 
 <h4>Maciej Tafliński</h4>
 
@@ -179,7 +179,7 @@
 
 <p>Serdecznie zapraszam na prezentację i&nbsp;do dyskusji.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/pulawski-lukasz.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/pulawski-lukasz.jpg" /></p>
 
 <h4>Łukasz Puławski</h4>
 
@@ -199,7 +199,7 @@
 
 <p>W&nbsp;tej prezentacji pokażę jak niektóre błędy z&nbsp;CV i&nbsp;przebiegu rekrutacji są zadziwiająco podobne do błędów jakie popełniamy kodując. Jak te błędy wpływają na postrzeganie kandydata przez programistę &ndash; rekrutera. I&nbsp;jak ich wyeliminowanie może umożliwić Ci dostanie pracy w&nbsp;wymarzonej firmie.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/dziurko-tomasz.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/dziurko-tomasz.jpg" /></p>
 
 <h4>Tomasz Dziurko</h4>
 

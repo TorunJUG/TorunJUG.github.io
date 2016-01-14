@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2015-12-23T21:40:50+01:00</updated>
+  <updated>2016-01-14T06:20:30+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z osiemnastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2016/01/14/nagranie-z-osiemnastego-spotkania/"/>
+    <updated>2016-01-14T06:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/01/14/nagranie-z-osiemnastego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2921" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="http://torun.jug.pl/news/2015/12/07/spotkanie-18/">osiemnastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2921&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie osiemnastego spotkania]]></title>
@@ -583,61 +607,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #14 [2015-06-24]]]></title>
-    <link href="http://torun.jug.pl/news/2015/06/10/spotkanie-14/"/>
-    <updated>2015-06-10T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/06/10/spotkanie-14</id>
-    <content type="html"><![CDATA[<p>Czternaste spotkanie toruńskiej grupy użytkowników języka Java odbędzie się <strong>w&nbsp;środę, 24 czerwca 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/223133594/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Zapraszamy również na stronę wydarzenia na portalu <a href="https://www.facebook.com/events/590517497756107/" target="_blank">Facebook</a>.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<h3>Java microservices made easy with Ratel</h3>
-
-<p>Architektura mikrousług zdobywa ostatnio coraz większą popularność, więc powstają standardy, dobre praktyki i&nbsp;popularne biblioteki do realizacji systemów tego typu. Jednym z&nbsp;trendów jest zapewnianie narzędzi integracji niezależnych od języka, czy technologii. To podejście ma pewne zalety, ale jeśli integrujemy ze sobą tylko systemy napisane w&nbsp;Javie, to w&nbsp;sumie co nam daje niezależność od języka, prócz dodatkowego narzutu?</p>
-
-<p>Ratel to biblioteka, która pozwala wygodnie pisać rozproszone aplikacje z&nbsp;użyciem mikroserwisów, tak łatwo i&nbsp;szybko jakby chodziło o&nbsp;system lokalny, co między innymi oznacza, że mamy doskonałe wsparcie wielu istniejących od dawna narzędzi. Używając Ratela, korzystamy z&nbsp;wszystkich dobrodziejstw architektury SOA, bez ponoszenia kosztów wspomnianego wcześniej narzutu.</p>
-
-<p>Serdecznie zapraszam na prezentację i&nbsp;do dyskusji.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/pulawski-lukasz.jpg" /></p>
-
-<h4>Łukasz Puławski</h4>
-
-<p>Architekt z&nbsp;doświadczeniem w&nbsp;refaktoryzacji dużych systemów. W&nbsp;mojej pracy, przed przystąpieniem do czyszczenia software-u, często staram się tworzyć proste biblioteki i&nbsp;rozwiązania szyte na miarę, które rozwiązują konkretne problemy i&nbsp;pozwalają szybko zmieniać architekturę systemów. Na tym spotkaniu mam nadzieje opowiedzieć Wam o&nbsp;takim właśnie przypadku.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści</h3>
-
-<p>Rekrutacje wyglądają różnie, ale finalnie po ładnych paniach od HR-u i&nbsp;tak spotkasz się z&nbsp;programistami. Ich nie interesuje jakim byłbyś zwierzęciem, czy odpowiedź na pytanie &ldquo;Jaka jest Twoja największa wada?&rdquo;, gdzie na pewno w&nbsp;100% szczerze opowiesz o&nbsp;swoim nałogowym graniu w&nbsp;World of Tanks w&nbsp;godzinach pracy czy uzależnieniu od Facebooka. Programista zainteresowany jest dwoma rzeczami:</p>
-
-<ol>
-<li>czy da się z&nbsp;tobą pracować w&nbsp;jednym zespole,</li>
-<li>czy kod, który wyprodukujesz nadaje się do czegokolwiek.</li>
-</ol>
-
-
-<p>W&nbsp;tej prezentacji pokażę jak niektóre błędy z&nbsp;CV i&nbsp;przebiegu rekrutacji są zadziwiająco podobne do błędów jakie popełniamy kodując. Jak te błędy wpływają na postrzeganie kandydata przez programistę &ndash; rekrutera. I&nbsp;jak ich wyeliminowanie może umożliwić Ci dostanie pracy w&nbsp;wymarzonej firmie.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/dziurko-tomasz.jpg" /></p>
-
-<h4>Tomasz Dziurko</h4>
-
-<p>Programista od prawie 7&nbsp;lat, pracował w&nbsp;korporacji, startupie za unijną dotację, a&nbsp;nawet sklepie z&nbsp;bielizną. Od 4&nbsp;lat zdalnie buduję potęgę SoftwareMill jako programista i&nbsp;CEO, a&nbsp;czasem jako specjalista od rekrutacji.</p>
-
-<p>Fan Apache Wicket oraz Spocka. Typ &ldquo;działacza&rdquo;, pisze bloga, organizował dwie edycje Confitury, jedną Warsjawę, był w&nbsp;radzie programowej 4Developers, kieruje GeeCON Trainem i&nbsp;udziela się jako jeden z&nbsp;liderów warszawskiego JUG-a.</p>
-
-<p>Aktualnie, w&nbsp;ramach wychodzenia z&nbsp;comfort-zone, początkujący i&nbsp;przerażony prelegent.</p>
 ]]></content>
   </entry>
   

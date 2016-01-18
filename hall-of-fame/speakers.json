@@ -283,6 +283,7 @@
             {
                 "meetingNumber" : 18,
                 "title" : "W gąszczu grafów, czyli jak zostać bohaterem swoich danych w Neo4j",
+                "youtube" : "https://www.youtube.com/watch?v=TfvX6Ql8ScE",
                 "slides" : "http://torun.jug.pl/materials/meetings/18/W_gaszczu_grafow_by_Jaroslaw_Palka.pdf"
             }
         ]

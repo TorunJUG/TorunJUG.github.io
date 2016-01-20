@@ -1,23 +1,38 @@
 ---
 layout: post
-title: "Spotkanie #18 [2015-12-16]"
-description: "Toruń JUG - Spotkanie #18 [2015-12-16]"
-date: 2015-12-07 19:00:00 +0100
+title: "Spotkanie #19 [2016-01-20]"
+description: "Toruń JUG - Spotkanie #19 [2016-01-20]"
+date: 2016-01-20 06:00:00 +0100
 comments: true
 categories: Spotkania
 ---
-Toruń JUG zaprasza na osiemnaste spotkanie, które odbędzie się **w&nbsp;środę, 16 grudnia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+Toruń JUG zaprasza na dziewiętnaste spotkanie, które odbędzie się **w&nbsp;środę, 27 stycznia 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
 
-Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/227270961/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/228205885/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
 
-Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty, tym razem do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>).
 
 Sala S9 będzie otwarta **od godz. 17:30** - jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more -->
 
-### W gąszczu grafów, czyli jak zostać bohaterem swoich danych w Neo4j
-Zapraszam na przejażdkę w świat grafów podczas której zapoznamy się z teorią grafów i bazą danych Neo4j, by następnie po krótkim teoretycznym wstępie zapoznać się z językiem Cypher. Będziemy budować, materializować i przemierzać grafy, od tych małych do tych dużych. Zapoznamy się z algorytmami i technikami analizy sieci społecznościowych i nauczymy się podstaw silników rekomendacji. Wszystko to z pomocą języka który powstał na potrzeby bazy Neo4j, który łaczy ekspresyjność starego dobrego SQL i potęgę wyszukiwania wzorców w grafach, a wszystko to będzie wyglądało jak stary dobry "ASCII art". Mam nadzieję, że po tym warsztacie raz na zawsze zapomnimy o klauzuli JOIN i iloczynie kartezjańskim.
+### Java Memory Consistency Model - context and concepts
+Every now and then you hear about concurrency, threads, locks, semaphores, mutexes, multiple cores, synchronized and other hard/low multithreading or mechanical sympathy things. This is the talk that actually sorts it out and brings clarity to it all.
 
-<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/palka-jaroslaw.jpg" />
-#### Jarosław Pałka
-Od ponad 15 lat w branży IT, jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo, jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych narzędzi które wykonają pracę za ciebie. W międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL, by potem porzucić je by zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą „metafora” i odkryć, że rządzą nami te same prawa „natury”. Niepokorny wyznawca kościoła JVM, badacz bytecode'u i JIT oraz wszelkiej maści parserów, interpeterów i kompilatorów.  Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce. W wolnych chwilach trener w <a href="http://symentis.pl" target="_blank">symentis.pl</a> i autor bloga na <a href="http://geekyprimitives.wordpress.com/" target="_blank">geekyprimitives.wordpress.com</a>.
-<span class="clearfix"></span>
+I'll tell you why some people claimed that it's time for multithreaded programming already half a century ago. Why it's becoming a hot topic again. What it's really about and where (if?) it matters. I'll show few people you may want to dig if you plan on knowing more about this stuff. I'll explain why close concepts like concurrency and multithreading are being often mixed up. I'll tell how it matters in Java. This is for people who want clarity, who want to know what's really in it and why should they dig... and what should they dig. Because, there are two kinds of people. Those with guns, and those, who dig. And you don't wanna dig. ;-)
+
+In simple words: context for multithreaded programming in Java, concepts that are important there, language support and overall big picture (including programming languages, not just Java). And lots of links / people for you to read and follow later.
+
+<em><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em>
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/borek-tomasz.jpg" />
+#### Tomasz Borek
+Koder* z Polski, mający nadzieję nauczyć się czegoś nowego każdego dnia.
+
+Wdzięczny każdemu, kto pomógł w mej drodze. Dumny z: <a href="http://sckrk.com">http://sckrk.com</a> oraz <a href="http://geecon.org">http://geecon.org</a>.
+Pomaga przy: SCKRK, Polskim JUGu i krakowskiej Loży Lambda.
+
+Przyznaję się do mych wad i ułomności.
+
+Lubię: ludzi, programy, muzykę, gry wyobraźni, uczciwość, naukę.
+Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.
+
+*\*Po rodzicach. Oni kodowali, to i ja koduję…*

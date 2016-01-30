@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-01-20T18:22:33+01:00</updated>
+  <updated>2016-01-30T20:41:39+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie dziewiętnastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2016/01/30/podsumowanie-dziewietnastego-spotkania/"/>
+    <updated>2016-01-30T20:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/01/30/podsumowanie-dziewietnastego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2016/01/20/spotkanie-19/">dziewiętnaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Tomkowi, który bardzo fajnie przedstawił pojęcie modelu spójności danych w Javie. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1ZGWm9hOO2Hq0WwoGGRc7Qeh5AZZNbmQXhEXWfNuvIP0/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1722466807976805.1073741850.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26698472/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="#bedzie-jak-Tomek-przysle" target="_blank">
+      <em>Model spójności danych w Javie</em></a> (slajdy z&nbsp;prezentacji Tomasza Borka)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #19 [2016-01-27]]]></title>
@@ -589,40 +620,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 
 
 <p>Dzięki uprzejmości naszego nowego partnera, od najbliższego spotkania, do puli losowanych upominków dorzucimy <strong>dwie darmowe, miesięczne subskrypcje do portalu Pluralsight</strong>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie czternastego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/06/26/podsumowanie-czternastego-spotkania/"/>
-    <updated>2015-06-26T06:15:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/06/26/podsumowanie-czternastego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2015/06/10/spotkanie-14/">czternaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom &ndash; Łukaszowi, za wprowadzenie do tworzenia microserwisów z&nbsp;użyciem biblioteki Ratel oraz Tomkowi, za podzielenie się swoim spostrzeżeniami na temat błędów popełnianych przez developerów w&nbsp;procesie rekrutacji. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
-
-<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Cybermachina.</p>
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1j7nV-pwAQHbsa5kN74cyPniCPoE4WzfieL_GEpiQ_e8/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1662909060599247.1073741845.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26220114/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-    <li>
-    <a href="https://github.com/PayU-Tech/Ratel/" target="_blank">Dokumentacja biblioteki Ratel, o której opowiadał Łukasz Puławski</a>
-  </li>
-  <li>
-    <a href="http://tinyurl.com/brzydka-pani-hr-bledy-devow" target="_blank">
-      <em>Brzydka Pani od HR radzi, czyli 1011 błędów, które popełniają programiści</em></a> (slajdy z&nbsp;prezentacji Tomasza Dziurko)
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Udajemy się na krótkie wakacje &ndash; z&nbsp;regularnymi spotkaniami wracamy we wrześniu. Tymczasem zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
   </entry>
   

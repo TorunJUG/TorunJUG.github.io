@@ -427,5 +427,16 @@
                 "youtube" : "https://www.youtube.com/watch?v=V5YbEN6uuHQ"
             }
         ]
+    },
+    {
+        "name" : "Tomasz Borek",
+        "img" : "borek-tomasz.jpg",
+        "lastMeeting": 19,
+        "talks" : [
+            {
+                "meetingNumber" : 19,
+                "title" : "Model spójności danych w Javie"
+            }
+        ]
     }
 ]

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-01-30T20:41:39+01:00</updated>
+  <updated>2016-02-04T06:32:48+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: PolyConf16]]></title>
+    <link href="http://torun.jug.pl/news/2016/02/04/zapowiedz-konferencji-polyconf16/"/>
+    <updated>2016-02-04T06:45:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/02/04/zapowiedz-konferencji-polyconf16</id>
+    <content type="html"><![CDATA[<p>W tym roku odbędzie się trzecia edycja <a href="http://polyconf.com" target="_blank">PolyConf</a>, 3-dniowej konferencji skupiającej się na obszarze zaawansowanych technologii dla fanów poliglotycznego podejścia do programowania.</p>
+
+<p>Historia konferencji sięga 2006 roku, kiedy to odbyła się pierwsza edycja RuPy, czyli konferencji zrzeszającej zwolenników dwóch języków programowania: Ruby i Python. Przez 8 lat RuPy wędrował po świecie (Brno, Sao Paolo, Budapeszt), żeby na dobre zadomowić się w Poznaniu w nowej odsłonie jako PolyConf. Tematykę rozszerzono o różne, często mniej popularne języki, ale głównym celem było promowanie poliglotycznego podejścia. <!--more--></p>
+
+<p>Forma konferencji jest prosta: 3 dni, 6 warsztatów, 40 intensywnych, zaawansowanych, poliglotycznych talków, ale również 3 wieczorne imprezy oraz bieg na 5 kilometrów :)</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://polyconf.com" target="_blank">
+      <img class="no-border" src="http://torun.jug.pl/images/partners/polyconf16.png" alt="PolyConf16" />
+    </a>
+  </div>
+</div>
+
+
+<p>Wśród speakerów poprzednich edycji znaleźli się m.in. Ryan Dahl &ndash; twórca node.js, Robert Virding &ndash; współtwórca Erlanga, Stefan Karpinski &ndash; współtwórca Julii oraz John Hughes &ndash; współtwórca Haskella.</p>
+
+<p>W tym roku swoją obecność potwierdzili m.in.: <a href="https://twitter.com/rachelreese" target="_blank">Rachel Reese</a>, <a href="https://twitter.com/guybedford" target="_blank">Guy Bedford</a>, Andreas Rumpf oraz <a href="https://twitter.com/jo_liss" target="_blank">Jo Liss</a>.</p>
+
+<p>Jeśli chcecie dołączyć do grona tegorocznych speakerów, CFP jest otwarte! Swoje prezentacje można zgłaszać za pośrednictwem portalu <a href="http://eventil.com/events/polyconf-16" target="_blank">Eventil</a>.</p>
+
+<p>Konferencję poprzedzać będą satelitarne wydarzenia oraz imprezy towarzyszące m.in. w Warszawie, Berlinie i Paryżu. Aktualności możecie śledzić na <a href="https://twitter.com/polyconfhq" target="_blank">Twitterze</a>, <a href="https://facebook.com/polyconf" target="_blank">Facebooku</a> oraz na stronie <a href="http://polyconf.com" target="_blank">polyconf.com</a>.</p>
+
+<p>Kiedy: 30 czerwca &ndash; 2 lipca 2016<br/>
+Gdzie: POZnań, budynek Wydziału Prawa i Administracji UAM</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie dziewiętnastego spotkania]]></title>
@@ -600,26 +633,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pluralsight naszym nowym partnerem]]></title>
-    <link href="http://torun.jug.pl/news/2015/07/02/pluralsight-naszym-nowym-partnerem/"/>
-    <updated>2015-07-02T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/07/02/pluralsight-naszym-nowym-partnerem</id>
-    <content type="html"><![CDATA[<p>Z&nbsp;przyjemnością informujemy, że portal <a href="http://www.pluralsight.com" target="_blank" title="Pluralsight">Pluralsight</a> został naszym nowym partnerem. Dla tych, którzy nie wiedzą, Pluralsight to serwis, który dostarcza bardzo szeroką gamę wysokiej jakości szkoleń online.</p>
-
-<div class="row text-center" style="margin-bottom: 10px;">
-  <div class="col-md-12">
-    <a href="http://www.pluralsight.com" target="_blank" title="Pluralsight">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/pluralsight.png" alt="Pluralsight">
-    </a>
-  </div>
-</div>
-
-
-<p>Dzięki uprzejmości naszego nowego partnera, od najbliższego spotkania, do puli losowanych upominków dorzucimy <strong>dwie darmowe, miesięczne subskrypcje do portalu Pluralsight</strong>.</p>
 ]]></content>
   </entry>
   

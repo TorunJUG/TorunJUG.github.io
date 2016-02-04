@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-01-30T20:41:39+01:00</updated>
+  <updated>2016-02-04T06:32:48+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: PolyConf16]]></title>
+    <link href="http://torun.jug.pl/news/2016/02/04/zapowiedz-konferencji-polyconf16/"/>
+    <updated>2016-02-04T06:45:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/02/04/zapowiedz-konferencji-polyconf16</id>
+    <content type="html"><![CDATA[<p>W tym roku odbędzie się trzecia edycja <a href="http://polyconf.com" target="_blank">PolyConf</a>, 3-dniowej konferencji skupiającej się na obszarze zaawansowanych technologii dla fanów poliglotycznego podejścia do programowania.</p>
+
+<p>Historia konferencji sięga 2006 roku, kiedy to odbyła się pierwsza edycja RuPy, czyli konferencji zrzeszającej zwolenników dwóch języków programowania: Ruby i Python. Przez 8 lat RuPy wędrował po świecie (Brno, Sao Paolo, Budapeszt), żeby na dobre zadomowić się w Poznaniu w nowej odsłonie jako PolyConf. Tematykę rozszerzono o różne, często mniej popularne języki, ale głównym celem było promowanie poliglotycznego podejścia. <!--more--></p>
+
+<p>Forma konferencji jest prosta: 3 dni, 6 warsztatów, 40 intensywnych, zaawansowanych, poliglotycznych talków, ale również 3 wieczorne imprezy oraz bieg na 5 kilometrów :)</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://polyconf.com" target="_blank">
+      <img class="no-border" src="/images/partners/polyconf16.png" alt="PolyConf16" />
+    </a>
+  </div>
+</div>
+
+
+<p>Wśród speakerów poprzednich edycji znaleźli się m.in. Ryan Dahl &ndash; twórca node.js, Robert Virding &ndash; współtwórca Erlanga, Stefan Karpinski &ndash; współtwórca Julii oraz John Hughes &ndash; współtwórca Haskella.</p>
+
+<p>W tym roku swoją obecność potwierdzili m.in.: <a href="https://twitter.com/rachelreese" target="_blank">Rachel Reese</a>, <a href="https://twitter.com/guybedford" target="_blank">Guy Bedford</a>, Andreas Rumpf oraz <a href="https://twitter.com/jo_liss" target="_blank">Jo Liss</a>.</p>
+
+<p>Jeśli chcecie dołączyć do grona tegorocznych speakerów, CFP jest otwarte! Swoje prezentacje można zgłaszać za pośrednictwem portalu <a href="http://eventil.com/events/polyconf-16" target="_blank">Eventil</a>.</p>
+
+<p>Konferencję poprzedzać będą satelitarne wydarzenia oraz imprezy towarzyszące m.in. w Warszawie, Berlinie i Paryżu. Aktualności możecie śledzić na <a href="https://twitter.com/polyconfhq" target="_blank">Twitterze</a>, <a href="https://facebook.com/polyconf" target="_blank">Facebooku</a> oraz na stronie <a href="http://polyconf.com" target="_blank">polyconf.com</a>.</p>
+
+<p>Kiedy: 30 czerwca &ndash; 2 lipca 2016<br/>
+Gdzie: POZnań, budynek Wydziału Prawa i Administracji UAM</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Wspólny wyjazd na JDD - 30% zniżki na wyjzd grupowy]]></title>
@@ -132,47 +165,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>Mobilization to największa w&nbsp;Polsce, darmowa konferencja poświęcona w&nbsp;całości tematyce urządzeń mobilnych. Poprzednie edycje stały na bardzo wysokim poziomie, warto więc zarezerwować sobie czas 17-go października i&nbsp;wybrać się na to wydarzenie.</p>
 
 <p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://www.mobilization.pl" target="_blank">mobilization.pl</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: Codepot]]></title>
-    <link href="http://torun.jug.pl/news/2015/06/08/zapowiedz-konferencji-codepot/"/>
-    <updated>2015-06-08T14:30:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/06/08/zapowiedz-konferencji-codepot</id>
-    <content type="html"><![CDATA[<h3 style="margin-top:0px;">Czym jest Codepot?</h3>
-
-
-<p><strong>Codepot</strong> jest konferencją o&nbsp;formule warsztatowej, przeznaczoną dla programistów JVM, designerów, androidowców, iosowców, webowców, agilersów, devopsów i&nbsp;innych programistów lub osób związanych ze światem IT. Warsztaty są prowadzone przez ekspertów, którzy chcą podzielić się swoją wiedzą i&nbsp;doświadczeniami. Konferencja jest dwudniowym wydarzeniem <strong>w dniach 28-29 sierpnia</strong>.</p>
-
-<h3>Skąd pomysł?</h3>
-
-<p>Uczestniczyliśmy w&nbsp;wielu konferencjach, zarówno jako organizatorzy, ale też wolontariusze i&nbsp;uczestnicy. Formułą każdej z&nbsp;nich był kilkudziesięciominutowy wykład. Brakowało nam spożytkowania tej wiedzy w&nbsp;praktyce. Stąd pomysł by zrobić konferencje, w&nbsp;którym głównym celem będzie uczenie przez działanie. Doceniamy przekazywanie wiedzy poprzez prowadzenie wykładów. Chcemy być ciekawym uzupełnieniem konferencji, które preferują wykładową formę przekazywania wiedzy. <!--more--></p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://codepot.pl" target="_blank">
-      <img class="no-border" src="/images/partners/codepot.png" alt="Codepot" />
-    </a>
-  </div>
-</div>
-
-
-<h3>Kto organizuje?</h3>
-
-<p>Jesteśmy tak jak większość uczestników programistami, liderami zespołów, devopsami. Jednym słowem pracujemy nad wytwarzaniem oprogramowania. Organizacja konferencji to dla nas rozrywka oraz duże wyzwanie. Ale konferencja to nie tylko nasza kilku osobowa grupka osób. Konferencja to przede wszystkim uczestnicy, partnerzy, sponsorzy, którzy tworzą wspaniałą atmosferę wymiany wiedzy.</p>
-
-<h3>Co będzie się działo?</h3>
-
-<p>Planujemy przygotować 72 warsztaty, w&nbsp;12 równoległych ścieżkach. Wszystkich naszych prelegentów można znaleźć na stronie <a href="https://codepot.pl" target="_blank">codepot.pl</a>. Jest już tam silna reprezentacja osób ze świata JVM oraz ze świata mobilnego. Znajdziemy tam też osoby z&nbsp;innych branż. Komponujemy ścieżkę webową, agilową, pythonową, znajdzie się też coś dla zwolenników Rubiego oraz devopsów. Obecnie trwa <a href="https://codepot.pl/call-for-papers" target="_blank">Call 4 Papers</a>, na którym na pewno znajdzie się wiele ciekawych tematów i&nbsp;propozycji.</p>
-
-<h3>Cena?</h3>
-
-<p>Nasze doświadczenie pokazało, że wydarzenie takiego typu musi być płatne. Poprzez zapłacenie symbolicznej kwoty, chcemy zmotywować uczestników do stawienia się na wybranych przez siebie warsztatach. Kwota, jaką będzie trzeba zapłacić za wstęp, będzie oscylowała w&nbsp;granicach kilkogodzinnego wynagrodzenia programisty. Jako dodatkową formę atrakcji planujemy zdradzić nasz budżet, czyli podzielić się informacjami ile i&nbsp;na co wydaliśmy.</p>
-
-<h3>Dlaczego warto tam być?</h3>
-
-<p>Chcemy sprawić aby Codepot był świętem dla programistów. Wierzymy, że ta inicjatywa przerodzi się w&nbsp;tętniące życiem miejsce do wymiany doświadczeń. Naszym celem, oprócz doskonalenia się w&nbsp;znanych technologiach, jest również aktywne poznawanie nowych zagadnień w&nbsp;stylu learn-by-doing. Nasza impreza zgromadzi ponad 70 specjalistów, którzy chcą podzielić się swoją wiedzą. Codepot to nie tylko warsztaty oraz nauka. To także szansa do zupełnego oderwania się od rzeczywistości przy warsztatach miękkich. Nieoderwalnym i&nbsp;jednym z&nbsp;ważniejszych elementem tej konferencji będzie także networking wśród nowo poznanych znajomych, do którego klimat konferencji będzie zachęcał.</p>
 ]]></content>
   </entry>
   

@@ -6,7 +6,7 @@ date: 2016-01-30 20:30:00 +0100
 comments: true
 categories: Materiały
 ---
-W&nbsp;minioną środę odbyło się <a href="{{root_url}}/news/2016/01/20/spotkanie-19/">dziewiętnaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Tomkowi, który bardzo fajnie przedstawił pojęcie modelu spójności danych w Javie. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.
+W&nbsp;minioną środę odbyło się <a href="{{root_url}}/news/2016/01/20/spotkanie-19/">dziewiętnaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Tomkowi, który bardzo fajnie przedstawił pojęcie modelu spójności pamięci w Javie. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.
 
 Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.
 
@@ -18,7 +18,7 @@ Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
 <ul>
   <li>
     <a href="https://speakerdeck.com/littleancientforestkami/model-spojnosci-pamieci-w-javie" target="_blank">
-      <em>Model spójności danych w Javie</em></a> (slajdy z&nbsp;prezentacji Tomasza Borka)
+      <em>Model spójności pamięci w Javie</em></a> (slajdy z&nbsp;prezentacji Tomasza Borka)
   </li>
 </ul>
 

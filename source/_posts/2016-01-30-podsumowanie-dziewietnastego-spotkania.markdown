@@ -17,7 +17,7 @@ Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.c
 Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
 <ul>
   <li>
-    <a href="#bedzie-jak-Tomek-przysle" target="_blank">
+    <a href="https://speakerdeck.com/littleancientforestkami/model-spojnosci-pamieci-w-javie" target="_blank">
       <em>Model spójności danych w Javie</em></a> (slajdy z&nbsp;prezentacji Tomasza Borka)
   </li>
 </ul>

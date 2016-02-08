@@ -435,7 +435,7 @@
         "talks" : [
             {
                 "meetingNumber" : 19,
-                "title" : "Model spójności danych w Javie",
+                "title" : "Model spójności pamięci w Javie",
                 "slides" : "https://speakerdeck.com/littleancientforestkami/model-spojnosci-pamieci-w-javie"
             }
         ]

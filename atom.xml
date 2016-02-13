@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-02-08T19:07:03+01:00</updated>
+  <updated>2016-02-13T15:04:28+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,64 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #20 [2016-02-24]]]></title>
+    <link href="http://torun.jug.pl/news/2016/02/13/spotkanie-20/"/>
+    <updated>2016-02-13T15:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/02/13/spotkanie-20</id>
+    <content type="html"><![CDATA[<p>Serdecznie zapraszamy na dwudzieste spotkanie Toruń Java User Group, które odbędzie się <strong>w&nbsp;środę, 24 lutego 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/228803946/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="http://torun.jug.pl/images/meetings/20/cover.png" />
+  </div>
+</div>
+
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>).</p>
+
+<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>Keycloak – prosty sposób na bezpieczeństwo i uwierzytelnianie w nowoczesnych aplikacjach</h3>
+
+<p>Bezpieczeństwo stało się tematem, który jest na ustach wszystkich. Publiczna wyszukiwarka obrazów kamer z nie zabezpieczonych urządzeń IoT to jeden z najnowszych przykładów. Kradzieże lub wycieki haseł z dużych firm opisywane są praktycznie co miesiąc. Zabezpieczenie danych w chmurze staje się jednym z podstawowych problemów. Jeżeli pracujesz z nowoczesnymi technologiami i aplikacjami nie możesz sobie już dłużej pozwolić na brak podstawowej wiedzy w tej dziedzinie. W czasie tej prezentacji postaramy się jej dostarczyć.</p>
+
+<p>Przedstawimy podstawowe koncepcje i technologie używane obecnie do zabezpieczania nowoczesnych aplikacji. Ze szczególnym uwzględnieniem aplikacji typu &ldquo;client side&rdquo;, mobilnych oraz (mikro) usług. Omówimy dwa podstawowe obecnie standard uwierzytelniania i delegacji – SAML2 oraz OAuth2 / OpenID Connect. Wyjaśnimy jak działają protokoły uwierzytelniania i autoryzacji oparte na tokenach i dlaczego są one obecnie powszechnie stosowane. Pokażemy jak wygląda typowy token i co się z nim dzieje.</p>
+
+<p>Zaprezentujemy także projekt Keycloak, który w znacznym stopniu upraszcza stosowanie wyżej wymienionych technologi.  Wykorzystując to rozwiązanie zademonstrujmy na żywo jak w szybki i prosty sposób możemy zabezpieczyć typową aplikację oraz usługi z których ona korzysta. W oparciu o nowoczesne technologie, integrując się z istniejącą infrastrukturą oraz nie narażając się na popełnienie podstawowych błędów.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/dawidowicz-boleslaw.jpeg" /></p>
+
+<h4><a href="https://twitter.com/bdawidowicz" target="_blank">Bolesław Dawidowicz</a></h4>
+
+<p>Od 2005 roku współpracuje z firmą Red Hat (dawniej JBoss). Od zawsze związany z oprogramowaniem OpenSource. Preferuje pracę zdalną. Obecnie Engineering Manager oraz Platform Architect odpowiedzialny za projekty związane z bezpieczeństwem w warstwie middleware (m.in Keycloak). Wcześniej najpierw jako developer a potem architekt przez wiele lat rozwijał produkt JBoss Portal Platform oraz współkierował projektem GateIn Portal. Współtwórca projektu PicketLink. Członek &ldquo;Expert Group&rdquo; w JSR 351 oraz JSR 362. Niegdyś aktywny członek i jeden z liderów Warszawa JUG – obecnie w stanie spoczynku. Współorganizował konferencję Javarsovia/Confitura (edycję 2007) oraz Warsjawa w latach 2008, 2012 i 2013. W chwili obecnej współtworzy Warsaw JBoss User Group.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/golawski-andrzej.jpeg" /></p>
+
+<h4><a href="https://twitter.com/andiPansa" target="_blank">Andrzej Goławski</a></h4>
+
+<p>Od prawie 15 lat programista i projektant systemów wspomagających zarządzenia ruchem lotniczym (na ziemi i w powietrzu :D). Zawodowo związany z Portami Lotniczymi, Agencją Żeglugi Powietrznej o raz firmą OSEC, w której prowadzi szkolenia związane z technologiami JBoss. Prywatnie i zawodowo pasjonuje się Javą oraz technologiami pokrewnymi. Współzałożyciel  Warsaw JBoss User Group. Szczęśliwy mąż i  tata :)</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>W poszukiwaniu bożków dokumentacji</h3>
+
+<p>Jeden z moich profesorów na Politechnice Gdańskiej mawiał &ldquo;Programistom płacimy za pisanie dokumentacji, pisanie kodu to dla nich przyjemność!&rdquo;. Rzeczywistość jednak okazuje się brutalna&hellip; dokumentacja to ostatnie z czym chcielibyśmy mieć cokolwiek wspólnego w projekcie. Bo nuda, bo word, bo zupełnie inny flow, bo nie widać kto co zmienił&hellip;</p>
+
+<p>Na tej sesji chciałbym Wam pokazać że można inaczej, że dokumentacja może być łatwa i przyjemna &ndash; jak napisanie maila, jak kilka linijek kodu. Takie przynajmniej są założenia AsciiDoc (jak i innych: Markdown, RestructuredText) &ndash; prosta, minimalna, nieinwazyjna składnia, tekstowe dokumenty, czytelne bez dodatkowych narzędzi.</p>
+
+<p>Podczas sesji pragnę przybliżyć AsciiDoc&#8217;a (oraz cały ekosystem narzędzi z nim związanych). Ale przede wszystkim chciałbym Was zarazić najlepszym możliwym sposobem dokumentowania, notowania &ndash; za pomocą prostych i ogólnodostępnych narzędzi, łatwo współdzieląc efekty naszej pracy. nie wychodząc poza nasz codzienny, programistyczny rytuał.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/marchwicki-jakub.jpeg" /></p>
+
+<h4><a href="https://twitter.com/kubem" target="_blank">Jakub Marchwicki</a></h4>
+
+<p>Programista od kilkunastu lat, architekt od kilku, czasami analityk, gdy potrzeba – konsultant, manager z wyboru, trener z zamiłowania, wannabe entrepreneur z marzeń, lider JUG w Gdańsku. Z oprogramowaniem związany przez całe życie zawodowe. Przez ostatnie lata realizował ambicje managerskie, m.in. jako dyrektor techniczny w 250 osobowej firmie. Uważa, że najlepszym sposobem pracy ze specjalistami jest aktywne dzielenie się własną wiedzą oraz aktywnie słuchać innych. Przekazuje doświadczenie w formie wykładów, wystąpień na konferencjach oraz szkoleń. W wolnych chwilach pisuje na <a href="http://jakub.marchwicki.pl" target="_blank">jakub.marchwicki.pl</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: PolyConf16]]></title>
@@ -609,30 +667,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>Mobilization to największa w&nbsp;Polsce, darmowa konferencja poświęcona w&nbsp;całości tematyce urządzeń mobilnych. Poprzednie edycje stały na bardzo wysokim poziomie, warto więc zarezerwować sobie czas 17-go października i&nbsp;wybrać się na to wydarzenie.</p>
 
 <p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://www.mobilization.pl" target="_blank">mobilization.pl</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z czternastego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/07/03/nagranie-z-czternastego-spotkania/"/>
-    <updated>2015-07-03T18:45:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/07/03/nagranie-z-czternastego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2717" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2015/06/10/spotkanie-14/">czternastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=2717&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
 ]]></content>
   </entry>
   

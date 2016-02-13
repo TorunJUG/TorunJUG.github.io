@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Spotkanie #20 [2016-02-24]"
+description: "Toruń JUG - Spotkanie #20 [2016-02-24]"
+date: 2016-02-13 15:30:00 +0100
+comments: true
+categories: Spotkania
+---
+Serdecznie zapraszamy na dwudzieste spotkanie Toruń Java User Group, które odbędzie się **w&nbsp;środę, 24 lutego 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/228803946/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/meetings/20/cover.png" />
+  </div>
+</div>
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>).
+
+Sala S9 będzie otwarta **od godz. 17:30** - jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more -->
+
+### Keycloak – prosty sposób na bezpieczeństwo i uwierzytelnianie w nowoczesnych aplikacjach
+Bezpieczeństwo stało się tematem, który jest na ustach wszystkich. Publiczna wyszukiwarka obrazów kamer z nie zabezpieczonych urządzeń IoT to jeden z najnowszych przykładów. Kradzieże lub wycieki haseł z dużych firm opisywane są praktycznie co miesiąc. Zabezpieczenie danych w chmurze staje się jednym z podstawowych problemów. Jeżeli pracujesz z nowoczesnymi technologiami i aplikacjami nie możesz sobie już dłużej pozwolić na brak podstawowej wiedzy w tej dziedzinie. W czasie tej prezentacji postaramy się jej dostarczyć.
+
+Przedstawimy podstawowe koncepcje i technologie używane obecnie do zabezpieczania nowoczesnych aplikacji. Ze szczególnym uwzględnieniem aplikacji typu "client side", mobilnych oraz (mikro) usług. Omówimy dwa podstawowe obecnie standard uwierzytelniania i delegacji – SAML2 oraz OAuth2 / OpenID Connect. Wyjaśnimy jak działają protokoły uwierzytelniania i autoryzacji oparte na tokenach i dlaczego są one obecnie powszechnie stosowane. Pokażemy jak wygląda typowy token i co się z nim dzieje.
+
+Zaprezentujemy także projekt Keycloak, który w znacznym stopniu upraszcza stosowanie wyżej wymienionych technologi.  Wykorzystując to rozwiązanie zademonstrujmy na żywo jak w szybki i prosty sposób możemy zabezpieczyć typową aplikację oraz usługi z których ona korzysta. W oparciu o nowoczesne technologie, integrując się z istniejącą infrastrukturą oraz nie narażając się na popełnienie podstawowych błędów.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/dawidowicz-boleslaw.jpeg" />
+#### <a href="https://twitter.com/bdawidowicz" target="_blank">Bolesław Dawidowicz</a>
+Od 2005 roku współpracuje z firmą Red Hat (dawniej JBoss). Od zawsze związany z oprogramowaniem OpenSource. Preferuje pracę zdalną. Obecnie Engineering Manager oraz Platform Architect odpowiedzialny za projekty związane z bezpieczeństwem w warstwie middleware (m.in Keycloak). Wcześniej najpierw jako developer a potem architekt przez wiele lat rozwijał produkt JBoss Portal Platform oraz współkierował projektem GateIn Portal. Współtwórca projektu PicketLink. Członek "Expert Group" w JSR 351 oraz JSR 362. Niegdyś aktywny członek i jeden z liderów Warszawa JUG – obecnie w stanie spoczynku. Współorganizował konferencję Javarsovia/Confitura (edycję 2007) oraz Warsjawa w latach 2008, 2012 i 2013. W chwili obecnej współtworzy Warsaw JBoss User Group.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/golawski-andrzej.jpeg" />
+#### <a href="https://twitter.com/andiPansa" target="_blank">Andrzej Goławski</a>
+Od prawie 15 lat programista i projektant systemów wspomagających zarządzenia ruchem lotniczym (na ziemi i w powietrzu :D). Zawodowo związany z Portami Lotniczymi, Agencją Żeglugi Powietrznej o raz firmą OSEC, w której prowadzi szkolenia związane z technologiami JBoss. Prywatnie i zawodowo pasjonuje się Javą oraz technologiami pokrewnymi. Współzałożyciel  Warsaw JBoss User Group. Szczęśliwy mąż i  tata :)
+
+<span class="clearfix"></span>
+
+### W poszukiwaniu bożków dokumentacji
+Jeden z moich profesorów na Politechnice Gdańskiej mawiał "Programistom płacimy za pisanie dokumentacji, pisanie kodu to dla nich przyjemność!". Rzeczywistość jednak okazuje się brutalna... dokumentacja to ostatnie z czym chcielibyśmy mieć cokolwiek wspólnego w projekcie. Bo nuda, bo word, bo zupełnie inny flow, bo nie widać kto co zmienił...
+
+Na tej sesji chciałbym Wam pokazać że można inaczej, że dokumentacja może być łatwa i przyjemna - jak napisanie maila, jak kilka linijek kodu. Takie przynajmniej są założenia AsciiDoc (jak i innych: Markdown, RestructuredText) - prosta, minimalna, nieinwazyjna składnia, tekstowe dokumenty, czytelne bez dodatkowych narzędzi.
+
+Podczas sesji pragnę przybliżyć AsciiDoc'a (oraz cały ekosystem narzędzi z nim związanych). Ale przede wszystkim chciałbym Was zarazić najlepszym możliwym sposobem dokumentowania, notowania - za pomocą prostych i ogólnodostępnych narzędzi, łatwo współdzieląc efekty naszej pracy. nie wychodząc poza nasz codzienny, programistyczny rytuał.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/marchwicki-jakub.jpeg" />
+#### <a href="https://twitter.com/kubem" target="_blank">Jakub Marchwicki</a>
+Programista od kilkunastu lat, architekt od kilku, czasami analityk, gdy potrzeba – konsultant, manager z wyboru, trener z zamiłowania, wannabe entrepreneur z marzeń, lider JUG w Gdańsku. Z oprogramowaniem związany przez całe życie zawodowe. Przez ostatnie lata realizował ambicje managerskie, m.in. jako dyrektor techniczny w 250 osobowej firmie. Uważa, że najlepszym sposobem pracy ze specjalistami jest aktywne dzielenie się własną wiedzą oraz aktywnie słuchać innych. Przekazuje doświadczenie w formie wykładów, wystąpień na konferencjach oraz szkoleń. W wolnych chwilach pisuje na <a href="http://jakub.marchwicki.pl" target="_blank">jakub.marchwicki.pl</a>.

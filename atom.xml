@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-02-13T15:04:28+01:00</updated>
+  <updated>2016-02-15T18:11:12+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z dziewiętnastego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2016/02/15/nagranie-z-dziewietnastego-spotkania/"/>
+    <updated>2016-02-15T18:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/02/15/nagranie-z-dziewietnastego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2976" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="http://torun.jug.pl/news/2016/01/20/spotkanie-19/">dziewiętnastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=2976&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #20 [2016-02-24]]]></title>
@@ -645,28 +669,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>PS2. Polubcie nasz <a href="https://www.facebook.com/AgileByExample" target="_blank">fanpage na Facebooku</a>, <a href="https://twitter.com/AgileByExample" target="_blank">kanał Twittera</a> albo <a href="http://agilebyexample.us2.list-manage.com/subscribe?u=b7f55bf68e01d408bb1ab4ac0&id=f013c289c4" target="_blank">zasubskrybujcie newsletter</a>.</p>
 </blockquote>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: Mobilization^5]]></title>
-    <link href="http://torun.jug.pl/news/2015/07/15/zapowiedz-konferencji-mobilization-5/"/>
-    <updated>2015-07-15T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/07/15/zapowiedz-konferencji-mobilization-5</id>
-    <content type="html"><![CDATA[<p>17-go października odbędzie się piąta edycja konferencji <a href="http://www.mobilization.pl" target="_blank">Mobilization</a>. Wydarzenie jest organizowane przez <a href="http://www.juglodz.pl" target="_blank">Java User Group Łódź</a> i&nbsp;będzie miało miejsce w&nbsp;Łodzi, przy alei Politechniki 4, w&nbsp;budynku Centrum Konferencyjno-Wystawienniczego Międzynarodowych Targów Łódzkich.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2015.mobilization.pl" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/mobilization5.png" alt="Mobilization^5" />
-    </a>
-  </div>
-</div>
-
-
-<p>Mobilization to największa w&nbsp;Polsce, darmowa konferencja poświęcona w&nbsp;całości tematyce urządzeń mobilnych. Poprzednie edycje stały na bardzo wysokim poziomie, warto więc zarezerwować sobie czas 17-go października i&nbsp;wybrać się na to wydarzenie.</p>
-
-<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://www.mobilization.pl" target="_blank">mobilization.pl</a></p>
 ]]></content>
   </entry>
   

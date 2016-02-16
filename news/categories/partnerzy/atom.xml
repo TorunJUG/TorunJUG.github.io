@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-02-15T18:16:09+01:00</updated>
+  <updated>2016-02-16T06:22:35+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: Mobile Central Europe 2016. Mamy dla Was 15% zniżki!]]></title>
+    <link href="http://torun.jug.pl/news/2016/02/16/zapowiedz-konferencji-mobile-central-europe-2016/"/>
+    <updated>2016-02-16T06:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/02/16/zapowiedz-konferencji-mobile-central-europe-2016</id>
+    <content type="html"><![CDATA[<p>Najlepsze aplikacje mobilne i ich twórcy na wyciągnięcie ręki &ndash; poznaj ich na MCE<sup>3</sup>!</p>
+
+<p>Już 21-23 kwietnia warszawska Kinoteka zapełni się ponad połową tysiąca specjalistów z branży mobilnej. Developerzy, designerzy, specjaliści od User Experience czy produktu oraz managerowie z branży mobilnej już po raz trzeci spotkają się w sercu Europy na jednej z największych imprez w branży mobilnej &ndash; MCE<sup>3</sup>.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <a class="no-text-decoration" href="http://2016.mceconf.com" target="_blank">
+      <img class="no-border" src="{{ root_url }}/images/partners/mce2016.png" alt="Mobile Central Europe 2016" />
+    </a>
+  </div>
+</div>
+
+
+<p>Rosnąca z roku na rok, w 2015 licząca 550 uczestników z całego świata, impreza skupi się na wszystkim, co warto wiedzieć w świecie mobilnym &ndash; podczas trzech ścieżek tematycznych &ndash; Engineering, Design i (po raz pierwszy!) Product uczestnicy konferencji będą mieli okazję poszerzyć swoją wiedzę dzięki doświadczeniom, którymi podzieli się ponad 40 prelegentów, będących ekspertami w branży.</p>
+
+<!--more-->
+
+
+<p>Dodatkowo całość wzbogacą warsztaty Jitter odbywające się po konferencji &ndash; w zeszłym roku miały one formę całodniowego hackathonu, łączącego nowe pomysły z praktyczną aplikacją. Te wszystkie atrakcje to jednak dopiero początek!</p>
+
+<p>Przygotowania do konferencji trwają, a więcej informacji już wkrótce &ndash; sprawdzajcie na bieżąco <a href="http://2016.mceconf.com" target="_blank">stronę wydarzenia</a>!</p>
+
+<p>Dzięki życzliwości organizatorów każdy toruński JUGowicz może otrzymać 15% zniżki na wejściówkę. Jedyne co trzeba zrobić, to podczas rejestracji wpisać kod promocyjny, który możecie otrzymać kontaktując się z&nbsp;<a href="https://twitter.com/prondzyn" target="_blank">Piotrem Prądzyńskim</a>. Do dzieła!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: PolyConf16]]></title>
@@ -143,28 +174,6 @@ Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Sz�
 <p>PS2. Polubcie nasz <a href="https://www.facebook.com/AgileByExample" target="_blank">fanpage na Facebooku</a>, <a href="https://twitter.com/AgileByExample" target="_blank">kanał Twittera</a> albo <a href="http://agilebyexample.us2.list-manage.com/subscribe?u=b7f55bf68e01d408bb1ab4ac0&id=f013c289c4" target="_blank">zasubskrybujcie newsletter</a>.</p>
 </blockquote>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: Mobilization^5]]></title>
-    <link href="http://torun.jug.pl/news/2015/07/15/zapowiedz-konferencji-mobilization-5/"/>
-    <updated>2015-07-15T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/07/15/zapowiedz-konferencji-mobilization-5</id>
-    <content type="html"><![CDATA[<p>17-go października odbędzie się piąta edycja konferencji <a href="http://www.mobilization.pl" target="_blank">Mobilization</a>. Wydarzenie jest organizowane przez <a href="http://www.juglodz.pl" target="_blank">Java User Group Łódź</a> i&nbsp;będzie miało miejsce w&nbsp;Łodzi, przy alei Politechniki 4, w&nbsp;budynku Centrum Konferencyjno-Wystawienniczego Międzynarodowych Targów Łódzkich.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2015.mobilization.pl" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/mobilization5.png" alt="Mobilization^5" />
-    </a>
-  </div>
-</div>
-
-
-<p>Mobilization to największa w&nbsp;Polsce, darmowa konferencja poświęcona w&nbsp;całości tematyce urządzeń mobilnych. Poprzednie edycje stały na bardzo wysokim poziomie, warto więc zarezerwować sobie czas 17-go października i&nbsp;wybrać się na to wydarzenie.</p>
-
-<p>Więcej informacji na temat konferencji znajdziecie na: <a href="http://www.mobilization.pl" target="_blank">mobilization.pl</a></p>
 ]]></content>
   </entry>
   

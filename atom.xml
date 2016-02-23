@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-02-16T06:17:27+01:00</updated>
+  <updated>2016-02-23T06:11:56+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Głosowanie na Prelegenta Roku 2015]]></title>
+    <link href="http://torun.jug.pl/news/2016/02/23/glosowanie-na-prelegenta-roku-2015/"/>
+    <updated>2016-02-23T06:45:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/02/23/glosowanie-na-prelegenta-roku-2015</id>
+    <content type="html"><![CDATA[<p>Wczoraj ruszyło <a href="https://docs.google.com/forms/d/1MOCGbg4f04XBoYFFGefGERxzElsfwdBHk-AasMT1gAA/viewform" target="_blank">głosowanie</a> na Prelegenta Roku 2015 Toruń JUG! W konkursie biorą udział wszyscy prelegenci, którzy wystąpili na deskach toruńskiego JUGa w roku 2015.</p>
+
+<p>Zasady głosowania są proste: możesz wskazać do 3 prelegentów, którym przydzielić możesz 1, 2 lub 3 punkty odpowiednio. Im wyższa ilość punktów, tym dany prelegent zasługuje Twoim zdaniem bardziej na tytuł Prelegent Roku 2015. Uwaga: wybraną ilość punktów możesz przydzielić tylko jednemu prelegentowi, tj. nie możesz dać 3 punktów trzem czy dwóm prelegentom.</p>
+
+<p>Zwycięzcą zostanie prelegent, który po zsumowaniu wszystkich punktów będzie posiadał ich najwięcej na swoim koncie. Każdy może zagłosować jeden raz, ale istnieje możliwość zmiany swojego głosu.</p>
+
+<p><a href="https://docs.google.com/forms/d/1MOCGbg4f04XBoYFFGefGERxzElsfwdBHk-AasMT1gAA/viewform" target="_blank">Głosowanie</a> potrwa do 23 marca 2016 r. Udział w głosowaniu jest dobrowolny i wymaga jedynie posiadania konta Google. Ogłoszenie wyników głosowania odbędzie się 30 marca 2016 r. podczas urodzinowego spotkania Toruń JUG.</p>
+
+<p>UWAGA: na czwartej stronie ankiety znajdziecie miejsce na wklejenie linku do Waszego profilu Meetup.com w grupie Torun-JUG (wejdź na <a href="http://www.meetup.com/Torun-JUG/" target="_blank"><a href="http://www.meetup.com/Torun-JUG/">http://www.meetup.com/Torun-JUG/</a></a> i w prawym rogu znajdziesz link &ldquo;My Profile&rdquo; &ndash; o link do tej strony chodzi). Osoby, które wkleją link do swojego profilu mogą wziąć udział w dwóch losowaniach:</p>
+
+<ol>
+<li>losowaniu upominków książkowych (będziemy mieć dla Was 6 książek do wylosowania)</li>
+<li>losowaniu jednej wejściówki na konferencję <a href="http://2016.mceconf.com" target="_blank">MCE 2016</a></li>
+</ol>
+
+
+<p><a href="https://docs.google.com/forms/d/1MOCGbg4f04XBoYFFGefGERxzElsfwdBHk-AasMT1gAA/viewform" target="_blank">ZAGŁOSUJ JUŻ TERAZ!</a> Niech wygra najlepszy prelegent! :&ndash;)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: Mobile Central Europe 2016. Mamy dla Was 15% zniżki!]]></title>
@@ -622,26 +647,6 @@ Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
 
 
 <p>W jaki sposób można skorzystać ze zniżki? Bardzo prosto &ndash; wystarczy wpisać się na listę ochotników w <a href="http://www.meetup.com/Torun-JUG/messages/boards/thread/49246666" target="_blank">tym wątku na forum dyskusyjnym</a>. Na zgłoszenia czekamy do 25 września. W razie jakichkolwiek pytań, piszcie na forum, żadne pytanie nie pozostanie bez odpowiedzi.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON Microservices w Sopocie. Skorzystaj z 10% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2015/08/24/zapowiedz-konferencji-geecon-microservices-sopot/"/>
-    <updated>2015-08-24T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/08/24/zapowiedz-konferencji-geecon-microservices-sopot</id>
-    <content type="html"><![CDATA[<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2015.microservices.geecon.org/" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/geecon-microservices-2015.jpg" alt="GeeCON Microservices" />
-    </a>
-  </div>
-</div>
-
-
-<p><a href="http://2015.microservices.geecon.org" target="_blank"><strong>GeeCON Microservices</strong></a> to 1-dniowa, jednowątkowa konferencja w&nbsp;pełni poświęcona tematyce mikrousług. Organizatorzy zadbali, aby program konferencji wypełniły osoby, które posiadają bogate praktyczne doświadczenie w&nbsp;projektowaniu, budowaniu oraz testowaniu mikrousług. Jest to świetna okazja do tego, aby dopiero poznać, dowiedzieć się więcej lub podzielić się własnymi spostrzeżeniami i&nbsp;doświadczeniami na temat tej zdobywającej coraz więcej zwolenników (oraz przeciwników) architektury. Przyjedź do Sopotu i skorzystaj z tej niesamowitej okazji do zdobycia wiedzy!</p>
-
-<p>Mamy dla was również kod rabatowy -10% do wykorzystania podczas <a href="http://2015.microservices.geecon.org/register/" target="_blank"><strong>rejestracji</strong></a> &ndash; wpiszcie <strong>GEECON_MICRO10</strong>, a zaoszczędzone w ten sposób pieniądze wykorzystajcie np. podczas pokonferencyjnego after party :&ndash;)</p>
 ]]></content>
   </entry>
   

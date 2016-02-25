@@ -440,5 +440,38 @@
                 "youtube" : "https://www.youtube.com/watch?v=e5rw9urCN7Q"
             }
         ]
+    },
+    {
+        "name" : "Bolesław Dawidowicz",
+        "img" : "dawidowicz-boleslaw.jpeg",
+        "lastMeeting": 20,
+        "talks" : [
+            {
+                "meetingNumber" : 20,
+                "title" : "Keycloak – prosty sposób na bezpieczeństwo i uwierzytelnianie w nowoczesnych aplikacjach"
+            }
+        ]
+    },
+    {
+        "name" : "Andrzej Goławski",
+        "img" : "golawski-andrzej.jpeg",
+        "lastMeeting": 20,
+        "talks" : [
+            {
+                "meetingNumber" : 20,
+                "title" : "Keycloak – prosty sposób na bezpieczeństwo i uwierzytelnianie w nowoczesnych aplikacjach"
+            }
+        ]
+    },
+    {
+        "name" : "Jakub Marchwicki",
+        "img" : "marchwicki-jakub.jpeg",
+        "lastMeeting": 20,
+        "talks" : [
+            {
+                "meetingNumber" : 20,
+                "title" : "W poszukiwaniu bożków dokumentacji"
+            }
+        ]
     }
 ]

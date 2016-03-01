@@ -227,9 +227,10 @@ jQuery.getJSON( "leaders.json", function( data ) {
           </div>\
         </div>\
       </div>';
-    people.push( leader );
+    if (value.inactive !== true) {
+      people.push( leader );
+    }
   });
- 
   jQuery("#leadersContainer").append(people.join(""));
 });
 </script>

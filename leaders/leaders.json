@@ -8,7 +8,8 @@
             "home": "http://petermodzelewski.blogspot.com",
             "github": "https://github.com/petermodzelewski",
             "twitter": "https://twitter.com/pmodzelewski"
-        }
+        },
+        "inactive": true
     },
     {
         "name": "Marek Nowicki",

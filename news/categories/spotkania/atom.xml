@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-02-26T06:32:56+01:00</updated>
+  <updated>2016-03-01T06:59:38+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -24,7 +24,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/20/cover.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/20/cover.png" />
   </div>
 </div>
 
@@ -41,13 +41,13 @@
 
 <p>Zaprezentujemy także projekt Keycloak, który w znacznym stopniu upraszcza stosowanie wyżej wymienionych technologi.  Wykorzystując to rozwiązanie zademonstrujmy na żywo jak w szybki i prosty sposób możemy zabezpieczyć typową aplikację oraz usługi z których ona korzysta. W oparciu o nowoczesne technologie, integrując się z istniejącą infrastrukturą oraz nie narażając się na popełnienie podstawowych błędów.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/dawidowicz-boleslaw.jpeg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/dawidowicz-boleslaw.jpeg" /></p>
 
 <h4><a href="https://twitter.com/bdawidowicz" target="_blank">Bolesław Dawidowicz</a></h4>
 
 <p>Od 2005 roku współpracuje z firmą Red Hat (dawniej JBoss). Od zawsze związany z oprogramowaniem OpenSource. Preferuje pracę zdalną. Obecnie Engineering Manager oraz Platform Architect odpowiedzialny za projekty związane z bezpieczeństwem w warstwie middleware (m.in Keycloak). Wcześniej najpierw jako developer a potem architekt przez wiele lat rozwijał produkt JBoss Portal Platform oraz współkierował projektem GateIn Portal. Współtwórca projektu PicketLink. Członek &ldquo;Expert Group&rdquo; w JSR 351 oraz JSR 362. Niegdyś aktywny członek i jeden z liderów Warszawa JUG – obecnie w stanie spoczynku. Współorganizował konferencję Javarsovia/Confitura (edycję 2007) oraz Warsjawa w latach 2008, 2012 i 2013. W chwili obecnej współtworzy Warsaw JBoss User Group.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/golawski-andrzej.jpeg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/golawski-andrzej.jpeg" /></p>
 
 <h4><a href="https://twitter.com/andiPansa" target="_blank">Andrzej Goławski</a></h4>
 
@@ -63,7 +63,7 @@
 
 <p>Podczas sesji pragnę przybliżyć AsciiDoc'a (oraz cały ekosystem narzędzi z nim związanych). Ale przede wszystkim chciałbym Was zarazić najlepszym możliwym sposobem dokumentowania, notowania &ndash; za pomocą prostych i ogólnodostępnych narzędzi, łatwo współdzieląc efekty naszej pracy. nie wychodząc poza nasz codzienny, programistyczny rytuał.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/marchwicki-jakub.jpeg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/marchwicki-jakub.jpeg" /></p>
 
 <h4><a href="https://twitter.com/kubem" target="_blank">Jakub Marchwicki</a></h4>
 
@@ -94,7 +94,7 @@
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/borek-tomasz.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/borek-tomasz.jpg" /></p>
 
 <h4>Tomasz Borek</h4>
 
@@ -129,7 +129,7 @@ Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
 
 <p>Zapraszam na przejażdkę w świat grafów podczas której zapoznamy się z teorią grafów i bazą danych Neo4j, by następnie po krótkim teoretycznym wstępie zapoznać się z językiem Cypher. Będziemy budować, materializować i przemierzać grafy, od tych małych do tych dużych. Zapoznamy się z algorytmami i technikami analizy sieci społecznościowych i nauczymy się podstaw silników rekomendacji. Wszystko to z pomocą języka który powstał na potrzeby bazy Neo4j, który łaczy ekspresyjność starego dobrego SQL i potęgę wyszukiwania wzorców w grafach, a wszystko to będzie wyglądało jak stary dobry &ldquo;ASCII art&rdquo;. Mam nadzieję, że po tym warsztacie raz na zawsze zapomnimy o klauzuli JOIN i iloczynie kartezjańskim.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/palka-jaroslaw.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/palka-jaroslaw.jpg" /></p>
 
 <h4>Jarosław Pałka</h4>
 
@@ -154,7 +154,7 @@ Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
 
 <p>Całkiem niedawno pojawiła się Java 8 przynosząc nam wyrażenia lambda, nowe API dla czasu i wiele innych. A my już czekamy na to, co zobaczymy w następnej wersji. Na prezentacji opowiem jakie nowości przyniesie Java 9, co to jest project Jigsaw, jak będziemy liczyć pieniądze oraz o kilku innych.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/przybysz-dominik.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/przybysz-dominik.jpg" /></p>
 
 <h4>Dominik Przybysz</h4>
 
@@ -173,7 +173,7 @@ Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
 
 <p>Zachęcam do zabrania ze sobą urządzeń elektronicznych (niekoniecznie laptopów, telefon z przeglądarką wystarczy).</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/kapala-pawel.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/kapala-pawel.jpg" /></p>
 
 <h4>Paweł Kapała</h4>
 
@@ -199,7 +199,7 @@ Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
 
 <p>Pisanie bezstanowych aplikacji komunikujących się po HTTP to chleb powszechni każdego programisty. Dzisiaj chciałbym Was zabrać w inną podróż &ndash; do świata klastrów, protokołów sieciowych i wywołań RPC. Zapnijcie pasy &ndash; będzie niezła zabawa!</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/laskawiec-sebastian.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
 
 <h4>Sebastian Łaskawiec</h4>
 

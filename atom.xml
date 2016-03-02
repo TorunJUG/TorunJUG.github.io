@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-03-01T06:53:52+01:00</updated>
+  <updated>2016-03-02T06:33:32+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,72 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Recenzja książki: Effective Modern C++]]></title>
+    <link href="http://torun.jug.pl/news/2016/03/02/recenzja-ksiazki-effective-modern-c-plus-plus/"/>
+    <updated>2016-03-02T07:00:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/03/02/recenzja-ksiazki-effective-modern-c-plus-plus</id>
+    <content type="html"><![CDATA[<p>Minął ponad rok od czasu opublikowania poprzedniej recenzji. Autorem ostatniej był Sebastian Łaskawiec. Autorem dzisiejszej&hellip; <strong>Sebastian Łaskawiec</strong> :) Tym razem wziął pod lupę książkę <a href="http://shop.oreilly.com/product/0636920033707.do" target="_blank"><em>Effective Modern C++</em></a> autorstwa Scotta Meyersa To już trzecia recenzja na koncie Sebastiana i&nbsp;jednocześnie <a href="http://torun.jug.pl/news/categories/recenzje/">siódma</a> na koncie wszystkich naszych JUGowiczów.</p>
+
+<!--more-->
+
+
+<h3>Książka</h3>
+
+<p><img class="no-border book-cover" src="http://torun.jug.pl/images/reviews/books/effective-modern-c-plus-plus.jpg" />
+<strong><em>Effective Modern C++</em></strong></p>
+
+<p>Coming to grips with C++11 and C++14 is more than a matter of familiarizing yourself with the features they introduce (e.g., auto type declarations, move semantics, lambda expressions, and concurrency support). The challenge is learning to use those features effectively—so that your software is correct, efficient, maintainable, and portable. That’s where this practical book comes in. It describes how to write truly great software using C++11 and C++14 — i.e. using modern C++.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Autor</h3>
+
+<p><strong>Scott Douglas Meyers</strong> is an American author and software consultant, specializing in the C++ computer programming language. He is known for his Effective C++ book series. He is a frequent speaker at conferences and trade shows. He holds a Ph.D. in computer science from Brown University and M.S. in computer science from Stanford University.</p>
+
+<h3>Recenzja</h3>
+
+<blockquote>
+  <p>
+    <strong>Content</strong>
+  </p>
+  <p>
+    The book describes new language features introduced in C++11 and 14.
+  </p>
+  <p>
+    The first paragraph explains how type resolution works in C++, which might be considered as an introduction to the second paragraph - auto types. The third paragraph is dedicated to several small improvements in C++11/14, like aliases, nullptrs or function overrides. Next paragraph is fully dedicated to smart pointers and their different use cases. Paragraph number five introduces std::move and std::forward concepts. Lambda expressions are covered in paragraph six and seventh introduces new concurrency API (Atomics). The last paragraph covers some minor tweaks.
+  </p>
+  <p>
+    <strong>Writing style</strong>
+  </p>
+  <p>
+    The book is organized into items (similarly to &#8220;Effective Java&#8221;). Multiple items form paragraphs which cover broader topic (such as concurrency). All items are clearly defined and contain a lot of code snippets, which makes them easier to understand. The book is very concise and to-the-point and defiantly dedicated for intermediate or advanced C++ programmers who want to learn new language features.
+  </p>
+  <p>
+    <strong>Conclusion and recommendation</strong>
+  </p>
+  <p>
+    This book is like manual for new C/C++ features. I often get back to it when I want to use something new. Very strict language and a lot of code examples help to understand described concepts. From my perspective the best part was about Atomics. Dealing with multithreded code (especially targeted for multiple runtimes) was a nightmare before introducing concurrency features. It is also worth mentioning that this book is not meant for beginners. The reader needs to have at least some intermediate experience to learn more advanced concepts shown in the book.
+  </p>
+  <p>Rating: 5/5</p>
+</blockquote>
+
+
+<h3>Recenzent</h3>
+
+<p><img class="no-border reviewer-face" src="http://torun.jug.pl/images/reviews/reviewers/laskawiec-sebastian.jpg" />
+<strong>Sebastian Łaskawiec</strong></p>
+
+<p>Senior Software Developer in Red Hat interested in JEE containers and Caching technologies who spends most of his free time on home brewing, ice skating or skiing.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Szukamy kolejnych odważnych</h3>
+
+<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a> oraz <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie dwudziestego spotkania]]></title>
@@ -614,52 +680,6 @@ Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
 <p>Gorąco zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #15 [2015-09-30]]]></title>
-    <link href="http://torun.jug.pl/news/2015/09/18/spotkanie-15/"/>
-    <updated>2015-09-18T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/09/18/spotkanie-15</id>
-    <content type="html"><![CDATA[<p>Toruń JUG wraca po letniej przerwie i zaprasza na piętnaste spotkanie, które odbędzie się <strong>w&nbsp;środę, 30 września 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i&nbsp;Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/225429610/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
-
-<p><strong>Uwaga!</strong> Jeśli ktoś nie ma możliwości dotarcia na afterparty, a&nbsp;mimo wszytko chciałby porozmawiać ze znajomymi, prelegentami lub liderami grupy, to zachęcamy do przybycia na Wydział trochę wcześniej. Sala będzie otwarta <strong>dla wszystkich od godziny 17:30</strong>. Serdecznie zapraszamy! <!-- more --></p>
-
-<p><strong>KAŻDY OBECNY NA SPOTKANIU UCZESTNIK OTRZYMA SKROMNY UPOMINEK-NIESPODZIANKĘ, ALE CO TO BĘDZIE &ndash; NIE POWIEMY :&ndash;)</strong></p>
-
-<h3>Scrum na co dzień</h3>
-
-<p>Scrum Master, Product Owner i Developer przygotowali dla was coś czego jeszcze nie widzieliście. Nie będzie to kolejna opowiastka o teorii Scrum’a, ale o tym, jak praca z nim wygląda na co dzień.</p>
-
-<p>Poruszymy wszystkie te niewygodne i niedomówione tematy, które zazwyczaj na prezentacjach się omija. Podzielimy się z wami naszymi patentami i technikami na zwinne tworzenie oprogramowania w nieidealnych warunkach życia codziennego.</p>
-
-<p>Dodatkowo to Ty, siedząc na sali, będziesz miał wpływ na to o czym usłyszysz, więc przyjdź i bądź częścią tego niecodziennego wydarzenia.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/bryk-rafal.jpg" /></p>
-
-<h4>Rafał Bryk</h4>
-
-<p>Scrum Master z backgroundem technologicznym. Pasjonat wytwarzania dobrego software&#8217;u dobrze. Na co dzień pracuje z ludźmi rozwijającymi oprogramowanie polskiego e-commerce&#8217;u, wspomagając procesy podejmowania optymalnych decyzji. Prywatnie miłośnik nowych technologii, gier planszowych i rekreacyjnych wypraw rowerowych.
-<span class="clearfix"></span></p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/modzelewski-piotr.jpg" /></p>
-
-<h4>Piotr Modzelewski</h4>
-
-<p>Programista z wieloletnim stażem. Entuzjasta zwinnego wytwarzania oprogramowania. Na co dzień pracuje z systemami przetwarzającymi duże ilości danych w czasie rzeczywistym. Wielokrotnie wspomagał wprowadzanie zwinnej metodyki pracy w różnych zespołach. W wolnym czasie oprocz programowania pasjonują go Sci-fi oraz gry te bardziej i mniej wirtualne
-<span class="clearfix"></span></p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/taflinski-maciej.jpg" /></p>
-
-<h4>Maciej Tafliński</h4>
-
-<p>Product Owner który lubi swoją pracę :) Lubi tworzyć produkty które są użyteczne i używalne zarazem, niekoniecznie muszą być ładne. Aktualnie pracuje nad rozwiązaniami big data oraz raportowaniem. W czasie prywatnym backlog wypełniają mu dzieci i od czasu do czasu sport.
-<span class="clearfix"></span></p>
 ]]></content>
   </entry>
   

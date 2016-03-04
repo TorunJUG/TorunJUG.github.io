@@ -495,6 +495,10 @@
         <lastmod>2016-03-02T06:32:59+01:00</lastmod>
     </url>
     <url>
+        <loc>http://torun.jug.pl/news/2016/03/04/strefa-pomyslow/</loc>
+        <lastmod>2016-03-04T06:41:13+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://torun.jug.pl/404.html</loc>
         <lastmod>2015-03-26T21:19:29+01:00</lastmod>
     </url>
@@ -524,7 +528,7 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/</loc>
-        <lastmod>2016-03-02T06:32:59+01:00</lastmod>
+        <lastmod>2016-03-04T06:41:13+01:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/javascript.html</loc>
@@ -540,7 +544,7 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/</loc>
-        <lastmod>2016-03-02T06:32:59+01:00</lastmod>
+        <lastmod>2016-03-04T06:41:13+01:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/leaders/</loc>
@@ -556,6 +560,6 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/speakers/</loc>
-        <lastmod>2015-04-03T10:59:10+02:00</lastmod>
+        <lastmod>2016-03-03T07:02:30+01:00</lastmod>
     </url>
 </urlset>

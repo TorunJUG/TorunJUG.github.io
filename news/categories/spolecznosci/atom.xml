@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Społeczności | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spolecznosci/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-03-02T06:39:10+01:00</updated>
+  <updated>2016-03-04T06:48:13+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Strefa Pomysłów]]></title>
+    <link href="http://torun.jug.pl/news/2016/03/04/strefa-pomyslow/"/>
+    <updated>2016-03-04T07:00:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/03/04/strefa-pomyslow</id>
+    <content type="html"><![CDATA[<p>Czy słyszeliście już o <a href="https://trello.com/b/fgZ5Gzah/strefa-pomys-ow" target="_blank">Strefie Pomysłów</a>? To nasz nowy pomysł na to, abyście mogli w łatwiejszy, bardziej przejrzysty sposób zgłaszać swoje propozycje prelekcji, które możecie wygłosić, ale również, o których chcielibyście posłuchać. Znajdziecie tam także miejsce na zgłaszanie innych dowolnych pomysłów związanych z&nbsp;naszym JUG-iem.</p>
+
+<p>Zobaczcie krótki filmik instruktażowy autorstwa Szymona:</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/GpTTXH1xJuk" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+
+<p>Wszystko jasne? Do dzieła! :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ćwierkamy]]></title>
@@ -60,19 +80,6 @@
     <content type="html"><![CDATA[<p>Część z was pewnie już zauważyła. Pozostałym chcielibyśmy zwrócić uwagę, że utworzyliśmy na Google Groups specjalną <a href="https://groups.google.com/group/torunjug" target="_blank">grupę dyskusyjną Toruń JUG</a>. Zachęcamy wszystkich do dzielenia się tam swoimi przemyśleniami, uwagami i pomysłami zawiązanymi z technologiami JVM i nie tylko.</p>
 
 <p>Jeśli macie jakieś uwagi odnośnie działania naszej grupy, chcielibyście zaoferować swoją pomoc, zgłosić się na prelegenta lub zaproponować temat, o którym chcielibyście posłuchać, to ta grupa dyskusyjna jest idealnym miejscem, żeby to przekazać.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Startujemy!]]></title>
-    <link href="http://torun.jug.pl/news/2014/03/18/startujemy/"/>
-    <updated>2014-03-18T19:31:25+01:00</updated>
-    <id>http://torun.jug.pl/news/2014/03/18/startujemy</id>
-    <content type="html"><![CDATA[<p>Witamy wszystkich entuzjastów zarówno języka Java jak i innych języków opartych o JVM. Wyszliśmy z inicjatywą stworzenia grupy użytkowników Java (popularnego JUG-a) w Toruniu mającej na celu rozwój lokalnej społeczności programistów Java i pokrewnych. Projekt nabiera rozpędu i niedługo zostanie zorganizowane pierwsze spotkanie.</p>
-
-<p>Pomysł został zainicjowany na <a href="https://www.facebook.com/tak.dla.juga.w.toruniu" target="_blank">Facebooku</a> i tam aktualnie możecie znaleźć najwięcej informacji na jego temat. Z biegiem czasu postaramy się zamieścić wszystkie niezbędne informacje na tej stronie, a także na innych popularnych portalach społecznościowych.</p>
-
-<p>Jeśli macie ochotę pomóc nam w organizacji grupy lub chcielibyście podzielić się swoją wiedzą i wystąpić w roli prelegenta &ndash; piszcie do <a href="https://www.facebook.com/tak.dla.juga.w.toruniu" target="_blank">nas</a>!</p>
 ]]></content>
   </entry>
   

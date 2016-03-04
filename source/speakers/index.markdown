@@ -8,7 +8,24 @@ sharing: false
 footer: false
 ---
 ### Zgłoś swoją prelekcję
-Jeśli chciał(a)byś podzielić się swoją wiedzą i&nbsp;zaprezentować na jednym z&nbsp;naszych spotkań, wypełnij <a href="https://docs.google.com/forms/d/1OkM_2JqnBZPEUNld_9rmOmWYxxSXgsjTpKxvBJcFPa4/viewform" target="_blank">formularz zgłoszeniowy prelegenta</a> i&nbsp;oczekuj na&nbsp;kontakt od&nbsp;jednego z&nbsp;<a href="{{ root_url }}/leaders/">liderów</a> grupy. Ze&nbsp;względu na&nbsp;duże zainteresowanie mamy "zapas" prezentacji, dlatego kontakt może nastąpić dopiero po pewnym czasie. Nie musisz się więc martwić, że&nbsp;zaraz po zgłoszeniu prelekcji zostaniesz "wezwany do tablicy". Z&nbsp;drugiej strony zapewniamy, że odezwiemy się do&nbsp;Ciebie odpowiednio wcześniej, żebyś miał(a) wystarczająco dużo czasu na&nbsp;doszlifowanie swojego wystąpienia. 45-minutowa prezentacja do dla Ciebie zbyt długo? Zgłoś <a href="https://docs.google.com/forms/d/1zZT2jwgddZxGLUaX_jXOUGF23Mhaskj-0BLi2fWUJTk/viewform" target="_blank">lightning talka</a>! Może właśnie to będzie idealna formuła dla Ciebie. Zachęcamy również, do&nbsp;zapoznania się z&nbsp;poniższymi wskazówkami, które pomogą Ci właściwie się do niego przygotować.
+Jeśli chciał(a)byś podzielić się swoją wiedzą i&nbsp;zaprezentować na jednym z&nbsp;naszych spotkań, wypełnij <a href="https://docs.google.com/forms/d/1OkM_2JqnBZPEUNld_9rmOmWYxxSXgsjTpKxvBJcFPa4/viewform" target="_blank">formularz zgłoszeniowy prelegenta</a> i&nbsp;oczekuj na&nbsp;kontakt od&nbsp;jednego z&nbsp;<a href="{{ root_url }}/leaders/">liderów</a> grupy. Zapewniamy, że odezwiemy się do&nbsp;Ciebie odpowiednio wcześniej, żebyś miał(a) wystarczająco dużo czasu na&nbsp;doszlifowanie swojego wystąpienia.
+
+45-minutowa prezentacja do dla Ciebie zbyt długo? Zgłoś <a href="https://docs.google.com/forms/d/1zZT2jwgddZxGLUaX_jXOUGF23Mhaskj-0BLi2fWUJTk/viewform" target="_blank">lightning talka</a>! Może właśnie to będzie idealna formuła dla Ciebie.
+
+Zachęcamy również, do&nbsp;zapoznania się z&nbsp;poniższymi wskazówkami, które pomogą Ci właściwie się do niego przygotować.
+
+### Strefa Pomysłów
+Nie jesteś pewien czy temat, który chciałbyś przedstawić jest dla innych interesujący? Wrzuć go do naszej <a href="https://trello.com/b/fgZ5Gzah/strefa-pomys-ow" target="_blank">Strefy Pomysłów</a>, żeby sprawdzić feedback społeczności.
+
+Masz temat, o którym chciałbyś posłuchać? <a href="https://trello.com/b/fgZ5Gzah/strefa-pomys-ow" target="_blank">Strefa Pomysłów</a> to idealne miejsce na podzielenie się nim. Może ktoś inny ma już taki temat przygotowany, ale bał się z nim wyjść do ludzi :)
+
+Zobacz krótki filmik instruktażowy autorstwa Szymona:
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/GpTTXH1xJuk" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
 
 ### Struktura prezentacji
 W&nbsp;przygotowaniu prezentacji bardzo istotne jest odpowiednie jej ustrukturyzowanie. Dzięki temu publiczność będzie miała uczucie płynności prezentacji. Dodatkowo poniższa struktura pomaga w&nbsp;zawarciu wszystkich składników zapewniających profesjonalizm prelekcji.
@@ -19,7 +36,7 @@ Kolejnym etapem jest przedstwienie i&nbsp;omówienie slajdu z&nbsp;agendą. **Ag
 
 Następnie przechodzimy do właściwej części prezentacji. Musimy pamiętać, żeby była ona odpowiednio zmodularyzowana. Moduły powinny tworzyć spójną całość. Należy wystrzegać się skakania po slajdach wprzód i&nbsp;w&nbsp;tył oraz innego rodzaju zakłócania ciągłości prezentacji.
 
-**Zakończenie** prezentacji, jest równie ważne jak jej wstęp. Pamiętajmy, że to jest właśnie "ostatnie wrażenie" jakie po sobie zostawiamy. Tutaj musimy nawiązać do "obietnicy" jaką złożyliśmy na&nbsp;wstępie. 
+**Zakończenie** prezentacji, jest równie ważne jak jej wstęp. Pamiętajmy, że to jest właśnie "ostatnie wrażenie" jakie po sobie zostawiamy. Tutaj musimy nawiązać do "obietnicy" jaką złożyliśmy na&nbsp;wstępie.
 
 ### Cechy dobrych slajdów
 + **Zwięzłość** - unikamy slajdów z&nbsp;dużą ilością informacji. Zawsze myślmy o&nbsp;tym w&nbsp;ten sposób: mózg człowieka ma tylko jedną "ścieżkę audio". W&nbsp;momencie, kiedy widzimy na slajdzie dużą ilość tekstu staramy się go przeczytać i&nbsp;nie skupiamy uwagi na słuchaniu.

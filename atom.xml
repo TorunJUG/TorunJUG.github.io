@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-03-08T05:45:04+01:00</updated>
+  <updated>2016-03-15T17:56:13+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z dwudziestego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2016/03/15/nagranie-z-dwudziestego-spotkania/"/>
+    <updated>2016-03-15T18:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/03/15/nagranie-z-dwudziestego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3004" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="http://torun.jug.pl/news/2016/02/13/spotkanie-20/">dwudziestego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=3004&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Strefa Pomysłów]]></title>
@@ -655,30 +679,6 @@ Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
 
 <p>Programista pracujący w Red Hat, na co dzień zajmujący się projektem JBoss Data Grid. Niepoprawny optymista wierzący, że klastry się nie rozpadają, amator prostego kodu oraz domowego piwa.
 <span class="clearfix"></span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z piętnastego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/10/12/nagranie-z-pietnastego-spotkania/"/>
-    <updated>2015-10-12T19:15:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/10/12/nagranie-z-pietnastego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2756" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2015/09/18/spotkanie-15/">piętnastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=2756&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank">kanale YouTube</a>.</p>
 ]]></content>
   </entry>
   

@@ -2,6 +2,7 @@
     {
         "name" : "Sławek Piotrowski",
         "img" : "piotrowski-slawek.jpg",
+        "twitter" : "sentinelatteo",
         "lastMeeting": 7,
         "talks" : [
             {
@@ -21,6 +22,7 @@
     {
         "name" : "Szymon Stępniak",
         "img" : "stepniak-szymon.jpg",
+        "twitter" : "wololock",
         "lastMeeting": 1,
         "talks" : [
             {
@@ -60,6 +62,7 @@
     {
         "name" : "Jakub Westfalewski",
         "img" : "westfalewski-jakub.jpg",
+        "twitter" : "jwestfalewski",
         "lastMeeting": 2,
         "talks" : [
             {
@@ -73,6 +76,7 @@
     {
         "name" : "Zbyszko Papierski",
         "img" : "papierski-zbyszko.jpg",
+        "twitter" : "ZPapierski",
         "lastMeeting": 8,
         "talks" : [
             {
@@ -92,6 +96,7 @@
     {
         "name" : "Paweł Rekowski",
         "img" : "rekowski-pawel.jpg",
+        "twitter" : "domaloesu",
         "lastMeeting": 3,
         "talks" : [
             {
@@ -105,6 +110,7 @@
     {
         "name" : "Sebastian Łaskawiec",
         "img" : "laskawiec-sebastian.jpg",
+        "twitter" : "slaskawi",
         "lastMeeting": 16,
         "talks" : [
             {
@@ -130,6 +136,7 @@
     {
         "name" : "Jacek Laskowski",
         "img" : "laskowski-jacek.jpg",
+        "twitter" : "jaceklaskowski",
         "lastMeeting": 4,
         "talks" : [
             {
@@ -188,6 +195,7 @@
     {
         "name" : "Marek Goldmann",
         "img" : "goldmann-marek.jpg",
+        "twitter" : "marekgoldmann",
         "lastMeeting": 6,
         "talks" : [
             {
@@ -214,6 +222,7 @@
     {
         "name" : "Paweł Wrzeszcz",
         "img" : "wrzeszcz-pawel.png",
+        "twitter" : "pawelwrzeszcz",
         "lastMeeting": 8,
         "talks" : [
             {
@@ -227,6 +236,7 @@
     {
         "name" : "Krzysztof Muchewicz",
         "img" : "muchewicz-krzysztof.jpg",
+        "twitter" : "KrzyMucha",
         "lastMeeting": 12,
         "talks" : [
             {
@@ -259,6 +269,7 @@
     {
         "name" : "Wojciech Seliga",
         "img" : "seliga-wojciech.jpg",
+        "twitter" : "wseliga",
         "lastMeeting": 10,
         "talks" : [
             {
@@ -272,6 +283,7 @@
     {
         "name" : "Jarosław Pałka",
         "img" : "palka-jaroslaw.jpg",
+        "twitter" : "j_palka",
         "lastMeeting": 18,
         "talks" : [
             {
@@ -291,6 +303,7 @@
     {
         "name" : "Wojtek Erbetowski",
         "img" : "erbetowski-wojciech.png",
+        "twitter" : "erbetowski",
         "lastMeeting": 12,
         "talks" : [
             {
@@ -304,6 +317,7 @@
     {
         "name" : "Adam Chyła",
         "img" : "chyla-adam.jpg",
+        "twitter" : "ChylaAdam",
         "lastMeeting": 12,
         "talks" : [
             {
@@ -317,6 +331,7 @@
     {
         "name" : "Marek Nowicki",
         "img" : "nowicki-marek.jpg",
+        "twitter" : "faramir2",
         "lastMeeting": 12,
         "talks" : [
             {
@@ -356,6 +371,7 @@
     {
         "name" : "Tomasz Dziurko",
         "img" : "dziurko-tomasz.jpg",
+        "twitter" : "TomaszDziurko",
         "lastMeeting": 14,
         "talks" : [
             {
@@ -369,6 +385,7 @@
     {
         "name" : "Rafał Bryk",
         "img" : "bryk-rafal.jpg",
+        "twitter" : "RafalBryk",
         "lastMeeting": 15,
         "talks" : [
             {
@@ -381,6 +398,7 @@
     {
         "name" : "Piotr Modzelewski",
         "img" : "modzelewski-piotr.jpg",
+        "twitter" : "pmodzelewski",
         "lastMeeting": 15,
         "talks" : [
             {
@@ -393,6 +411,7 @@
     {
         "name" : "Maciej Tafliński",
         "img" : "taflinski-maciej.jpg",
+        "twitter" : "TheTafla",
         "lastMeeting": 15,
         "talks" : [
             {
@@ -405,6 +424,7 @@
     {
         "name" : "Dominik Przybysz",
         "img" : "przybysz-dominik.jpg",
+        "twitter" : "alien11689",
         "lastMeeting": 17,
         "talks" : [
             {
@@ -418,6 +438,7 @@
     {
         "name" : "Paweł Kapała",
         "img" : "kapala-pawel.jpg",
+        "twitter" : "kapware",
         "lastMeeting": 17,
         "talks" : [
             {
@@ -431,6 +452,7 @@
     {
         "name" : "Tomasz Borek",
         "img" : "borek-tomasz.jpg",
+        "twitter" : "LAFK_pl",
         "lastMeeting": 19,
         "talks" : [
             {
@@ -444,6 +466,7 @@
     {
         "name" : "Bolesław Dawidowicz",
         "img" : "dawidowicz-boleslaw.jpeg",
+        "twitter" : "bdawidowicz",
         "lastMeeting": 20,
         "talks" : [
             {
@@ -456,6 +479,7 @@
     {
         "name" : "Andrzej Goławski",
         "img" : "golawski-andrzej.jpeg",
+        "twitter" : "andiPansa",
         "lastMeeting": 20,
         "talks" : [
             {
@@ -468,6 +492,7 @@
     {
         "name" : "Jakub Marchwicki",
         "img" : "marchwicki-jakub.jpeg",
+        "twitter" : "kubem",
         "lastMeeting": 20,
         "talks" : [
             {

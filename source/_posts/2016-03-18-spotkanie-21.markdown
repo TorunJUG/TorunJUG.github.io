@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Spotkanie #21 [2016-03-30]"
+description: "Toruń JUG - Spotkanie #21 [2016-03-30]"
+date: 2016-03-18 08:00:00 +0100
+comments: true
+categories: Spotkania
+---
+Serdecznie zapraszamy na dwudzieste pierwsze spotkanie Toruń Java User Group, które odbędzie się **w&nbsp;środę, 30 marca 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+
+Dwudzieste pierwsze spotkanie to również **drugie urodziny Toruń JUG** :) Podczas spotkania dokonamy krótkiego podsumowania ostatnich 12 miesięcy, ogłosimy zwycięzcę plebiscytu **Prelegent Roku 2015** oraz rozlosujemy książki upominki spośród osób, które wzięły udział w głosowaniu na najlepszego prelegenta minionego roku.
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/229280382/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/meetings/21/cover.png" />
+  </div>
+</div>
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>).
+
+Sala S9 będzie otwarta **od godz. 17:30** - jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more -->
+
+### Category theory is absolute general nonsense! What is all the fuss with all those monoids and semigroups I keep hearing about?
+Happened to be part of conversation recently that you did not get or the library which README.md was to obscure because it consistently kept on using those weird phrases? "Typeclasses", "semigroups", "monoids", "applicatives" - they all seem so weird, so academic, so pointlessly detached from the real-world problems. But then again, they pop up here and there in conversations (especially if talk to functional programmers). So are they really irrelevant. Is knowing them is just an academic exercise or do they have a real applications? Well, you have to join this talk to see and judge it for yourself.
+
+Intention of this talk is not to give just raw definitions of such terms as 'monoid' or 'functor'. The more important question (rarely explained in other talks & tutorials) is what are the motivations behind those concepts. And this is exactly what we want to discover.
+
+Preferable audience for this talk are people who:
+
+- want to stay relevant to the continuously changing industry
+- confuse their wives/husbands/boyfriends/girlfriends ("You know honey, a monad is just a monoid in the category of endofunctors")
+- sound smart on the next job interview
+
+<em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em>
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/szulc-pawel.jpeg" />
+#### <a href="https://twitter.com/rabbitonweb" target="_blank">Paweł Szulc</a>
+Paweł is primarily a programmer. Always was and always will be. Experienced professionally in JVM ecosystem, currently having tons of fun with Scala, Erlang, Clojure and Haskell. By day working on (not that) BigData problems with Akka Stream &amp; Apache Spark, by night hacking whatever he finds interesting at that given moment. Humble apprentice of Functional Programming. Runs a blog <a href="http://www.rabbitonweb.com" target="_blank">rabbitonweb.com</a>

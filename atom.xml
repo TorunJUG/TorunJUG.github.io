@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-03-18T07:54:25+01:00</updated>
+  <updated>2016-03-19T17:01:49+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -81,6 +81,26 @@
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie warsztatów Apache Spark]]></title>
+    <link href="http://torun.jug.pl/news/2016/03/13/podsumowanie-warsztatow-apache-spark/"/>
+    <updated>2016-03-13T18:45:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/03/13/podsumowanie-warsztatow-apache-spark</id>
+    <content type="html"><![CDATA[<p>Wczoraj odbyły się <a href="http://torun.jug.pl/news/2016/03/01/warsztaty-apache-spark/">Warsztaty Apache Spark</a> przeprowadzone przez Jacka Laskowskiego. Bardzo dziękujemy Jackowi, za poświęcenie swojego wolnego czasu i wprowadzenie młodych adeptów do świata Sparka ;)</p>
+
+<p>Frekwencja dopisała. Na warsztatach pojawił się komplet <a href="http://www.meetup.com/Torun-JUG/events/229194936/" target="_blank">zarejestrowanych wcześniej</a> osób. Komentarze uczestników możecie przeczytać pod <a href="http://www.meetup.com/Torun-JUG/events/229194936/" target="_blank">wydarzeniem na Meetupie</a>.</p>
+
+<!--more-->
+
+
+<p>Zdjęcia z warsztatów możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1736649196558566.1073741852.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26811264/" target="_blank">Meetupie</a>.</p>
+
+<p>Jeśli nie mieliście możliwości uczestniczyć w warsztatach, a chcielibyście zobaczyć co się na nich działo, to możecie obejrzeć <a href="https://www.youtube.com/watch?v=4rnzTCm4nrE" target="_blank">nagranie na naszym kanale YouTube</a> &ndash; jakość trochę partyzancka, ale coś powinno udać się zobaczyć ;)</p>
+
+<p>Obszerne notatki Jacka z użytkowania Apache Spark możecie znaleźć pod adresem <a href="http://bit.ly/mastering-apache-spark" target="_blank">bit.ly/mastering-apache-spark</a>.</p>
 ]]></content>
   </entry>
   
@@ -167,6 +187,100 @@
 <h3>Szukamy kolejnych odważnych</h3>
 
 <p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a> oraz <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Warsztaty Apache Spark]]></title>
+    <link href="http://torun.jug.pl/news/2016/03/01/warsztaty-apache-spark/"/>
+    <updated>2016-03-01T18:45:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/03/01/warsztaty-apache-spark</id>
+    <content type="html"><![CDATA[<p>Wraz z <a href="https://twitter.com/jaceklaskowski" target="_blank">Jackiem Laskowskim</a> zapraszamy serdecznie na <strong>Warsztaty Apache Spark</strong>. Jacek poprowadzi warsztaty <strong>w sobotę, 12 marca 2016 r.</strong> w godz. 9:00 &ndash; 17:00 na Wydziale Matematyki i Informatyki UMK (sala S3).</p>
+
+<p>Podczas warsztatów:</p>
+
+<ul>
+<li>poznasz zalety użycia Apache Spark ze szczególną uwagą na moduły Spark Streaming oraz Spark SQL,</li>
+<li>dowiesz się o architekturze Apache Spark,</li>
+<li>uruchomisz rozproszone obliczenia na klastrze sparkowym,</li>
+<li>poznasz efektywne sposoby monitorowania pracy Apache Spark korzystając z web UI.</li>
+</ul>
+
+
+<!--more-->
+
+
+<p>Od uczestników wymagane jest posiadanie własnego komputera z minimum 4GB RAM i procesorem Intel i5 lub wyższym. Uczestnik powinien mieć zainstalowany na komputerze pakiet spark-1.6.0-bin-hadoop2.6.tgz ze strony <a href="http://spark.apache.org/downloads.html" target="_blank">spark.apache.org/downloads.html</a>.</p>
+
+<p>Wstęp na warsztaty jest wolny, jednak ze względu na ograniczoną ilość miejsc wymaga rejestracji poprzez portal <a href="http://www.meetup.com/Torun-JUG/events/229194936/" target="_blank">Meetup</a>.</p>
+
+<h3>AGENDA</h3>
+
+<table style="margin-bottom:30px;">
+  <tr>
+    <td style="min-width:50px;">09:00</td>
+    <td style="min-width:10px;">-</td>
+    <td style="min-width:50px;">09:45</td>
+    <td>Installing Spark and My First Spark Application (using spark-shell)</td>
+  </tr>
+  <tr>
+    <td>09:55</td>
+    <td>-</td>
+    <td>10:40</td>
+    <td>Introduction to Scala</td>
+  </tr>
+  <tr>
+    <td>10:50</td>
+    <td>-</td>
+    <td>11:35</td>
+    <td>Using Spark&#8217;s Core APIs in Scala — Transformations and Actions</td>
+  </tr>
+  <tr>
+    <td>11:45</td>
+    <td>-</td>
+    <td>12:30</td>
+    <td>Building, Deploying and Monitoring Spark Applications (using sbt, spark-submit, and web UI)</td>
+  </tr>
+  <tr>
+    <td>12:30</td>
+    <td>-</td>
+    <td>13:15</td>
+    <td>Pizza time :)</td>
+  </tr>
+  <tr>
+    <td>13:15</td>
+    <td>-</td>
+    <td>14:00</td>
+    <td>Clustering Spark and Spark Standalone</td>
+  </tr>
+  <tr>
+    <td>14:10</td>
+    <td>-</td>
+    <td>14:55</td>
+    <td>Spark Streaming (using socket receiver, checkpointing, and Apache Kafka)</td>
+  </tr>
+  <tr>
+    <td>15:05</td>
+    <td>-</td>
+    <td>15:50</td>
+    <td>Spark SQL</td>
+  </tr>
+  <tr>
+    <td>16:00</td>
+    <td>-</td>
+    <td>16:45</td>
+    <td>Podsumowanie</td>
+  </tr>
+</table>
+
+
+<p><span class="clearfix"></span></p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/laskowski-jacek.jpg" /></p>
+
+<h4><a href="https://twitter.com/jaceklaskowski" target="_blank">Jacek Laskowski</a></h4>
+
+<p>Jacek is a Java/Scala software developer with few Scala gigs under his belt. He runs a Scala project – <a href="https://github.com/jaceklaskowski/scalania" target="_blank">scalania</a> – on GitHub that gave birth Scala meetings in Warsaw, Poland that ultimately ended up as an initiative under <a href="https://twitter.com/WarszawScaLa" target="_blank">@WarszawScaLa</a> – a Scala user group in Warsaw. He builds his reputation in the tools he uses daily answering questions on <a href="http://stackoverflow.com/users/1305344/jacek-laskowski" target="_blank">StackOverflow</a> and contributing to open source projects on <a href="https://github.com/jaceklaskowski" target="_blank">GitHub</a>. You can follow him on twitter as <a href="https://twitter.com/jaceklaskowski" target="_blank">@jaceklaskowski</a>. He blogs at <a href="http://japila.pl" target="_blank">japila.pl</a>.</p>
 ]]></content>
   </entry>
   
@@ -641,65 +755,6 @@ Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
 
 <p>Pragmatyczny koder-poliglota, startupowy deweloper, entuzjasta przedsiębiorczości. Ewangelista prostoty i dekompozycji. (reduce code <a href="https://twitter.com/kapware" target="_blank">@kapware</a>)
 <span class="clearfix"></span></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z szesnastego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/11/06/nagranie-z-szesnastego-spotkania/"/>
-    <updated>2015-11-06T18:30:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/11/06/nagranie-z-szesnastego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=2780" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/news/2015/10/17/spotkanie-16/">szesnastego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=2780&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie szesnastego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/10/30/podsumowanie-szesnastego-spotkania/"/>
-    <updated>2015-10-30T21:45:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/10/30/podsumowanie-szesnastego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2015/10/17/spotkanie-16/">szesnaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Sebastianowi, za świetną prezentację na temat JGroups. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
-
-<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Cybermachina.</p>
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1awZzf8KSYE-NQ25610HdfF9Qo6WHVMi3hdNAAIt2P_s/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1698902856999867.1073741847.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26515110/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="http://redhat.slides.com/slaskawi/jgroups?token=5ZJs7jhV" target="_blank">
-      <em>JGroups – efektywny framework do komunikacji w klastrze</em></a> (slajdy z&nbsp;prezentacji Sebastiana Łaskawca)
-  </li>
-  <li>
-    <a href="https://github.com/slaskawi/jgroups-presentation" target="_blank">
-      Przykładowy kod źródłowy z prezentacji Sebastiana</a>
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
   </entry>
   

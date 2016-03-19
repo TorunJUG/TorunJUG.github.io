@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kategoria: Warsztaty | Toruń JUG]]></title>
+  <link href="http://torun.jug.pl/news/categories/warsztaty/atom.xml" rel="self"/>
+  <link href="http://torun.jug.pl/"/>
+  <updated>2016-03-19T17:06:12+01:00</updated>
+  <id>http://torun.jug.pl/</id>
+  <author>
+    <name><![CDATA[Toruń JUG]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie warsztatów Apache Spark]]></title>
+    <link href="http://torun.jug.pl/news/2016/03/13/podsumowanie-warsztatow-apache-spark/"/>
+    <updated>2016-03-13T18:45:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/03/13/podsumowanie-warsztatow-apache-spark</id>
+    <content type="html"><![CDATA[<p>Wczoraj odbyły się <a href="{{root_url}}/news/2016/03/01/warsztaty-apache-spark/">Warsztaty Apache Spark</a> przeprowadzone przez Jacka Laskowskiego. Bardzo dziękujemy Jackowi, za poświęcenie swojego wolnego czasu i wprowadzenie młodych adeptów do świata Sparka ;)</p>
+
+<p>Frekwencja dopisała. Na warsztatach pojawił się komplet <a href="http://www.meetup.com/Torun-JUG/events/229194936/" target="_blank">zarejestrowanych wcześniej</a> osób. Komentarze uczestników możecie przeczytać pod <a href="http://www.meetup.com/Torun-JUG/events/229194936/" target="_blank">wydarzeniem na Meetupie</a>.</p>
+
+<!--more-->
+
+
+<p>Zdjęcia z warsztatów możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1736649196558566.1073741852.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26811264/" target="_blank">Meetupie</a>.</p>
+
+<p>Jeśli nie mieliście możliwości uczestniczyć w warsztatach, a chcielibyście zobaczyć co się na nich działo, to możecie obejrzeć <a href="https://www.youtube.com/watch?v=4rnzTCm4nrE" target="_blank">nagranie na naszym kanale YouTube</a> &ndash; jakość trochę partyzancka, ale coś powinno udać się zobaczyć ;)</p>
+
+<p>Obszerne notatki Jacka z użytkowania Apache Spark możecie znaleźć pod adresem <a href="http://bit.ly/mastering-apache-spark" target="_blank">bit.ly/mastering-apache-spark</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Warsztaty Apache Spark]]></title>
+    <link href="http://torun.jug.pl/news/2016/03/01/warsztaty-apache-spark/"/>
+    <updated>2016-03-01T18:45:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/03/01/warsztaty-apache-spark</id>
+    <content type="html"><![CDATA[<p>Wraz z <a href="https://twitter.com/jaceklaskowski" target="_blank">Jackiem Laskowskim</a> zapraszamy serdecznie na <strong>Warsztaty Apache Spark</strong>. Jacek poprowadzi warsztaty <strong>w sobotę, 12 marca 2016 r.</strong> w godz. 9:00 &ndash; 17:00 na Wydziale Matematyki i Informatyki UMK (sala S3).</p>
+
+<p>Podczas warsztatów:</p>
+
+<ul>
+<li>poznasz zalety użycia Apache Spark ze szczególną uwagą na moduły Spark Streaming oraz Spark SQL,</li>
+<li>dowiesz się o architekturze Apache Spark,</li>
+<li>uruchomisz rozproszone obliczenia na klastrze sparkowym,</li>
+<li>poznasz efektywne sposoby monitorowania pracy Apache Spark korzystając z web UI.</li>
+</ul>
+
+
+<!--more-->
+
+
+<p>Od uczestników wymagane jest posiadanie własnego komputera z minimum 4GB RAM i procesorem Intel i5 lub wyższym. Uczestnik powinien mieć zainstalowany na komputerze pakiet spark-1.6.0-bin-hadoop2.6.tgz ze strony <a href="http://spark.apache.org/downloads.html" target="_blank">spark.apache.org/downloads.html</a>.</p>
+
+<p>Wstęp na warsztaty jest wolny, jednak ze względu na ograniczoną ilość miejsc wymaga rejestracji poprzez portal <a href="http://www.meetup.com/Torun-JUG/events/229194936/" target="_blank">Meetup</a>.</p>
+
+<h3>AGENDA</h3>
+
+<table style="margin-bottom:30px;">
+  <tr>
+    <td style="min-width:50px;">09:00</td>
+    <td style="min-width:10px;">-</td>
+    <td style="min-width:50px;">09:45</td>
+    <td>Installing Spark and My First Spark Application (using spark-shell)</td>
+  </tr>
+  <tr>
+    <td>09:55</td>
+    <td>-</td>
+    <td>10:40</td>
+    <td>Introduction to Scala</td>
+  </tr>
+  <tr>
+    <td>10:50</td>
+    <td>-</td>
+    <td>11:35</td>
+    <td>Using Spark's Core APIs in Scala — Transformations and Actions</td>
+  </tr>
+  <tr>
+    <td>11:45</td>
+    <td>-</td>
+    <td>12:30</td>
+    <td>Building, Deploying and Monitoring Spark Applications (using sbt, spark-submit, and web UI)</td>
+  </tr>
+  <tr>
+    <td>12:30</td>
+    <td>-</td>
+    <td>13:15</td>
+    <td>Pizza time :)</td>
+  </tr>
+  <tr>
+    <td>13:15</td>
+    <td>-</td>
+    <td>14:00</td>
+    <td>Clustering Spark and Spark Standalone</td>
+  </tr>
+  <tr>
+    <td>14:10</td>
+    <td>-</td>
+    <td>14:55</td>
+    <td>Spark Streaming (using socket receiver, checkpointing, and Apache Kafka)</td>
+  </tr>
+  <tr>
+    <td>15:05</td>
+    <td>-</td>
+    <td>15:50</td>
+    <td>Spark SQL</td>
+  </tr>
+  <tr>
+    <td>16:00</td>
+    <td>-</td>
+    <td>16:45</td>
+    <td>Podsumowanie</td>
+  </tr>
+</table>
+
+
+<p><span class="clearfix"></span></p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskowski-jacek.jpg" /></p>
+
+<h4><a href="https://twitter.com/jaceklaskowski" target="_blank">Jacek Laskowski</a></h4>
+
+<p>Jacek is a Java/Scala software developer with few Scala gigs under his belt. He runs a Scala project – <a href="https://github.com/jaceklaskowski/scalania" target="_blank">scalania</a> – on GitHub that gave birth Scala meetings in Warsaw, Poland that ultimately ended up as an initiative under <a href="https://twitter.com/WarszawScaLa" target="_blank">@WarszawScaLa</a> – a Scala user group in Warsaw. He builds his reputation in the tools he uses daily answering questions on <a href="http://stackoverflow.com/users/1305344/jacek-laskowski" target="_blank">StackOverflow</a> and contributing to open source projects on <a href="https://github.com/jaceklaskowski" target="_blank">GitHub</a>. You can follow him on twitter as <a href="https://twitter.com/jaceklaskowski" target="_blank">@jaceklaskowski</a>. He blogs at <a href="http://japila.pl" target="_blank">japila.pl</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

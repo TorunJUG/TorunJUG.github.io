@@ -489,6 +489,10 @@
         <lastmod>2016-02-26T06:27:06+01:00</lastmod>
     </url>
     <url>
+        <loc>http://torun.jug.pl/news/2016/03/01/warsztaty-apache-spark/</loc>
+        <lastmod>2016-03-19T17:00:50+01:00</lastmod>
+    </url>
+    <url>
         <loc>
             http://torun.jug.pl/news/2016/03/02/recenzja-ksiazki-effective-modern-c-plus-plus/
         </loc>
@@ -497,6 +501,10 @@
     <url>
         <loc>http://torun.jug.pl/news/2016/03/04/strefa-pomyslow/</loc>
         <lastmod>2016-03-04T06:41:13+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://torun.jug.pl/news/2016/03/13/podsumowanie-warsztatow-apache-spark/</loc>
+        <lastmod>2016-03-19T16:50:15+01:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/news/2016/03/15/nagranie-z-dwudziestego-spotkania/</loc>
@@ -536,7 +544,7 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/</loc>
-        <lastmod>2016-03-18T07:53:29+01:00</lastmod>
+        <lastmod>2016-03-19T17:00:50+01:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/javascript.html</loc>
@@ -552,7 +560,7 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/</loc>
-        <lastmod>2016-03-18T07:53:29+01:00</lastmod>
+        <lastmod>2016-03-19T17:00:50+01:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/leaders/</loc>

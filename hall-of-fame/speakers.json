@@ -472,7 +472,8 @@
             {
                 "meetingNumber" : 20,
                 "title" : "Keycloak – prosty sposób na bezpieczeństwo i uwierzytelnianie w nowoczesnych aplikacjach",
-                "slides" : "http://torun.jug.pl/materials/meetings/20/Keycloak_by_Boleslaw_Dawidowicz_and_Andrzej_Golawski.pdf"
+                "slides" : "http://torun.jug.pl/materials/meetings/20/Keycloak_by_Boleslaw_Dawidowicz_and_Andrzej_Golawski.pdf",
+                "youtube" : "https://www.youtube.com/watch?v=qv_2cFuZMm4"
             }
         ]
     },
@@ -485,7 +486,8 @@
             {
                 "meetingNumber" : 20,
                 "title" : "Keycloak – prosty sposób na bezpieczeństwo i uwierzytelnianie w nowoczesnych aplikacjach",
-                "slides" : "http://torun.jug.pl/materials/meetings/20/Keycloak_by_Boleslaw_Dawidowicz_and_Andrzej_Golawski.pdf"
+                "slides" : "http://torun.jug.pl/materials/meetings/20/Keycloak_by_Boleslaw_Dawidowicz_and_Andrzej_Golawski.pdf",
+                "youtube" : "https://www.youtube.com/watch?v=qv_2cFuZMm4"
             }
         ]
     },
@@ -498,7 +500,8 @@
             {
                 "meetingNumber" : 20,
                 "title" : "W poszukiwaniu bożków dokumentacji",
-                "slides" : "https://github.com/kubamarchwicki/asciidoctor-jug"
+                "slides" : "https://github.com/kubamarchwicki/asciidoctor-jug",
+                "youtube" : "https://www.youtube.com/watch?v=JGFBG22mHcs"
             }
         ]
     }

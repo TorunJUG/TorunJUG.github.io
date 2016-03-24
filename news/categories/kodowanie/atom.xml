@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kategoria: Kodowanie | Toruń JUG]]></title>
+  <link href="http://torun.jug.pl/news/categories/kodowanie/atom.xml" rel="self"/>
+  <link href="http://torun.jug.pl/"/>
+  <updated>2016-03-24T07:14:33+01:00</updated>
+  <id>http://torun.jug.pl/</id>
+  <author>
+    <name><![CDATA[Toruń JUG]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[TorunJUG.getSrc() // [#1] Xenia Development // [2016-04-02]]]></title>
+    <link href="http://torun.jug.pl/news/2016/03/24/torunjug-getsrc-1/"/>
+    <updated>2016-03-24T07:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/03/24/torunjug-getsrc-1</id>
+    <content type="html"><![CDATA[<p>Wspólnie z <a href="http://blpoland.com/torun/" target="_blank">Business Link Toruń</a> mamy przyjemność zaprosić na pierwsze wydarzenie z cyklu <strong>TorunJUG.getSrc()</strong>. Jest to inicjatywa, która ma na celu zachęcić i pobudzić naszą lokalną &ldquo;JUGową&rdquo; społeczność do wspólnej pracy przy projektach open source.</p>
+
+<p>Spotkanie odbędzie się <strong>2 kwietnia 2016 roku</strong> w godzinach <strong>11:00-15:00</strong> w siedzibie Business Link Toruń przy <a href="https://maps.google.com/maps?f=q&hl=en&q=ul.+W%C5%82adys%C5%82awa+%C5%81okietka+5%2C+Torun%2C+pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span><strong>ulicy Władysława Łokietka 5</strong></a>.</p>
+
+<p>Zamiast gadać o technologiach, będziemy wspólnie kodować. Już od pierwszego spotkania chcemy ruszyć z kopyta, dlatego na celownik bierzemy aplikację, której używamy podczas naszych regularnych spotkań &ndash; Xenię. Jest to aplikacja, która powstała podczas <a href="{{ root_url }}/news/2014/09/07/podsumowanie-pierwszego-hackathornu/">pierwszego Hackathornu</a> i która od tamtego czasu nie przechodziła zbyt wielu aktualizacji. Chcielibyśmy wspólnymi siłami przygotować kilka fajnych i użytecznych ficzerów. Wstępną listę rzeczy do zrobienia znajdziecie na specjalnie przygotowanej do tego tablicy <a href="https://trello.com/invite/b/LicUDCaH/7ec11017d8c4148473e554d05e63ffc5/xenia-development" target="_blank">Trello</a>. <!-- more --></p>
+
+<p>Aplikację Xenia można pobrać z GitHuba:</p>
+
+<ul>
+<li><a href="https://github.com/TorunJUG/xenia-api">https://github.com/TorunJUG/xenia-api</a> (backend aplikacji)</li>
+<li><a href="https://github.com/TorunJUG/xenia-ng">https://github.com/TorunJUG/xenia-ng</a> (frontend aplikacji)</li>
+</ul>
+
+
+<p><strong>UWAGA!</strong> Zapisy na to wydarzenie <strong>rozpoczną się we wtorek 29 marca o godz. 19:00</strong>. O wydarzeniu informujemy jednak wcześniej, aby każdy zainteresowany mógł sobie zarezerwować czas na sobotę. Liczba uczestników tego spotkania jest ograniczona do <strong>15</strong>-tu. Będzie to pierwsze, ale nie ostanie spotkanie tego typu. Wspólnie z Business Link Toruń zależy nam na zrobieniu z <strong>TorunJUG.getSrc()</strong> cyklicznego wydarzenia, które na stałe wpisze się do kalendarza toruńskich imprez o charakterze programistycznym.</p>
+
+<p><strong>Na spotkania TorunJUG.getSrc() każdy przychodzi z własnym laptopem. Na miejscu będzie dostęp do WiFi oraz listw zasilających. Każdy powinien przyjść z wcześniej skonfigurowanym IDE (IntelliJ IDEA, Eclipse, NetBeans). Namiary na kody źródłowe projektów, którymi będziemy się zajmować będą zawsze podawane z wyprzedzeniem &ndash; warto już wcześniej zrobić fork wskazanego repozytorium i przygotować sobie środowisko do pracy.</strong></p>
+
+<p>Pod <a href="http://i.imgur.com/sgTdx5H.png" target="_blank">tym linkiem</a> znajdziecie pomocniczą mapkę dojazdową do Business Link Toruń wraz zaznaczonymi miejscami parkingowymi.</p>
+
+<p>Jeśli macie jakiekolwiek pytania odnośnie wydarzenia lub coś jest niewystarczająco jasno zakomunikowane, piszcie proszę w komentarzach.</p>
+]]></content>
+  </entry>
+  
+</feed>

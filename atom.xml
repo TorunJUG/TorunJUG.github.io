@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-03-21T19:58:10+01:00</updated>
+  <updated>2016-03-24T07:04:23+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[TorunJUG.getSrc() // [#1] Xenia Development // [2016-04-02]]]></title>
+    <link href="http://torun.jug.pl/news/2016/03/24/torunjug-getsrc-1/"/>
+    <updated>2016-03-24T07:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/03/24/torunjug-getsrc-1</id>
+    <content type="html"><![CDATA[<p>Wspólnie z <a href="http://blpoland.com/torun/" target="_blank">Business Link Toruń</a> mamy przyjemność zaprosić na pierwsze wydarzenie z cyklu <strong>TorunJUG.getSrc()</strong>. Jest to inicjatywa, która ma na celu zachęcić i pobudzić naszą lokalną &ldquo;JUGową&rdquo; społeczność do wspólnej pracy przy projektach open source.</p>
+
+<p>Spotkanie odbędzie się <strong>2 kwietnia 2016 roku</strong> w godzinach <strong>11:00-15:00</strong> w siedzibie Business Link Toruń przy <a href="https://maps.google.com/maps?f=q&hl=en&q=ul.+W%C5%82adys%C5%82awa+%C5%81okietka+5%2C+Torun%2C+pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span><strong>ulicy Władysława Łokietka 5</strong></a>.</p>
+
+<p>Zamiast gadać o technologiach, będziemy wspólnie kodować. Już od pierwszego spotkania chcemy ruszyć z kopyta, dlatego na celownik bierzemy aplikację, której używamy podczas naszych regularnych spotkań &ndash; Xenię. Jest to aplikacja, która powstała podczas <a href="http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu/">pierwszego Hackathornu</a> i która od tamtego czasu nie przechodziła zbyt wielu aktualizacji. Chcielibyśmy wspólnymi siłami przygotować kilka fajnych i użytecznych ficzerów. Wstępną listę rzeczy do zrobienia znajdziecie na specjalnie przygotowanej do tego tablicy <a href="https://trello.com/invite/b/LicUDCaH/7ec11017d8c4148473e554d05e63ffc5/xenia-development" target="_blank">Trello</a>. <!-- more --></p>
+
+<p>Aplikację Xenia można pobrać z GitHuba:</p>
+
+<ul>
+<li><a href="https://github.com/TorunJUG/xenia-api">https://github.com/TorunJUG/xenia-api</a> (backend aplikacji)</li>
+<li><a href="https://github.com/TorunJUG/xenia-ng">https://github.com/TorunJUG/xenia-ng</a> (frontend aplikacji)</li>
+</ul>
+
+
+<p><strong>UWAGA!</strong> Zapisy na to wydarzenie <strong>rozpoczną się we wtorek 29 marca o godz. 19:00</strong>. O wydarzeniu informujemy jednak wcześniej, aby każdy zainteresowany mógł sobie zarezerwować czas na sobotę. Liczba uczestników tego spotkania jest ograniczona do <strong>15</strong>-tu. Będzie to pierwsze, ale nie ostanie spotkanie tego typu. Wspólnie z Business Link Toruń zależy nam na zrobieniu z <strong>TorunJUG.getSrc()</strong> cyklicznego wydarzenia, które na stałe wpisze się do kalendarza toruńskich imprez o charakterze programistycznym.</p>
+
+<p><strong>Na spotkania TorunJUG.getSrc() każdy przychodzi z własnym laptopem. Na miejscu będzie dostęp do WiFi oraz listw zasilających. Każdy powinien przyjść z wcześniej skonfigurowanym IDE (IntelliJ IDEA, Eclipse, NetBeans). Namiary na kody źródłowe projektów, którymi będziemy się zajmować będą zawsze podawane z wyprzedzeniem &ndash; warto już wcześniej zrobić fork wskazanego repozytorium i przygotować sobie środowisko do pracy.</strong></p>
+
+<p>Pod <a href="http://i.imgur.com/sgTdx5H.png" target="_blank">tym linkiem</a> znajdziecie pomocniczą mapkę dojazdową do Business Link Toruń wraz zaznaczonymi miejscami parkingowymi.</p>
+
+<p>Jeśli macie jakiekolwiek pytania odnośnie wydarzenia lub coś jest niewystarczająco jasno zakomunikowane, piszcie proszę w komentarzach.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #21 [2016-03-30]]]></title>
@@ -710,51 +739,6 @@ Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #17 [2015-11-25]]]></title>
-    <link href="http://torun.jug.pl/news/2015/11/15/spotkanie-17/"/>
-    <updated>2015-11-15T18:30:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/11/15/spotkanie-17</id>
-    <content type="html"><![CDATA[<p>Toruń JUG zaprasza na siedemnaste spotkanie, które odbędzie się <strong>w&nbsp;środę, 25 listopada 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/226787041/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
-
-<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
-
-<h3>Na co czekamy w Javie 9</h3>
-
-<p>Całkiem niedawno pojawiła się Java 8 przynosząc nam wyrażenia lambda, nowe API dla czasu i wiele innych. A my już czekamy na to, co zobaczymy w następnej wersji. Na prezentacji opowiem jakie nowości przyniesie Java 9, co to jest project Jigsaw, jak będziemy liczyć pieniądze oraz o kilku innych.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/przybysz-dominik.jpg" /></p>
-
-<h4>Dominik Przybysz</h4>
-
-<p>Większość życia spędził pisząc w javie i groovym, ale zdarzało mu się oskryptowywać różne rzeczy w pythonie lub shellu. Aktualnie developer w TouKu i użytkownik scali. Uwielbia testowanie (szczególnie z pomocą Spocka) oraz wszelką automatyzację w procesie wytwarzania oprogramowania. Stara się dbać o czystość kodu (własnego i cudzego) poprzez częste code review.
-<span class="clearfix"></span></p>
-
-<h3>Clojure okiem neofity</h3>
-
-<p>Jeżeli kodujesz już od lat, to pewnie nie raz były przed Tobą podobne pytania:<br />
-&ndash; Dlaczego miałbyś nauczyć się nowego języka? Jakiego?<br />
-&ndash; FP? A może &ldquo;OOP is my life&rdquo;?<br />
-&ndash; Który programista przejmuje się ROI?<br />
-&ndash; Dlaczego warto zrobić krok &ldquo;w kierunku historii&rdquo; i nauczyć się LISPa?<br /></p>
-
-<p>W prezentacji postaram się powiedzieć na te pytania i dlaczego odpowiadam na nie: Clojure. A jaka jest Twoja odpowiedź?</p>
-
-<p>Zachęcam do zabrania ze sobą urządzeń elektronicznych (niekoniecznie laptopów, telefon z przeglądarką wystarczy).</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/kapala-pawel.jpg" /></p>
-
-<h4>Paweł Kapała</h4>
-
-<p>Pragmatyczny koder-poliglota, startupowy deweloper, entuzjasta przedsiębiorczości. Ewangelista prostoty i dekompozycji. (reduce code <a href="https://twitter.com/kapware" target="_blank">@kapware</a>)
-<span class="clearfix"></span></p>
 ]]></content>
   </entry>
   

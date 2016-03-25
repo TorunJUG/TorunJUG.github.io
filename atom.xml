@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-03-24T07:04:23+01:00</updated>
+  <updated>2016-03-25T15:05:44+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -32,7 +32,7 @@
 </ul>
 
 
-<p><strong>UWAGA!</strong> Zapisy na to wydarzenie <strong>rozpoczną się we wtorek 29 marca o godz. 19:00</strong>. O wydarzeniu informujemy jednak wcześniej, aby każdy zainteresowany mógł sobie zarezerwować czas na sobotę. Liczba uczestników tego spotkania jest ograniczona do <strong>15</strong>-tu. Będzie to pierwsze, ale nie ostanie spotkanie tego typu. Wspólnie z Business Link Toruń zależy nam na zrobieniu z <strong>TorunJUG.getSrc()</strong> cyklicznego wydarzenia, które na stałe wpisze się do kalendarza toruńskich imprez o charakterze programistycznym.</p>
+<p><strong>UWAGA!</strong> Zapisy na to wydarzenie <strong><a href="http://www.meetup.com/Torun-JUG/events/229784798/" target="_blank">rozpoczną się we wtorek 29 marca o godz. 19:00</a></strong>. O wydarzeniu informujemy jednak wcześniej, aby każdy zainteresowany mógł sobie zarezerwować czas na sobotę. Liczba uczestników tego spotkania jest ograniczona do <strong>15</strong>-tu. Będzie to pierwsze, ale nie ostanie spotkanie tego typu. Wspólnie z Business Link Toruń zależy nam na zrobieniu z <strong>TorunJUG.getSrc()</strong> cyklicznego wydarzenia, które na stałe wpisze się do kalendarza toruńskich imprez o charakterze programistycznym.</p>
 
 <p><strong>Na spotkania TorunJUG.getSrc() każdy przychodzi z własnym laptopem. Na miejscu będzie dostęp do WiFi oraz listw zasilających. Każdy powinien przyjść z wcześniej skonfigurowanym IDE (IntelliJ IDEA, Eclipse, NetBeans). Namiary na kody źródłowe projektów, którymi będziemy się zajmować będą zawsze podawane z wyprzedzeniem &ndash; warto już wcześniej zrobić fork wskazanego repozytorium i przygotować sobie środowisko do pracy.</strong></p>
 

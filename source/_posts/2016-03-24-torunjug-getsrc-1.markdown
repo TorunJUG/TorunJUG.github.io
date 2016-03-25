@@ -17,7 +17,7 @@ Aplikację Xenia można pobrać z GitHuba:
 * https://github.com/TorunJUG/xenia-api (backend aplikacji)
 * https://github.com/TorunJUG/xenia-ng (frontend aplikacji)
 
-**UWAGA!** Zapisy na to wydarzenie **rozpoczną się we wtorek 29 marca o godz. 19:00**. O wydarzeniu informujemy jednak wcześniej, aby każdy zainteresowany mógł sobie zarezerwować czas na sobotę. Liczba uczestników tego spotkania jest ograniczona do **15**-tu. Będzie to pierwsze, ale nie ostanie spotkanie tego typu. Wspólnie z Business Link Toruń zależy nam na zrobieniu z **TorunJUG.getSrc()** cyklicznego wydarzenia, które na stałe wpisze się do kalendarza toruńskich imprez o charakterze programistycznym.
+**UWAGA!** Zapisy na to wydarzenie <strong><a href="http://www.meetup.com/Torun-JUG/events/229784798/" target="_blank">rozpoczną się we wtorek 29 marca o godz. 19:00</a></strong>. O wydarzeniu informujemy jednak wcześniej, aby każdy zainteresowany mógł sobie zarezerwować czas na sobotę. Liczba uczestników tego spotkania jest ograniczona do **15**-tu. Będzie to pierwsze, ale nie ostanie spotkanie tego typu. Wspólnie z Business Link Toruń zależy nam na zrobieniu z **TorunJUG.getSrc()** cyklicznego wydarzenia, które na stałe wpisze się do kalendarza toruńskich imprez o charakterze programistycznym.
 
 **Na spotkania TorunJUG.getSrc() każdy przychodzi z własnym laptopem. Na miejscu będzie dostęp do WiFi oraz listw zasilających. Każdy powinien przyjść z wcześniej skonfigurowanym IDE (IntelliJ IDEA, Eclipse, NetBeans). Namiary na kody źródłowe projektów, którymi będziemy się zajmować będą zawsze podawane z wyprzedzeniem - warto już wcześniej zrobić fork wskazanego repozytorium i przygotować sobie środowisko do pracy.**
 

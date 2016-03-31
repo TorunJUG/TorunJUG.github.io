@@ -504,5 +504,17 @@
                 "youtube" : "https://www.youtube.com/watch?v=JGFBG22mHcs"
             }
         ]
+    },
+    {
+        "name" : "Paweł Szulc",
+        "img" : "szulc-pawel.jpeg",
+        "twitter" : "rabbitonweb",
+        "lastMeeting": 21,
+        "talks" : [
+            {
+                "meetingNumber" : 21,
+                "title" : "Category theory is absolute general nonsense! What is all the fuss with all those monoids and semigroups I keep hearing about?"
+            }
+        ]
     }
 ]

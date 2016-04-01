@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-03-31T06:26:09+02:00</updated>
+  <updated>2016-04-01T05:35:44+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie dwudziestego pierwszego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2016/04/01/podsumowanie-dwudziestego-pierwszego-spotkania/"/>
+    <updated>2016-04-01T06:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/04/01/podsumowanie-dwudziestego-pierwszego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2016/03/18/spotkanie-21/">dwudzieste pierwsze</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Pawłowi, za interesujące wprowadzenie do świata programowania funkcyjnego i teorii kategorii. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1d9OQDYzNEE6gkJR9k4cRDMpducn2tGrLyhCdgCnMXlM/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1743986502491502.1073741853.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26853962/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="#będą_jak_Paweł_przyśle" target="_blank">
+      <em>Category theory is absolute general nonsense! What is all the fuss with all those monoids and semigroups I keep hearing about?</em></a> (slajdy z&nbsp;prezentacji Pawła Szulca)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[TorunJUG.getSrc() // [#1] Xenia Development // [2016-04-02]]]></title>
@@ -696,49 +727,6 @@ Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
 <h4>Jarosław Pałka</h4>
 
 <p>Od ponad 15 lat w branży IT, jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo, jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych narzędzi które wykonają pracę za ciebie. W międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL, by potem porzucić je by zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą „metafora” i odkryć, że rządzą nami te same prawa „natury”. Niepokorny wyznawca kościoła JVM, badacz bytecode&#8217;u i JIT oraz wszelkiej maści parserów, interpeterów i kompilatorów.  Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce. W wolnych chwilach trener w <a href="http://symentis.pl" target="_blank">symentis.pl</a> i autor bloga na <a href="http://geekyprimitives.wordpress.com/" target="_blank">geekyprimitives.wordpress.com</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie siedemnastego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/11/26/podsumowanie-siedemnastego-spotkania/"/>
-    <updated>2015-11-26T22:00:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/11/26/podsumowanie-siedemnastego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2015/11/15/spotkanie-17/">siedemnaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Dominikowi, który przyjechał do nas z Warszawy, żeby poopowiadać co piszczy w dziewiątej wersji Java oraz Pawłowi, który podzielił się wskazówkami na temat tego jak zacząć przygodę z Clojure. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
-
-<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Cybermachina.</p>
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1qGP4RO3CtVafrX21Yq5aonPP00AL4eV4pFdpSnxzcBE/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1705459696344183.1073741848.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26577402/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/17/Na_co_czekamy_w_Javie_9_by_Dominik_Przybysz.pdf" target="_blank">
-      <em>Na co czekamy w Javie 9</em></a> (slajdy z&nbsp;prezentacji Dominika Przybysza)
-  </li>
-  <li>
-    <a href="https://github.com/alien11689/whats-new-in-java-9" target="_blank">
-      Przykładowy kod źródłowy z prezentacji Dominika</a>
-  </li>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/17/Clojure_okiem_neofity_by_Pawel_Kapala.pdf" target="_blank">
-      <em>Clojure okiem neofity</em></a> (slajdy z&nbsp;prezentacji Pawła Kapały)
-  </li>
-  <li>
-    <a href="http://www.meetup.com/Torun-JUG/events/226787041/comments/458018087/" target="_blank">
-      Niematerialny upominek od Pawła</a>
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
   </entry>
   

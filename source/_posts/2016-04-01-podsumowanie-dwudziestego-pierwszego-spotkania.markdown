@@ -17,7 +17,7 @@ Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.c
 Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
 <ul>
   <li>
-    <a href="#będą_jak_Paweł_przyśle" target="_blank">
+    <a href="http://www.slideshare.net/paulszulc/category-theory-is-general-abolute-nonsens" target="_blank">
       <em>Category theory is absolute general nonsense! What is all the fuss with all those monoids and semigroups I keep hearing about?</em></a> (slajdy z&nbsp;prezentacji Pawła Szulca)
   </li>
 </ul>

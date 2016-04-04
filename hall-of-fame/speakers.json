@@ -513,7 +513,8 @@
         "talks" : [
             {
                 "meetingNumber" : 21,
-                "title" : "Category theory is absolute general nonsense! What is all the fuss with all those monoids and semigroups I keep hearing about?"
+                "title" : "Category theory is absolute general nonsense! What is all the fuss with all those monoids and semigroups I keep hearing about?",
+                "slides" : "http://www.slideshare.net/paulszulc/category-theory-is-general-abolute-nonsens"
             }
         ]
     }

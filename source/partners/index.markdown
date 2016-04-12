@@ -32,7 +32,7 @@ footer: false
 
 ### Licencje sponsorują
 <div class="row" style="margin-bottom: 10px;">
-  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4 former-partner">
     <a class="no-text-decoration" href="http://structure101.com" target="_blank" title="Structure101">
       <img class="no-border" src="{{ root_url }}/images/partners/structure101_2.png" alt="Structure101" />
     </a>
@@ -47,7 +47,7 @@ footer: false
       <img class="no-border" src="{{ root_url }}/images/partners/jprofiler.png" alt="JProfiler" />
     </a>
   </div>
-  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4 former-partner">
     <a class="no-text-decoration" href="http://www.jarchitect.com" target="_blank" title="JArchitect">
       <img class="no-border" src="{{ root_url }}/images/partners/jarchitect.png" alt="JArchitect" />
     </a>
@@ -57,7 +57,7 @@ footer: false
       <img class="no-border" src="{{ root_url }}/images/partners/retrospective.png" alt="Retrospective" />
     </a>
   </div>
-  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4">
+  <div class="col-tn-12 col-xs-6 col-sm-6 col-md-4 former-partner">
     <a class="no-text-decoration" href="http://www.yourkit.com" target="_blank" title="YourKit">
       <img class="no-border" src="{{ root_url }}/images/partners/yourkit.png" alt="YourKit" />
     </a>

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-04-12T05:59:21+02:00</updated>
+  <updated>2016-04-13T19:08:44+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nagranie z dwudziestego pierwszego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2016/04/13/nagranie-z-dwudziestego-pierwszego-spotkania/"/>
+    <updated>2016-04-13T19:30:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/04/13/nagranie-z-dwudziestego-pierwszego-spotkania</id>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3036" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="http://torun.jug.pl/meeting/21/">dwudziestego pierwszego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+
+<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
+  <div class="col-md-12">
+    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
+      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="flashVars" value="movieID=3036&amp;width=640" />
+    </object>
+  </div>
+</div>
+
+
+<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
+
+<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie dwudziestego pierwszego spotkania]]></title>
@@ -702,31 +726,6 @@ Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #18 [2015-12-16]]]></title>
-    <link href="http://torun.jug.pl/news/2015/12/07/spotkanie-18/"/>
-    <updated>2015-12-07T19:00:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/12/07/spotkanie-18</id>
-    <content type="html"><![CDATA[<p>Toruń JUG zaprasza na osiemnaste spotkanie, które odbędzie się <strong>w&nbsp;środę, 16 grudnia 2015 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/227270961/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty w&nbsp;pubie <a href="https://www.facebook.com/Cybermachina" target="_blank"><strong>Cybermachina</strong></a> (<a href="https://www.google.pl/maps/place/Łazienna+13,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Łazienna 13</a>).</p>
-
-<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
-
-<h3>W gąszczu grafów, czyli jak zostać bohaterem swoich danych w Neo4j</h3>
-
-<p>Zapraszam na przejażdkę w świat grafów podczas której zapoznamy się z teorią grafów i bazą danych Neo4j, by następnie po krótkim teoretycznym wstępie zapoznać się z językiem Cypher. Będziemy budować, materializować i przemierzać grafy, od tych małych do tych dużych. Zapoznamy się z algorytmami i technikami analizy sieci społecznościowych i nauczymy się podstaw silników rekomendacji. Wszystko to z pomocą języka który powstał na potrzeby bazy Neo4j, który łaczy ekspresyjność starego dobrego SQL i potęgę wyszukiwania wzorców w grafach, a wszystko to będzie wyglądało jak stary dobry &ldquo;ASCII art&rdquo;. Mam nadzieję, że po tym warsztacie raz na zawsze zapomnimy o klauzuli JOIN i iloczynie kartezjańskim.</p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/palka-jaroslaw.jpg" /></p>
-
-<h4>Jarosław Pałka</h4>
-
-<p>Od ponad 15 lat w branży IT, jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo, jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych narzędzi które wykonają pracę za ciebie. W międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL, by potem porzucić je by zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą „metafora” i odkryć, że rządzą nami te same prawa „natury”. Niepokorny wyznawca kościoła JVM, badacz bytecode&#8217;u i JIT oraz wszelkiej maści parserów, interpeterów i kompilatorów.  Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce. W wolnych chwilach trener w <a href="http://symentis.pl" target="_blank">symentis.pl</a> i autor bloga na <a href="http://geekyprimitives.wordpress.com/" target="_blank">geekyprimitives.wordpress.com</a>.</p>
 ]]></content>
   </entry>
   

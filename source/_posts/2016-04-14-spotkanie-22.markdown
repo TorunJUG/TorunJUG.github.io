@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Spotkanie #22 [2016-04-27]"
+description: "Toruń JUG - Spotkanie #22 [2016-04-27]"
+date: 2016-04-14 14:00:00 +0200
+comments: true
+categories: Spotkania
+---
+Serdecznie zapraszamy na dwudzieste drugie spotkanie Toruń Java User Group, które odbędzie się **w&nbsp;środę, 27 kwietnia 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+
+Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/229280389/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.
+
+Sponsorem spotkania jest firma **Goyello** - w puli upominków, które losować będziemy na koniec spotkania znajdzie się kilka papierowych książek ufundowanych przez tę firmę.
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/meetings/22/cover.jpeg" />
+  </div>
+</div>
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>).
+
+Sala S9 będzie otwarta **od godz. 17:30** - jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more -->
+
+### Bootstrapping projects with Spring Boot [Live Coding]
+Spring Boot focuses on creating stand-alone, Spring-based applications quickly by favoring convention over configuration, providing a lot of features by default. Is it worth trying? In this presentation I will demo how to get started with Spring Boot. I will also share some lessons learned during several projects we have done / doing with Spring Boot.
+
+<em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em>
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/borowiec-rafal.jpg" />
+#### <a href="https://twitter.com/kolorobot" target="_blank">Rafał Borowiec</a>
+IT professional, open source enthusiast, developer, team leader, <a href="http://blog.codeleak.pl" target="_blank">occasional blogger</a> and knowledge sharer.
+
+<span class="clearfix"></span>
+
+### Goyello o sobie
+<a href="http://goyello.com" target="_blank">Goyello</a> jest polsko-holenderską firmą działającą na rynku IT od 2006 roku. To miejsce dla ludzi z pasją, dla których programowanie znaczy więcej niż praca. Głównym wyzwaniem Goyello jest realizacja innowacyjnych przedsięwzięć biznesowych, tworzenie najlepszych rozwiązań IT, profesjonalne ich wdrażanie i utrzymanie. Rzetelna wiedza, bogate doświadczenie i praca zespołowa to idealne warunki do prowadzenia ambitnych projektów.
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/meetings/22/goyello.jpeg" />
+  </div>
+</div>
+
+Nasze ulubione technologie to: .Net, Java, mobile. Praca w Goyello to okazja do ciągłego rozwoju. Chętnie dzielimy się swoją wiedzą i doświadczeniami. Cenimy dobrą atmosferę panującą w naszym biurze. Pomagają nam w tym spotkania integracyjne, liczne wydarzenia specjalnie dla pracowników i otwarta komunikacja między kadrą kierowniczą a pozostałymi pracownikami. Nasz zespół liczy obecnie około 100 osób. Nasza dewiza to: "Awesome People - Awesome Software!"

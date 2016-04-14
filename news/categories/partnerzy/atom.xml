@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-04-13T19:13:13+02:00</updated>
+  <updated>2016-04-14T13:46:37+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -25,7 +25,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2016.mceconf.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/mce2016.png" alt="Mobile Central Europe 2016" />
+      <img class="no-border" src="/images/partners/mce2016.png" alt="Mobile Central Europe 2016" />
     </a>
   </div>
 </div>
@@ -58,7 +58,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://polyconf.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/polyconf16.png" alt="PolyConf16" />
+      <img class="no-border" src="/images/partners/polyconf16.png" alt="PolyConf16" />
     </a>
   </div>
 </div>
@@ -84,12 +84,12 @@ Gdzie: POZnań, budynek Wydziału Prawa i Administracji UAM</p>
     <id>http://torun.jug.pl/news/2015/09/15/wspolny-wyjazd-jdd</id>
     <content type="html"><![CDATA[<p><a href="http://jdd.org.pl" target="_blank">JDD</a> jest dwudniową konferencją adresowaną do wszystkich miłośników Java, zarówno w&nbsp;życiu prywatnym, jak i&nbsp;zawodowym. Wydarzenie jest doskonałą okazją do wzięcia udziału w&nbsp;merytorycznych wykładach, rozwijających warsztatach oraz interaktywnych szkoleniach. Nowatorski charakter JDD oraz wykłady w&nbsp;języku angielskim skutecznie przyciągają coraz większą liczbę uczestników z&nbsp;całego świata.<!--more--></p>
 
-<p>Kilka miesięcy temu <a href="{{root_url}}/news/2015/01/13/zapowiedz-konferencji-jdd/">pisaliśmy o konferencji JDD</a>, która odbędzie się w&nbsp;dniach 12-13 października w Krakowie. Dzisiaj mamy dla Was kolejną dobrą wiadomość &ndash; otrzymaliśmy <strong>30% zniżki</strong> na wyjzd grupowy (5+ osób).</p>
+<p>Kilka miesięcy temu <a href="/news/2015/01/13/zapowiedz-konferencji-jdd/">pisaliśmy o konferencji JDD</a>, która odbędzie się w&nbsp;dniach 12-13 października w Krakowie. Dzisiaj mamy dla Was kolejną dobrą wiadomość &ndash; otrzymaliśmy <strong>30% zniżki</strong> na wyjzd grupowy (5+ osób).</p>
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/jdd.png" alt="JDD Conference 2015" />
+      <img class="no-border" src="/images/partners/jdd.png" alt="JDD Conference 2015" />
     </a>
   </div>
 </div>
@@ -107,7 +107,7 @@ Gdzie: POZnań, budynek Wydziału Prawa i Administracji UAM</p>
     <content type="html"><![CDATA[<div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.microservices.geecon.org/" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/geecon-microservices-2015.jpg" alt="GeeCON Microservices" />
+      <img class="no-border" src="/images/partners/geecon-microservices-2015.jpg" alt="GeeCON Microservices" />
     </a>
   </div>
 </div>
@@ -129,7 +129,7 @@ Gdzie: POZnań, budynek Wydziału Prawa i Administracji UAM</p>
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.agilebyexample.com" target="_blank">
-      <img class="no-border" src="{{ root_url }}/images/partners/agile-by-example-2015.jpg" alt="AgileByExample 2015" />
+      <img class="no-border" src="/images/partners/agile-by-example-2015.jpg" alt="AgileByExample 2015" />
     </a>
   </div>
 </div>

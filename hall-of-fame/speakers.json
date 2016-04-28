@@ -518,5 +518,17 @@
                 "youtube" : "https://www.youtube.com/watch?v=ENtdZ9MBo5Y"
             }
         ]
+    },
+    {
+        "name" : "Rafał Borowiec",
+        "img" : "borowiec-rafal.jpg",
+        "twitter" : "kolorobot",
+        "lastMeeting": 22,
+        "talks" : [
+            {
+                "meetingNumber" : 22,
+                "title" : "Bootstrapping projects with Spring Boot"
+            }
+        ]
     }
 ]

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-04-28T06:22:34+02:00</updated>
+  <updated>2016-04-29T05:45:18+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -14,11 +14,51 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Podsumowanie dwudziestego drugiego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2016/04/29/podsumowanie-dwudziestego-drugiego-spotkania/"/>
+    <updated>2016-04-29T06:15:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/04/29/podsumowanie-dwudziestego-drugiego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/meeting/22/">dwudzieste drugie</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Rafałowi, za wprowadzenie nas do świata Spring Boota i łatwiejszego bootstrapowania aplikacji Springowych. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="http://bit.ly/22-spotkanie-Torun-JUG-ankieta" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/tak.dla.juga.w.toruniu/photos/?tab=album&album_id=1753668268189992" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26927052/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+    <li>
+    <a href="{{root_url}}/materials/meetings/22/Bootstrapping_projects_with_Spring_Boot_by_Rafal_Borowiec.pdf" target="_blank">
+      <em>Bootstrapping projects with Spring Boot</em></a> (slajdy z&nbsp;prezentacji Rafała Borowca)
+  </li>
+  <li>
+    <a href="https://github.com/kolorobot/spring-boot-demo" target="_blank">Kod źródłowy wykorzystywany przez Rafała podczas prezentacji</a>
+  </li>
+  <li>
+    <a href="https://github.com/kolorobot/spring-mvc-quickstart-archetype" target="_blank">Archetype Spring 4 (bez Spring Boot) autorstwa Rafała</a>
+  </li>
+  <li>
+    <a href="http://blog.codeleak.pl" target="_blank">blog.codeleak.pl</a> - blog Rafała z całą masą informacji na temat Spring Boota
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Podsumowanie dwudziestego pierwszego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2016/04/01/podsumowanie-dwudziestego-pierwszego-spotkania/"/>
+    <link href="http://torun.jug.pl/news/2016/04/01/podsumowanie-dwudziestego-pierwszego-spotkania+%E2%80%94+kopia/"/>
     <updated>2016-04-01T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/04/01/podsumowanie-dwudziestego-pierwszego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/news/2016/03/18/spotkanie-21/">dwudzieste pierwsze</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Pawłowi, za interesujące wprowadzenie do świata programowania funkcyjnego i teorii kategorii. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <id>http://torun.jug.pl/news/2016/04/01/podsumowanie-dwudziestego-pierwszego-spotkania — kopia</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/news/2016/03/18/spotkanie-21/">dwudzieste pierwsze</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Pawłowi, za interesujące wprowadzenie do świata programowania funkcyjnego i teorii kategorii. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
 
@@ -38,7 +78,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -49,7 +89,7 @@
     <link href="http://torun.jug.pl/news/2016/02/26/podsumowanie-dwudziestego-spotkania/"/>
     <updated>2016-02-26T06:45:00+01:00</updated>
     <id>http://torun.jug.pl/news/2016/02/26/podsumowanie-dwudziestego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/news/2016/02/13/spotkanie-20/">dwudzieste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się naszym prelegentom &ndash; Bolkowi i Andrzejowi, którzy w bardzo ciekawy i praktyczny sposób zaprezentowali jak działa Keycloak, a także Kubie ze pokazanie, że pisanie dokumentacji nie musi być nudne. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/news/2016/02/13/spotkanie-20/">dwudzieste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się naszym prelegentom &ndash; Bolkowi i Andrzejowi, którzy w bardzo ciekawy i praktyczny sposób zaprezentowali jak działa Keycloak, a także Kubie ze pokazanie, że pisanie dokumentacji nie musi być nudne. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
 
@@ -61,7 +101,7 @@
 
 <ul>
   <li>
-    <a href="/materials/meetings/20/Keycloak_by_Boleslaw_Dawidowicz_and_Andrzej_Golawski.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/20/Keycloak_by_Boleslaw_Dawidowicz_and_Andrzej_Golawski.pdf" target="_blank">
       <em>Keycloak - prosty sposób na bezpieczeństwo i uwierzytelnianie w nowoczesnych aplikacjach</em></a> (slajdy z&nbsp;prezentacji Bolesława Dawidowicza i Andrzeja Goławskiego)
   </li>
   <li>
@@ -73,7 +113,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -84,7 +124,7 @@
     <link href="http://torun.jug.pl/news/2016/01/30/podsumowanie-dziewietnastego-spotkania/"/>
     <updated>2016-01-30T20:30:00+01:00</updated>
     <id>http://torun.jug.pl/news/2016/01/30/podsumowanie-dziewietnastego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/news/2016/01/20/spotkanie-19/">dziewiętnaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Tomkowi, który bardzo fajnie przedstawił pojęcie modelu spójności pamięci w Javie. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/news/2016/01/20/spotkanie-19/">dziewiętnaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Tomkowi, który bardzo fajnie przedstawił pojęcie modelu spójności pamięci w Javie. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
 
@@ -104,7 +144,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -115,7 +155,7 @@
     <link href="http://torun.jug.pl/news/2015/12/19/podsumowanie-osiemnastego-spotkania/"/>
     <updated>2015-12-19T17:00:00+01:00</updated>
     <id>http://torun.jug.pl/news/2015/12/19/podsumowanie-osiemnastego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/news/2015/12/07/spotkanie-18/">osiemnaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Jarkowi, który podzielił się z nami swoją wiedzą na temat Neo4j. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/news/2015/12/07/spotkanie-18/">osiemnaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Jarkowi, który podzielił się z nami swoją wiedzą na temat Neo4j. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Cybermachina.</p>
 
@@ -127,7 +167,7 @@
 
 <ul>
   <li>
-    <a href="/materials/meetings/18/W_gaszczu_grafow_by_Jaroslaw_Palka.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/18/W_gaszczu_grafow_by_Jaroslaw_Palka.pdf" target="_blank">
       <em>W gąszczu grafów, czyli jak zostać bohaterem swoich danych w Neo4j</em></a> (slajdy z&nbsp;prezentacji Jarosława Pałki)
   </li>
   <li>
@@ -139,50 +179,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie siedemnastego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2015/11/26/podsumowanie-siedemnastego-spotkania/"/>
-    <updated>2015-11-26T22:00:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2015/11/26/podsumowanie-siedemnastego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/news/2015/11/15/spotkanie-17/">siedemnaste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Dominikowi, który przyjechał do nas z Warszawy, żeby poopowiadać co piszczy w dziewiątej wersji Java oraz Pawłowi, który podzielił się wskazówkami na temat tego jak zacząć przygodę z Clojure. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
-
-<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Cybermachina.</p>
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1qGP4RO3CtVafrX21Yq5aonPP00AL4eV4pFdpSnxzcBE/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1705459696344183.1073741848.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26577402/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="/materials/meetings/17/Na_co_czekamy_w_Javie_9_by_Dominik_Przybysz.pdf" target="_blank">
-      <em>Na co czekamy w Javie 9</em></a> (slajdy z&nbsp;prezentacji Dominika Przybysza)
-  </li>
-  <li>
-    <a href="https://github.com/alien11689/whats-new-in-java-9" target="_blank">
-      Przykładowy kod źródłowy z prezentacji Dominika</a>
-  </li>
-  <li>
-    <a href="/materials/meetings/17/Clojure_okiem_neofity_by_Pawel_Kapala.pdf" target="_blank">
-      <em>Clojure okiem neofity</em></a> (slajdy z&nbsp;prezentacji Pawła Kapały)
-  </li>
-  <li>
-    <a href="http://www.meetup.com/Torun-JUG/events/226787041/comments/458018087/" target="_blank">
-      Niematerialny upominek od Pawła</a>
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>

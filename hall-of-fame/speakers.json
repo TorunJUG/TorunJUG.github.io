@@ -527,7 +527,8 @@
         "talks" : [
             {
                 "meetingNumber" : 22,
-                "title" : "Bootstrapping projects with Spring Boot"
+                "title" : "Bootstrapping projects with Spring Boot",
+                "slides" : "http://torun.jug.pl/materials/meetings/22/Bootstrapping_projects_with_Spring_Boot_by_Rafal_Borowiec.pdf"
             }
         ]
     }

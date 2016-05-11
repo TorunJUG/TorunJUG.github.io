@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-05-05T05:23:45+02:00</updated>
+  <updated>2016-05-11T18:57:36+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #23 [2016-05-25]]]></title>
+    <link href="http://torun.jug.pl/news/2016/05/11/spotkanie-23/"/>
+    <updated>2016-05-11T19:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/05/11/spotkanie-23</id>
+    <content type="html"><![CDATA[<p>Serdecznie zapraszamy na dwudzieste trzecie spotkanie Toruń Java User Group, które odbędzie się <strong>w&nbsp;środę, 25 maja 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/230784549/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="http://torun.jug.pl/images/meetings/23/cover.jpeg" />
+  </div>
+</div>
+
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>).</p>
+
+<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>Microservices &ndash; applied</h3>
+
+<p>Software giants have leveraged stability, effectiveness and flexibility provided by microservices in order to both expand and generate more revenue for their business. Some companies tend to believe that big data and huge traffics are pre-requisites to truly harness and reap the benefits offered by microservices. However there are many problems that are quite common for both large and small size businesses that can be solved by keeping things simple, i.e. applying microservice architecture. Furthermore, getting started with microservices can be a bit daunting and making it production ready requires an arsenal of well tested and production ready tools. In this session we will dive into core concepts behind microservices, address real life scenarios and build bunch of microservices backed by battled tested open source components from Netflix OSS and powered by Spring Cloud.</p>
+
+<p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> prezentacja będzie w języku angielskim.</em></p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/mishra-nakul.jpeg" /></p>
+
+<h4><a href="https://twitter.com/nklmish" target="_blank">Nakul Mishra</a></h4>
+
+<p>Is a Senior Software developer, a consultant around JVM and related technologies. Prefer automation over manual configurations. Keen on continuous delivery, unit testing and code simplicity. Interested in developing applications that requires creativity, imagination, fast-learning and zest for putting theory into code.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Integracja systemów i usług z wykorzystaniem Apache Camel w środowisku ServiceMix</h3>
+
+<p>Integracja systemów i usług jest dziś jednym z podstawowych wymagań stawianych budowanym przez nas aplikacjom. Wiele problemów związanych z tym zagadnieniem jest powtarzalnych niezależnie od specyfiki naszej domeny. Jak to zwykle bywa istnieje zbiór wzorców i dobrych praktyk, które możemy zastosować by radzić sobie w takich sytuacjach. W swojej prezentacji zademonstruję na żywym przykładzie wybrane wzorce z katalogu EIP, pokazując jak zaimplementować je za pomocą biblioteki Apache Camel z wykorzystaniem lekkiego kontenera integracyjnego ServiceMix.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/oczkowski-wojciech.jpg" /></p>
+
+<h4><a href="https://www.linkedin.com/in/wojciechoczkowski" target="_blank">Wojciech Oczkowski</a></h4>
+
+<p>Prowadzący własną działalność specjalista do spraw trudnych, zawodowo rozwiązuje problemy związane z projektowaniem architektury systemów, integracją, wydajnością i jakością kodu. Znajduje obsesyjną wręcz przyjemność w wynajdowaniu sensu w cudzym kodzie. Prywatnie rozwiązuje problemy związane z wychowaniem 2 dzieciaków i znajdowaniem czasu na żeglowanie i czytanie literatury fantastycznej.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[TorunJUG.getSrc() // [#2] Xenia Development // [2016-05-14]]]></title>
@@ -722,47 +768,6 @@ Gdzie: POZnań, budynek Wydziału Prawa i Administracji UAM</p>
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #19 [2016-01-27]]]></title>
-    <link href="http://torun.jug.pl/news/2016/01/20/spotkanie-19/"/>
-    <updated>2016-01-20T18:00:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2016/01/20/spotkanie-19</id>
-    <content type="html"><![CDATA[<p>Toruń JUG zaprasza na dziewiętnaste spotkanie, które odbędzie się <strong>w&nbsp;środę, 27 stycznia 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/228205885/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty, tym razem do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>).</p>
-
-<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
-
-<h3>Java Memory Consistency Model &ndash; context and concepts</h3>
-
-<p>Every now and then you hear about concurrency, threads, locks, semaphores, mutexes, multiple cores, synchronized and other hard/low multithreading or mechanical sympathy things. This is the talk that actually sorts it out and brings clarity to it all.</p>
-
-<p>I&rsquo;ll tell you why some people claimed that it&rsquo;s time for multithreaded programming already half a century ago. Why it&rsquo;s becoming a hot topic again. What it&rsquo;s really about and where (if?) it matters. I&rsquo;ll show few people you may want to dig if you plan on knowing more about this stuff. I&rsquo;ll explain why close concepts like concurrency and multithreading are being often mixed up. I&rsquo;ll tell how it matters in Java. This is for people who want clarity, who want to know what&rsquo;s really in it and why should they dig&hellip; and what should they dig. Because, there are two kinds of people. Those with guns, and those, who dig. And you don&rsquo;t wanna dig. ;&ndash;)</p>
-
-<p>In simple words: context for multithreaded programming in Java, concepts that are important there, language support and overall big picture (including programming languages, not just Java). And lots of links / people for you to read and follow later.</p>
-
-<p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
-
-<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/borek-tomasz.jpg" /></p>
-
-<h4>Tomasz Borek</h4>
-
-<p>Koder* z Polski, mający nadzieję nauczyć się czegoś nowego każdego dnia.</p>
-
-<p>Wdzięczny każdemu, kto pomógł w mej drodze. Dumny z: <a href="http://sckrk.com">sckrk.com</a> oraz <a href="http://geecon.org">geecon.org</a>.
-Pomaga przy: SCKRK, Polskim JUGu i krakowskiej Loży Lambda.</p>
-
-<p>Przyznaję się do mych wad i ułomności.</p>
-
-<p>Lubię: ludzi, programy, muzykę, gry wyobraźni, uczciwość, naukę.
-Nie lubię: robić rzeczy niepotrzebnie, robić “bo mogę”.</p>
-
-<p><em>*Po rodzicach. Oni kodowali, to i ja koduję…</em></p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-05-13T05:28:53+02:00</updated>
+  <updated>2016-05-19T16:39:24+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -24,7 +24,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/23/cover.jpeg" />
+    <img class="no-border" src="/images/meetings/23/cover.jpeg" />
   </div>
 </div>
 
@@ -39,7 +39,7 @@
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> prezentacja będzie w języku angielskim.</em></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/mishra-nakul.jpeg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/mishra-nakul.jpeg" /></p>
 
 <h4><a href="https://twitter.com/nklmish" target="_blank">Nakul Mishra</a></h4>
 
@@ -51,7 +51,7 @@
 
 <p>Integracja systemów i usług jest dziś jednym z podstawowych wymagań stawianych budowanym przez nas aplikacjom. Wiele problemów związanych z tym zagadnieniem jest powtarzalnych niezależnie od specyfiki naszej domeny. Jak to zwykle bywa istnieje zbiór wzorców i dobrych praktyk, które możemy zastosować by radzić sobie w takich sytuacjach. W swojej prezentacji zademonstruję na żywym przykładzie wybrane wzorce z katalogu EIP, pokazując jak zaimplementować je za pomocą biblioteki Apache Camel z wykorzystaniem lekkiego kontenera integracyjnego ServiceMix.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/oczkowski-wojciech.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/oczkowski-wojciech.jpg" /></p>
 
 <h4><a href="https://www.linkedin.com/in/wojciechoczkowski" target="_blank">Wojciech Oczkowski</a></h4>
 
@@ -72,7 +72,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/22/cover.jpeg" />
+    <img class="no-border" src="/images/meetings/22/cover.jpeg" />
   </div>
 </div>
 
@@ -87,7 +87,7 @@
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/borowiec-rafal.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/borowiec-rafal.jpg" /></p>
 
 <h4><a href="https://twitter.com/kolorobot" target="_blank">Rafał Borowiec</a></h4>
 
@@ -101,7 +101,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/22/goyello.jpeg" />
+    <img class="no-border" src="/images/meetings/22/goyello.jpeg" />
   </div>
 </div>
 
@@ -123,7 +123,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/21/cover.png" />
+    <img class="no-border" src="/images/meetings/21/cover.png" />
   </div>
 </div>
 
@@ -149,7 +149,7 @@
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/szulc-pawel.jpeg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/szulc-pawel.jpeg" /></p>
 
 <h4><a href="https://twitter.com/rabbitonweb" target="_blank">Paweł Szulc</a></h4>
 
@@ -168,7 +168,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/20/cover.png" />
+    <img class="no-border" src="/images/meetings/20/cover.png" />
   </div>
 </div>
 
@@ -185,13 +185,13 @@
 
 <p>Zaprezentujemy także projekt Keycloak, który w znacznym stopniu upraszcza stosowanie wyżej wymienionych technologi.  Wykorzystując to rozwiązanie zademonstrujmy na żywo jak w szybki i prosty sposób możemy zabezpieczyć typową aplikację oraz usługi z których ona korzysta. W oparciu o nowoczesne technologie, integrując się z istniejącą infrastrukturą oraz nie narażając się na popełnienie podstawowych błędów.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/dawidowicz-boleslaw.jpeg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/dawidowicz-boleslaw.jpeg" /></p>
 
 <h4><a href="https://twitter.com/bdawidowicz" target="_blank">Bolesław Dawidowicz</a></h4>
 
 <p>Od 2005 roku współpracuje z firmą Red Hat (dawniej JBoss). Od zawsze związany z oprogramowaniem OpenSource. Preferuje pracę zdalną. Obecnie Engineering Manager oraz Platform Architect odpowiedzialny za projekty związane z bezpieczeństwem w warstwie middleware (m.in Keycloak). Wcześniej najpierw jako developer a potem architekt przez wiele lat rozwijał produkt JBoss Portal Platform oraz współkierował projektem GateIn Portal. Współtwórca projektu PicketLink. Członek &ldquo;Expert Group&rdquo; w JSR 351 oraz JSR 362. Niegdyś aktywny członek i jeden z liderów Warszawa JUG – obecnie w stanie spoczynku. Współorganizował konferencję Javarsovia/Confitura (edycję 2007) oraz Warsjawa w latach 2008, 2012 i 2013. W chwili obecnej współtworzy Warsaw JBoss User Group.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/golawski-andrzej.jpeg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/golawski-andrzej.jpeg" /></p>
 
 <h4><a href="https://twitter.com/andiPansa" target="_blank">Andrzej Goławski</a></h4>
 
@@ -207,7 +207,7 @@
 
 <p>Podczas sesji pragnę przybliżyć AsciiDoc'a (oraz cały ekosystem narzędzi z nim związanych). Ale przede wszystkim chciałbym Was zarazić najlepszym możliwym sposobem dokumentowania, notowania &ndash; za pomocą prostych i ogólnodostępnych narzędzi, łatwo współdzieląc efekty naszej pracy. nie wychodząc poza nasz codzienny, programistyczny rytuał.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/marchwicki-jakub.jpeg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/marchwicki-jakub.jpeg" /></p>
 
 <h4><a href="https://twitter.com/kubem" target="_blank">Jakub Marchwicki</a></h4>
 
@@ -238,7 +238,7 @@
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/borek-tomasz.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/borek-tomasz.jpg" /></p>
 
 <h4>Tomasz Borek</h4>
 

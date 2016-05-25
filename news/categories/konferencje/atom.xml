@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Konferencje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/konferencje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-05-19T16:39:24+02:00</updated>
+  <updated>2016-05-25T05:54:34+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: JavaDay Mińsk 2016]]></title>
+    <link href="http://torun.jug.pl/news/2016/05/25/zapowiedz-konferencji-javaday-minsk-2016/"/>
+    <updated>2016-05-25T06:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/05/25/zapowiedz-konferencji-javaday-minsk-2016</id>
+    <content type="html"><![CDATA[<p>Two tracks, more than a dozen of speakers and lots of interested professionals will gather in “Verh” loft space to discuss the hottest trends of Java development, fresh technologies and well-known practices. Official JavaDay partner this year is <a href="http://specific-group.by">Specific Group</a>.</p>
+
+<p>In first track we are going to listen to the speakers talking about OOP in Java, JVM Tuning, Java EE, MVC 1.0, improving your Spring expertise and correct use of streams, flows and storms. In short, all you want to know about Java and Java in web to feel yourself a way better specialist.</p>
+
+<p>Second track is dedicated to Kotlin, Scala and Android: RxJava in Android, microservices, functional programming with Java 8 features, the difference between the old and the new Android toolchain and other relevant topics are at your service. <!-- more --></p>
+
+<p>Keynote #JavaDayBy speakers for the moment are:</p>
+
+<ul>
+<li>Alex Theedom (Senior Java Developer) &ndash; Java EE revisits design patterns;</li>
+<li>Jesper de Jong (Software Architect at Scala) &ndash; Modern Microservices with Scala, Spring Boot and Spring Cloud;</li>
+<li>Egor Bugaenko (Founder and CTO at <a href="http://teamed.io">teamed.io</a>) &ndash; Java vs. OOP;</li>
+<li>Fernando Cejas (Engineer at SoundCloud) &ndash; The Mayans Lost Guide To RxJava on Android.</li>
+</ul>
+
+
+<p>Ticket price is  BYR1.450.000 or €65. <strong>We do provide visa support for EU citizens and other nationalities' representatives who need a visa to enter Belarus</strong>.</p>
+
+<p>Information on #JavaDayBy timeline, speakers and tickets is available at <a href="http://javaday.by/en">javaday.by</a>.</p>
+
+<p>Follow us on <a href="http://twitter.com/javadayby">Twitter</a> or <a href="https://www.facebook.com/javadayby">Facebook</a> and use #javadayby hashtag to get all the latest news &ndash; and win some free tickets as well!</p>
+
+<p>Feel free to ask any questions if you have'em &ndash; Kate Budnikova, our event manager, will happily answer all of them: <a href="mailto:budnikova.kate@gmail.com">budnikova.kate@gmail.com</a>, <a href="tel:375259021603">+375(25)902-16-03</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: Mobile Central Europe 2016. Mamy dla Was 15% zniżki!]]></title>
@@ -25,7 +56,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2016.mceconf.com" target="_blank">
-      <img class="no-border" src="/images/partners/mce2016.png" alt="Mobile Central Europe 2016" />
+      <img class="no-border" src="{{ root_url }}/images/partners/mce2016.png" alt="Mobile Central Europe 2016" />
     </a>
   </div>
 </div>
@@ -58,7 +89,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://polyconf.com" target="_blank">
-      <img class="no-border" src="/images/partners/polyconf16.png" alt="PolyConf16" />
+      <img class="no-border" src="{{ root_url }}/images/partners/polyconf16.png" alt="PolyConf16" />
     </a>
   </div>
 </div>
@@ -84,12 +115,12 @@ Gdzie: POZnań, budynek Wydziału Prawa i Administracji UAM</p>
     <id>http://torun.jug.pl/news/2015/09/15/wspolny-wyjazd-jdd</id>
     <content type="html"><![CDATA[<p><a href="http://jdd.org.pl" target="_blank">JDD</a> jest dwudniową konferencją adresowaną do wszystkich miłośników Java, zarówno w&nbsp;życiu prywatnym, jak i&nbsp;zawodowym. Wydarzenie jest doskonałą okazją do wzięcia udziału w&nbsp;merytorycznych wykładach, rozwijających warsztatach oraz interaktywnych szkoleniach. Nowatorski charakter JDD oraz wykłady w&nbsp;języku angielskim skutecznie przyciągają coraz większą liczbę uczestników z&nbsp;całego świata.<!--more--></p>
 
-<p>Kilka miesięcy temu <a href="/news/2015/01/13/zapowiedz-konferencji-jdd/">pisaliśmy o konferencji JDD</a>, która odbędzie się w&nbsp;dniach 12-13 października w Krakowie. Dzisiaj mamy dla Was kolejną dobrą wiadomość &ndash; otrzymaliśmy <strong>30% zniżki</strong> na wyjzd grupowy (5+ osób).</p>
+<p>Kilka miesięcy temu <a href="{{root_url}}/news/2015/01/13/zapowiedz-konferencji-jdd/">pisaliśmy o konferencji JDD</a>, która odbędzie się w&nbsp;dniach 12-13 października w Krakowie. Dzisiaj mamy dla Was kolejną dobrą wiadomość &ndash; otrzymaliśmy <strong>30% zniżki</strong> na wyjzd grupowy (5+ osób).</p>
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
-      <img class="no-border" src="/images/partners/jdd.png" alt="JDD Conference 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/jdd.png" alt="JDD Conference 2015" />
     </a>
   </div>
 </div>
@@ -107,7 +138,7 @@ Gdzie: POZnań, budynek Wydziału Prawa i Administracji UAM</p>
     <content type="html"><![CDATA[<div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2015.microservices.geecon.org/" target="_blank">
-      <img class="no-border" src="/images/partners/geecon-microservices-2015.jpg" alt="GeeCON Microservices" />
+      <img class="no-border" src="{{ root_url }}/images/partners/geecon-microservices-2015.jpg" alt="GeeCON Microservices" />
     </a>
   </div>
 </div>
@@ -116,64 +147,6 @@ Gdzie: POZnań, budynek Wydziału Prawa i Administracji UAM</p>
 <p><a href="http://2015.microservices.geecon.org" target="_blank"><strong>GeeCON Microservices</strong></a> to 1-dniowa, jednowątkowa konferencja w&nbsp;pełni poświęcona tematyce mikrousług. Organizatorzy zadbali, aby program konferencji wypełniły osoby, które posiadają bogate praktyczne doświadczenie w&nbsp;projektowaniu, budowaniu oraz testowaniu mikrousług. Jest to świetna okazja do tego, aby dopiero poznać, dowiedzieć się więcej lub podzielić się własnymi spostrzeżeniami i&nbsp;doświadczeniami na temat tej zdobywającej coraz więcej zwolenników (oraz przeciwników) architektury. Przyjedź do Sopotu i skorzystaj z tej niesamowitej okazji do zdobycia wiedzy!</p>
 
 <p>Mamy dla was również kod rabatowy -10% do wykorzystania podczas <a href="http://2015.microservices.geecon.org/register/" target="_blank"><strong>rejestracji</strong></a> &ndash; wpiszcie <strong>GEECON_MICRO10</strong>, a zaoszczędzone w ten sposób pieniądze wykorzystajcie np. podczas pokonferencyjnego after party :&ndash;)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: AgileByExample 2015. Mamy dla Was 15% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2015/07/17/zapowiedz-konferencji-agilebyexample-2015/"/>
-    <updated>2015-07-17T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/07/17/zapowiedz-konferencji-agilebyexample-2015</id>
-    <content type="html"><![CDATA[<p>Mamy przyjemność ogłosić, że już drugi rok z&nbsp;rzędu wspieramy konferencję AgileByExample.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2015.agilebyexample.com" target="_blank">
-      <img class="no-border" src="/images/partners/agile-by-example-2015.jpg" alt="AgileByExample 2015" />
-    </a>
-  </div>
-</div>
-
-
-<p>Poniżej kilka słów od organizatorów na temat tegorocznej edycji.</p>
-
-<!--more-->
-
-
-
-
-<blockquote>
-<p>Witajcie!</p>
-<p>Rejestracja na <strong>AgileByExample 2015</strong> jest już otwarta! Konferencja odbędzie się <strong>28-30 września w&nbsp;Warszawie</strong>.</p>
-<p>Do końca sierpnia bilety w doskonałej cenie 1000 zł (+VAT). W&nbsp;cenie dwa dni prezentacji, okraszone open spacem, lightning talkami, coaching clinic oraz panelem dyskusyjnym. Pierwsze 150 osób może się również zarejestrować na Lean Agile Dojo (300 zł (+VAT)), czyli dzień warsztatowy na dobry początek. Zapraszamy na <a href="http://2015.agilebyexample.com/tickets/" target="_blank">http://2015.agilebyexample.com/tickets/</a>.</p>
-<p>Oczywiście dla zaprzyjaźnionych społeczności <strong>mamy 15% zniżki</strong>. Wystarczy podczas rejestracji użyć kodu, po który należy zgłosić się do Piotra Prądzyńskiego. Kupon rabatowy zadziała dla pierwszych pięciu osób, więc nie zwlekajcie z&nbsp;rezerwacją.</p>
-<p>Tym razem, podążając za opiniami po poprzedniej edycji, Dojo robimy pierwszego dnia - tak żebyście mieli okazję się poznać, energicznie wejść w&nbsp;nastrój kaizen i&nbsp;w&nbsp;ogóle wynieść z&nbsp;ABE jak najwięcej :)</p>
-<p>Z&nbsp;innych nowości - szykujemy tym razem trzy ścieżki:
-<ul>
-<li>Zespół (planowanie, retro, przywództwo, coaching,... )</li>
-<li>Produkt (Lean Startup, EVO, UX, Impact Mapping,... )</li>
-<li>Zarządzanie (skalowanie, management 3.0, metryki, kontrakty,...)</li></ul></p>
-<p>Jeśli chodzi o&nbsp;prelegentów - już teraz wiemy, że ABE15 to będzie najlepsze ABE do tej pory, a&nbsp;staramy się, żeby było lepsze niż wszystkie dotychczasowe konferencje z&nbsp;Polski razem wzięte. Swój udział już potwierdzili:
-<ul>
-<li>Bjarte Bogsnes</li>
-<li>Jim Benson</li>
-<li>Vasco Duarte</li>
-<li>Karl Scotland</li>
-<li>Gojko Adzic</li>
-</ul>
-i&nbsp;wielu innych (<a href="http://2015.agilebyexample.com/speakers/" target="_blank">http://2015.agilebyexample.com/speakers/</a>). Prawie wszyscy z&nbsp;nich zazwyczaj robią keynote'y, mamy nadzieję, że wybór konkretnych prezentacji do obejrzenia będzie w&nbsp;tym roku na ABE trudny. Będą też konkretne historie znanych firm, spodziewajcie się usłyszeć np. o&nbsp;Spotify, Lego, Google i&nbsp;Telefonice.</p>
-<p>Zaraz po ABE (1-2 października) organizujemy też kilka szkoleń. Informacje na ten temat już wkrótce na stronie.</p>
-<p>Szukamy też polskich prelegentów i&nbsp;trenerów - Call4Speakers jest już otwarte: <a href="http://2015.agilebyexample.com/c4p/" target="_blank">http://2015.agilebyexample.com/c4p/</a>. Przede wszystkim liczymy na trenerów - potrzebujemy 3-3.5 godzinnych warsztatów na Dojo (28.09). Prezentacje będą krótkie i&nbsp;do rzeczy - 15-20 minut to w&nbsp;sam raz by dokładnie omówić jedną praktykę albo technikę. Najbardziej zależy nam na prezentacjach praktycznych: "By Example".</p>
-<p>Pracujemy pełną parą by również w&nbsp;tym roku znaleźć się w&nbsp;pierwszej dziesiątce (sic!) najlepszych agile'owych konferencji na świecie (ranking autorstwa Vasco Duarte: <a href="http://softwaredevelopmenttoday.com/2015/01/the-top-50-agile-conferences-including-lean-kanba-scrum/" target="_blank">http://softwaredevelopmenttoday.com/2015/01/the-top-50-agile-conferences-including-lean-kanba-scrum/</a>)</p>
-<p>Więcej szczegółów już wkrótce!</p>
-<p>Ukłony<br/>
-Zespół AgileByExample 2015<br/>
-Piotr Burdyło, Michał Prządka, Mateusz Srebrny, Piotr Szczygieł, Łukasz Szóstek i&nbsp;Paweł Wyszyński
-</p>
-<p>PS. Na stronie: <a href="http://2015.agilebyexample.com/spread-the-word/" target="_blank">http://2015.agilebyexample.com/spread-the-word/</a> znajdziecie mnóstwo bannerów do promowania AgileByExample - zapraszamy :)</p>
-<p>PS2. Polubcie nasz <a href="https://www.facebook.com/AgileByExample" target="_blank">fanpage na Facebooku</a>, <a href="https://twitter.com/AgileByExample" target="_blank">kanał Twittera</a> albo <a href="http://agilebyexample.us2.list-manage.com/subscribe?u=b7f55bf68e01d408bb1ab4ac0&id=f013c289c4" target="_blank">zasubskrybujcie newsletter</a>.</p>
-</blockquote>
-
 ]]></content>
   </entry>
   

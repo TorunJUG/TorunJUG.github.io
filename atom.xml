@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-05-19T16:39:24+02:00</updated>
+  <updated>2016-05-25T05:48:44+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zapowiedź konferencji: JavaDay Mińsk 2016]]></title>
+    <link href="http://torun.jug.pl/news/2016/05/25/zapowiedz-konferencji-javaday-minsk-2016/"/>
+    <updated>2016-05-25T06:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/05/25/zapowiedz-konferencji-javaday-minsk-2016</id>
+    <content type="html"><![CDATA[<p>Two tracks, more than a dozen of speakers and lots of interested professionals will gather in “Verh” loft space to discuss the hottest trends of Java development, fresh technologies and well-known practices. Official JavaDay partner this year is <a href="http://specific-group.by">Specific Group</a>.</p>
+
+<p>In first track we are going to listen to the speakers talking about OOP in Java, JVM Tuning, Java EE, MVC 1.0, improving your Spring expertise and correct use of streams, flows and storms. In short, all you want to know about Java and Java in web to feel yourself a way better specialist.</p>
+
+<p>Second track is dedicated to Kotlin, Scala and Android: RxJava in Android, microservices, functional programming with Java 8 features, the difference between the old and the new Android toolchain and other relevant topics are at your service. <!-- more --></p>
+
+<p>Keynote #JavaDayBy speakers for the moment are:</p>
+
+<ul>
+<li>Alex Theedom (Senior Java Developer) &ndash; Java EE revisits design patterns;</li>
+<li>Jesper de Jong (Software Architect at Scala) &ndash; Modern Microservices with Scala, Spring Boot and Spring Cloud;</li>
+<li>Egor Bugaenko (Founder and CTO at <a href="http://teamed.io">teamed.io</a>) &ndash; Java vs. OOP;</li>
+<li>Fernando Cejas (Engineer at SoundCloud) &ndash; The Mayans Lost Guide To RxJava on Android.</li>
+</ul>
+
+
+<p>Ticket price is  BYR1.450.000 or €65. <strong>We do provide visa support for EU citizens and other nationalities&#8217; representatives who need a visa to enter Belarus</strong>.</p>
+
+<p>Information on #JavaDayBy timeline, speakers and tickets is available at <a href="http://javaday.by/en">javaday.by</a>.</p>
+
+<p>Follow us on <a href="http://twitter.com/javadayby">Twitter</a> or <a href="https://www.facebook.com/javadayby">Facebook</a> and use #javadayby hashtag to get all the latest news &ndash; and win some free tickets as well!</p>
+
+<p>Feel free to ask any questions if you have&#8217;em &ndash; Kate Budnikova, our event manager, will happily answer all of them: <a href="mailto:budnikova.kate@gmail.com">budnikova.kate@gmail.com</a>, <a href="tel:375259021603">+375(25)902-16-03</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z dwudziestego drugiego spotkania]]></title>
@@ -728,39 +759,6 @@
 <h4><a href="https://twitter.com/kubem" target="_blank">Jakub Marchwicki</a></h4>
 
 <p>Programista od kilkunastu lat, architekt od kilku, czasami analityk, gdy potrzeba – konsultant, manager z wyboru, trener z zamiłowania, wannabe entrepreneur z marzeń, lider JUG w Gdańsku. Z oprogramowaniem związany przez całe życie zawodowe. Przez ostatnie lata realizował ambicje managerskie, m.in. jako dyrektor techniczny w 250 osobowej firmie. Uważa, że najlepszym sposobem pracy ze specjalistami jest aktywne dzielenie się własną wiedzą oraz aktywnie słuchać innych. Przekazuje doświadczenie w formie wykładów, wystąpień na konferencjach oraz szkoleń. W wolnych chwilach pisuje na <a href="http://jakub.marchwicki.pl" target="_blank">jakub.marchwicki.pl</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: PolyConf16]]></title>
-    <link href="http://torun.jug.pl/news/2016/02/04/zapowiedz-konferencji-polyconf16/"/>
-    <updated>2016-02-04T06:45:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2016/02/04/zapowiedz-konferencji-polyconf16</id>
-    <content type="html"><![CDATA[<p>W tym roku odbędzie się trzecia edycja <a href="http://polyconf.com" target="_blank">PolyConf</a>, 3-dniowej konferencji skupiającej się na obszarze zaawansowanych technologii dla fanów poliglotycznego podejścia do programowania.</p>
-
-<p>Historia konferencji sięga 2006 roku, kiedy to odbyła się pierwsza edycja RuPy, czyli konferencji zrzeszającej zwolenników dwóch języków programowania: Ruby i Python. Przez 8 lat RuPy wędrował po świecie (Brno, Sao Paolo, Budapeszt), żeby na dobre zadomowić się w Poznaniu w nowej odsłonie jako PolyConf. Tematykę rozszerzono o różne, często mniej popularne języki, ale głównym celem było promowanie poliglotycznego podejścia. <!--more--></p>
-
-<p>Forma konferencji jest prosta: 3 dni, 6 warsztatów, 40 intensywnych, zaawansowanych, poliglotycznych talków, ale również 3 wieczorne imprezy oraz bieg na 5 kilometrów :)</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://polyconf.com" target="_blank">
-      <img class="no-border" src="http://torun.jug.pl/images/partners/polyconf16.png" alt="PolyConf16" />
-    </a>
-  </div>
-</div>
-
-
-<p>Wśród speakerów poprzednich edycji znaleźli się m.in. Ryan Dahl &ndash; twórca node.js, Robert Virding &ndash; współtwórca Erlanga, Stefan Karpinski &ndash; współtwórca Julii oraz John Hughes &ndash; współtwórca Haskella.</p>
-
-<p>W tym roku swoją obecność potwierdzili m.in.: <a href="https://twitter.com/rachelreese" target="_blank">Rachel Reese</a>, <a href="https://twitter.com/guybedford" target="_blank">Guy Bedford</a>, Andreas Rumpf oraz <a href="https://twitter.com/jo_liss" target="_blank">Jo Liss</a>.</p>
-
-<p>Jeśli chcecie dołączyć do grona tegorocznych speakerów, CFP jest otwarte! Swoje prezentacje można zgłaszać za pośrednictwem portalu <a href="http://eventil.com/events/polyconf-16" target="_blank">Eventil</a>.</p>
-
-<p>Konferencję poprzedzać będą satelitarne wydarzenia oraz imprezy towarzyszące m.in. w Warszawie, Berlinie i Paryżu. Aktualności możecie śledzić na <a href="https://twitter.com/polyconfhq" target="_blank">Twitterze</a>, <a href="https://facebook.com/polyconf" target="_blank">Facebooku</a> oraz na stronie <a href="http://polyconf.com" target="_blank">polyconf.com</a>.</p>
-
-<p>Kiedy: 30 czerwca &ndash; 2 lipca 2016<br/>
-Gdzie: POZnań, budynek Wydziału Prawa i Administracji UAM</p>
 ]]></content>
   </entry>
   

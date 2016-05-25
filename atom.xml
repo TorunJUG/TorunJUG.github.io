@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-05-25T05:48:44+02:00</updated>
+  <updated>2016-05-25T06:01:27+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -18,7 +18,7 @@
     <link href="http://torun.jug.pl/news/2016/05/25/zapowiedz-konferencji-javaday-minsk-2016/"/>
     <updated>2016-05-25T06:00:00+02:00</updated>
     <id>http://torun.jug.pl/news/2016/05/25/zapowiedz-konferencji-javaday-minsk-2016</id>
-    <content type="html"><![CDATA[<p>Two tracks, more than a dozen of speakers and lots of interested professionals will gather in “Verh” loft space to discuss the hottest trends of Java development, fresh technologies and well-known practices. Official JavaDay partner this year is <a href="http://specific-group.by">Specific Group</a>.</p>
+    <content type="html"><![CDATA[<p>Two tracks, more than a dozen of speakers and lots of interested professionals will gather in &ldquo;Verh&rdquo; loft space to discuss the hottest trends of Java development, fresh technologies and well-known practices. Official JavaDay partner this year is <a href="http://specific-group.by">Specific Group</a>.</p>
 
 <p>In first track we are going to listen to the speakers talking about OOP in Java, JVM Tuning, Java EE, MVC 1.0, improving your Spring expertise and correct use of streams, flows and storms. In short, all you want to know about Java and Java in web to feel yourself a way better specialist.</p>
 

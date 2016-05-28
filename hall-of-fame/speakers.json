@@ -345,13 +345,18 @@
     {
         "name" : "Wojciech Oczkowski",
         "img" : "oczkowski-wojciech.jpg",
-        "lastMeeting": 13,
+        "lastMeeting": 23,
         "talks" : [
             {
                 "meetingNumber" : 13,
                 "title" : "Don't Panic – Hitchhiker's guide to the JVM monitoring",
                 "youtube" : "https://www.youtube.com/watch?v=kM4_GC5lBOE",
                 "slides" : "http://torun.jug.pl/materials/meetings/13/Dont_Panic_-_Hitchhikers_guide_to_the_JVM_monitoring_by_Wojciech_Oczkowski.pdf"
+            },
+            {
+                "meetingNumber" : 23,
+                "title" : "Integracja systemów i usług z wykorzystaniem Apache Camel w środowisku ServiceMix",
+                "slides" : "http://www.slideshare.net/WojciechOczkowski/apache-camel-62482178"
             }
         ]
     },
@@ -528,7 +533,21 @@
             {
                 "meetingNumber" : 22,
                 "title" : "Bootstrapping projects with Spring Boot",
-                "slides" : "http://torun.jug.pl/materials/meetings/22/Bootstrapping_projects_with_Spring_Boot_by_Rafal_Borowiec.pdf"
+                "slides" : "http://torun.jug.pl/materials/meetings/22/Bootstrapping_projects_with_Spring_Boot_by_Rafal_Borowiec.pdf",
+                "youtube" : "https://www.youtube.com/watch?v=XsH4kfDsQxc"
+            }
+        ]
+    },
+    {
+        "name" : "Nakul Mishra",
+        "img" : "mishra-nakul.jpeg",
+        "twitter" : "nklmish",
+        "lastMeeting": 23,
+        "talks" : [
+            {
+                "meetingNumber" : 23,
+                "title" : "Microservices – applied",
+                "slides" : "http://torun.jug.pl/materials/meetings/23/Microservices_–_applied_by_Nakul_Mishra.pdf"
             }
         ]
     }

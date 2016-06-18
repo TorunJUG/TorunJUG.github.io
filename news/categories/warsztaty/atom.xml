@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Warsztaty | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/warsztaty/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-06-18T14:49:41+02:00</updated>
+  <updated>2016-06-18T15:11:58+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -18,7 +18,7 @@
     <link href="http://torun.jug.pl/news/2016/03/13/podsumowanie-warsztatow-apache-spark/"/>
     <updated>2016-03-13T18:45:00+01:00</updated>
     <id>http://torun.jug.pl/news/2016/03/13/podsumowanie-warsztatow-apache-spark</id>
-    <content type="html"><![CDATA[<p>Wczoraj odbyły się <a href="/news/2016/03/01/warsztaty-apache-spark/">Warsztaty Apache Spark</a> przeprowadzone przez Jacka Laskowskiego. Bardzo dziękujemy Jackowi, za poświęcenie swojego wolnego czasu i wprowadzenie młodych adeptów do świata Sparka ;)</p>
+    <content type="html"><![CDATA[<p>Wczoraj odbyły się <a href="{{root_url}}/news/2016/03/01/warsztaty-apache-spark/">Warsztaty Apache Spark</a> przeprowadzone przez Jacka Laskowskiego. Bardzo dziękujemy Jackowi, za poświęcenie swojego wolnego czasu i wprowadzenie młodych adeptów do świata Sparka ;)</p>
 
 <p>Frekwencja dopisała. Na warsztatach pojawił się komplet <a href="http://www.meetup.com/Torun-JUG/events/229194936/" target="_blank">zarejestrowanych wcześniej</a> osób. Komentarze uczestników możecie przeczytać pod <a href="http://www.meetup.com/Torun-JUG/events/229194936/" target="_blank">wydarzeniem na Meetupie</a>.</p>
 
@@ -119,7 +119,7 @@
 
 <p><span class="clearfix"></span></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/laskowski-jacek.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskowski-jacek.jpg" /></p>
 
 <h4><a href="https://twitter.com/jaceklaskowski" target="_blank">Jacek Laskowski</a></h4>
 

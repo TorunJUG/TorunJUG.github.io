@@ -49,13 +49,18 @@
     {
         "name" : "Maciej Boniewicz",
         "img" : "boniewicz-maciej.jpg",
-        "lastMeeting": 2,
+        "twitter" : "maciejboniewicz",
+        "lastMeeting": 24,
         "talks" : [
             {
                 "meetingNumber" : 2,
                 "title" : "JTwig, czyli Twig w Javie",
                 "youtube" : "https://www.youtube.com/watch?v=KcrFDcLHhAQ",
                 "slides" : "http://torun.jug.pl/materials/meetings/2/JTwig_czyli_Twig_w_Javie_by_Maciej_Boniewicz.pdf"
+            },
+            {
+                "meetingNumber" : 24,
+                "title" : "@NotNull w Javie"
             }
         ]
     },
@@ -111,7 +116,7 @@
         "name" : "Sebastian Łaskawiec",
         "img" : "laskawiec-sebastian.jpg",
         "twitter" : "slaskawi",
-        "lastMeeting": 16,
+        "lastMeeting": 24,
         "talks" : [
             {
                 "meetingNumber" : 4,
@@ -130,6 +135,10 @@
                 "title" : "JGroups - efektywny framework do komunikacji w klastrze",
                 "slides" : "http://redhat.slides.com/slaskawi/jgroups?token=5ZJs7jhV",
                 "youtube" : "https://www.youtube.com/watch?v=r-Z3-8Do2UQ"
+            },
+            {
+                "meetingNumber" : 24,
+                "title" : "X.Y.Z, czyli wszystko o wersjach artefaktów"
             }
         ]
     },
@@ -550,6 +559,30 @@
                 "title" : "Microservices – applied",
                 "slides" : "http://torun.jug.pl/materials/meetings/23/Microservices_–_applied_by_Nakul_Mishra.pdf",
                 "youtube" : "https://www.youtube.com/watch?v=IAaZ6ZfOplI"
+            }
+        ]
+    },
+    {
+        "name" : "Wojciech Dzikowski",
+        "img" : "dzikowski-wojciech.jpg",
+        "twitter" : "DzikowskiW",
+        "lastMeeting": 24,
+        "talks" : [
+            {
+                "meetingNumber" : 24,
+                "title" : "Jest! czyli JavaScriptowe testy jednostkowe według Facebooka"
+            }
+        ]
+    },
+    {
+        "name" : "Krzysztof Pobożan",
+        "img" : "pobozan-krzysztof.jpg",
+        "twitter" : "krzpob",
+        "lastMeeting": 24,
+        "talks" : [
+            {
+                "meetingNumber" : 24,
+                "title" : "Żywa dokumentacja RESTa"
             }
         ]
     }

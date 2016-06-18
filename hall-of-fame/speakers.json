@@ -356,7 +356,8 @@
             {
                 "meetingNumber" : 23,
                 "title" : "Integracja systemów i usług z wykorzystaniem Apache Camel w środowisku ServiceMix",
-                "slides" : "http://www.slideshare.net/WojciechOczkowski/apache-camel-62482178"
+                "slides" : "http://www.slideshare.net/WojciechOczkowski/apache-camel-62482178",
+                "youtube" : "https://www.youtube.com/watch?v=qkvRGxURnBA"
             }
         ]
     },
@@ -547,7 +548,8 @@
             {
                 "meetingNumber" : 23,
                 "title" : "Microservices – applied",
-                "slides" : "http://torun.jug.pl/materials/meetings/23/Microservices_–_applied_by_Nakul_Mishra.pdf"
+                "slides" : "http://torun.jug.pl/materials/meetings/23/Microservices_–_applied_by_Nakul_Mishra.pdf",
+                "youtube" : "https://www.youtube.com/watch?v=IAaZ6ZfOplI"
             }
         ]
     }

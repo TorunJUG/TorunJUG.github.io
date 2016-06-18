@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-06-16T05:32:44+02:00</updated>
+  <updated>2016-06-18T14:49:41+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,90 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #24 [2016-06-29]]]></title>
+    <link href="http://torun.jug.pl/news/2016/06/18/spotkanie-24/"/>
+    <updated>2016-06-18T15:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/06/18/spotkanie-24</id>
+    <content type="html"><![CDATA[<p>Serdecznie zapraszamy na dwudzieste czwarte spotkanie Toruń Java User Group, które odbędzie się <strong>w&nbsp;środę, 29 czerwca 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Tym razem mamy dla was <strong>aż 5 prezentacji, które zostaną wygłoszone w formule lightning talk</strong> (ok. 15-20 minut). Będzie sporo czasu na zadawanie pytań, dlatego zachęcamy do szczegółowego zapoznania się z programem spotkania oraz odnotowania sobie pytań, jakie można będzie zadać prelegentom.</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/230784575/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="http://torun.jug.pl/images/meetings/24/cover.jpeg" />
+  </div>
+</div>
+
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>).</p>
+
+<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :)</p>
+
+<p><strong>UWAGA</strong>: czerwcowe spotkanie będzie ostatnim spotkaniem w sezonie 2015/16, udajemy się na krótkie wakacje w lipcu i sierpniu, ale wracamy ze zdwojoną siłą już we wrześniu :) <!-- more --></p>
+
+<h3>@NotNull w Javie</h3>
+
+<p>Celem prezentacji jest pokazanie użycia adnotacji @NotNull oraz @Nullable w celu likwidacji w możliwie wielu miejscach konstrukcji &ldquo;if (abc != null) {&rdquo;. Oraz co najważniejsze dyskusję na temat wad i zalet tego rozwiązania.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/boniewicz-maciej.jpg" /></p>
+
+<h4><a href="https://twitter.com/maciejboniewicz" target="_blank">Maciej Boniewicz</a></h4>
+
+<p>Programista (programowanie to przede wszystkim sposób myślenia, a nie język) zatrudniony w MGR Integration Solutions Polska. Z Javą zawodowo związany od 12 lat (w tym 4 lata przerwy na PHP). Miłośnik tenisa stołowego, aikido, koszykówki, książek i gier strategicznych.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Jest! czyli JavaScriptowe testy jednostkowe według Facebooka</h3>
+
+<p>&ldquo;Painless JavaScript Unit Testing&rdquo; to slogan jakim Facebook przedstawia Jest, czyli narzędzie do testów jednostkowych które jest używane i rozwijane przez tę firmę. W prezentacji przedstawię jego główne założenia, które mają za zadanie uprościć środowisko testowe i skrócić czas potrzebny na pisanie testów, oraz oczywiście, uczynić testy jednostkowe bezbolesnymi. Na koniec zobaczymy jak to wygląda w praktyce patrząc na projekty Open Source korzystające z Jesta.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/dzikowski-wojciech.jpg" /></p>
+
+<h4><a href="https://twitter.com/DzikowskiW" target="_blank">Wojciech Dzikowski</a></h4>
+
+<p>Fan JavaScriptu i pracy zdalnej. Łączy te dwie rzeczy od kilku lat pracując zdalnie dla technologicznego startupu jako Software Engineer. Szczególnie zainteresowany uniwersalnymi aspektami programowania niezależnymi od konkretnych technologii. Zwolennik czytelnego i możliwie prostego kodu, do czego dąży w swoich projektach.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>X.Y.Z, czyli wszystko o wersjach artefaktów</h3>
+
+<p>Błyskawicznie opowiem Wam, czym jest GAV i jakich zmian można się spodziewać z wersji na wersję bibliotek.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/laskawiec-sebastian.jpg" /></p>
+
+<h4><a href="https://twitter.com/slaskawi" target="_blank">Sebastian Łaskawiec</a></h4>
+
+<p>Programista zajmujący się Infinispanem w firmie Red Hat. Prywatnie amator ciężkich brzmień z piekła rodem okraszonych domowym piwem.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Żywa dokumentacja RESTa</h3>
+
+<p>Podczas prezentacji powiem co to takiego jest projekt Swagger. Pokaże również jak łatwo go zintegrować z dowolnym projektem springowym. Powiem też w czym  jest lepszy od mechanizmu dokumentowania oferowanego przez Springa w ramach Spring Boot.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/pobozan-krzysztof.jpg" /></p>
+
+<h4><a href="https://twitter.com/krzpob" target="_blank">Krzysztof Pobożan</a></h4>
+
+<p>Entuzjasta mikroserwisów i SCRUMa prowadzący własną działalność. Obecnie pracuje min. dla Agora S.A. Z zamiłowania fotograf i programista. Były programista PHP.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>TorunJUG.getSrc() &ndash; raport z placu boju</h3>
+
+<p>Już dwa, a wkrótce trzy spotkania z cyklu TorunJUG.getSrc(). Podczas tego lightning talka opowiem, jak wyglądają nasze spotkania i dlaczego nie ma wielu fajniejszych rzeczy niż pokodować w wolny od pracy dzień.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/papierski-zbyszko.jpg" /></p>
+
+<h4><a href="https://twitter.com/ZPapierski" target="_blank">Zbyszko Papierski</a></h4>
+
+<p>Inżynier Allegro, od lat piszący w Javie i językach JVMowych. Duży fan Big Data i technologii wyszukiwarkowych.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[TorunJUG.getSrc() // [#3] Xenia Development // [2016-06-25]]]></title>
@@ -715,31 +799,6 @@
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Głosowanie na Prelegenta Roku 2015]]></title>
-    <link href="http://torun.jug.pl/news/2016/02/23/glosowanie-na-prelegenta-roku-2015/"/>
-    <updated>2016-02-23T06:45:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2016/02/23/glosowanie-na-prelegenta-roku-2015</id>
-    <content type="html"><![CDATA[<p>Wczoraj ruszyło <a href="https://docs.google.com/forms/d/1MOCGbg4f04XBoYFFGefGERxzElsfwdBHk-AasMT1gAA/viewform" target="_blank">głosowanie</a> na Prelegenta Roku 2015 Toruń JUG! W konkursie biorą udział wszyscy prelegenci, którzy wystąpili na deskach toruńskiego JUGa w roku 2015.</p>
-
-<p>Zasady głosowania są proste: możesz wskazać do 3 prelegentów, którym przydzielić możesz 1, 2 lub 3 punkty odpowiednio. Im wyższa ilość punktów, tym dany prelegent zasługuje Twoim zdaniem bardziej na tytuł Prelegent Roku 2015. Uwaga: wybraną ilość punktów możesz przydzielić tylko jednemu prelegentowi, tj. nie możesz dać 3 punktów trzem czy dwóm prelegentom.</p>
-
-<p>Zwycięzcą zostanie prelegent, który po zsumowaniu wszystkich punktów będzie posiadał ich najwięcej na swoim koncie. Każdy może zagłosować jeden raz, ale istnieje możliwość zmiany swojego głosu.</p>
-
-<p><a href="https://docs.google.com/forms/d/1MOCGbg4f04XBoYFFGefGERxzElsfwdBHk-AasMT1gAA/viewform" target="_blank">Głosowanie</a> potrwa do 23 marca 2016 r. Udział w głosowaniu jest dobrowolny i wymaga jedynie posiadania konta Google. Ogłoszenie wyników głosowania odbędzie się 30 marca 2016 r. podczas urodzinowego spotkania Toruń JUG.</p>
-
-<p>UWAGA: na czwartej stronie ankiety znajdziecie miejsce na wklejenie linku do Waszego profilu Meetup.com w grupie Torun-JUG (wejdź na <a href="http://www.meetup.com/Torun-JUG/" target="_blank"><a href="http://www.meetup.com/Torun-JUG/">http://www.meetup.com/Torun-JUG/</a></a> i w prawym rogu znajdziesz link &ldquo;My Profile&rdquo; &ndash; o link do tej strony chodzi). Osoby, które wkleją link do swojego profilu mogą wziąć udział w dwóch losowaniach:</p>
-
-<ol>
-<li>losowaniu upominków książkowych (będziemy mieć dla Was 6 książek do wylosowania)</li>
-<li>losowaniu jednej wejściówki na konferencję <a href="http://2016.mceconf.com" target="_blank">MCE 2016</a></li>
-</ol>
-
-
-<p><a href="https://docs.google.com/forms/d/1MOCGbg4f04XBoYFFGefGERxzElsfwdBHk-AasMT1gAA/viewform" target="_blank">ZAGŁOSUJ JUŻ TERAZ!</a> Niech wygra najlepszy prelegent! :&ndash;)</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-06-18T15:18:00+02:00</updated>
+  <updated>2016-06-27T16:12:34+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -26,7 +26,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/24/cover.jpeg" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/24/cover.jpeg" />
   </div>
 </div>
 
@@ -41,7 +41,7 @@
 
 <p>Celem prezentacji jest pokazanie użycia adnotacji @NotNull oraz @Nullable w celu likwidacji w możliwie wielu miejscach konstrukcji &ldquo;if (abc != null) {&rdquo;. Oraz co najważniejsze dyskusję na temat wad i zalet tego rozwiązania.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/boniewicz-maciej.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/boniewicz-maciej.jpg" /></p>
 
 <h4><a href="https://twitter.com/maciejboniewicz" target="_blank">Maciej Boniewicz</a></h4>
 
@@ -53,7 +53,7 @@
 
 <p>&ldquo;Painless JavaScript Unit Testing&rdquo; to slogan jakim Facebook przedstawia Jest, czyli narzędzie do testów jednostkowych które jest używane i rozwijane przez tę firmę. W prezentacji przedstawię jego główne założenia, które mają za zadanie uprościć środowisko testowe i skrócić czas potrzebny na pisanie testów, oraz oczywiście, uczynić testy jednostkowe bezbolesnymi. Na koniec zobaczymy jak to wygląda w praktyce patrząc na projekty Open Source korzystające z Jesta.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/dzikowski-wojciech.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/dzikowski-wojciech.jpg" /></p>
 
 <h4><a href="https://twitter.com/DzikowskiW" target="_blank">Wojciech Dzikowski</a></h4>
 
@@ -65,7 +65,7 @@
 
 <p>Błyskawicznie opowiem Wam, czym jest GAV i jakich zmian można się spodziewać z wersji na wersję bibliotek.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/laskawiec-sebastian.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
 
 <h4><a href="https://twitter.com/slaskawi" target="_blank">Sebastian Łaskawiec</a></h4>
 
@@ -77,7 +77,7 @@
 
 <p>Podczas prezentacji powiem co to takiego jest projekt Swagger. Pokaże również jak łatwo go zintegrować z dowolnym projektem springowym. Powiem też w czym  jest lepszy od mechanizmu dokumentowania oferowanego przez Springa w ramach Spring Boot.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/pobozan-krzysztof.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/pobozan-krzysztof.jpg" /></p>
 
 <h4><a href="https://twitter.com/krzpob" target="_blank">Krzysztof Pobożan</a></h4>
 
@@ -89,11 +89,31 @@
 
 <p>Już dwa, a wkrótce trzy spotkania z cyklu TorunJUG.getSrc(). Podczas tego lightning talka opowiem, jak wyglądają nasze spotkania i dlaczego nie ma wielu fajniejszych rzeczy niż pokodować w wolny od pracy dzień.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/papierski-zbyszko.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" /></p>
 
 <h4><a href="https://twitter.com/ZPapierski" target="_blank">Zbyszko Papierski</a></h4>
 
 <p>Inżynier Allegro, od lat piszący w Javie i językach JVMowych. Duży fan Big Data i technologii wyszukiwarkowych.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>The Power of Networking</h3>
+
+<p>How do you sell yourself as an introvert? The simple answer is that you tend not to.</p>
+
+<p>Why not? Many introverts hate talking to other people, it is uncomfortable and horrible. But what can happen if you do? Thomas will share a few personal stories on how he, an introvert, is able to run his own company and sell himself and his services.</p>
+
+<p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> prezentacja będzie w języku angielskim.</em></p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/sundberg-thomas.jpg" /></p>
+
+<h4><a href="https://twitter.com/thomassundberg" target="_blank">Thomas Sundberg</a></h4>
+
+<p>An independent consultant and contractor based in Stockholm, Sweden. He has been working as a developer for more than 25 years. Thomas has a Masters degree in Computer Science from the Royal Institute of Technology, KTH, in Stockholm.</p>
+
+<p>He has taught programming at The Royal Institute of Technology, KTH, one of the leading technical universities in Sweden. Thomas has developed an obsession for technical excellence that translates to software craftsmanship, clean code, test automation and continuous deployment. Definition of done according to Thomas is working software, in production.</p>
+
+<p>He runs a blog where he writes about programming, software craftsmanship, tdd, bdd and whatever problem he wants to share a solution for. It can be found at <a href="http://www.thinkcode.se/blog" target="_blank">thinkcode.se/blog</a> Thomas tweets as <a href="https://twitter.com/thomassundberg" target="_blank">@thomassundberg</a>.</p>
 ]]></content>
   </entry>
   
@@ -108,7 +128,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/23/cover.jpeg" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/23/cover.jpeg" />
   </div>
 </div>
 
@@ -123,7 +143,7 @@
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> prezentacja będzie w języku angielskim.</em></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/mishra-nakul.jpeg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/mishra-nakul.jpeg" /></p>
 
 <h4><a href="https://twitter.com/nklmish" target="_blank">Nakul Mishra</a></h4>
 
@@ -135,7 +155,7 @@
 
 <p>Integracja systemów i usług jest dziś jednym z podstawowych wymagań stawianych budowanym przez nas aplikacjom. Wiele problemów związanych z tym zagadnieniem jest powtarzalnych niezależnie od specyfiki naszej domeny. Jak to zwykle bywa istnieje zbiór wzorców i dobrych praktyk, które możemy zastosować by radzić sobie w takich sytuacjach. W swojej prezentacji zademonstruję na żywym przykładzie wybrane wzorce z katalogu EIP, pokazując jak zaimplementować je za pomocą biblioteki Apache Camel z wykorzystaniem lekkiego kontenera integracyjnego ServiceMix.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/oczkowski-wojciech.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/oczkowski-wojciech.jpg" /></p>
 
 <h4><a href="https://www.linkedin.com/in/wojciechoczkowski" target="_blank">Wojciech Oczkowski</a></h4>
 
@@ -156,7 +176,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/22/cover.jpeg" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/22/cover.jpeg" />
   </div>
 </div>
 
@@ -171,7 +191,7 @@
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/borowiec-rafal.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/borowiec-rafal.jpg" /></p>
 
 <h4><a href="https://twitter.com/kolorobot" target="_blank">Rafał Borowiec</a></h4>
 
@@ -185,7 +205,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/22/goyello.jpeg" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/22/goyello.jpeg" />
   </div>
 </div>
 
@@ -207,7 +227,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/21/cover.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/21/cover.png" />
   </div>
 </div>
 
@@ -233,7 +253,7 @@
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/szulc-pawel.jpeg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/szulc-pawel.jpeg" /></p>
 
 <h4><a href="https://twitter.com/rabbitonweb" target="_blank">Paweł Szulc</a></h4>
 
@@ -252,7 +272,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/20/cover.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/20/cover.png" />
   </div>
 </div>
 
@@ -269,13 +289,13 @@
 
 <p>Zaprezentujemy także projekt Keycloak, który w znacznym stopniu upraszcza stosowanie wyżej wymienionych technologi.  Wykorzystując to rozwiązanie zademonstrujmy na żywo jak w szybki i prosty sposób możemy zabezpieczyć typową aplikację oraz usługi z których ona korzysta. W oparciu o nowoczesne technologie, integrując się z istniejącą infrastrukturą oraz nie narażając się na popełnienie podstawowych błędów.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/dawidowicz-boleslaw.jpeg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/dawidowicz-boleslaw.jpeg" /></p>
 
 <h4><a href="https://twitter.com/bdawidowicz" target="_blank">Bolesław Dawidowicz</a></h4>
 
 <p>Od 2005 roku współpracuje z firmą Red Hat (dawniej JBoss). Od zawsze związany z oprogramowaniem OpenSource. Preferuje pracę zdalną. Obecnie Engineering Manager oraz Platform Architect odpowiedzialny za projekty związane z bezpieczeństwem w warstwie middleware (m.in Keycloak). Wcześniej najpierw jako developer a potem architekt przez wiele lat rozwijał produkt JBoss Portal Platform oraz współkierował projektem GateIn Portal. Współtwórca projektu PicketLink. Członek &ldquo;Expert Group&rdquo; w JSR 351 oraz JSR 362. Niegdyś aktywny członek i jeden z liderów Warszawa JUG – obecnie w stanie spoczynku. Współorganizował konferencję Javarsovia/Confitura (edycję 2007) oraz Warsjawa w latach 2008, 2012 i 2013. W chwili obecnej współtworzy Warsaw JBoss User Group.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/golawski-andrzej.jpeg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/golawski-andrzej.jpeg" /></p>
 
 <h4><a href="https://twitter.com/andiPansa" target="_blank">Andrzej Goławski</a></h4>
 
@@ -291,7 +311,7 @@
 
 <p>Podczas sesji pragnę przybliżyć AsciiDoc'a (oraz cały ekosystem narzędzi z nim związanych). Ale przede wszystkim chciałbym Was zarazić najlepszym możliwym sposobem dokumentowania, notowania &ndash; za pomocą prostych i ogólnodostępnych narzędzi, łatwo współdzieląc efekty naszej pracy. nie wychodząc poza nasz codzienny, programistyczny rytuał.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/marchwicki-jakub.jpeg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/marchwicki-jakub.jpeg" /></p>
 
 <h4><a href="https://twitter.com/kubem" target="_blank">Jakub Marchwicki</a></h4>
 

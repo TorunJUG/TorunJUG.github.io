@@ -66,3 +66,19 @@ Już dwa, a wkrótce trzy spotkania z cyklu TorunJUG.getSrc(). Podczas tego ligh
 <img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" />
 #### <a href="https://twitter.com/ZPapierski" target="_blank">Zbyszko Papierski</a>
 Inżynier Allegro, od lat piszący w Javie i językach JVMowych. Duży fan Big Data i technologii wyszukiwarkowych.
+
+<span class="clearfix"></span>
+### The Power of Networking
+How do you sell yourself as an introvert? The simple answer is that you tend not to.
+
+Why not? Many introverts hate talking to other people, it is uncomfortable and horrible. But what can happen if you do? Thomas will share a few personal stories on how he, an introvert, is able to run his own company and sell himself and his services.
+
+<em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> prezentacja będzie w języku angielskim.</em>
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/sundberg-thomas.jpg" />
+#### <a href="https://twitter.com/thomassundberg" target="_blank">Thomas Sundberg</a>
+An independent consultant and contractor based in Stockholm, Sweden. He has been working as a developer for more than 25 years. Thomas has a Masters degree in Computer Science from the Royal Institute of Technology, KTH, in Stockholm.
+
+He has taught programming at The Royal Institute of Technology, KTH, one of the leading technical universities in Sweden. Thomas has developed an obsession for technical excellence that translates to software craftsmanship, clean code, test automation and continuous deployment. Definition of done according to Thomas is working software, in production.
+
+He runs a blog where he writes about programming, software craftsmanship, tdd, bdd and whatever problem he wants to share a solution for. It can be found at <a href="http://www.thinkcode.se/blog" target="_blank">thinkcode.se/blog</a> Thomas tweets as <a href="https://twitter.com/thomassundberg" target="_blank">@thomassundberg</a>.

@@ -585,5 +585,17 @@
                 "title" : "Żywa dokumentacja RESTa"
             }
         ]
+    },
+    {
+        "name" : "Thomas Sundberg",
+        "img" : "sundberg-thomas.jpg",
+        "twitter" : "thomassundberg",
+        "lastMeeting": 24,
+        "talks" : [
+            {
+                "meetingNumber" : 24,
+                "title" : "The Power of Networking"
+            }
+        ]
     }
 ]

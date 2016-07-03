@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-06-30T05:54:17+02:00</updated>
+  <updated>2016-07-03T14:24:59+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie dwudziestego czwartego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2016/07/03/podsumowanie-dwudziestego-czwartego-spotkania/"/>
+    <updated>2016-07-03T15:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/07/03/podsumowanie-dwudziestego-czwartego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/meeting/24/">dwudzieste czwartego</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Maciejowi, Wojtkowi, Sebastianowi, Krzysztofowi, Zbyszkowi i Thomasowi za podzielenie się z nami swoją wiedzą. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="http://bit.ly/24-spotkanie-Torun-JUG-ankieta" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/tak.dla.juga.w.toruniu/photos/?tab=album&album_id=1774686126088206" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27085053/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="https://github.com/amossoma/notnullannotations" target="_blank">Kod źródłowy wykorzystywany przez Macieja podczas prezentacji</a>
+  </li>
+  <li>
+    <a href="https://docs.google.com/presentation/d/1rQFj2DdwGYi9wbdV_F7sG3Brnk5iYByqr3a_TIihEHE" target="_blank">
+      <em>Jest! JavaScriptowe testy jednostkowe wg Facebooka</em></a> (slajdy z&nbsp;prezentacji Wojciecha Dzikowskiego)
+  </li>
+    <li>
+    <a href="https://prezi.com/_dmxsb_blwtl/versions/" target="_blank">
+      <em>X.Y.Z, czyli wszystko o wersjach artefaktów</em></a> (slajdy z&nbsp;prezentacji Sebastiana Łaskawca)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #24 [2016-06-29]]]></title>
@@ -784,41 +822,6 @@
 <h4><a href="https://twitter.com/jaceklaskowski" target="_blank">Jacek Laskowski</a></h4>
 
 <p>Jacek is a Java/Scala software developer with few Scala gigs under his belt. He runs a Scala project – <a href="https://github.com/jaceklaskowski/scalania" target="_blank">scalania</a> – on GitHub that gave birth Scala meetings in Warsaw, Poland that ultimately ended up as an initiative under <a href="https://twitter.com/WarszawScaLa" target="_blank">@WarszawScaLa</a> – a Scala user group in Warsaw. He builds his reputation in the tools he uses daily answering questions on <a href="http://stackoverflow.com/users/1305344/jacek-laskowski" target="_blank">StackOverflow</a> and contributing to open source projects on <a href="https://github.com/jaceklaskowski" target="_blank">GitHub</a>. You can follow him on twitter as <a href="https://twitter.com/jaceklaskowski" target="_blank">@jaceklaskowski</a>. He blogs at <a href="http://japila.pl" target="_blank">japila.pl</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie dwudziestego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2016/02/26/podsumowanie-dwudziestego-spotkania/"/>
-    <updated>2016-02-26T06:45:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2016/02/26/podsumowanie-dwudziestego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2016/02/13/spotkanie-20/">dwudzieste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się naszym prelegentom &ndash; Bolkowi i Andrzejowi, którzy w bardzo ciekawy i praktyczny sposób zaprezentowali jak działa Keycloak, a także Kubie ze pokazanie, że pisanie dokumentacji nie musi być nudne. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
-
-<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/184ShF7kgaDat1OSZPr6zift5z-CrIPd5NxyCop4rpZA/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1731264910430328.1073741851.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26769141/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/20/Keycloak_by_Boleslaw_Dawidowicz_and_Andrzej_Golawski.pdf" target="_blank">
-      <em>Keycloak - prosty sposób na bezpieczeństwo i uwierzytelnianie w nowoczesnych aplikacjach</em></a> (slajdy z&nbsp;prezentacji Bolesława Dawidowicza i Andrzeja Goławskiego)
-  </li>
-  <li>
-    <a href="https://github.com/kubamarchwicki/asciidoctor-jug" target="_blank">
-      <em>W poszukiwaniu bożków dokumentacji</em></a> (materiały z&nbsp;prezentacji Jakuba Marchwickiego)
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
   </entry>
   

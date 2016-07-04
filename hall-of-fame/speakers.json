@@ -60,7 +60,8 @@
             },
             {
                 "meetingNumber" : 24,
-                "title" : "@NotNull w Javie"
+                "title" : "@NotNull w Javie",
+                "slides" : "https://github.com/amossoma/notnullannotations"
             }
         ]
     },
@@ -138,7 +139,8 @@
             },
             {
                 "meetingNumber" : 24,
-                "title" : "X.Y.Z, czyli wszystko o wersjach artefaktów"
+                "title" : "X.Y.Z, czyli wszystko o wersjach artefaktów",
+                "slides" : "https://prezi.com/_dmxsb_blwtl/versions/"
             }
         ]
     },
@@ -570,7 +572,8 @@
         "talks" : [
             {
                 "meetingNumber" : 24,
-                "title" : "Jest! czyli JavaScriptowe testy jednostkowe według Facebooka"
+                "title" : "Jest! czyli JavaScriptowe testy jednostkowe według Facebooka",
+                "slides" : "https://docs.google.com/presentation/d/1rQFj2DdwGYi9wbdV_F7sG3Brnk5iYByqr3a_TIihEHE"
             }
         ]
     },

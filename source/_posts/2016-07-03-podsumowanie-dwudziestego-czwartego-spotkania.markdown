@@ -27,6 +27,10 @@ Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
     <a href="https://prezi.com/_dmxsb_blwtl/versions/" target="_blank">
       <em>X.Y.Z, czyli wszystko o wersjach artefaktów</em></a> (slajdy z&nbsp;prezentacji Sebastiana Łaskawca)
   </li>
+  <li>
+    <a href="{{root_url}}/materials/meetings/24/The_Power_of_Networking_by_Thomas_Sundberg.pdf">
+      <em>The Power of Networking</em></a> (slajdy z&nbsp;prezentacji Thomasa Sundberga)
+  </li>
 </ul>
 
 Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.

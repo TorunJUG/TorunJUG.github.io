@@ -597,7 +597,8 @@
         "talks" : [
             {
                 "meetingNumber" : 24,
-                "title" : "The Power of Networking"
+                "title" : "The Power of Networking",
+                "slides" : "http://torun.jug.pl/materials/meetings/24/The_Power_of_Networking_by_Thomas_Sundberg.pdf"
             }
         ]
     }

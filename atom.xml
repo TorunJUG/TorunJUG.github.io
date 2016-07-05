@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-07-04T05:41:23+02:00</updated>
+  <updated>2016-07-05T05:58:26+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -39,6 +39,10 @@
     <li>
     <a href="https://prezi.com/_dmxsb_blwtl/versions/" target="_blank">
       <em>X.Y.Z, czyli wszystko o wersjach artefaktów</em></a> (slajdy z&nbsp;prezentacji Sebastiana Łaskawca)
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/24/The_Power_of_Networking_by_Thomas_Sundberg.pdf">
+      <em>The Power of Networking</em></a> (slajdy z&nbsp;prezentacji Thomasa Sundberga)
   </li>
 </ul>
 

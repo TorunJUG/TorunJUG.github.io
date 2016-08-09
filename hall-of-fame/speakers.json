@@ -61,7 +61,8 @@
             {
                 "meetingNumber" : 24,
                 "title" : "@NotNull w Javie",
-                "slides" : "https://github.com/amossoma/notnullannotations"
+                "slides" : "https://github.com/amossoma/notnullannotations",
+                "youtube" : "https://www.youtube.com/watch?v=DYUnEo06fYE"
             }
         ]
     },
@@ -140,7 +141,8 @@
             {
                 "meetingNumber" : 24,
                 "title" : "X.Y.Z, czyli wszystko o wersjach artefaktów",
-                "slides" : "https://prezi.com/_dmxsb_blwtl/versions/"
+                "slides" : "https://prezi.com/_dmxsb_blwtl/versions/",
+                "youtube" : "https://www.youtube.com/watch?v=F4py1aqXkrw"
             }
         ]
     },
@@ -573,7 +575,8 @@
             {
                 "meetingNumber" : 24,
                 "title" : "Jest! czyli JavaScriptowe testy jednostkowe według Facebooka",
-                "slides" : "https://docs.google.com/presentation/d/1rQFj2DdwGYi9wbdV_F7sG3Brnk5iYByqr3a_TIihEHE"
+                "slides" : "https://docs.google.com/presentation/d/1rQFj2DdwGYi9wbdV_F7sG3Brnk5iYByqr3a_TIihEHE",
+                "youtube" : "https://www.youtube.com/watch?v=ploFNLwMv1I"
             }
         ]
     },
@@ -585,7 +588,8 @@
         "talks" : [
             {
                 "meetingNumber" : 24,
-                "title" : "Żywa dokumentacja RESTa"
+                "title" : "Żywa dokumentacja RESTa",
+                "youtube" : "https://www.youtube.com/watch?v=3lFvUF4Js8c"
             }
         ]
     },
@@ -598,7 +602,8 @@
             {
                 "meetingNumber" : 24,
                 "title" : "The Power of Networking",
-                "slides" : "http://torun.jug.pl/materials/meetings/24/The_Power_of_Networking_by_Thomas_Sundberg.pdf"
+                "slides" : "http://torun.jug.pl/materials/meetings/24/The_Power_of_Networking_by_Thomas_Sundberg.pdf",
+                "youtube" : "https://www.youtube.com/watch?v=Yr56zsNh4cY"
             }
         ]
     }

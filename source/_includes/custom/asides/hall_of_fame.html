@@ -1,10 +1,10 @@
-<section class="panel panel-primary hall-of-fame" class="ng-cloak" ng-cloak>
+<section class="panel panel-primary hall-of-fame" class="ng-cloak" ng-cloak ng-controller="HallOfFameController as hofCtrl">
   <div class="panel-heading">
     <h3 class="panel-title"><a href="{{ root_url }}/hall-of-fame/">Hall of Fame</a></h3>
   </div>
-  <div class="panel-body text-center" ng-repeat="speaker in mainCtrl.randomSpeakers">
+  <div class="panel-body text-center" ng-repeat="speaker in randomSpeakers">
   	<div>
-  		<img class="no-border" ng-src="[[mainCtrl.imageUrl(speaker.img)]]" />
+  		<img class="no-border" ng-src="[[imageUrl(speaker.img)]]" />
   	</div>
   	<div>
   		<h4 ng-bind="speaker.name"></h4>

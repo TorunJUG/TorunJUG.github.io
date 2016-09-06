@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-09-04T15:54:46+02:00</updated>
+  <updated>2016-09-06T05:45:15+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #25 [2016-09-28]]]></title>
+    <link href="http://torun.jug.pl/news/2016/09/06/spotkanie-25/"/>
+    <updated>2016-09-06T06:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/09/06/spotkanie-25</id>
+    <content type="html"><![CDATA[<p>Wracamy po wakacyjnej przerwie i serdecznie zapraszamy na dwudzieste piąte spotkanie Toruń Java User Group, które odbędzie się <strong>w&nbsp;środę, 28 września 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/233863863/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="http://torun.jug.pl/images/meetings/25/cover.png" />
+  </div>
+</div>
+
+
+<p>Sponsorem spotkania jest firma Atos &ndash; w puli upominków, które losować będziemy na koniec spotkania znajdzie się kilka papierowych książek ufundowanych przez tę firmę. Poniżej uchylamy rąbka tajemnicy:</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="http://torun.jug.pl/images/meetings/25/atos-books.jpg" />
+  </div>
+</div>
+
+
+<p><a href="http://pl.atos.net" target="_blank"><strong>Atos</strong></a> jest międzynarodową firmą z branży usług informatycznych, osiągającą roczne przychody na poziomie 11 mld EUR i zatrudniającą 93 000 pracowników. Na wrześniowym spotkaniu Sławek przedstawi obecną ofertę zatrudnienia w prężnie rozwijającym się dziale Java w Toruniu.</p>
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>).</p>
+
+<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>Nowoczesne techniki dostarczania oprogramowania</h3>
+
+<p>Proces budowania, testowania, integracji i wdrażania oprogramowania jest prawdopodobnie najbardziej lekceważoną częścią pracy programisty. Jego uruchomienie wymaga wiele wysiłku i doświadczenia, ale jest kluczowym elementem dobrze zorganizowanego zespołu. W tej prezentacji chciałbym przedstawić wam jak powinien wyglądać dobry system CI/CD, a także jak uruchomić go w 5 minut.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/piotrowski-slawek.jpg" /></p>
+
+<h4><a href="https://twitter.com/sentinelatteo" target="_blank">Sławek Piotrowski</a></h4>
+
+<p>Sławek jest architektem systemów bankowych w firmie Atos. Przez ostatnie 10 lat tworzył systemy CI/CD w dwóch firmach. Teraz tworzy trzeci &ndash; ostatni ;&ndash;) Jest autorem kilku projektów open source. Wielokrotny mówca na JUGach i konferencjach.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Why? + Impact Mapping &ndash; czyli jak uciekliśmy spod topora niezrozumiałych wymagań nowego projektu</h3>
+
+<p>Jedną z podstawowych cech kilkuletniego przedstawiciela homo-sapiens jest to, że zadaje on nieograniczoną liczbę pytań takich jak: &ldquo;czemu?&lsquo;, &#8220;dlaczego?&rdquo;, &ldquo;po co?&rdquo;, &ldquo;kto?&rdquo;, &ldquo;jak?&rdquo;. Posiadając w domu dwa małe monstra, oprócz próśb o słodycze, w każdej chwili jestem narażony na uderzenie takim niewygodnym pytaniem. Jeżeli odpowiedź na nie będzie nieścisła, niewyraźna czy nieodpowiednia, mogę doświadczyć ataku ze zdwojoną mocą, nie mówiąc o skutkach wychowawczych. Na szczęście, a może i nie, dzieje się to tylko przez pewną chwilę. Potem, za dobrych 20 lat, niektórzy w kuluarach wykrzykują &ldquo;Programming, Motherfucker!&rdquo; wyznając Driven-Development, ale ten z literą R na początku, inni przeczesują strony dokumentacji w cierpieniu i poczuciu niesprawiedliwości, a niektórzy właśnie zaliczają projektową porażkę po spędzeniu kilku miesięcy, które okazują się pomyłką. W prezentacji tej chciałbym wrócić do korzeni, przypomnieć o jednym z podstawowych pytań z dzieciństwa i opowiedzieć o tym jak udało nam się zaoszczędzić wiele nerwów, siwych włosów i nieprzespanych nocy w obliczu nowych wymagań biznesowych do spełnienia w krótkim terminie.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/sawicki-lukasz.jpg" /></p>
+
+<h4><a href="https://pl.linkedin.com/in/%C5%82ukasz-sawicki-4bb4512" target="_blank">Łukasz Sawicki</a></h4>
+
+<p>Programista Java z zacięciem do dobrego kodu testowego i agile&#8217;a w kierunku Scruma. Obecnie pracujący w firmie 4Finance IT. Zwolennik przyjaźni pomiędzy biznesem a IT. Poza godzinami pracy szarpie druty gitary, fotografuje i poszukuje ideału kawy.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nagranie z dwudziestego czwartego spotkania]]></title>
@@ -690,72 +745,6 @@
 
 
 <p>Wszystko jasne? Do dzieła! :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Recenzja książki: Effective Modern C++]]></title>
-    <link href="http://torun.jug.pl/news/2016/03/02/recenzja-ksiazki-effective-modern-c-plus-plus/"/>
-    <updated>2016-03-02T07:00:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2016/03/02/recenzja-ksiazki-effective-modern-c-plus-plus</id>
-    <content type="html"><![CDATA[<p>Minął ponad rok od czasu opublikowania poprzedniej recenzji. Autorem ostatniej był Sebastian Łaskawiec. Autorem dzisiejszej&hellip; <strong>Sebastian Łaskawiec</strong> :) Tym razem wziął pod lupę książkę <a href="http://shop.oreilly.com/product/0636920033707.do" target="_blank"><em>Effective Modern C++</em></a> autorstwa Scotta Meyersa To już trzecia recenzja na koncie Sebastiana i&nbsp;jednocześnie <a href="http://torun.jug.pl/news/categories/recenzje/">siódma</a> na koncie wszystkich naszych JUGowiczów.</p>
-
-<!--more-->
-
-
-<h3>Książka</h3>
-
-<p><img class="no-border book-cover" src="http://torun.jug.pl/images/reviews/books/effective-modern-c-plus-plus.jpg" />
-<strong><em>Effective Modern C++</em></strong></p>
-
-<p>Coming to grips with C++11 and C++14 is more than a matter of familiarizing yourself with the features they introduce (e.g., auto type declarations, move semantics, lambda expressions, and concurrency support). The challenge is learning to use those features effectively—so that your software is correct, efficient, maintainable, and portable. That’s where this practical book comes in. It describes how to write truly great software using C++11 and C++14 — i.e. using modern C++.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Autor</h3>
-
-<p><strong>Scott Douglas Meyers</strong> is an American author and software consultant, specializing in the C++ computer programming language. He is known for his Effective C++ book series. He is a frequent speaker at conferences and trade shows. He holds a Ph.D. in computer science from Brown University and M.S. in computer science from Stanford University.</p>
-
-<h3>Recenzja</h3>
-
-<blockquote>
-  <p>
-    <strong>Content</strong>
-  </p>
-  <p>
-    The book describes new language features introduced in C++11 and 14.
-  </p>
-  <p>
-    The first paragraph explains how type resolution works in C++, which might be considered as an introduction to the second paragraph - auto types. The third paragraph is dedicated to several small improvements in C++11/14, like aliases, nullptrs or function overrides. Next paragraph is fully dedicated to smart pointers and their different use cases. Paragraph number five introduces std::move and std::forward concepts. Lambda expressions are covered in paragraph six and seventh introduces new concurrency API (Atomics). The last paragraph covers some minor tweaks.
-  </p>
-  <p>
-    <strong>Writing style</strong>
-  </p>
-  <p>
-    The book is organized into items (similarly to &#8220;Effective Java&#8221;). Multiple items form paragraphs which cover broader topic (such as concurrency). All items are clearly defined and contain a lot of code snippets, which makes them easier to understand. The book is very concise and to-the-point and defiantly dedicated for intermediate or advanced C++ programmers who want to learn new language features.
-  </p>
-  <p>
-    <strong>Conclusion and recommendation</strong>
-  </p>
-  <p>
-    This book is like manual for new C/C++ features. I often get back to it when I want to use something new. Very strict language and a lot of code examples help to understand described concepts. From my perspective the best part was about Atomics. Dealing with multithreded code (especially targeted for multiple runtimes) was a nightmare before introducing concurrency features. It is also worth mentioning that this book is not meant for beginners. The reader needs to have at least some intermediate experience to learn more advanced concepts shown in the book.
-  </p>
-  <p>Rating: 5/5</p>
-</blockquote>
-
-
-<h3>Recenzent</h3>
-
-<p><img class="no-border reviewer-face" src="http://torun.jug.pl/images/reviews/reviewers/laskawiec-sebastian.jpg" />
-<strong>Sebastian Łaskawiec</strong></p>
-
-<p>Senior Software Developer in Red Hat interested in JEE containers and Caching technologies who spends most of his free time on home brewing, ice skating or skiing.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Szukamy kolejnych odważnych</h3>
-
-<p>Jeśli ktoś z&nbsp;Was chciałby otrzymać kopię wybranej przez siebie książki w&nbsp;zamian za jej recenzję, to zapraszamy do odpowiedniego <a href="https://groups.google.com/d/topic/torunjug/QvoMIJhDM0M/discussion" target="_blank">wątku na naszej grupie dyskusyjnej</a>. Dzięki <a href="http://torun.jug.pl/partners/">partnerstwu</a> z&nbsp;wydawnictwami <a href="http://www.manning.com" target="_blank">Manning Publications Co.</a>, <a href="http://oreilly.com" target="_blank">O&#8217;Reilly Media</a> oraz <a href="http://www.packtpub.com" target="_blank">Packt Publishing</a> macie do wyboru bardzo szeroki wachlarz książek o&nbsp;różnorodnej tematyce.</p>
 ]]></content>
   </entry>
   

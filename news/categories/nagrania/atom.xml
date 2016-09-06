@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Nagrania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/nagrania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-09-06T05:51:59+02:00</updated>
+  <updated>2016-09-06T06:00:21+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -18,7 +18,7 @@
     <link href="http://torun.jug.pl/news/2016/07/15/nagranie-z-dwudziestego-czwartego-spotkania/"/>
     <updated>2016-07-15T21:00:00+02:00</updated>
     <id>http://torun.jug.pl/news/2016/07/15/nagranie-z-dwudziestego-czwartego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3143" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{root_url}}/meeting/24/">dwudziestego czwartego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3143" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/meeting/24/">dwudziestego czwartego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -42,7 +42,7 @@
     <link href="http://torun.jug.pl/news/2016/06/13/nagranie-z-dwudziestego-trzeciego-spotkania/"/>
     <updated>2016-06-13T14:15:00+02:00</updated>
     <id>http://torun.jug.pl/news/2016/06/13/nagranie-z-dwudziestego-trzeciego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3127" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{root_url}}/meeting/23/">dwudziestego trzeciego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3127" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/meeting/23/">dwudziestego trzeciego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -66,7 +66,7 @@
     <link href="http://torun.jug.pl/news/2016/05/19/nagranie-z-dwudziestego-drugiego-spotkania/"/>
     <updated>2016-05-19T16:45:00+02:00</updated>
     <id>http://torun.jug.pl/news/2016/05/19/nagranie-z-dwudziestego-drugiego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3080" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="{{root_url}}/meeting/22/">dwudziestego drugiego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3080" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="/meeting/22/">dwudziestego drugiego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -90,7 +90,7 @@
     <link href="http://torun.jug.pl/news/2016/04/13/nagranie-z-dwudziestego-pierwszego-spotkania/"/>
     <updated>2016-04-13T19:30:00+02:00</updated>
     <id>http://torun.jug.pl/news/2016/04/13/nagranie-z-dwudziestego-pierwszego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3036" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="{{root_url}}/meeting/21/">dwudziestego pierwszego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3036" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="/meeting/21/">dwudziestego pierwszego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">
@@ -114,7 +114,7 @@
     <link href="http://torun.jug.pl/news/2016/03/15/nagranie-z-dwudziestego-spotkania/"/>
     <updated>2016-03-15T18:30:00+01:00</updated>
     <id>http://torun.jug.pl/news/2016/03/15/nagranie-z-dwudziestego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3004" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="{{root_url}}/news/2016/02/13/spotkanie-20/">dwudziestego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
+    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3004" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="/news/2016/02/13/spotkanie-20/">dwudziestego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
 
 <div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
   <div class="col-md-12">

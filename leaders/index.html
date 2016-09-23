@@ -208,7 +208,7 @@
                 <div class="text-center">
                   <img class="no-border leader-face" ng-src="[[imageUrl(leader.photo)]]" />
                 </div>
-                <div class="description" ng-if="leader.description" ng-bind="leader.description"></div>
+                <div class="description" ng-if="leader.description" ng-bind-html="leader.description"></div>
               </div>
             </div>
             <div class="modal-footer" ng-if="leader.urls">
@@ -300,6 +300,7 @@
 <script src="/javascripts/modernizr-2.0.js"></script>
 <script src="/javascripts/libs/angular.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-filter/0.5.11/angular-filter.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.5.8/angular-sanitize.min.js"></script>
 <script src="/javascripts/app.js"></script>
 
 

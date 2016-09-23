@@ -1,5 +1,22 @@
 [
     {
+        "name": "Rafał Bryk",
+        "photo": "bryk-rafal.jpg",
+        "status": "1_ACTIVE"
+    },
+    {
+        "name": "Paweł Kapała",
+        "photo": "kapala-pawel.jpg",
+        "description": "Krzewiciel czytelnego kodu. Zwolennik programowania i projektowania zorientowanego biznesowo. W długotrwałym małżeństwie z wirtualną maszyną Java. Neofita Clojure.",
+        "urls": {
+            "home": "http://kapware.github.io",
+            "twitter": "https://twitter.com/kapware",
+            "linkedin": "https://www.linkedin.com/in/paweł-kapała-82422275",
+            "googleplus" : "https://plus.google.com/104612392527448700637"
+        },
+        "status": "1_ACTIVE"
+    },
+    {
         "name": "Piotr Modzelewski",
         "photo": "modzelewski-piotr.jpg",
         "description": "Programista Java pracujący przy systemach wymagających wysokiej wydajności i skalowalności. Oprócz programowania zajmuje się architekturą oprogramowania. Wyznawca zasad XP z dużym naciskiem na TDD. Stara się wdrażać zasady software craftsmanship w codziennej pracy. Wierzy w siłę łączenia wielu języków przy jednym projekcie. Bardziej od bogatych i opasłych rozwiązań JEE woli proste i dedykowane rozwiązania.",
@@ -13,7 +30,7 @@
     {
         "name": "Marek Nowicki",
         "photo": "nowicki-marek.jpg",
-        "description": "Programista-naukowiec związany z językiem Java, zajmujący się głównie obliczeniami równoległymi i rozproszonymi w tymże języku.",
+        "description": "Programista-naukowiec związany z językiem Java, zajmujący się głównie obliczeniami równoległymi w środowisku wielowęzłowym w tymże języku. Autor biblioteki <a href='http://pcj.icm.edu.pl' target='_blank'>PCJ</a>.",
         "urls": {
             "linkedin": "https://www.linkedin.com/in/mareknowicki"
         },
@@ -58,6 +75,15 @@
             "twitter": "https://twitter.com/prondzyn",
             "linkedin": "http://www.linkedin.com/in/prondzyn",
             "github": "https://github.com/prondzyn"
+        },
+        "status": "1_ACTIVE"
+    },
+    {
+        "name": "Łukasz Sawicki",
+        "photo": "sawicki-lukasz.jpg",
+        "description": "Programista Java z zacięciem do kodu testowego i agile'a w kierunku Scruma. Zwolennik przyjaźni pomiędzy Biznesem i IT. Obecnie pracownik toruńskiego oddziału 4Finance IT, w przeszłości PayU i AIS.PL. Poza godzinami pracy szarpie druty gitary, fotografuje i poszukuje ideału kawy.",
+        "urls": {
+            "linkedin": "https://pl.linkedin.com/in/łukasz-sawicki-4bb4512"
         },
         "status": "1_ACTIVE"
     },

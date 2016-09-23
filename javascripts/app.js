@@ -1,5 +1,5 @@
 (function() {
-  var app = angular.module('TorunJugApp', ['angular.filter'], function($interpolateProvider) {
+  var app = angular.module('TorunJugApp', ['angular.filter', 'ngSanitize'], function($interpolateProvider) {
   	$interpolateProvider.startSymbol('[[');
   	$interpolateProvider.endSymbol(']]');
 	});

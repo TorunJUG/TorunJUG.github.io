@@ -33,7 +33,7 @@ footer: false
                 <div class="text-center">
                   <img class="no-border leader-face" ng-src="[[imageUrl(leader.photo)]]" />
                 </div>
-                <div class="description" ng-if="leader.description" ng-bind="leader.description"></div>
+                <div class="description" ng-if="leader.description" ng-bind-html="leader.description"></div>
               </div>
             </div>
             <div class="modal-footer" ng-if="leader.urls">

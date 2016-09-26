@@ -39,7 +39,7 @@
     {
         "name": "Walter Okruciński",
         "photo": "okrucinski-walter.jpg",
-        "description": "Programista Java, wielbiciel open source i Linuksa. Posiadający skłonności masochistyczne w związku z korzystaniem na co dzień z Gentoo. Wiecznie niezaspokojone intelektualnie dziecko, które swoimi pytaniami wyprowadzi z równowagi każdego doświadczonego programistę.",
+        "description": "Programista Java, wielbiciel open source i Linuksa. Wiecznie niezaspokojone intelektualnie dziecko, które swoimi pytaniami wyprowadzi z równowagi każdego programistę i PO.",
         "urls": {
             "linkedin": "https://www.linkedin.com/pub/walter-okruci%C5%84ski/81/bab/180"
         },
@@ -48,7 +48,7 @@
     {
         "name": "Zbyszko Papierski",
         "photo": "papierski-zbyszko.jpg",
-        "description": "Do niedawna programista Java w Grupie Allegro, aktualnie architekt rozwiązań w tej samej firmie. Czciciel JVM i wszystkiego co z nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz i komiksiarz.",
+        "description": "Programista w firmie Spartez, pracujący nad produktami Atlassian. Czciciel JVM i wszystkiego co z nim związane. Pasjonat technologii dookoła wyszukiwarkowych. Prywatnie także gracz i komiksiarz.",
         "urls": {
             "twitter": "https://twitter.com/ZPapierski",
             "linkedin": "http://pl.linkedin.com/in/zbyszko",
@@ -103,7 +103,8 @@
     {
         "name": "Paweł Wojdyło",
         "photo": "wojdylo-pawel.jpg",
-        "status": "3_HONORABLE"
+        "status": "3_HONORABLE",
+        "description": "Programista pracujący w Uniwersyteckim Centrum Nowoczesnych Technologii Nauczania UMK. Entuzjasta wszystkiego co związane z JVM, niestroniący jednak od innych technologii. Realizuje nagrania wideo ze spotkań JUG'a."
     },
     {
         "name": "Błażej Zyglarski",

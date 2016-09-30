@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-09-26T06:16:20+02:00</updated>
+  <updated>2016-09-30T06:05:28+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie dwudziestego piątego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2016/09/30/podsumowanie-dwudziestego-piatego-spotkania/"/>
+    <updated>2016-09-30T07:00:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/09/30/podsumowanie-dwudziestego-piatego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/meeting/25/">dwudzieste piąte</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Sławkowi, za podzielenie swoją wiedzą i doświadczeniami na temat nowoczesnych technik dostarczania oprogramowania oraz Łukaszowi, za przedstawienie bardzo ciekawej techniki, jaką jest Impact Mapping. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
+
+<p>Dziękujemy również firmie <strong>Atos Polska</strong>, która ufundowała upominki książkowe rozdane podczas dzisiejszego spotkania. Toruński oddział tej firmy <a href="http://bit.ly/atos-na-25-spotkaniu-Torun-JUG" target="_blank">cały czas się rozwija i poszukuje zarówno początkujących jak i doświadczonych programistów Java</a>.</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="http://bit.ly/25-spotkanie-Torun-JUG-ankieta" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/tak.dla.juga.w.toruniu/photos/?tab=album&album_id=1808512186038933" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27305490/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/25/Nowoczesne_techniki_dostarczania_oprogramowania_by_Slawek_Piotrowski.pdf">
+      <em>Nowoczesne techniki dostarczania oprogramowania</em></a> (slajdy z&nbsp;prezentacji Sławka Piotrowskiego)
+  </li>
+  <li>
+    <a href="https://github.com/atteo/jfactory" target="_blank">Link do kody JFactory, o którym opowiadał Sławek</a>
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/25/Atos_prezentacja_v4_kch.pdf">
+      Slajdy z prezentacji na temat firmy Atos (sponsora spotkania)</a>
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/25/Why_plus_Impact_Mapping_by_Lukasz_Sawicki.pdf">
+      <em>Why? + Impact Mapping – czyli jak uciekliśmy spod topora niezrozumiałych wymagań nowego projektu</em></a> (slajdy z&nbsp;prezentacji Łukasza Sawickiego)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #25 [2016-09-28]]]></title>
@@ -97,7 +141,7 @@
     <link href="http://torun.jug.pl/news/2016/07/03/podsumowanie-dwudziestego-czwartego-spotkania/"/>
     <updated>2016-07-03T15:00:00+02:00</updated>
     <id>http://torun.jug.pl/news/2016/07/03/podsumowanie-dwudziestego-czwartego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/meeting/24/">dwudzieste czwartego</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Maciejowi, Wojtkowi, Sebastianowi, Krzysztofowi, Zbyszkowi i Thomasowi za podzielenie się z nami swoją wiedzą. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/meeting/24/">dwudzieste czwarte</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Maciejowi, Wojtkowi, Sebastianowi, Krzysztofowi, Zbyszkowi i Thomasowi za podzielenie się z nami swoją wiedzą. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
 
@@ -725,26 +769,6 @@
 <p>Jeśli nie mieliście możliwości uczestniczyć w warsztatach, a chcielibyście zobaczyć co się na nich działo, to możecie obejrzeć <a href="https://www.youtube.com/watch?v=4rnzTCm4nrE" target="_blank">nagranie na naszym kanale YouTube</a> &ndash; jakość trochę partyzancka, ale coś powinno udać się zobaczyć ;)</p>
 
 <p>Obszerne notatki Jacka z użytkowania Apache Spark możecie znaleźć pod adresem <a href="http://bit.ly/mastering-apache-spark" target="_blank">bit.ly/mastering-apache-spark</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Strefa Pomysłów]]></title>
-    <link href="http://torun.jug.pl/news/2016/03/04/strefa-pomyslow/"/>
-    <updated>2016-03-04T07:00:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2016/03/04/strefa-pomyslow</id>
-    <content type="html"><![CDATA[<p>Czy słyszeliście już o <a href="https://trello.com/b/fgZ5Gzah/strefa-pomys-ow" target="_blank">Strefie Pomysłów</a>? To nasz nowy pomysł na to, abyście mogli w łatwiejszy, bardziej przejrzysty sposób zgłaszać swoje propozycje prelekcji, które możecie wygłosić, ale również, o których chcielibyście posłuchać. Znajdziecie tam także miejsce na zgłaszanie innych dowolnych pomysłów związanych z&nbsp;naszym JUG-iem.</p>
-
-<p>Zobaczcie krótki filmik instruktażowy autorstwa Szymona:</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/GpTTXH1xJuk" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
-
-
-<p>Wszystko jasne? Do dzieła! :)</p>
 ]]></content>
   </entry>
   

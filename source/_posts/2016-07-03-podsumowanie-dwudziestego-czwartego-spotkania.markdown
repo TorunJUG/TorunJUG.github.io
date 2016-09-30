@@ -6,7 +6,7 @@ date: 2016-07-03 15:00:00 +0200
 comments: true
 categories: Materiały
 ---
-W&nbsp;minioną środę odbyło się <a href="{{root_url}}/meeting/24/">dwudzieste czwartego</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Maciejowi, Wojtkowi, Sebastianowi, Krzysztofowi, Zbyszkowi i Thomasowi za podzielenie się z nami swoją wiedzą. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.
+W&nbsp;minioną środę odbyło się <a href="{{root_url}}/meeting/24/">dwudzieste czwarte</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Maciejowi, Wojtkowi, Sebastianowi, Krzysztofowi, Zbyszkowi i Thomasowi za podzielenie się z nami swoją wiedzą. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.
 
 Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.
 

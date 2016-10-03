@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Recenzje | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/recenzje/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-09-30T06:24:08+02:00</updated>
+  <updated>2016-10-03T11:41:59+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -18,14 +18,14 @@
     <link href="http://torun.jug.pl/news/2016/03/02/recenzja-ksiazki-effective-modern-c-plus-plus/"/>
     <updated>2016-03-02T07:00:00+01:00</updated>
     <id>http://torun.jug.pl/news/2016/03/02/recenzja-ksiazki-effective-modern-c-plus-plus</id>
-    <content type="html"><![CDATA[<p>Minął ponad rok od czasu opublikowania poprzedniej recenzji. Autorem ostatniej był Sebastian Łaskawiec. Autorem dzisiejszej&hellip; <strong>Sebastian Łaskawiec</strong> :) Tym razem wziął pod lupę książkę <a href="http://shop.oreilly.com/product/0636920033707.do" target="_blank"><em>Effective Modern C++</em></a> autorstwa Scotta Meyersa To już trzecia recenzja na koncie Sebastiana i&nbsp;jednocześnie <a href="{{ root_url }}/news/categories/recenzje/">siódma</a> na koncie wszystkich naszych JUGowiczów.</p>
+    <content type="html"><![CDATA[<p>Minął ponad rok od czasu opublikowania poprzedniej recenzji. Autorem ostatniej był Sebastian Łaskawiec. Autorem dzisiejszej&hellip; <strong>Sebastian Łaskawiec</strong> :) Tym razem wziął pod lupę książkę <a href="http://shop.oreilly.com/product/0636920033707.do" target="_blank"><em>Effective Modern C++</em></a> autorstwa Scotta Meyersa To już trzecia recenzja na koncie Sebastiana i&nbsp;jednocześnie <a href="/news/categories/recenzje/">siódma</a> na koncie wszystkich naszych JUGowiczów.</p>
 
 <!--more-->
 
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/effective-modern-c-plus-plus.jpg" />
+<p><img class="no-border book-cover" src="/images/reviews/books/effective-modern-c-plus-plus.jpg" />
 <strong><em>Effective Modern C++</em></strong></p>
 
 <p>Coming to grips with C++11 and C++14 is more than a matter of familiarizing yourself with the features they introduce (e.g., auto type declarations, move semantics, lambda expressions, and concurrency support). The challenge is learning to use those features effectively—so that your software is correct, efficient, maintainable, and portable. That’s where this practical book comes in. It describes how to write truly great software using C++11 and C++14 — i.e. using modern C++.</p>
@@ -66,7 +66,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/laskawiec-sebastian.jpg" />
+<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/laskawiec-sebastian.jpg" />
 <strong>Sebastian Łaskawiec</strong></p>
 
 <p>Senior Software Developer in Red Hat interested in JEE containers and Caching technologies who spends most of his free time on home brewing, ice skating or skiing.</p>
@@ -84,14 +84,14 @@
     <link href="http://torun.jug.pl/news/2015/01/05/recenzja-ksiazki-java-8-lambdas/"/>
     <updated>2015-01-05T12:52:21+01:00</updated>
     <id>http://torun.jug.pl/news/2015/01/05/recenzja-ksiazki-java-8-lambdas</id>
-    <content type="html"><![CDATA[<p>Witamy Was gorąco w&nbsp;Nowym Roku i&nbsp;życzymy samych słonecznych dni! Na dobry początek proponujemy zapoznać się z&nbsp;recenzją książki <em>Java 8 Lambdas</em>. Autorem książki jest Richard Warburton, autorem recenzji &ndash; <strong>Sebastian Łaskawiec</strong>. To druga recenzja na koncie Sebastiana i&nbsp;jednocześnie <a href="{{ root_url }}/news/categories/recenzje/">szósta</a> na koncie wszystkich naszych JUGowiczów.</p>
+    <content type="html"><![CDATA[<p>Witamy Was gorąco w&nbsp;Nowym Roku i&nbsp;życzymy samych słonecznych dni! Na dobry początek proponujemy zapoznać się z&nbsp;recenzją książki <em>Java 8 Lambdas</em>. Autorem książki jest Richard Warburton, autorem recenzji &ndash; <strong>Sebastian Łaskawiec</strong>. To druga recenzja na koncie Sebastiana i&nbsp;jednocześnie <a href="/news/categories/recenzje/">szósta</a> na koncie wszystkich naszych JUGowiczów.</p>
 
 <!--more-->
 
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/java-8-lambdas.jpg" />
+<p><img class="no-border book-cover" src="/images/reviews/books/java-8-lambdas.jpg" />
 <strong><em>Java 8 Lambdas: Functional Programming for the Masses</em></strong></p>
 
 <p>If you&rsquo;re a&nbsp;developer with core Java SE skills, this <a href="http://shop.oreilly.com/product/0636920030713.do" target="_blank">hands-on book</a> takes you through the language changes in Java 8 triggered by the addition of lambda expressions. You&rsquo;ll learn through code examples, exercises, and fluid explanations how these anonymous functions will help you write simple, clean, library-level code that solves business problems.</p>
@@ -137,7 +137,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/laskawiec-sebastian.jpg" />
+<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/laskawiec-sebastian.jpg" />
 <strong>Sebastian Łaskawiec</strong></p>
 
 <p>Senior Software Developer in Red Hat interested in JEE containers and Caching technologies who spends most of his free time on home brewing, ice skating or skiing.</p>
@@ -162,7 +162,7 @@
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/three-js-essentials.jpg" />
+<p><img class="no-border book-cover" src="/images/reviews/books/three-js-essentials.jpg" />
 <strong><em>Three.js Essentials</em></strong></p>
 
 <p>Create beautiful visualizations and 3D scenes using Three.js with this practical, <a href="https://www.packtpub.com/web-development/threejs-essentials" target="_blank">example-rich book</a>. Learn all the core concepts of Three.js, and whether you are targeting mobile devices or desktop browsers, you will gain the necessary skills to build a&nbsp;3D application and improve web performance.</p>
@@ -204,7 +204,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/mikulski-maciej.jpg" />
+<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/mikulski-maciej.jpg" />
 <strong>Maciej Mikulski</strong></p>
 
 <p>Web i&nbsp;Android developer działający pod szyldem <a href="http://sparklab.pl" target="_blank">Sparklab.pl</a>. Łączy pasję programistyczną z&nbsp;działalnością biznesową i&nbsp;marketingową. Współzałożyciel <a href="http://missiontorun.org" target="_blank">Mission: ToRun</a> &ndash; toruńskich spotkań dla przedsiębiorców.</p>
@@ -222,14 +222,14 @@
     <link href="http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java/"/>
     <updated>2014-09-24T05:51:22+02:00</updated>
     <id>http://torun.jug.pl/news/2014/09/24/recenzja-ksiazki-continuous-enterprise-development-in-java</id>
-    <content type="html"><![CDATA[<p><strong>Sebastian Łaskawiec</strong>, którego mieliśmy przyjemność słuchać na naszym <a href="{{ root_url }}/news/2014/06/07/spotkanie-4/">czwartym spotkaniu</a>, popełnił recenzję książki <em>Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian</em> autorstwa Andrew Lee Rubingera i&nbsp;Aslaka Knutsena. To już czwarta <a href="{{ root_url }}/news/categories/recenzje/">recenzja</a> na koncie naszych JUGowiczów!</p>
+    <content type="html"><![CDATA[<p><strong>Sebastian Łaskawiec</strong>, którego mieliśmy przyjemność słuchać na naszym <a href="/news/2014/06/07/spotkanie-4/">czwartym spotkaniu</a>, popełnił recenzję książki <em>Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian</em> autorstwa Andrew Lee Rubingera i&nbsp;Aslaka Knutsena. To już czwarta <a href="/news/categories/recenzje/">recenzja</a> na koncie naszych JUGowiczów!</p>
 
 <!--more-->
 
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/continuous-enterprise-development-in-java.jpg" />
+<p><img class="no-border book-cover" src="/images/reviews/books/continuous-enterprise-development-in-java.jpg" />
 <strong><em>Continuous Enterprise Development in&nbsp;Java: Testable Solutions with Arquillian</em></strong></p>
 
 <p>Learn a&nbsp;use-case approach for developing Java enterprise applications in a&nbsp;continuously test-driven fashion. With <a href="http://shop.oreilly.com/product/0636920025368.do" target="_blank">this hands-on guide</a>, authors and JBoss project leaders Andrew Lee Rubinger and Aslak Knutsen show you how to build high-level components, from persistent storage to the user interface, using the Arquillian testing platform and several other JBoss projects and tools.</p>
@@ -275,7 +275,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/laskawiec-sebastian.jpg" />
+<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/laskawiec-sebastian.jpg" />
 <strong>Sebastian Łaskawiec</strong></p>
 
 <p>Senior Software Engineer w firmie Red Hat, interesujący się kontenerami JEE oraz pisaniem dobrego kodu. W&nbsp;wolnym czasie pasjonat nart, łyżew, rolek, a&nbsp;także domowego piwa i&nbsp;dobrych gier.</p>
@@ -300,7 +300,7 @@
 
 <h3>Książka</h3>
 
-<p><img class="no-border book-cover" src="{{ root_url }}/images/reviews/books/functional-javascript.jpg" />
+<p><img class="no-border book-cover" src="/images/reviews/books/functional-javascript.jpg" />
 <strong><em>Functional JavaScript: Introducing Functional Programming with Underscore.js</em></strong></p>
 
 <p>How can you overcome JavaScript language oddities and unsafe features? With <a href="http://shop.oreilly.com/product/0636920028857.do" target="_blank">this book</a>, you&rsquo;ll learn how to create code that&rsquo;s beautiful, safe, and simple to understand and test by using JavaScript&rsquo;s functional programming support. Author Michael Fogus shows you how to apply functional-style concepts with Underscore.js, a&nbsp;JavaScript library that facilitates functional programming techniques. Sample code is available on <a href="https://github.com/funjs/book-source" target="_blank">GitHub</a>.</p>
@@ -355,7 +355,7 @@
 
 <h3>Recenzent</h3>
 
-<p><img class="no-border reviewer-face" src="{{ root_url }}/images/reviews/reviewers/bielawa-tomasz.jpg" />
+<p><img class="no-border reviewer-face" src="/images/reviews/reviewers/bielawa-tomasz.jpg" />
 <strong>Tomasz Bielawa</strong></p>
 
 <p>Programista i&nbsp;WebDeveloper, miłośnik wszelakich technologii frontendowych, muzyki oraz wszystkiego co można przeczytać. Można mnie znaleźć na Twitterze (<a href="https://twitter.com/bielawka" target="_blank">@bielawka</a>).</p>

@@ -20,7 +20,8 @@
             {
                 "meetingNumber" : 25,
                 "title" : "Nowoczesne techniki dostarczania oprogramowania",
-                "slides" : "http://torun.jug.pl/materials/meetings/25/Nowoczesne_techniki_dostarczania_oprogramowania_by_Slawek_Piotrowski.pdf"
+                "slides" : "http://torun.jug.pl/materials/meetings/25/Nowoczesne_techniki_dostarczania_oprogramowania_by_Slawek_Piotrowski.pdf",
+                "youtube" : "https://www.youtube.com/watch?v=NniEiQ9nxLw"
             }
         ]
     },
@@ -179,7 +180,8 @@
             {
                 "meetingNumber" : 25,
                 "title" : "Why? + Impact Mapping – czyli jak uciekliśmy spod topora niezrozumiałych wymagań nowego projektu",
-                "slides" : "http://torun.jug.pl/materials/meetings/25/Why_plus_Impact_Mapping_by_Lukasz_Sawicki.pdf"
+                "slides" : "http://torun.jug.pl/materials/meetings/25/Why_plus_Impact_Mapping_by_Lukasz_Sawicki.pdf",
+                "youtube" : "https://www.youtube.com/watch?v=Uj4pEpIFVaQ"
             }
         ]
     },

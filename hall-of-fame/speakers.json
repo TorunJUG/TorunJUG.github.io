@@ -201,7 +201,7 @@
     {
         "name" : "Mikołaj Fejzer",
         "img" : "fejzer-mikolaj.jpg",
-        "lastMeeting": 13,
+        "lastMeeting": 26,
         "talks" : [
             {
                 "meetingNumber" : 6,
@@ -214,6 +214,10 @@
                 "title" : "Wprowadzenie do RxJava",
                 "youtube" : "https://www.youtube.com/watch?v=1tIKzibf_k4",
                 "slides" : "http://torun.jug.pl/materials/meetings/13/Wprowadzenie_do_RxJava_by_Mikolaj_Fejzer.pdf"
+            },
+            {
+                "meetingNumber" : 26,
+                "title" : "FP vs. OOP"
             }
         ]
     },
@@ -470,13 +474,17 @@
         "name" : "Paweł Kapała",
         "img" : "kapala-pawel.jpg",
         "twitter" : "kapware",
-        "lastMeeting": 17,
+        "lastMeeting": 26,
         "talks" : [
             {
                 "meetingNumber" : 17,
                 "title" : "Clojure okiem neofity",
                 "slides" : "http://torun.jug.pl/materials/meetings/17/Clojure_okiem_neofity_by_Pawel_Kapala.pdf",
                 "youtube" : "https://www.youtube.com/watch?v=V5YbEN6uuHQ"
+            },
+            {
+                "meetingNumber" : 26,
+                "title" : "Introduction to functional programming in practice"
             }
         ]
     },

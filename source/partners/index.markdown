@@ -100,6 +100,13 @@ footer: false
   </a>
 </div>
 
+### Wirtalną rzeczywistość dostarcza
+<div style="margin-top: 20px;">
+  <a class="no-text-decoration" href="http://www.vrcube.pl" target="_blank" title="Virtual Cube">
+    <img class="no-border" src="{{ root_url }}/images/partners/vrcube.png" alt="Virtual Cube" />
+  </a>
+</div>
+
 ### Oferty pracy dostarcza
 <div class="row" style="margin-bottom: 10px;">
   <div>

@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-10-19T22:29:53+02:00</updated>
+  <updated>2016-10-27T18:32:57+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie dwudziestego szóstego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2016/10/27/podsumowanie-dwudziestego-szostego-spotkania/"/>
+    <updated>2016-10-27T18:30:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/10/27/podsumowanie-dwudziestego-szostego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/meeting/26/">dwudzieste szóste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Mikołajowi i Pawłowi za podzielenie się swoją wiedzą na temat programowania funkcyjnego. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="http://bit.ly/26-spotkanie-Torun-JUG-ankieta" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/tak.dla.juga.w.toruniu/photos/?tab=album&album_id=TODO" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27378595/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/26/FP_vs_OOP_by_Mikolaj_Fejzer.pdf">
+      <em>FP vs. OOP</em></a> (slajdy z&nbsp;prezentacji Mikołaja Fejzera)
+  </li>
+  <li>
+    <a href="https://github.com/mfejzer/tjug_26_haskell_examples" target="_blank">Link do kodu źródłowego w Haskellu używanego przez Mikołaja</a>
+  </li>
+  <li>
+    <a href="https://github.com/mfejzer/tjug_26_jvm_examples" target="_blank">Link do kodu źródłowego w Javie/Scali używanego przez Mikołaja</a>
+  </li>
+  <li>
+    <a href="http://slides.com/kapware/introduction-to-fp-in-practice">
+      <em>Introduction to functional programming in practice</em></a> (slajdy z&nbsp;prezentacji Pawła Kapały)
+  </li>
+  <li>
+    <a href="https://github.com/kapware/clj-krakus/" target="_blank">Link do kodu źródłowego używanego przez Pawła</a>
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #26 [2016-10-26]]]></title>
@@ -778,30 +822,6 @@
 <h4><a href="https://twitter.com/rabbitonweb" target="_blank">Paweł Szulc</a></h4>
 
 <p>Paweł is primarily a programmer. Always was and always will be. Experienced professionally in JVM ecosystem, currently having tons of fun with Scala, Erlang, Clojure and Haskell. By day working on (not that) BigData problems with Akka Stream &amp; Apache Spark, by night hacking whatever he finds interesting at that given moment. Humble apprentice of Functional Programming. Runs a blog <a href="http://www.rabbitonweb.com" target="_blank">rabbitonweb.com</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z dwudziestego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2016/03/15/nagranie-z-dwudziestego-spotkania/"/>
-    <updated>2016-03-15T18:30:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2016/03/15/nagranie-z-dwudziestego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3004" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="http://torun.jug.pl/news/2016/02/13/spotkanie-20/">dwudziestego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=3004&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
 ]]></content>
   </entry>
   

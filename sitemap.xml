@@ -603,6 +603,12 @@
         <lastmod>2016-10-09T14:51:12+02:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://torun.jug.pl/news/2016/10/27/podsumowanie-dwudziestego-szostego-spotkania/
+        </loc>
+        <lastmod>2016-10-27T18:23:20+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://torun.jug.pl/404.html</loc>
         <lastmod>2016-10-05T07:17:38+02:00</lastmod>
     </url>
@@ -632,7 +638,7 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/</loc>
-        <lastmod>2016-10-09T14:51:12+02:00</lastmod>
+        <lastmod>2016-10-27T18:23:20+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/assets/bootstrap/docs/javascript.html</loc>
@@ -648,7 +654,7 @@
     </url>
     <url>
         <loc>http://torun.jug.pl/</loc>
-        <lastmod>2016-10-09T14:51:12+02:00</lastmod>
+        <lastmod>2016-10-27T18:23:20+02:00</lastmod>
     </url>
     <url>
         <loc>http://torun.jug.pl/leaders/</loc>

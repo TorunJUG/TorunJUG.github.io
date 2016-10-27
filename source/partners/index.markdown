@@ -106,12 +106,3 @@ footer: false
     <img class="no-border" src="{{ root_url }}/images/partners/vrcube.png" alt="Virtual Cube" />
   </a>
 </div>
-
-### Oferty pracy dostarcza
-<div class="row" style="margin-bottom: 10px;">
-  <div>
-    <a href="https://nofluffjobs.com" target="_blank" title="nofluffjobs - oferty pracy dla specjalistow IT">
-      <img class="no-border" src="{{ root_url }}/images/partners/no_fluff_jobs_com_logo2.jpg" alt="nofluffjobs - oferty praca dla informatykow">
-    </a>
-  </div>
-</div>

@@ -217,7 +217,8 @@
             },
             {
                 "meetingNumber" : 26,
-                "title" : "FP vs. OOP"
+                "title" : "FP vs. OOP",
+                "slides" : "http://torun.jug.pl/materials/meetings/26/FP_vs_OOP_by_Mikolaj_Fejzer.pdf"
             }
         ]
     },
@@ -484,7 +485,8 @@
             },
             {
                 "meetingNumber" : 26,
-                "title" : "Introduction to functional programming in practice"
+                "title" : "Introduction to functional programming in practice",
+                "slides" : "http://slides.com/kapware/introduction-to-fp-in-practice"
             }
         ]
     },

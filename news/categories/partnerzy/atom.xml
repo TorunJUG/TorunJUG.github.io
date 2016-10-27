@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Partnerzy | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/partnerzy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-10-27T18:32:57+02:00</updated>
+  <updated>2016-10-27T20:17:53+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Virtual Cube naszym nowym partnerem]]></title>
+    <link href="http://torun.jug.pl/news/2016/10/28/virtual-cube-naszym-nowym-partnerem/"/>
+    <updated>2016-10-28T06:30:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2016/10/28/virtual-cube-naszym-nowym-partnerem</id>
+    <content type="html"><![CDATA[<p>Z&nbsp;przyjemnością informujemy, że <strong>pierwszy w kujawsko-pomorskim salon wirtualnej rzeczywistości, <a href="http://vrcube.pl" target="_blank" title="Virtual Cube">Virtual Cube</a></strong>, został naszym nowym partnerem.</p>
+
+<div class="row text-center" style="margin-bottom: 10px;">
+  <div class="col-md-12">
+    <a href="http://vrcube.pl" target="_blank" title="Virtual Cube">
+      <img class="no-border" src="{{ root_url }}/images/partners/vrcube_banner.png" alt="Virtual Cube">
+    </a>
+  </div>
+</div>
+
+
+<p>Dzięki uprzejmości naszego nowego partnera do puli upominków losowanych na naszych spotkaniach dorzucamy <strong>voucher do Virtual Cube, zapewniający godzinę darmowej rozrywki</strong>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź konferencji: JavaDay Mińsk 2016]]></title>
@@ -56,7 +76,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://2016.mceconf.com" target="_blank">
-      <img class="no-border" src="/images/partners/mce2016.png" alt="Mobile Central Europe 2016" />
+      <img class="no-border" src="{{ root_url }}/images/partners/mce2016.png" alt="Mobile Central Europe 2016" />
     </a>
   </div>
 </div>
@@ -89,7 +109,7 @@
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://polyconf.com" target="_blank">
-      <img class="no-border" src="/images/partners/polyconf16.png" alt="PolyConf16" />
+      <img class="no-border" src="{{ root_url }}/images/partners/polyconf16.png" alt="PolyConf16" />
     </a>
   </div>
 </div>
@@ -115,38 +135,18 @@ Gdzie: POZnań, budynek Wydziału Prawa i Administracji UAM</p>
     <id>http://torun.jug.pl/news/2015/09/15/wspolny-wyjazd-jdd</id>
     <content type="html"><![CDATA[<p><a href="http://jdd.org.pl" target="_blank">JDD</a> jest dwudniową konferencją adresowaną do wszystkich miłośników Java, zarówno w&nbsp;życiu prywatnym, jak i&nbsp;zawodowym. Wydarzenie jest doskonałą okazją do wzięcia udziału w&nbsp;merytorycznych wykładach, rozwijających warsztatach oraz interaktywnych szkoleniach. Nowatorski charakter JDD oraz wykłady w&nbsp;języku angielskim skutecznie przyciągają coraz większą liczbę uczestników z&nbsp;całego świata.<!--more--></p>
 
-<p>Kilka miesięcy temu <a href="/news/2015/01/13/zapowiedz-konferencji-jdd/">pisaliśmy o konferencji JDD</a>, która odbędzie się w&nbsp;dniach 12-13 października w Krakowie. Dzisiaj mamy dla Was kolejną dobrą wiadomość &ndash; otrzymaliśmy <strong>30% zniżki</strong> na wyjzd grupowy (5+ osób).</p>
+<p>Kilka miesięcy temu <a href="{{root_url}}/news/2015/01/13/zapowiedz-konferencji-jdd/">pisaliśmy o konferencji JDD</a>, która odbędzie się w&nbsp;dniach 12-13 października w Krakowie. Dzisiaj mamy dla Was kolejną dobrą wiadomość &ndash; otrzymaliśmy <strong>30% zniżki</strong> na wyjzd grupowy (5+ osób).</p>
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
     <a class="no-text-decoration" href="http://jdd.org.pl" target="_blank">
-      <img class="no-border" src="/images/partners/jdd.png" alt="JDD Conference 2015" />
+      <img class="no-border" src="{{ root_url }}/images/partners/jdd.png" alt="JDD Conference 2015" />
     </a>
   </div>
 </div>
 
 
 <p>W jaki sposób można skorzystać ze zniżki? Bardzo prosto &ndash; wystarczy wpisać się na listę ochotników w <a href="http://www.meetup.com/Torun-JUG/messages/boards/thread/49246666" target="_blank">tym wątku na forum dyskusyjnym</a>. Na zgłoszenia czekamy do 25 września. W razie jakichkolwiek pytań, piszcie na forum, żadne pytanie nie pozostanie bez odpowiedzi.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: GeeCON Microservices w Sopocie. Skorzystaj z 10% zniżki!]]></title>
-    <link href="http://torun.jug.pl/news/2015/08/24/zapowiedz-konferencji-geecon-microservices-sopot/"/>
-    <updated>2015-08-24T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2015/08/24/zapowiedz-konferencji-geecon-microservices-sopot</id>
-    <content type="html"><![CDATA[<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <a class="no-text-decoration" href="http://2015.microservices.geecon.org/" target="_blank">
-      <img class="no-border" src="/images/partners/geecon-microservices-2015.jpg" alt="GeeCON Microservices" />
-    </a>
-  </div>
-</div>
-
-
-<p><a href="http://2015.microservices.geecon.org" target="_blank"><strong>GeeCON Microservices</strong></a> to 1-dniowa, jednowątkowa konferencja w&nbsp;pełni poświęcona tematyce mikrousług. Organizatorzy zadbali, aby program konferencji wypełniły osoby, które posiadają bogate praktyczne doświadczenie w&nbsp;projektowaniu, budowaniu oraz testowaniu mikrousług. Jest to świetna okazja do tego, aby dopiero poznać, dowiedzieć się więcej lub podzielić się własnymi spostrzeżeniami i&nbsp;doświadczeniami na temat tej zdobywającej coraz więcej zwolenników (oraz przeciwników) architektury. Przyjedź do Sopotu i skorzystaj z tej niesamowitej okazji do zdobycia wiedzy!</p>
-
-<p>Mamy dla was również kod rabatowy -10% do wykorzystania podczas <a href="http://2015.microservices.geecon.org/register/" target="_blank"><strong>rejestracji</strong></a> &ndash; wpiszcie <strong>GEECON_MICRO10</strong>, a zaoszczędzone w ten sposób pieniądze wykorzystajcie np. podczas pokonferencyjnego after party :&ndash;)</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-10-27T22:19:27+02:00</updated>
+  <updated>2016-10-28T14:46:32+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #27 [2016-11-30]]]></title>
+    <link href="http://torun.jug.pl/news/2016/11/07/spotkanie-27/"/>
+    <updated>2016-11-07T06:00:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/11/07/spotkanie-27</id>
+    <content type="html"><![CDATA[<p>Zapraszamy serdecznie na dwudzieste siódme spotkanie Toruń Java Users Group, które odbędzie się <strong>w&nbsp;środę, 30 listopada 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest <strong>wolny</strong>, obecność na wcześniejszych spotkaniach nie jest wymagana &ndash; pomiędzy spotkaniami nie ma żadnych zależności, do naszej społeczności można dołączyć w <strong>dowolnym</strong> momencie. Na spotkanie możesz przyjść bez rejestracji na portalu Meetup, jednak chcielibyśmy zachęcić Cię do  kliknięcia w RSVP &ndash; osoby, które <a href="http://www.meetup.com/Torun-JUG/events/235344925/" target="_blank">zapiszą się</a> na to spotkanie wezmą udział w losowaniu kilku cennych upominków.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/meetings/27/cover.png" />
+  </div>
+</div>
+
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>). Będzie można pogadać na najróżniejsze tematy, poznać się lepiej i napić najlepszego piwa w Toruniu :)</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/meetings/27/afterparty.png" />
+  </div>
+</div>
+
+
+<p><strong>UWAGA:</strong> Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>Software estimation tips</h3>
+
+<p>Jak na andrzejkowy wieczór przystało, będzie o wróżeniu. Bo tę właśnie czynność przypominają często nasze próby wyestymowania czekających nas zadań. Opowiem dlaczego tak się dzieje i jak zastąpić praktyki okultystyczne metodami bardziej systematycznymi. Prostej recepty nie będzie, ale garść porad i wskazówek do wykorzystania zarówno w agile'owym jak i waterfallowym otoczeniu.</p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/jaworski-wojciech.png" /></p>
+
+<h4><a href="https://www.linkedin.com/in/wojciech-jaworski-0a42a94" target="_blank">Wojciech Jaworski</a></h4>
+
+<p>Programista Java od 10 lat, zwolennik czystego, efektywnego i testowalnego kodu. Czasem lubi zastanowić się nad poza-technologicznymi aspektami wytwarzania oprogramowania. Zawodowo rozwija systemy płatnościowe w 4Finance IT. I nigdy nie był u wróżki.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Javaslang &ndash; Functional Java Done Right</h3>
+
+<p>Java 8&rsquo;s lambdas empower us to create wonderful APIs. Javaslang lets us dive deeper into the world of functional programming by providing us with persistent data types, immutable collections, and functional control structures. The results are beautiful and do just work.
+During this presentation, we will recall Java8&rsquo;s downsides and explore how Javaslang&rsquo;s Scala-inspired features fill-in the gaps.</p>
+
+<p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piwowarek-grzegorz.jpg" /></p>
+
+<h4><a href="https://twitter.com/pivovarit" target="_blank">Grzegorz Piwowarek</a></h4>
+
+<p>Is a senior software developer@TouK in Warsaw, senior technical editor@Baeldung, guitarist@VisionsOfTondal, professional yo-yo player and a former Mensa member. His professional experience ranges from backend web development and systems' integration to image recognition engines. Grzegorz is fascinated by the beauty of functional programming and recently helping in spreading the Javaslang word.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #26 [2016-10-26]]]></title>
@@ -24,7 +78,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/26/cover.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/26/cover.png" />
   </div>
 </div>
 
@@ -33,7 +87,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/26/afterparty.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/26/afterparty.png" />
   </div>
 </div>
 
@@ -46,7 +100,7 @@
 
 <p>Prezentacja zawierać będzie kod w językach: Haskell, Scala oraz Java, okazyjnie pojawi się też F# i śladowe ilości teorii kategorii. Spróbuję także uzasadnić dlaczego powstały, powstają i raczej będą powstawać takie biblioteki takie jak javaslang, functionaljava czy fugue.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/fejzer-mikolaj.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" /></p>
 
 <h4><a href="https://pl.linkedin.com/in/miko%C5%82aj-fejzer-04417391/en" target="_blank">Mikołaj Fejzer</a></h4>
 
@@ -58,7 +112,7 @@
 
 <p>Tym razem na deskach Toruńskiego JUGa pokażę jak programować funkcyjnie w praktyce. Będzie to live-coding w REPLu Clojure. Nie jest wymagane żadne doświadczenie w Clojure. Spróbujemy razem opowiedzieć historię i zapisać ją funkcjami. Zapraszam!</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/kapala-pawel.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/kapala-pawel.jpg" /></p>
 
 <h4><a href="https://twitter.com/kapware" target="_blank">Paweł Kapała</a></h4>
 
@@ -77,7 +131,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/25/cover.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/25/cover.png" />
   </div>
 </div>
 
@@ -90,7 +144,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/25/atos-books.jpg" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/25/atos-books.jpg" />
   </div>
 </div>
 
@@ -101,7 +155,7 @@
 
 <p>Proces budowania, testowania, integracji i wdrażania oprogramowania jest prawdopodobnie najbardziej lekceważoną częścią pracy programisty. Jego uruchomienie wymaga wiele wysiłku i doświadczenia, ale jest kluczowym elementem dobrze zorganizowanego zespołu. W tej prezentacji chciałbym przedstawić wam jak powinien wyglądać dobry system CI/CD, a także jak uruchomić go w 5 minut.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/piotrowski-slawek.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" /></p>
 
 <h4><a href="https://twitter.com/sentinelatteo" target="_blank">Sławek Piotrowski</a></h4>
 
@@ -113,7 +167,7 @@
 
 <p>Jedną z podstawowych cech kilkuletniego przedstawiciela homo-sapiens jest to, że zadaje on nieograniczoną liczbę pytań takich jak: &ldquo;czemu?&lsquo;, "dlaczego?&rdquo;, &ldquo;po co?&rdquo;, &ldquo;kto?&rdquo;, &ldquo;jak?&rdquo;. Posiadając w domu dwa małe monstra, oprócz próśb o słodycze, w każdej chwili jestem narażony na uderzenie takim niewygodnym pytaniem. Jeżeli odpowiedź na nie będzie nieścisła, niewyraźna czy nieodpowiednia, mogę doświadczyć ataku ze zdwojoną mocą, nie mówiąc o skutkach wychowawczych. Na szczęście, a może i nie, dzieje się to tylko przez pewną chwilę. Potem, za dobrych 20 lat, niektórzy w kuluarach wykrzykują &ldquo;Programming, Motherfucker!&rdquo; wyznając Driven-Development, ale ten z literą R na początku, inni przeczesują strony dokumentacji w cierpieniu i poczuciu niesprawiedliwości, a niektórzy właśnie zaliczają projektową porażkę po spędzeniu kilku miesięcy, które okazują się pomyłką. W prezentacji tej chciałbym wrócić do korzeni, przypomnieć o jednym z podstawowych pytań z dzieciństwa i opowiedzieć o tym jak udało nam się zaoszczędzić wiele nerwów, siwych włosów i nieprzespanych nocy w obliczu nowych wymagań biznesowych do spełnienia w krótkim terminie.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/sawicki-lukasz.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/sawicki-lukasz.jpg" /></p>
 
 <h4><a href="https://pl.linkedin.com/in/%C5%82ukasz-sawicki-4bb4512" target="_blank">Łukasz Sawicki</a></h4>
 
@@ -134,7 +188,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/24/cover.jpeg" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/24/cover.jpeg" />
   </div>
 </div>
 
@@ -149,7 +203,7 @@
 
 <p>Celem prezentacji jest pokazanie użycia adnotacji @NotNull oraz @Nullable w celu likwidacji w możliwie wielu miejscach konstrukcji &ldquo;if (abc != null) {&rdquo;. Oraz co najważniejsze dyskusję na temat wad i zalet tego rozwiązania.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/boniewicz-maciej.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/boniewicz-maciej.jpg" /></p>
 
 <h4><a href="https://twitter.com/maciejboniewicz" target="_blank">Maciej Boniewicz</a></h4>
 
@@ -161,7 +215,7 @@
 
 <p>&ldquo;Painless JavaScript Unit Testing&rdquo; to slogan jakim Facebook przedstawia Jest, czyli narzędzie do testów jednostkowych które jest używane i rozwijane przez tę firmę. W prezentacji przedstawię jego główne założenia, które mają za zadanie uprościć środowisko testowe i skrócić czas potrzebny na pisanie testów, oraz oczywiście, uczynić testy jednostkowe bezbolesnymi. Na koniec zobaczymy jak to wygląda w praktyce patrząc na projekty Open Source korzystające z Jesta.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/dzikowski-wojciech.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/dzikowski-wojciech.jpg" /></p>
 
 <h4><a href="https://twitter.com/DzikowskiW" target="_blank">Wojciech Dzikowski</a></h4>
 
@@ -173,7 +227,7 @@
 
 <p>Błyskawicznie opowiem Wam, czym jest GAV i jakich zmian można się spodziewać z wersji na wersję bibliotek.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/laskawiec-sebastian.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/laskawiec-sebastian.jpg" /></p>
 
 <h4><a href="https://twitter.com/slaskawi" target="_blank">Sebastian Łaskawiec</a></h4>
 
@@ -185,7 +239,7 @@
 
 <p>Podczas prezentacji powiem co to takiego jest projekt Swagger. Pokaże również jak łatwo go zintegrować z dowolnym projektem springowym. Powiem też w czym  jest lepszy od mechanizmu dokumentowania oferowanego przez Springa w ramach Spring Boot.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/pobozan-krzysztof.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/pobozan-krzysztof.jpg" /></p>
 
 <h4><a href="https://twitter.com/krzpob" target="_blank">Krzysztof Pobożan</a></h4>
 
@@ -197,7 +251,7 @@
 
 <p>Już dwa, a wkrótce trzy spotkania z cyklu TorunJUG.getSrc(). Podczas tego lightning talka opowiem, jak wyglądają nasze spotkania i dlaczego nie ma wielu fajniejszych rzeczy niż pokodować w wolny od pracy dzień.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/papierski-zbyszko.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/papierski-zbyszko.jpg" /></p>
 
 <h4><a href="https://twitter.com/ZPapierski" target="_blank">Zbyszko Papierski</a></h4>
 
@@ -213,7 +267,7 @@
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> prezentacja będzie w języku angielskim.</em></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/sundberg-thomas.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/sundberg-thomas.jpg" /></p>
 
 <h4><a href="https://twitter.com/thomassundberg" target="_blank">Thomas Sundberg</a></h4>
 
@@ -236,7 +290,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/23/cover.jpeg" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/23/cover.jpeg" />
   </div>
 </div>
 
@@ -251,7 +305,7 @@
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> prezentacja będzie w języku angielskim.</em></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/mishra-nakul.jpeg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/mishra-nakul.jpeg" /></p>
 
 <h4><a href="https://twitter.com/nklmish" target="_blank">Nakul Mishra</a></h4>
 
@@ -263,62 +317,11 @@
 
 <p>Integracja systemów i usług jest dziś jednym z podstawowych wymagań stawianych budowanym przez nas aplikacjom. Wiele problemów związanych z tym zagadnieniem jest powtarzalnych niezależnie od specyfiki naszej domeny. Jak to zwykle bywa istnieje zbiór wzorców i dobrych praktyk, które możemy zastosować by radzić sobie w takich sytuacjach. W swojej prezentacji zademonstruję na żywym przykładzie wybrane wzorce z katalogu EIP, pokazując jak zaimplementować je za pomocą biblioteki Apache Camel z wykorzystaniem lekkiego kontenera integracyjnego ServiceMix.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/oczkowski-wojciech.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/oczkowski-wojciech.jpg" /></p>
 
 <h4><a href="https://www.linkedin.com/in/wojciechoczkowski" target="_blank">Wojciech Oczkowski</a></h4>
 
 <p>Prowadzący własną działalność specjalista do spraw trudnych, zawodowo rozwiązuje problemy związane z projektowaniem architektury systemów, integracją, wydajnością i jakością kodu. Znajduje obsesyjną wręcz przyjemność w wynajdowaniu sensu w cudzym kodzie. Prywatnie rozwiązuje problemy związane z wychowaniem 2 dzieciaków i znajdowaniem czasu na żeglowanie i czytanie literatury fantastycznej.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #22 [2016-04-27]]]></title>
-    <link href="http://torun.jug.pl/news/2016/04/14/spotkanie-22/"/>
-    <updated>2016-04-14T14:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/04/14/spotkanie-22</id>
-    <content type="html"><![CDATA[<p>Serdecznie zapraszamy na dwudzieste drugie spotkanie Toruń Java User Group, które odbędzie się <strong>w&nbsp;środę, 27 kwietnia 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/229280389/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<p>Sponsorem spotkania jest firma <strong>Goyello</strong> &ndash; w puli upominków, które losować będziemy na koniec spotkania znajdzie się kilka papierowych książek ufundowanych przez tę firmę.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/22/cover.jpeg" />
-  </div>
-</div>
-
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>).</p>
-
-<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
-
-<h3>Bootstrapping projects with Spring Boot [Live Coding]</h3>
-
-<p>Spring Boot focuses on creating stand-alone, Spring-based applications quickly by favoring convention over configuration, providing a lot of features by default. Is it worth trying? In this presentation I will demo how to get started with Spring Boot. I will also share some lessons learned during several projects we have done / doing with Spring Boot.</p>
-
-<p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/borowiec-rafal.jpg" /></p>
-
-<h4><a href="https://twitter.com/kolorobot" target="_blank">Rafał Borowiec</a></h4>
-
-<p>IT professional, open source enthusiast, developer, team leader, <a href="http://blog.codeleak.pl" target="_blank">occasional blogger</a> and knowledge sharer.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Goyello o sobie</h3>
-
-<p><a href="http://goyello.com" target="_blank">Goyello</a> jest polsko-holenderską firmą działającą na rynku IT od 2006 roku. To miejsce dla ludzi z pasją, dla których programowanie znaczy więcej niż praca. Głównym wyzwaniem Goyello jest realizacja innowacyjnych przedsięwzięć biznesowych, tworzenie najlepszych rozwiązań IT, profesjonalne ich wdrażanie i utrzymanie. Rzetelna wiedza, bogate doświadczenie i praca zespołowa to idealne warunki do prowadzenia ambitnych projektów.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/22/goyello.jpeg" />
-  </div>
-</div>
-
-
-<p>Nasze ulubione technologie to: .Net, Java, mobile. Praca w Goyello to okazja do ciągłego rozwoju. Chętnie dzielimy się swoją wiedzą i doświadczeniami. Cenimy dobrą atmosferę panującą w naszym biurze. Pomagają nam w tym spotkania integracyjne, liczne wydarzenia specjalnie dla pracowników i otwarta komunikacja między kadrą kierowniczą a pozostałymi pracownikami. Nasz zespół liczy obecnie około 100 osób. Nasza dewiza to: &ldquo;Awesome People &ndash; Awesome Software!&rdquo;</p>
 ]]></content>
   </entry>
   

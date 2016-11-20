@@ -630,5 +630,29 @@
                 "youtube" : "https://www.youtube.com/watch?v=Yr56zsNh4cY"
             }
         ]
+    },
+    {
+        "name" : "Wojciech Jaworski",
+        "img" : "jaworski-wojciech.png",
+        "lastMeeting": 27,
+        "talks" : [
+            {
+                "meetingNumber" : 27,
+                "title" : "Software estimation tips"
+            }
+        ]
+    },
+    {
+        "name" : "Grzegorz Piwowarek",
+        "img" : "piwowarek-grzegorz.jpg",
+        "twitter" : "pivovarit",
+        "lastMeeting": 27,
+        "talks" : [
+            {
+                "meetingNumber" : 27,
+                "title" : "Javaslang – Functional Java Done Right",
+                "slides" : "http://slides.com/pivovarit/javaslang-functional-java-done-right"
+            }
+        ]
     }
 ]

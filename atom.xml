@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-11-20T11:02:00+01:00</updated>
+  <updated>2016-12-01T23:38:22+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie dwudziestego siódmego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2016/12/01/podsumowanie-dwudziestego-siodmego-spotkania/"/>
+    <updated>2016-12-01T23:15:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/12/01/podsumowanie-dwudziestego-siodmego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/meeting/27/">dwudzieste siódme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Wojtowi, za praktyczne wskazówki na temat estymacji projektów i Grześkowi za pokazanie jak można było zrobić lepiej funkcyjne API w Javie. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="http://bit.ly/27-spotkanie-Torun-JUG-ankieta" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/tak.dla.juga.w.toruniu/photos/?tab=album&album_id=1836558506567634" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27458383/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/27/Software_estimation_tips_by_Wojciech_Jaworski.pdf">
+      <em>Software estimation tips</em></a> (slajdy z&nbsp;prezentacji Wojciecha Jaworskiego)
+  </li>
+  <li>
+    <a href="http://slides.com/pivovarit/javaslang-functional-java-done-right">
+      <em>Javaslang - Functional Java Done Right</em></a> (slajdy z&nbsp;prezentacji Grzegorza Piwowarka)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #27 [2016-11-30]]]></title>
@@ -789,37 +824,6 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie dwudziestego pierwszego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2016/04/01/podsumowanie-dwudziestego-pierwszego-spotkania/"/>
-    <updated>2016-04-01T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/04/01/podsumowanie-dwudziestego-pierwszego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/news/2016/03/18/spotkanie-21/">dwudzieste pierwsze</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Pawłowi, za interesujące wprowadzenie do świata programowania funkcyjnego i teorii kategorii. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
-
-<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/1d9OQDYzNEE6gkJR9k4cRDMpducn2tGrLyhCdgCnMXlM/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/media/set/?set=a.1743986502491502.1073741853.1472639746292847" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26853962/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="http://www.slideshare.net/paulszulc/category-theory-is-general-abolute-nonsens" target="_blank">
-      <em>Category theory is absolute general nonsense! What is all the fuss with all those monoids and semigroups I keep hearing about?</em></a> (slajdy z&nbsp;prezentacji Pawła Szulca)
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
   </entry>
   

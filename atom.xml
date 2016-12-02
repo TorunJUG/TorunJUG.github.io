@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2016-12-01T23:38:22+01:00</updated>
+  <updated>2016-12-03T00:07:45+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,67 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #28 [2016-12-21]]]></title>
+    <link href="http://torun.jug.pl/news/2016/12/09/spotkanie-28/"/>
+    <updated>2016-12-09T06:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2016/12/09/spotkanie-28</id>
+    <content type="html"><![CDATA[<p>Zapraszamy serdecznie na dwudzieste ósme spotkanie Toruń Java Users Group, które odbędzie się <strong>w&nbsp;środę, 21 grudnia 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest <strong>wolny</strong>, obecność na wcześniejszych spotkaniach nie jest wymagana &ndash; pomiędzy spotkaniami nie ma żadnych zależności, do naszej społeczności można dołączyć w <strong>dowolnym</strong> momencie. Na spotkanie możesz przyjść bez rejestracji na portalu Meetup, jednak chcielibyśmy zachęcić Cię do  kliknięcia w RSVP &ndash; osoby, które <a href="http://www.meetup.com/Torun-JUG/events/236115870/" target="_blank">zapiszą się</a> na to spotkanie wezmą udział w losowaniu kilku cennych upominków.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="http://torun.jug.pl/images/meetings/28/cover.png" />
+  </div>
+</div>
+
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>). Będzie można pogadać na najróżniejsze tematy, poznać się lepiej i napić najlepszego piwa w Toruniu :)</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="http://torun.jug.pl/images/meetings/28/afterparty.png" />
+  </div>
+</div>
+
+
+<p><strong>UWAGA:</strong> Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>Kariera freelancera krok po kroku</h3>
+
+<p>Pogadajmy o freelancingu. Bez mędrkowania, teoretyzowania oraz prób ewangelizacji. W trakcie tej 45-minutowej dyskusji z prezentacją w tle chciałbym podzielić się z Wami tym, czego doświadczyłem i nauczyłem się przez ostatnie 2,5 roku &ndash; począwszy od ostatnich miesięcy spędzonych na etacie po dzień dzisiejszy. Opowiem o motywacjach, obawach, sukcesach i porażkach. Spróbuję obalić niektóre mity dotyczące freelancingu i pracy na własną rękę. W prezentacji pojawi się również kilka bardziej uniwersalnych wniosków, które mogą okazać się pomocne także dla tych z Was, którzy nie planują wiązać swojej kariery z freelancingiem.</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/stepniak-szymon.jpg" /></p>
+
+<h4><a href="https://twitter.com/wololock" target="_blank">Szymon Stępniak</a></h4>
+
+<p>Programista z ponad ośmioletnim doświadczeniem, freelancer (od września 2014) współpracujący na co dzień z firmami i startupami z USA, Australii i Szwajcarii. Posiadacz tytułu &ldquo;Top Rated&rdquo; w serwisie UpWork. Wolne chwile spędza z rodziną, gitarą lub książką.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Keep IT clean, or how to hide your shit</h3>
+
+<p>Do you know why the default scope in Java is package-private? Because that&rsquo;s what designers thought should be the most popular scope. Is that the scope you most often see? Probably not. Somehow Java devs became crazy communists-capitalists, recognising only private and public access, and preferring public everywhere. And so our projects look like a lawn right after snow melts: full of shit laying in public. Hard to put into your head. Hard to reason about. Entanglement instead of encapsulation. People even register every possible class in an IoC container, because FU (nctional) programming, that&rsquo;s why. You wanna find something in my code? Google it.</p>
+
+<p>Or how about inheritance? James Gosling asked in 2001 about what he would do differently if he had a chance to recreate Java, said he would probably remove class inheritance. We are in 2016, having lambdas, defaults on interfaces, AOP and other tricks, but young developers still prefer to just add another abstract class to your code. Gonna be fun navigating those seven layers of hell when you read it.</p>
+
+<p>Ok, maybe it&rsquo;s not THAT bad, but it&rsquo;s not much better either. The problem of course, is that we all start with tutorials, which cut corners for brevity. And we don&rsquo;t pay attention to those small problems till they hit us hard.</p>
+
+<p>Let&rsquo;s see how we can make our situation a little bit better, using Domain Driven Design, package-private scope, sensible packaging structure, and CQRS on microservices. Because it is actually easier, than not doing it.</p>
+
+<p>Real life project examples included.</p>
+
+<p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/nabrdalik-jakub.jpg" /></p>
+
+<h4><a href="https://twitter.com/jnabrdalik" target="_blank">Jakub Nabrdalik</a></h4>
+
+<p>A software developer with 13 years of professional experience in IT, as an architect, programmer, designer, analyst, project leader, project manager, and even as a development department manager. 6 years of talks and workshops. Software Craftsmanship, Domain Design, Practicing Test-driven development and Spring. More at <a href="http://solidcraft.eu" target="_blank">solidcraft.eu</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie dwudziestego siódmego spotkania]]></title>
@@ -800,30 +861,6 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 
 <p>Nasze ulubione technologie to: .Net, Java, mobile. Praca w Goyello to okazja do ciągłego rozwoju. Chętnie dzielimy się swoją wiedzą i doświadczeniami. Cenimy dobrą atmosferę panującą w naszym biurze. Pomagają nam w tym spotkania integracyjne, liczne wydarzenia specjalnie dla pracowników i otwarta komunikacja między kadrą kierowniczą a pozostałymi pracownikami. Nasz zespół liczy obecnie około 100 osób. Nasza dewiza to: &ldquo;Awesome People &ndash; Awesome Software!&rdquo;</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z dwudziestego pierwszego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2016/04/13/nagranie-z-dwudziestego-pierwszego-spotkania/"/>
-    <updated>2016-04-13T19:30:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/04/13/nagranie-z-dwudziestego-pierwszego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3036" target="_blank">UMK TV</a> pojawiło się wczoraj nagranie <a href="http://torun.jug.pl/meeting/21/">dwudziestego pierwszego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=3036&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
 ]]></content>
   </entry>
   

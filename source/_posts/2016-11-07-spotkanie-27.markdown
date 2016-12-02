@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spotkanie #27 [2016-11-30]"
-description: "Toruń JUG - Spotkanie #26 [2016-11-30]"
+description: "Toruń JUG - Spotkanie #27 [2016-11-30]"
 date: 2016-11-07 06:00:00 +0100
 comments: true
 categories: Spotkania

@@ -639,7 +639,8 @@
             {
                 "meetingNumber" : 27,
                 "title" : "Software estimation tips",
-                "slides" : "http://torun.jug.pl/materials/meetings/27/Software_estimation_tips_by_Wojciech_Jaworski.pdf"
+                "slides" : "http://torun.jug.pl/materials/meetings/27/Software_estimation_tips_by_Wojciech_Jaworski.pdf",
+                "youtube" : "https://www.youtube.com/watch?v=fluqZqrWzzk"
             }
         ]
     },
@@ -652,7 +653,8 @@
             {
                 "meetingNumber" : 27,
                 "title" : "Javaslang - Functional Java Done Right",
-                "slides" : "http://slides.com/pivovarit/javaslang-functional-java-done-right"
+                "slides" : "http://slides.com/pivovarit/javaslang-functional-java-done-right",
+                "youtube" : "https://www.youtube.com/watch?v=64V0PEr3N7Q"
             }
         ]
     }

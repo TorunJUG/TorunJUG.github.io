@@ -29,13 +29,18 @@
         "name" : "Szymon Stępniak",
         "img" : "stepniak-szymon.jpg",
         "twitter" : "wololock",
-        "lastMeeting": 1,
+        "lastMeeting": 28,
         "talks" : [
             {
                 "meetingNumber" : 1,
                 "title" : "Wprowadzenie do wybranych zagadnień JDK 8",
                 "youtube" : "https://www.youtube.com/watch?v=VizSYSbspok",
                 "slides" : "http://torun.jug.pl/materials/meetings/1/Wprowadzenie_do_wybranych_zagadnien_JDK_8_by_Szymon_Stepniak.pdf"
+            },
+            {
+                "meetingNumber" : 28,
+                "title" : "Kariera freelancera krok po kroku",
+                "slides" : "http://www.slideshare.net/SzymonStpniak/kariera-freelancera-krok-po-kroku-toru-jug-21122016"
             }
         ]
     },
@@ -655,6 +660,19 @@
                 "title" : "Javaslang - Functional Java Done Right",
                 "slides" : "http://slides.com/pivovarit/javaslang-functional-java-done-right",
                 "youtube" : "https://www.youtube.com/watch?v=64V0PEr3N7Q"
+            }
+        ]
+    },
+    {
+        "name" : "Jakub Nabrdalik",
+        "img" : "nabrdalik-jakub.jpg",
+        "twitter" : "jnabrdalik",
+        "lastMeeting": 28,
+        "talks" : [
+            {
+                "meetingNumber" : 28,
+                "title" : "Keep IT clean, or how to hide your shit",
+                "slides" : "https://jakubn.gitlab.io/keepitclean/"
             }
         ]
     }

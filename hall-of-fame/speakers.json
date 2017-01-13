@@ -40,7 +40,8 @@
             {
                 "meetingNumber" : 28,
                 "title" : "Kariera freelancera krok po kroku",
-                "slides" : "http://www.slideshare.net/SzymonStpniak/kariera-freelancera-krok-po-kroku-toru-jug-21122016"
+                "slides" : "http://www.slideshare.net/SzymonStpniak/kariera-freelancera-krok-po-kroku-toru-jug-21122016",
+                "youtube" : "https://www.youtube.com/watch?v=MaNR6MC4Teo"
             }
         ]
     },
@@ -672,7 +673,8 @@
             {
                 "meetingNumber" : 28,
                 "title" : "Keep IT clean, or how to hide your shit",
-                "slides" : "https://jakubn.gitlab.io/keepitclean/"
+                "slides" : "https://jakubn.gitlab.io/keepitclean/",
+                "youtube" : "https://www.youtube.com/watch?v=KO6K3_Ac54M"
             }
         ]
     }

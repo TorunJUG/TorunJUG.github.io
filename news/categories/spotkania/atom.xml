@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-01-27T08:55:47+01:00</updated>
+  <updated>2017-01-27T22:48:49+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #30 [2017-02-22]]]></title>
+    <link href="http://torun.jug.pl/news/2017/02/08/spotkanie-30/"/>
+    <updated>2017-02-08T06:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2017/02/08/spotkanie-30</id>
+    <content type="html"><![CDATA[<p>Zapraszamy serdecznie na trzydzieste spotkanie Toruń Java Users Group, które odbędzie się <strong>w&nbsp;środę, 22 lutego 2017 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest <strong>wolny</strong>, obecność na wcześniejszych spotkaniach nie jest wymagana &ndash; pomiędzy spotkaniami nie ma żadnych zależności, do naszej społeczności można dołączyć w <strong>dowolnym</strong> momencie. Na spotkanie możesz przyjść bez rejestracji na portalu Meetup, jednak chcielibyśmy zachęcić Cię do  kliknięcia w RSVP &ndash; osoby, które <a href="http://www.meetup.com/Torun-JUG/events/237422696/" target="_blank">zapiszą się</a> na to spotkanie wezmą udział w losowaniu kilku cennych upominków.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="/images/meetings/30/cover.png" />
+  </div>
+</div>
+
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>). Będzie można pogadać na najróżniejsze tematy, poznać się lepiej i napić najlepszego piwa w Toruniu :)</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="/images/meetings/30/afterparty.png" />
+  </div>
+</div>
+
+
+<p><strong>UWAGA:</strong> Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>Kalafiorem w JVM! &ndash; czyli eksperymenty z językiem Frege.</h3>
+
+<p>Podczas swojej debiutanckiej prezentacji na deskach Toruńskiego JUGa, przedstawię Wam swoje krótkie (choć mam nadzieję, że owocne :)) doświadczenia z pewnym dosyć egzotycznym językiem programowanie zwanym &ndash; Frege /ˈfreɪɡə/. Językiem funkcyjnym, którego twórcy sami określają mianem Haskella na JVM! Jak to jest możliwe? W jaki sposób działa? Jak duże obliczenia mu nie straszne? I jak w ogóle zacząć się w nim poruszać? Dowiecie się jak przyjdziecie!</p>
+
+<p>Szybki kurs programowania funkcyjnego &ndash; gratis.</p>
+
+<p>Zapraszam.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/skonieczka-piotr.jpg" /></p>
+
+<h4><a href="https://www.linkedin.com/in/piotr-skonieczka-448927102" target="_blank">Piotr Skonieczka</a></h4>
+
+<p>Sam siebie nazywam czasem żartobliwie &ldquo;wiecznym studentem&rdquo;, gdyż ciekawość świata i nieustanny głód wiedzy wciąż nie pozwalają mi się rozstać z murami Uniwersytetu. Niecałe dwa lata temu uzyskałem tytuł magistra z wszech pojętej &ldquo;informatyki&rdquo; na UMK, po czym dla frajdy i czystej ciekawości wybrałem się na kolejne studia&hellip; z Astronomii. Obecnie weekendy spędzam na podyplomowych studiach z zakresu programowania urządzeń mobilnych, a od następnego roku &ndash; zgodnie z planem &ndash; zamierzam rozpocząć doktorat. W wolnych chwilach szwendam się po wszelakich możliwych konferencjach, warsztatach i hackathonach lub też ganiam po starówce uczestnicząc w miejskich grach :)</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Kanban na lodówce</h3>
+
+<p>Każdy wie co to agile, każdy próbował Scruma. Nie każdemu jednak się to podoba i nie każdemu się udaje. W trakcie prezentacji chcę zaproponować Ci pewien eksperyment – zostawmy na chwilę kontekst IT i zmieńmy go na inny.</p>
+
+<p>Opowiem o moich własnych wdrożeniach zwinnych podejść w zarządzaniu sprawami domowymi, finansach, wykańczaniu mieszkania i życiu jako takim.</p>
+
+<p>Ten zabieg zmiany kontekstu posłuży nam do niezwykle ważnej rzeczy: do nazwania wartości stojących za agile oraz jego fundamentalnych zasad. Zobaczysz jak agile może zmienić z pozoru nudne czynności niesamowitą przygodę.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/bartyzel-michal.jpg" /></p>
+
+<h4><a href="https://twitter.com/MichalBartyzel" target="_blank">Michał Bartyzel</a></h4>
+
+<p>Od dwunastu lat pracuje w IT kolejno jako: programista, trener coach. Pomaga programistom i zespołom pracować efektywniej, przyjemniej i tworzyć lepsze oprogramowanie. Najczęściej pracuje nad ułatwianiem współpracy z biznesem, uzwinnianiem organizacji, refaktoryzacją i efektywnością pracy.</p>
+
+<p>Technikami, które opracowuje dzieli się w artykułach w magazynie Programista, portalu InfoQ, blogu, konferencjach. Jest autorem książek: &ldquo;Oprogramowanie szyte na miarę. Jak rozmawiać z klientem, który nie wie, czego chce?&rdquo; (Helion, 2012 i 2015), &ldquo;Getting Things Programmed&rdquo; (Helion, 2016), &ldquo;Conversation Patterns for Software Professionals&rdquo; (InfoQ, w przygotowaniu).</p>
+
+<p>Prowadzi blog <a href="http://gettingthingsprogrammed.pl" target="_blank">gettingthingsprogrammed.pl</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #29 [2017-01-25]]]></title>
@@ -249,61 +312,6 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 <h4><a href="https://twitter.com/kapware" target="_blank">Paweł Kapała</a></h4>
 
 <p>Pragmatic coder @clojure, entrepreneur @kapware, married with JVM since 2006!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #25 [2016-09-28]]]></title>
-    <link href="http://torun.jug.pl/news/2016/09/06/spotkanie-25/"/>
-    <updated>2016-09-06T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/09/06/spotkanie-25</id>
-    <content type="html"><![CDATA[<p>Wracamy po wakacyjnej przerwie i serdecznie zapraszamy na dwudzieste piąte spotkanie Toruń Java User Group, które odbędzie się <strong>w&nbsp;środę, 28 września 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest wolny. Rejestracja jest obowiązkowa i&nbsp;odbywa się przez portal <a href="http://www.meetup.com/Torun-JUG/events/233863863/" target="_blank">Meetup</a>. Wśród osób zarejestrowanych na to wydarzenie zostaną rozlosowane atrakcyjne upominki w&nbsp;postaci licencji oprogramowania oraz książek elektronicznych.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/25/cover.png" />
-  </div>
-</div>
-
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>).</p>
-
-<p>Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
-
-<p>Sponsorem spotkania jest firma Atos &ndash; w puli upominków, które losować będziemy na koniec spotkania znajdzie się kilka papierowych książek ufundowanych przez tę firmę. Poniżej uchylamy rąbka tajemnicy:</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/25/atos-books.jpg" />
-  </div>
-</div>
-
-
-<p><a href="http://pl.atos.net" target="_blank"><strong>Atos</strong></a> jest międzynarodową firmą z branży usług informatycznych, osiągającą roczne przychody na poziomie 11 mld EUR i zatrudniającą 93 000 pracowników. Na spotkaniu Sławek przedstawi obecną ofertę zatrudnienia w prężnie rozwijającym się dziale Java w Toruniu.</p>
-
-<h3>Nowoczesne techniki dostarczania oprogramowania</h3>
-
-<p>Proces budowania, testowania, integracji i wdrażania oprogramowania jest prawdopodobnie najbardziej lekceważoną częścią pracy programisty. Jego uruchomienie wymaga wiele wysiłku i doświadczenia, ale jest kluczowym elementem dobrze zorganizowanego zespołu. W tej prezentacji chciałbym przedstawić wam jak powinien wyglądać dobry system CI/CD, a także jak uruchomić go w 5 minut.</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/piotrowski-slawek.jpg" /></p>
-
-<h4><a href="https://twitter.com/sentinelatteo" target="_blank">Sławek Piotrowski</a></h4>
-
-<p>Sławek jest architektem systemów bankowych w firmie Atos. Przez ostatnie 10 lat tworzył systemy CI/CD w dwóch firmach. Teraz tworzy trzeci &ndash; ostatni ;&ndash;) Jest autorem kilku projektów open source. Wielokrotny mówca na JUGach i konferencjach.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Why? + Impact Mapping &ndash; czyli jak uciekliśmy spod topora niezrozumiałych wymagań nowego projektu</h3>
-
-<p>Jedną z podstawowych cech kilkuletniego przedstawiciela homo-sapiens jest to, że zadaje on nieograniczoną liczbę pytań takich jak: &ldquo;czemu?&lsquo;, "dlaczego?&rdquo;, &ldquo;po co?&rdquo;, &ldquo;kto?&rdquo;, &ldquo;jak?&rdquo;. Posiadając w domu dwa małe monstra, oprócz próśb o słodycze, w każdej chwili jestem narażony na uderzenie takim niewygodnym pytaniem. Jeżeli odpowiedź na nie będzie nieścisła, niewyraźna czy nieodpowiednia, mogę doświadczyć ataku ze zdwojoną mocą, nie mówiąc o skutkach wychowawczych. Na szczęście, a może i nie, dzieje się to tylko przez pewną chwilę. Potem, za dobrych 20 lat, niektórzy w kuluarach wykrzykują &ldquo;Programming, Motherfucker!&rdquo; wyznając Driven-Development, ale ten z literą R na początku, inni przeczesują strony dokumentacji w cierpieniu i poczuciu niesprawiedliwości, a niektórzy właśnie zaliczają projektową porażkę po spędzeniu kilku miesięcy, które okazują się pomyłką. W prezentacji tej chciałbym wrócić do korzeni, przypomnieć o jednym z podstawowych pytań z dzieciństwa i opowiedzieć o tym jak udało nam się zaoszczędzić wiele nerwów, siwych włosów i nieprzespanych nocy w obliczu nowych wymagań biznesowych do spełnienia w krótkim terminie.</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/sawicki-lukasz.jpg" /></p>
-
-<h4><a href="https://pl.linkedin.com/in/%C5%82ukasz-sawicki-4bb4512" target="_blank">Łukasz Sawicki</a></h4>
-
-<p>Programista Java z zacięciem do dobrego kodu testowego i agile'a w kierunku Scruma. Obecnie pracujący w firmie 4Finance IT. Zwolennik przyjaźni pomiędzy biznesem a IT. Poza godzinami pracy szarpie druty gitary, fotografuje i poszukuje ideału kawy.</p>
 ]]></content>
   </entry>
   

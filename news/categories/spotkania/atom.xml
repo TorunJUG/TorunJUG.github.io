@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-01-27T08:33:12+01:00</updated>
+  <updated>2017-01-27T08:55:47+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -24,7 +24,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/29/allegro.png" />
+    <img class="no-border" src="/images/meetings/29/allegro.png" />
   </div>
 </div>
 
@@ -36,7 +36,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/29/cover.png" />
+    <img class="no-border" src="/images/meetings/29/cover.png" />
   </div>
 </div>
 
@@ -45,7 +45,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/29/afterparty.png" />
+    <img class="no-border" src="/images/meetings/29/afterparty.png" />
   </div>
 </div>
 
@@ -58,7 +58,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>PS. Ta prezentacja będzie raczej rozwinięciem niż kopią prezentacji z JUGu w Bydgoszczy, więc zapraszam również Bydgoszczaków :)</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/muchewicz-krzysztof.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/muchewicz-krzysztof.jpg" /></p>
 
 <h4><a href="https://twitter.com/KrzyMucha" target="_blank">Krzysztof Muchewicz</a></h4>
 
@@ -76,7 +76,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>Tę prezentację sponsoruje -XX:+PrintCompliation, -XX:+PrintInlining, -XX:+PrintInterpreter oraz hsdis.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/palka-jaroslaw.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/palka-jaroslaw.jpg" /></p>
 
 <h4><a href="https://twitter.com/j_palka" target="_blank">Jarek Pałka</a></h4>
 
@@ -95,7 +95,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/28/cover.png" />
+    <img class="no-border" src="/images/meetings/28/cover.png" />
   </div>
 </div>
 
@@ -104,7 +104,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/28/afterparty.png" />
+    <img class="no-border" src="/images/meetings/28/afterparty.png" />
   </div>
 </div>
 
@@ -115,7 +115,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>Pogadajmy o freelancingu. Bez mędrkowania, teoretyzowania oraz prób ewangelizacji. W trakcie tej 45-minutowej dyskusji z prezentacją w tle chciałbym podzielić się z Wami tym, czego doświadczyłem i nauczyłem się przez ostatnie 2,5 roku &ndash; począwszy od ostatnich miesięcy spędzonych na etacie po dzień dzisiejszy. Opowiem o motywacjach, obawach, sukcesach i porażkach. Spróbuję obalić niektóre mity dotyczące freelancingu i pracy na własną rękę. W prezentacji pojawi się również kilka bardziej uniwersalnych wniosków, które mogą okazać się pomocne także dla tych z Was, którzy nie planują wiązać swojej kariery z freelancingiem.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/stepniak-szymon.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/stepniak-szymon.jpg" /></p>
 
 <h4><a href="https://twitter.com/wololock" target="_blank">Szymon Stępniak</a></h4>
 
@@ -137,7 +137,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/nabrdalik-jakub.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/nabrdalik-jakub.jpg" /></p>
 
 <h4><a href="https://twitter.com/jnabrdalik" target="_blank">Jakub Nabrdalik</a></h4>
 
@@ -156,7 +156,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/27/cover.png" />
+    <img class="no-border" src="/images/meetings/27/cover.png" />
   </div>
 </div>
 
@@ -165,7 +165,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/27/afterparty.png" />
+    <img class="no-border" src="/images/meetings/27/afterparty.png" />
   </div>
 </div>
 
@@ -176,7 +176,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>Jak na andrzejkowy wieczór przystało, będzie o wróżeniu. Bo tę właśnie czynność przypominają często nasze próby wyestymowania czekających nas zadań. Opowiem dlaczego tak się dzieje i jak zastąpić praktyki okultystyczne metodami bardziej systematycznymi. Prostej recepty nie będzie, ale garść porad i wskazówek do wykorzystania zarówno w agile'owym jak i waterfallowym otoczeniu.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/jaworski-wojciech.png" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/jaworski-wojciech.png" /></p>
 
 <h4><a href="https://www.linkedin.com/in/wojciech-jaworski-0a42a94" target="_blank">Wojciech Jaworski</a></h4>
 
@@ -191,7 +191,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piwowarek-grzegorz.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/piwowarek-grzegorz.jpg" /></p>
 
 <h4><a href="https://twitter.com/pivovarit" target="_blank">Grzegorz Piwowarek</a></h4>
 
@@ -210,7 +210,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/26/cover.png" />
+    <img class="no-border" src="/images/meetings/26/cover.png" />
   </div>
 </div>
 
@@ -219,7 +219,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/26/afterparty.png" />
+    <img class="no-border" src="/images/meetings/26/afterparty.png" />
   </div>
 </div>
 
@@ -232,7 +232,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <p>Prezentacja zawierać będzie kod w językach: Haskell, Scala oraz Java, okazyjnie pojawi się też F# i śladowe ilości teorii kategorii. Spróbuję także uzasadnić dlaczego powstały, powstają i raczej będą powstawać takie biblioteki takie jak javaslang, functionaljava czy fugue.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/fejzer-mikolaj.jpg" /></p>
 
 <h4><a href="https://pl.linkedin.com/in/miko%C5%82aj-fejzer-04417391/en" target="_blank">Mikołaj Fejzer</a></h4>
 
@@ -244,7 +244,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <p>Tym razem na deskach Toruńskiego JUGa pokażę jak programować funkcyjnie w praktyce. Będzie to live-coding w REPLu Clojure. Nie jest wymagane żadne doświadczenie w Clojure. Spróbujemy razem opowiedzieć historię i zapisać ją funkcjami. Zapraszam!</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/kapala-pawel.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/kapala-pawel.jpg" /></p>
 
 <h4><a href="https://twitter.com/kapware" target="_blank">Paweł Kapała</a></h4>
 
@@ -263,7 +263,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/25/cover.png" />
+    <img class="no-border" src="/images/meetings/25/cover.png" />
   </div>
 </div>
 
@@ -276,7 +276,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/25/atos-books.jpg" />
+    <img class="no-border" src="/images/meetings/25/atos-books.jpg" />
   </div>
 </div>
 
@@ -287,7 +287,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <p>Proces budowania, testowania, integracji i wdrażania oprogramowania jest prawdopodobnie najbardziej lekceważoną częścią pracy programisty. Jego uruchomienie wymaga wiele wysiłku i doświadczenia, ale jest kluczowym elementem dobrze zorganizowanego zespołu. W tej prezentacji chciałbym przedstawić wam jak powinien wyglądać dobry system CI/CD, a także jak uruchomić go w 5 minut.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piotrowski-slawek.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/piotrowski-slawek.jpg" /></p>
 
 <h4><a href="https://twitter.com/sentinelatteo" target="_blank">Sławek Piotrowski</a></h4>
 
@@ -299,7 +299,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <p>Jedną z podstawowych cech kilkuletniego przedstawiciela homo-sapiens jest to, że zadaje on nieograniczoną liczbę pytań takich jak: &ldquo;czemu?&lsquo;, "dlaczego?&rdquo;, &ldquo;po co?&rdquo;, &ldquo;kto?&rdquo;, &ldquo;jak?&rdquo;. Posiadając w domu dwa małe monstra, oprócz próśb o słodycze, w każdej chwili jestem narażony na uderzenie takim niewygodnym pytaniem. Jeżeli odpowiedź na nie będzie nieścisła, niewyraźna czy nieodpowiednia, mogę doświadczyć ataku ze zdwojoną mocą, nie mówiąc o skutkach wychowawczych. Na szczęście, a może i nie, dzieje się to tylko przez pewną chwilę. Potem, za dobrych 20 lat, niektórzy w kuluarach wykrzykują &ldquo;Programming, Motherfucker!&rdquo; wyznając Driven-Development, ale ten z literą R na początku, inni przeczesują strony dokumentacji w cierpieniu i poczuciu niesprawiedliwości, a niektórzy właśnie zaliczają projektową porażkę po spędzeniu kilku miesięcy, które okazują się pomyłką. W prezentacji tej chciałbym wrócić do korzeni, przypomnieć o jednym z podstawowych pytań z dzieciństwa i opowiedzieć o tym jak udało nam się zaoszczędzić wiele nerwów, siwych włosów i nieprzespanych nocy w obliczu nowych wymagań biznesowych do spełnienia w krótkim terminie.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/sawicki-lukasz.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/sawicki-lukasz.jpg" /></p>
 
 <h4><a href="https://pl.linkedin.com/in/%C5%82ukasz-sawicki-4bb4512" target="_blank">Łukasz Sawicki</a></h4>
 

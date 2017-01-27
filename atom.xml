@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-01-27T08:29:43+01:00</updated>
+  <updated>2017-01-27T08:55:47+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie dwudziestego dziewiątego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2017/01/29/podsumowanie-dwudziestego-dziewiatego-spotkania/"/>
+    <updated>2017-01-29T21:45:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2017/01/29/podsumowanie-dwudziestego-dziewiatego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/meeting/29/">dwudzieste dziewiątego</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Krzyśkowi za podzielenie się doświadczeniem w budowaniu architektury microserwisów oraz Jarkowi za przybliżenie bebechów JVMa. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="http://bit.ly/29-spotkanie-Torun-JUG-ankieta" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/TorunJUG/photos/?tab=album&album_id=1861419074081577" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27571815/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/29/jitmebaby-jugtorun.zip">
+      <em>JIT me baby one more time</em></a> (slajdy z&nbsp;prezentacji Jarosława Pałki)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #29 [2017-01-25]]]></title>
@@ -847,35 +878,6 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 <h4><a href="https://www.linkedin.com/in/wojciechoczkowski" target="_blank">Wojciech Oczkowski</a></h4>
 
 <p>Prowadzący własną działalność specjalista do spraw trudnych, zawodowo rozwiązuje problemy związane z projektowaniem architektury systemów, integracją, wydajnością i jakością kodu. Znajduje obsesyjną wręcz przyjemność w wynajdowaniu sensu w cudzym kodzie. Prywatnie rozwiązuje problemy związane z wychowaniem 2 dzieciaków i znajdowaniem czasu na żeglowanie i czytanie literatury fantastycznej.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TorunJUG.getSrc() // [#2] Xenia Development // [2016-05-14]]]></title>
-    <link href="http://torun.jug.pl/news/2016/05/05/torunjug-getsrc-2/"/>
-    <updated>2016-05-05T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/05/05/torunjug-getsrc-2</id>
-    <content type="html"><![CDATA[<p>Wspólnie z <a href="http://blpoland.com/torun/" target="_blank">Business Link Toruń</a> mamy przyjemność zaprosić na drugie wydarzenie z cyklu <strong>TorunJUG.getSrc()</strong>. Jest to inicjatywa, która ma na celu zachęcić i pobudzić naszą lokalną JUGową społeczność do wspólnej pracy przy projektach open source.</p>
-
-<p>Spotkanie odbędzie się <strong>w sobotę 14 maja 2016 roku</strong> w godzinach <strong>16:00-20:00</strong> w siedzibie Business Link Toruń przy <a href="https://maps.google.com/maps?f=q&hl=en&q=ul.+W%C5%82adys%C5%82awa+%C5%81okietka+5%2C+Torun%2C+pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span><strong>ulicy Władysława Łokietka 5</strong></a>.</p>
-
-<p>Zamiast gadać o technologiach, będziemy wspólnie kodować. Już od pierwszego spotkania ruszyliśmy z kopyta i na celownik wzięliśmy aplikację, której używamy podczas naszych regularnych spotkań &ndash; Xenię. Jest to aplikacja, która powstała podczas <a href="http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu/">pierwszego Hackathornu</a> i która od tamtego czasu nie przechodziła zbyt wielu aktualizacji. Chcielibyśmy wspólnymi siłami przygotować kilka fajnych i użytecznych ficzerów. Wstępną listę rzeczy do zrobienia znajdziecie na specjalnie przygotowanej do tego tablicy <a href="https://trello.com/invite/b/LicUDCaH/7ec11017d8c4148473e554d05e63ffc5/xenia-development" target="_blank">Trello</a>. <!-- more --></p>
-
-<p>Aplikację Xenia można pobrać z GitHuba:</p>
-
-<ul>
-<li><a href="https://github.com/TorunJUG/xenia-api">https://github.com/TorunJUG/xenia-api</a> (backend aplikacji)</li>
-<li><a href="https://github.com/TorunJUG/xenia-ng">https://github.com/TorunJUG/xenia-ng</a> (frontend aplikacji)</li>
-</ul>
-
-
-<p><strong>UWAGA!</strong> Zapisy na to wydarzenie <strong><a href="http://www.meetup.com/Torun-JUG/events/230666233/" target="_blank">rozpoczną się w poniedziałek 9 maja o godz. 19:00</a></strong>. O wydarzeniu informujemy jednak wcześniej, aby każdy zainteresowany mógł sobie zarezerwować czas na sobotę. Liczba uczestników tego spotkania jest ograniczona do <strong>12</strong>-tu. Będzie to pierwsze, ale nie ostanie spotkanie tego typu. Wspólnie z Business Link Toruń zależy nam na zrobieniu z <strong>TorunJUG.getSrc()</strong> cyklicznego wydarzenia, które na stałe wpisze się do kalendarza toruńskich imprez o charakterze programistycznym.</p>
-
-<p><strong>Na spotkania TorunJUG.getSrc() każdy przychodzi z własnym laptopem. Na miejscu będzie dostęp do WiFi oraz listw zasilających. Każdy powinien przyjść z wcześniej skonfigurowanym IDE (IntelliJ IDEA, Eclipse, NetBeans). Namiary na kody źródłowe projektów, którymi będziemy się zajmować będą zawsze podawane z wyprzedzeniem &ndash; warto już wcześniej zrobić fork wskazanego repozytorium i przygotować sobie środowisko do pracy.</strong></p>
-
-<p>Pod <a href="http://i.imgur.com/sgTdx5H.png" target="_blank">tym linkiem</a> znajdziecie pomocniczą mapkę dojazdową do Business Link Toruń wraz zaznaczonymi miejscami parkingowymi.</p>
-
-<p>Jeśli macie jakiekolwiek pytania odnośnie wydarzenia lub coś jest niewystarczająco jasno zakomunikowane, piszcie proszę w komentarzach.</p>
 ]]></content>
   </entry>
   

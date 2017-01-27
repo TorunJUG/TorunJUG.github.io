@@ -341,7 +341,8 @@
             },
             {
                 "meetingNumber" : 29,
-                "title" : "JIT me baby one more time"
+                "title" : "JIT me baby one more time",
+                "slides" : "http://torun.jug.pl/materials/meetings/29/jitmebaby-jugtorun.zip"
             }
         ]
     },

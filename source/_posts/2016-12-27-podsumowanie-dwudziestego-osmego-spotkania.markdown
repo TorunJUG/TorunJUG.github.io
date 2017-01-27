@@ -12,7 +12,7 @@ Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</
 
 Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="http://bit.ly/28-spotkanie-Torun-JUG-ankieta" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more-->
 
-Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/tak.dla.juga.w.toruniu/photos/?tab=album&album_id=1846236012266550" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27502830/" target="_blank">Meetupie</a>.
+Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/TorunJUG/photos/?tab=album&album_id=1846236012266550" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27502830/" target="_blank">Meetupie</a>.
 
 Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
 <ul>

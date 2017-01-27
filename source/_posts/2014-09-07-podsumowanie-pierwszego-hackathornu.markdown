@@ -83,7 +83,7 @@ Na koniec naszedł czas na prezentacje efektów pracy i&nbsp;rozdanie nagród ks
   </div>
 </div>
 
-Więcej zdjęć znajdziecie na <a href="https://www.facebook.com/tak.dla.juga.w.toruniu" target="_blank">naszym profilu</a> na Facebooku oraz na <a href="https://www.facebook.com/smartexea" target="_blank">profilu Exea Smart Space</a>.
+Więcej zdjęć znajdziecie na <a href="https://www.facebook.com/TorunJUG" target="_blank">naszym profilu</a> na Facebooku oraz na <a href="https://www.facebook.com/smartexea" target="_blank">profilu Exea Smart Space</a>.
 
 Chcielibyśmy serdecznie podziękować wszystkim, którzy zaangażowali się w&nbsp;organizacje eventu:
 <ul>

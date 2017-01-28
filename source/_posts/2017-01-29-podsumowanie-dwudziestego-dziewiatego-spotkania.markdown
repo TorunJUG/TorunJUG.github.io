@@ -17,6 +17,10 @@ Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.c
 Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
 <ul>
   <li>
+    <a href="https://www.slideshare.net/secret/LUjUQ7fIFunFvm" target="_blank">
+      <em>Reaktywne Mikrousługi w Praktyce</em></a> (slajdy z&nbsp;prezentacji Krzysztofa Muchewicza)
+  </li>
+  <li>
     <a href="{{root_url}}/materials/meetings/29/jitmebaby-jugtorun.zip">
       <em>JIT me baby one more time</em></a> (slajdy z&nbsp;prezentacji Jarosława Pałki)
   </li>

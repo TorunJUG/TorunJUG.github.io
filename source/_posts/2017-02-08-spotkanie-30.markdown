@@ -26,7 +26,7 @@ Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https:/
 
 **UWAGA:** Sala S9 będzie otwarta **od godz. 17:30** - jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more -->
 
-### Kalafiorem w JVM! - czyli eksperymenty z językiem Frege.
+### Kalafiorem w JVM! - czyli eksperymenty z językiem Frege
 Podczas swojej debiutanckiej prezentacji na deskach Toruńskiego JUGa, przedstawię Wam swoje krótkie (choć mam nadzieję, że owocne :)) doświadczenia z pewnym dosyć egzotycznym językiem programowanie zwanym - Frege /ˈfreɪɡə/. Językiem funkcyjnym, którego twórcy sami określają mianem Haskella na JVM! Jak to jest możliwe? W jaki sposób działa? Jak duże obliczenia mu nie straszne? I jak w ogóle zacząć się w nim poruszać? Dowiecie się jak przyjdziecie!  
 
 Szybki kurs programowania funkcyjnego - gratis.  

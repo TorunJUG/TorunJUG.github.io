@@ -687,5 +687,28 @@
                 "youtube" : "https://www.youtube.com/watch?v=KO6K3_Ac54M"
             }
         ]
+    },
+    {
+        "name" : "Piotr Skonieczka",
+        "img" : "skonieczka-piotr.jpg",
+        "lastMeeting": 30,
+        "talks" : [
+            {
+                "meetingNumber" : 30,
+                "title" : "Kalafiorem w JVM! - czyli eksperymenty z językiem Frege"
+            }
+        ]
+    },
+    {
+        "name" : "Michał Bartyzel",
+        "img" : "bartyzel-michal.jpg",
+        "twitter" : "MichalBartyzel",
+        "lastMeeting": 30,
+        "talks" : [
+            {
+                "meetingNumber" : 30,
+                "title" : "Kanban na lodówce"
+            }
+        ]
     }
 ]

@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-02-23T07:05:17+01:00</updated>
+  <updated>2017-02-23T08:42:46+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie trzydziestego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2017/02/24/podsumowanie-trzydziestego-spotkania/"/>
+    <updated>2017-02-24T16:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2017/02/24/podsumowanie-trzydziestego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/meeting/30/">trzydzieste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Piotrowi, za przedstawienie podstaw języka Frege i własnych eksperymentów z jego wykorzystaniem oraz Michałowi, za zaprezentowanie praktycznego użycia zwinnych metodyk w życiu codziennym. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXCWX35JSHfRxS8ExFS-zKGdcAPJafnYy0MYsqyhGgZc-_Ww/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/TorunJUG/photos/?tab=album&album_id=1872758949614256" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27643328/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="/materials/meetings/30/Kalafiorem_w_JVM_-_czyli_eksperymenty_z_jezykiem_Frege_by_Piotr_Skonieczka.pdf" target="_blank">
+      <em>Kalafiorem w JVM! - czyli eksperymenty z językiem Frege</em></a> (slajdy z&nbsp;prezentacji Piotra Skonieczki)
+  </li>
+  <li>
+    <a href="https://github.com/phiotr/JUG30--Examples">
+      <em>Link do kodu źródłowego używanego przez Piotra</em></a>
+  </li>
+  <li>
+    <a href="/materials/meetings/30/Kanban_na_lodowce_by_Michal_Bartyzel.pdf">
+      <em>Kanban na lodówce</em></a> (slajdy z&nbsp;prezentacji Michała Bartyzla)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie dwudziestego dziewiątego spotkania]]></title>
@@ -150,50 +189,6 @@
   </li>
   <li>
     <a href="https://github.com/kapware/clj-krakus/" target="_blank">Link do kodu źródłowego używanego przez Pawła</a>
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie dwudziestego piątego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2016/09/30/podsumowanie-dwudziestego-piatego-spotkania/"/>
-    <updated>2016-09-30T07:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/09/30/podsumowanie-dwudziestego-piatego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/meeting/25/">dwudzieste piąte</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Sławkowi, za podzielenie swoją wiedzą i doświadczeniami na temat nowoczesnych technik dostarczania oprogramowania oraz Łukaszowi, za przedstawienie bardzo ciekawej techniki, jaką jest Impact Mapping. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
-
-<p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
-
-<p>Dziękujemy również firmie <strong>Atos Polska</strong>, która ufundowała upominki książkowe rozdane podczas dzisiejszego spotkania. Toruński oddział tej firmy <a href="http://bit.ly/atos-na-25-spotkaniu-Torun-JUG" target="_blank">cały czas się rozwija i poszukuje zarówno początkujących jak i doświadczonych programistów Java</a>.</p>
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="http://bit.ly/25-spotkanie-Torun-JUG-ankieta" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/TorunJUG/photos/?tab=album&album_id=1808512186038933" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27305490/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="/materials/meetings/25/Nowoczesne_techniki_dostarczania_oprogramowania_by_Slawek_Piotrowski.pdf">
-      <em>Nowoczesne techniki dostarczania oprogramowania</em></a> (slajdy z&nbsp;prezentacji Sławka Piotrowskiego)
-  </li>
-  <li>
-    <a href="https://github.com/atteo/jfactory" target="_blank">Link do kody JFactory, o którym opowiadał Sławek</a>
-  </li>
-  <li>
-    <a href="/materials/meetings/25/Atos_prezentacja_v4_kch.pdf">
-      Slajdy z prezentacji na temat firmy Atos (sponsora spotkania)</a>
-  </li>
-  <li>
-    <a href="/materials/meetings/25/Why_plus_Impact_Mapping_by_Lukasz_Sawicki.pdf">
-      <em>Why? + Impact Mapping – czyli jak uciekliśmy spod topora niezrozumiałych wymagań nowego projektu</em></a> (slajdy z&nbsp;prezentacji Łukasza Sawickiego)
   </li>
 </ul>
 

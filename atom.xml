@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-02-23T07:05:17+01:00</updated>
+  <updated>2017-02-23T08:42:46+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie trzydziestego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2017/02/24/podsumowanie-trzydziestego-spotkania/"/>
+    <updated>2017-02-24T16:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2017/02/24/podsumowanie-trzydziestego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/meeting/30/">trzydzieste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Piotrowi, za przedstawienie podstaw języka Frege i własnych eksperymentów z jego wykorzystaniem oraz Michałowi, za zaprezentowanie praktycznego użycia zwinnych metodyk w życiu codziennym. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXCWX35JSHfRxS8ExFS-zKGdcAPJafnYy0MYsqyhGgZc-_Ww/viewform" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/TorunJUG/photos/?tab=album&album_id=1872758949614256" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27643328/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/30/Kalafiorem_w_JVM_-_czyli_eksperymenty_z_jezykiem_Frege_by_Piotr_Skonieczka.pdf" target="_blank">
+      <em>Kalafiorem w JVM! - czyli eksperymenty z językiem Frege</em></a> (slajdy z&nbsp;prezentacji Piotra Skonieczki)
+  </li>
+  <li>
+    <a href="https://github.com/phiotr/JUG30--Examples">
+      <em>Link do kodu źródłowego używanego przez Piotra</em></a>
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/30/Kanban_na_lodowce_by_Michal_Bartyzel.pdf">
+      <em>Kanban na lodówce</em></a> (slajdy z&nbsp;prezentacji Michała Bartyzla)
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #30 [2017-02-22]]]></title>
@@ -875,30 +914,6 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 <p>Follow us on <a href="http://twitter.com/javadayby">Twitter</a> or <a href="https://www.facebook.com/javadayby">Facebook</a> and use #javadayby hashtag to get all the latest news &ndash; and win some free tickets as well!</p>
 
 <p>Feel free to ask any questions if you have&#8217;em &ndash; Kate Budnikova, our event manager, will happily answer all of them: <a href="mailto:budnikova.kate@gmail.com">budnikova.kate@gmail.com</a>, <a href="tel:375259021603">+375(25)902-16-03</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z dwudziestego drugiego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2016/05/19/nagranie-z-dwudziestego-drugiego-spotkania/"/>
-    <updated>2016-05-19T16:45:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/05/19/nagranie-z-dwudziestego-drugiego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3080" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/meeting/22/">dwudziestego drugiego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=3080&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
 ]]></content>
   </entry>
   

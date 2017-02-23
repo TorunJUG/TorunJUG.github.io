@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-01-28T00:48:09+01:00</updated>
+  <updated>2017-02-23T07:05:17+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -40,7 +40,7 @@
 
 <p><strong>UWAGA:</strong> Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
 
-<h3>Kalafiorem w JVM! &ndash; czyli eksperymenty z językiem Frege.</h3>
+<h3>Kalafiorem w JVM! &ndash; czyli eksperymenty z językiem Frege</h3>
 
 <p>Podczas swojej debiutanckiej prezentacji na deskach Toruńskiego JUGa, przedstawię Wam swoje krótkie (choć mam nadzieję, że owocne :)) doświadczenia z pewnym dosyć egzotycznym językiem programowanie zwanym &ndash; Frege /ˈfreɪɡə/. Językiem funkcyjnym, którego twórcy sami określają mianem Haskella na JVM! Jak to jest możliwe? W jaki sposób działa? Jak duże obliczenia mu nie straszne? I jak w ogóle zacząć się w nim poruszać? Dowiecie się jak przyjdziecie!</p>
 

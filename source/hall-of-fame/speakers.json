@@ -291,7 +291,8 @@
             {
                 "meetingNumber" : 29,
                 "title" : "Reaktywne Mikrousługi w Praktyce",
-                "slides" : "https://www.slideshare.net/secret/LUjUQ7fIFunFvm"
+                "slides" : "https://www.slideshare.net/secret/LUjUQ7fIFunFvm",
+                "youtube" : "https://www.youtube.com/watch?v=Jvmn5Kn0N8o"
             }
         ]
     },
@@ -343,7 +344,8 @@
             {
                 "meetingNumber" : 29,
                 "title" : "JIT me baby one more time",
-                "slides" : "http://torun.jug.pl/materials/meetings/29/jitmebaby-jugtorun.zip"
+                "slides" : "http://torun.jug.pl/materials/meetings/29/jitmebaby-jugtorun.zip",
+                "youtube" : "https://www.youtube.com/watch?v=GXyM7IOTXOM"
             }
         ]
     },
@@ -695,7 +697,8 @@
         "talks" : [
             {
                 "meetingNumber" : 30,
-                "title" : "Kalafiorem w JVM! - czyli eksperymenty z językiem Frege"
+                "title" : "Kalafiorem w JVM! - czyli eksperymenty z językiem Frege",
+                "slides" : "http://torun.jug.pl/materials/meetings/30/Kalafiorem_w_JVM_-_czyli_eksperymenty_z_jezykiem_Frege_by_Piotr_Skonieczka.pdf"
             }
         ]
     },
@@ -707,7 +710,8 @@
         "talks" : [
             {
                 "meetingNumber" : 30,
-                "title" : "Kanban na lodówce"
+                "title" : "Kanban na lodówce",
+                "slides" : "http://torun.jug.pl/materials/meetings/30/Kanban_na_lodowce_by_Michal_Bartyzel.pdf"
             }
         ]
     }

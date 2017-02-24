@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-02-23T08:42:46+01:00</updated>
+  <updated>2017-02-24T17:37:46+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -24,7 +24,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/30/cover.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/30/cover.png" />
   </div>
 </div>
 
@@ -33,7 +33,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/30/afterparty.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/30/afterparty.png" />
   </div>
 </div>
 
@@ -48,7 +48,7 @@
 
 <p>Zapraszam.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/skonieczka-piotr.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/skonieczka-piotr.jpg" /></p>
 
 <h4><a href="https://www.linkedin.com/in/piotr-skonieczka-448927102" target="_blank">Piotr Skonieczka</a></h4>
 
@@ -64,7 +64,7 @@
 
 <p>Ten zabieg zmiany kontekstu posłuży nam do niezwykle ważnej rzeczy: do nazwania wartości stojących za agile oraz jego fundamentalnych zasad. Zobaczysz jak agile może zmienić z pozoru nudne czynności niesamowitą przygodę.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/bartyzel-michal.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/bartyzel-michal.jpg" /></p>
 
 <h4><a href="https://twitter.com/MichalBartyzel" target="_blank">Michał Bartyzel</a></h4>
 
@@ -87,7 +87,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/29/allegro.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/29/allegro.png" />
   </div>
 </div>
 
@@ -99,7 +99,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/29/cover.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/29/cover.png" />
   </div>
 </div>
 
@@ -108,7 +108,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/29/afterparty.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/29/afterparty.png" />
   </div>
 </div>
 
@@ -121,7 +121,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>PS. Ta prezentacja będzie raczej rozwinięciem niż kopią prezentacji z JUGu w Bydgoszczy, więc zapraszam również Bydgoszczaków :)</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/muchewicz-krzysztof.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/muchewicz-krzysztof.jpg" /></p>
 
 <h4><a href="https://twitter.com/KrzyMucha" target="_blank">Krzysztof Muchewicz</a></h4>
 
@@ -139,7 +139,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>Tę prezentację sponsoruje -XX:+PrintCompliation, -XX:+PrintInlining, -XX:+PrintInterpreter oraz hsdis.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/palka-jaroslaw.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/palka-jaroslaw.jpg" /></p>
 
 <h4><a href="https://twitter.com/j_palka" target="_blank">Jarek Pałka</a></h4>
 
@@ -158,7 +158,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/28/cover.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/28/cover.png" />
   </div>
 </div>
 
@@ -167,7 +167,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/28/afterparty.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/28/afterparty.png" />
   </div>
 </div>
 
@@ -178,7 +178,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>Pogadajmy o freelancingu. Bez mędrkowania, teoretyzowania oraz prób ewangelizacji. W trakcie tej 45-minutowej dyskusji z prezentacją w tle chciałbym podzielić się z Wami tym, czego doświadczyłem i nauczyłem się przez ostatnie 2,5 roku &ndash; począwszy od ostatnich miesięcy spędzonych na etacie po dzień dzisiejszy. Opowiem o motywacjach, obawach, sukcesach i porażkach. Spróbuję obalić niektóre mity dotyczące freelancingu i pracy na własną rękę. W prezentacji pojawi się również kilka bardziej uniwersalnych wniosków, które mogą okazać się pomocne także dla tych z Was, którzy nie planują wiązać swojej kariery z freelancingiem.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/stepniak-szymon.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/stepniak-szymon.jpg" /></p>
 
 <h4><a href="https://twitter.com/wololock" target="_blank">Szymon Stępniak</a></h4>
 
@@ -200,7 +200,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/nabrdalik-jakub.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/nabrdalik-jakub.jpg" /></p>
 
 <h4><a href="https://twitter.com/jnabrdalik" target="_blank">Jakub Nabrdalik</a></h4>
 
@@ -219,7 +219,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/27/cover.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/27/cover.png" />
   </div>
 </div>
 
@@ -228,7 +228,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/27/afterparty.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/27/afterparty.png" />
   </div>
 </div>
 
@@ -239,7 +239,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>Jak na andrzejkowy wieczór przystało, będzie o wróżeniu. Bo tę właśnie czynność przypominają często nasze próby wyestymowania czekających nas zadań. Opowiem dlaczego tak się dzieje i jak zastąpić praktyki okultystyczne metodami bardziej systematycznymi. Prostej recepty nie będzie, ale garść porad i wskazówek do wykorzystania zarówno w agile'owym jak i waterfallowym otoczeniu.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/jaworski-wojciech.png" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/jaworski-wojciech.png" /></p>
 
 <h4><a href="https://www.linkedin.com/in/wojciech-jaworski-0a42a94" target="_blank">Wojciech Jaworski</a></h4>
 
@@ -254,7 +254,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/piwowarek-grzegorz.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piwowarek-grzegorz.jpg" /></p>
 
 <h4><a href="https://twitter.com/pivovarit" target="_blank">Grzegorz Piwowarek</a></h4>
 
@@ -273,7 +273,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/26/cover.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/26/cover.png" />
   </div>
 </div>
 
@@ -282,7 +282,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/26/afterparty.png" />
+    <img class="no-border" src="{{ root_url }}/images/meetings/26/afterparty.png" />
   </div>
 </div>
 
@@ -295,7 +295,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <p>Prezentacja zawierać będzie kod w językach: Haskell, Scala oraz Java, okazyjnie pojawi się też F# i śladowe ilości teorii kategorii. Spróbuję także uzasadnić dlaczego powstały, powstają i raczej będą powstawać takie biblioteki takie jak javaslang, functionaljava czy fugue.</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/fejzer-mikolaj.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" /></p>
 
 <h4><a href="https://pl.linkedin.com/in/miko%C5%82aj-fejzer-04417391/en" target="_blank">Mikołaj Fejzer</a></h4>
 
@@ -307,7 +307,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <p>Tym razem na deskach Toruńskiego JUGa pokażę jak programować funkcyjnie w praktyce. Będzie to live-coding w REPLu Clojure. Nie jest wymagane żadne doświadczenie w Clojure. Spróbujemy razem opowiedzieć historię i zapisać ją funkcjami. Zapraszam!</p>
 
-<p><img class="no-border speaker-face" src="/images/speakers/kapala-pawel.jpg" /></p>
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/kapala-pawel.jpg" /></p>
 
 <h4><a href="https://twitter.com/kapware" target="_blank">Paweł Kapała</a></h4>
 

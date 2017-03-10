@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-02-24T17:35:02+01:00</updated>
+  <updated>2017-03-10T05:51:25+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #31 [2017-03-29]]]></title>
+    <link href="http://torun.jug.pl/news/2017/03/10/spotkanie-31/"/>
+    <updated>2017-03-10T06:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2017/03/10/spotkanie-31</id>
+    <content type="html"><![CDATA[<p>Zapraszamy serdecznie na trzydzieste pierwsze spotkanie Toruń Java Users Group, które odbędzie się <strong>w&nbsp;środę, 29 marca 2017 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest <strong>wolny</strong>, obecność na wcześniejszych spotkaniach nie jest wymagana &ndash; pomiędzy spotkaniami nie ma żadnych zależności, do naszej społeczności można dołączyć w <strong>dowolnym</strong> momencie. Na spotkanie możesz przyjść bez rejestracji na portalu Meetup, jednak chcielibyśmy zachęcić Cię do  kliknięcia w RSVP &ndash; osoby, które <a href="http://www.meetup.com/Torun-JUG/events/237925389/" target="_blank">zapiszą się</a> na to spotkanie wezmą udział w losowaniu kilku cennych upominków.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="http://torun.jug.pl/images/meetings/31/cover.png" />
+  </div>
+</div>
+
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>). Będzie można pogadać na najróżniejsze tematy, poznać się lepiej i napić najlepszego piwa w Toruniu :)</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="http://torun.jug.pl/images/meetings/31/afterparty.png" />
+  </div>
+</div>
+
+
+<p><strong>UWAGA:</strong> Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>Continuous Deployment to the Cloud with Spring Cloud Pipelines</h3>
+
+<p>&ldquo;I have stopped counting how many times I’ve done this from scratch&rdquo; &ndash; was one of the responses to the tweet about starting the project called Spring Cloud Pipelines. Every company sets up a pipeline from scratch. Every company creates some sort of automation to deploy its applications to servers. Enough is enough &ndash; time to automate that and focus on delivering business value.</p>
+
+<p>In this presentation we’ll go through the contents of the Spring Cloud Pipelines project. We’ll start a new project for which we’ll have a deployment pipeline set up in no time. We’ll deploy to Cloud Foundry and check if our application is backwards compatible so that we can roll it back on production.</p>
+
+<p><strong>UWAGA:</strong> prezentacja będzie po angielsku, pytania zadawać będziemy po polsku.</p>
+
+<p>PS: będzie to pierwsze wystąpienie z tą prezentacją :&ndash;) Bądźcie pierwszymi, którzy ją zobaczą :&ndash;)</p>
+
+<p><img class="no-border speaker-face" src="http://torun.jug.pl/images/speakers/grzejszczak-marcin.jpg" /></p>
+
+<h4><a href="https://twitter.com/MGrzejszczak" target="_blank">Marcin Grzejszczak</a></h4>
+
+<p>Author of &ldquo;Mockito Instant&rdquo; and &ldquo;Mockito Cookbook&rdquo; books. OSS Contributor. Co-founder of the Warsaw Groovy User Group and Warsaw Cloud Native Meetup. Lead of Spring Cloud Sleuth, Spring Cloud Contract and Spring Cloud Pipelines projects at Pivotal. Contributed to Groovy, Mockito, Rest-assured, Drools, Moco. Author of Uptodate Gradle plugin, Spock subjects-collaborators extension, gradle-test-profiler, JSONAssert and XMLAssert open source projects. Github profile: <a href="https://github.com/marcingrzejszczak" target="_blank"><a href="https://github.com/marcingrzejszczak">https://github.com/marcingrzejszczak</a></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie trzydziestego spotkania]]></title>
@@ -883,37 +928,6 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 <p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź konferencji: JavaDay Mińsk 2016]]></title>
-    <link href="http://torun.jug.pl/news/2016/05/25/zapowiedz-konferencji-javaday-minsk-2016/"/>
-    <updated>2016-05-25T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/05/25/zapowiedz-konferencji-javaday-minsk-2016</id>
-    <content type="html"><![CDATA[<p>Two tracks, more than a dozen of speakers and lots of interested professionals will gather in &ldquo;Verh&rdquo; loft space to discuss the hottest trends of Java development, fresh technologies and well-known practices. Official JavaDay partner this year is <a href="http://specific-group.by">Specific Group</a>.</p>
-
-<p>In first track we are going to listen to the speakers talking about OOP in Java, JVM Tuning, Java EE, MVC 1.0, improving your Spring expertise and correct use of streams, flows and storms. In short, all you want to know about Java and Java in web to feel yourself a way better specialist.</p>
-
-<p>Second track is dedicated to Kotlin, Scala and Android: RxJava in Android, microservices, functional programming with Java 8 features, the difference between the old and the new Android toolchain and other relevant topics are at your service. <!-- more --></p>
-
-<p>Keynote #JavaDayBy speakers for the moment are:</p>
-
-<ul>
-<li>Alex Theedom (Senior Java Developer) &ndash; Java EE revisits design patterns;</li>
-<li>Jesper de Jong (Software Architect at Scala) &ndash; Modern Microservices with Scala, Spring Boot and Spring Cloud;</li>
-<li>Egor Bugaenko (Founder and CTO at <a href="http://teamed.io">teamed.io</a>) &ndash; Java vs. OOP;</li>
-<li>Fernando Cejas (Engineer at SoundCloud) &ndash; The Mayans Lost Guide To RxJava on Android.</li>
-</ul>
-
-
-<p>Ticket price is  BYR1.450.000 or €65. <strong>We do provide visa support for EU citizens and other nationalities&#8217; representatives who need a visa to enter Belarus</strong>.</p>
-
-<p>Information on #JavaDayBy timeline, speakers and tickets is available at <a href="http://javaday.by/en">javaday.by</a>.</p>
-
-<p>Follow us on <a href="http://twitter.com/javadayby">Twitter</a> or <a href="https://www.facebook.com/javadayby">Facebook</a> and use #javadayby hashtag to get all the latest news &ndash; and win some free tickets as well!</p>
-
-<p>Feel free to ask any questions if you have&#8217;em &ndash; Kate Budnikova, our event manager, will happily answer all of them: <a href="mailto:budnikova.kate@gmail.com">budnikova.kate@gmail.com</a>, <a href="tel:375259021603">+375(25)902-16-03</a>.</p>
 ]]></content>
   </entry>
   

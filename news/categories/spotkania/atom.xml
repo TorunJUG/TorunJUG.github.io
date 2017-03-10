@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-02-24T17:37:46+01:00</updated>
+  <updated>2017-03-10T05:53:53+01:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #31 [2017-03-29]]]></title>
+    <link href="http://torun.jug.pl/news/2017/03/10/spotkanie-31/"/>
+    <updated>2017-03-10T06:30:00+01:00</updated>
+    <id>http://torun.jug.pl/news/2017/03/10/spotkanie-31</id>
+    <content type="html"><![CDATA[<p>Zapraszamy serdecznie na trzydzieste pierwsze spotkanie Toruń Java Users Group, które odbędzie się <strong>w&nbsp;środę, 29 marca 2017 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
+
+<p>Wstęp na spotkanie jest <strong>wolny</strong>, obecność na wcześniejszych spotkaniach nie jest wymagana &ndash; pomiędzy spotkaniami nie ma żadnych zależności, do naszej społeczności można dołączyć w <strong>dowolnym</strong> momencie. Na spotkanie możesz przyjść bez rejestracji na portalu Meetup, jednak chcielibyśmy zachęcić Cię do  kliknięcia w RSVP &ndash; osoby, które <a href="http://www.meetup.com/Torun-JUG/events/237925389/" target="_blank">zapiszą się</a> na to spotkanie wezmą udział w losowaniu kilku cennych upominków.</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/meetings/31/cover.png" />
+  </div>
+</div>
+
+
+<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>). Będzie można pogadać na najróżniejsze tematy, poznać się lepiej i napić najlepszego piwa w Toruniu :)</p>
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/meetings/31/afterparty.png" />
+  </div>
+</div>
+
+
+<p><strong>UWAGA:</strong> Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
+
+<h3>Continuous Deployment to the Cloud with Spring Cloud Pipelines</h3>
+
+<p>&ldquo;I have stopped counting how many times I’ve done this from scratch&rdquo; &ndash; was one of the responses to the tweet about starting the project called Spring Cloud Pipelines. Every company sets up a pipeline from scratch. Every company creates some sort of automation to deploy its applications to servers. Enough is enough &ndash; time to automate that and focus on delivering business value.</p>
+
+<p>In this presentation we’ll go through the contents of the Spring Cloud Pipelines project. We’ll start a new project for which we’ll have a deployment pipeline set up in no time. We’ll deploy to Cloud Foundry and check if our application is backwards compatible so that we can roll it back on production.</p>
+
+<p><strong>UWAGA:</strong> prezentacja będzie po angielsku, pytania zadawać będziemy po polsku.</p>
+
+<p>PS: będzie to pierwsze wystąpienie z tą prezentacją :&ndash;) Bądźcie pierwszymi, którzy ją zobaczą :&ndash;)</p>
+
+<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/grzejszczak-marcin.jpg" /></p>
+
+<h4><a href="https://twitter.com/MGrzejszczak" target="_blank">Marcin Grzejszczak</a></h4>
+
+<p>Author of &ldquo;Mockito Instant&rdquo; and &ldquo;Mockito Cookbook&rdquo; books. OSS Contributor. Co-founder of the Warsaw Groovy User Group and Warsaw Cloud Native Meetup. Lead of Spring Cloud Sleuth, Spring Cloud Contract and Spring Cloud Pipelines projects at Pivotal. Contributed to Groovy, Mockito, Rest-assured, Drools, Moco. Author of Uptodate Gradle plugin, Spock subjects-collaborators extension, gradle-test-profiler, JSONAssert and XMLAssert open source projects. Github profile: <a href="https://github.com/marcingrzejszczak" target="_blank"><a href="https://github.com/marcingrzejszczak">https://github.com/marcingrzejszczak</a></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #30 [2017-02-22]]]></title>
@@ -259,59 +304,6 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 <h4><a href="https://twitter.com/pivovarit" target="_blank">Grzegorz Piwowarek</a></h4>
 
 <p>Is a senior software developer@TouK in Warsaw, senior technical editor@Baeldung, guitarist@VisionsOfTondal, professional yo-yo player and a former Mensa member. His professional experience ranges from backend web development and systems' integration to image recognition engines. Grzegorz is fascinated by the beauty of functional programming and recently helping in spreading the Javaslang word.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #26 [2016-10-26]]]></title>
-    <link href="http://torun.jug.pl/news/2016/10/09/spotkanie-26/"/>
-    <updated>2016-10-09T15:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/10/09/spotkanie-26</id>
-    <content type="html"><![CDATA[<p>Zapraszamy serdecznie na dwudzieste szóste spotkanie Toruń Java Users Group, które odbędzie się <strong>w&nbsp;środę, 26 października 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest <strong>wolny</strong>, obecność na wcześniejszych spotkaniach nie jest wymagana &ndash; pomiędzy spotkaniami nie ma żadnych zależności, do naszej społeczności można dołączyć w <strong>dowolnym</strong> momencie. Na spotkanie możesz przyjść bez rejestracji na portalu Meetup, jednak chcielibyśmy zachęcić Cię do  kliknięcia w RSVP &ndash; osoby, które <a href="http://www.meetup.com/Torun-JUG/events/234645553/" target="_blank">zapiszą się</a> na to spotkanie wezmą udział w losowaniu kilku cennych upominków.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/26/cover.png" />
-  </div>
-</div>
-
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>). Będzie można pogadać na najróżniejsze tematy, poznać się lepiej i napić najlepszego piwa w Toruniu :)</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/26/afterparty.png" />
-  </div>
-</div>
-
-
-<p><strong>UWAGA:</strong> Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
-
-<h3>FP vs. OOP</h3>
-
-<p>Chciałbym przedstawić moją odpowiedz na pytanie czy konflikt pomiędzy programowaniem funkcyjnym a obiektowym naprawdę istnieje. W tym celu opowiem o trendach w rozwoju języków programowania oraz sposobach obchodzenia ograniczeń narzuconych przez użycie danego języka. Dodatkowo zaprezentuję różnice w zarządzaniu stanem, obsłudze sytuacji wyjątkowych oraz programowaniu generycznym na wybranych przykładach.</p>
-
-<p>Prezentacja zawierać będzie kod w językach: Haskell, Scala oraz Java, okazyjnie pojawi się też F# i śladowe ilości teorii kategorii. Spróbuję także uzasadnić dlaczego powstały, powstają i raczej będą powstawać takie biblioteki takie jak javaslang, functionaljava czy fugue.</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/fejzer-mikolaj.jpg" /></p>
-
-<h4><a href="https://pl.linkedin.com/in/miko%C5%82aj-fejzer-04417391/en" target="_blank">Mikołaj Fejzer</a></h4>
-
-<p>Doktorant trudniący się użyciem uczenia maszynowego i eksploracji danych do wspomagania wytwarzania oprogramowania, entuzjasta programowania funkcyjnego. Zawodowo rozwija systemy płatnościowe oraz bankowe, obecnie w firmie 4Finance IT.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Introduction to functional programming in practice</h3>
-
-<p>Tym razem na deskach Toruńskiego JUGa pokażę jak programować funkcyjnie w praktyce. Będzie to live-coding w REPLu Clojure. Nie jest wymagane żadne doświadczenie w Clojure. Spróbujemy razem opowiedzieć historię i zapisać ją funkcjami. Zapraszam!</p>
-
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/kapala-pawel.jpg" /></p>
-
-<h4><a href="https://twitter.com/kapware" target="_blank">Paweł Kapała</a></h4>
-
-<p>Pragmatic coder @clojure, entrepreneur @kapware, married with JVM since 2006!</p>
 ]]></content>
   </entry>
   

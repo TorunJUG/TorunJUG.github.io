@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Spotkanie #31 [2017-03-29]"
+description: "Toruń JUG - Spotkanie #31 [2017-03-29]"
+date: 2017-03-10 06:30:00 +0100
+comments: true
+categories: Spotkania
+---
+Zapraszamy serdecznie na trzydzieste pierwsze spotkanie Toruń Java Users Group, które odbędzie się **w&nbsp;środę, 29 marca 2017 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK** (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).
+
+Wstęp na spotkanie jest **wolny**, obecność na wcześniejszych spotkaniach nie jest wymagana - pomiędzy spotkaniami nie ma żadnych zależności, do naszej społeczności można dołączyć w **dowolnym** momencie. Na spotkanie możesz przyjść bez rejestracji na portalu Meetup, jednak chcielibyśmy zachęcić Cię do  kliknięcia w RSVP - osoby, które <a href="http://www.meetup.com/Torun-JUG/events/237925389/" target="_blank">zapiszą się</a> na to spotkanie wezmą udział w losowaniu kilku cennych upominków.
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/meetings/31/cover.png" />
+  </div>
+</div>
+
+Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>). Będzie można pogadać na najróżniejsze tematy, poznać się lepiej i napić najlepszego piwa w Toruniu :)
+
+<div class="row text-center" style="margin-bottom:10px;">
+  <div class="col-md-12">
+    <img class="no-border" src="{{ root_url }}/images/meetings/31/afterparty.png" />
+  </div>
+</div>
+
+**UWAGA:** Sala S9 będzie otwarta **od godz. 17:30** - jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more -->
+
+### Continuous Deployment to the Cloud with Spring Cloud Pipelines
+"I have stopped counting how many times I’ve done this from scratch" - was one of the responses to the tweet about starting the project called Spring Cloud Pipelines. Every company sets up a pipeline from scratch. Every company creates some sort of automation to deploy its applications to servers. Enough is enough - time to automate that and focus on delivering business value.
+
+In this presentation we’ll go through the contents of the Spring Cloud Pipelines project. We’ll start a new project for which we’ll have a deployment pipeline set up in no time. We’ll deploy to Cloud Foundry and check if our application is backwards compatible so that we can roll it back on production.
+
+**UWAGA:** prezentacja będzie po angielsku, pytania zadawać będziemy po polsku.
+
+PS: będzie to pierwsze wystąpienie z tą prezentacją :-) Bądźcie pierwszymi, którzy ją zobaczą :-) 
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/grzejszczak-marcin.jpg" />
+#### <a href="https://twitter.com/MGrzejszczak" target="_blank">Marcin Grzejszczak</a>
+Author of "Mockito Instant" and "Mockito Cookbook" books. OSS Contributor. Co-founder of the Warsaw Groovy User Group and Warsaw Cloud Native Meetup. Lead of Spring Cloud Sleuth, Spring Cloud Contract and Spring Cloud Pipelines projects at Pivotal. Contributed to Groovy, Mockito, Rest-assured, Drools, Moco. Author of Uptodate Gradle plugin, Spock subjects-collaborators extension, gradle-test-profiler, JSONAssert and XMLAssert open source projects. Github profile: <a href="https://github.com/marcingrzejszczak" target="_blank">https://github.com/marcingrzejszczak</a>

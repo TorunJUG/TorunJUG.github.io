@@ -698,7 +698,8 @@
             {
                 "meetingNumber" : 30,
                 "title" : "Kalafiorem w JVM! - czyli eksperymenty z językiem Frege",
-                "slides" : "http://torun.jug.pl/materials/meetings/30/Kalafiorem_w_JVM_-_czyli_eksperymenty_z_jezykiem_Frege_by_Piotr_Skonieczka.pdf"
+                "slides" : "http://torun.jug.pl/materials/meetings/30/Kalafiorem_w_JVM_-_czyli_eksperymenty_z_jezykiem_Frege_by_Piotr_Skonieczka.pdf",
+                "youtube" : "https://www.youtube.com/watch?v=E76HC-OlrE4"
             }
         ]
     },
@@ -711,7 +712,8 @@
             {
                 "meetingNumber" : 30,
                 "title" : "Kanban na lodówce",
-                "slides" : "http://torun.jug.pl/materials/meetings/30/Kanban_na_lodowce_by_Michal_Bartyzel.pdf"
+                "slides" : "http://torun.jug.pl/materials/meetings/30/Kanban_na_lodowce_by_Michal_Bartyzel.pdf",
+                "youtube" : "https://www.youtube.com/watch?v=KIej-4T_n8I"
             }
         ]
     }

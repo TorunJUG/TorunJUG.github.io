@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-04-28T20:07:16+02:00</updated>
+  <updated>2017-04-28T21:16:07+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #32 [2017-04-26]]]></title>
+    <link href="http://torun.jug.pl/news/2017/04/12/spotkanie-32/"/>
+    <updated>2017-04-12T06:30:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2017/04/12/spotkanie-32</id>
+    <content type="html"><![CDATA[<p>Trzydzieste drugie spotkanie nadchodzi. Tym razem będzie mowa o <strong>Big Data</strong> i <strong>Asynchronous Communication</strong>. Szczegóły znajdziecie <a href="https://www.meetup.com/Torun-JUG/events/238825179/" target="_blank">na Meetupie</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #31 [2017-03-29]]]></title>
@@ -274,60 +283,6 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 <h4><a href="https://twitter.com/jnabrdalik" target="_blank">Jakub Nabrdalik</a></h4>
 
 <p>A software developer with 13 years of professional experience in IT, as an architect, programmer, designer, analyst, project leader, project manager, and even as a development department manager. 6 years of talks and workshops. Software Craftsmanship, Domain Design, Practicing Test-driven development and Spring. More at <a href="http://solidcraft.eu" target="_blank">solidcraft.eu</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie #27 [2016-11-30]]]></title>
-    <link href="http://torun.jug.pl/news/2016/11/07/spotkanie-27/"/>
-    <updated>2016-11-07T06:00:00+01:00</updated>
-    <id>http://torun.jug.pl/news/2016/11/07/spotkanie-27</id>
-    <content type="html"><![CDATA[<p>Zapraszamy serdecznie na dwudzieste siódme spotkanie Toruń Java Users Group, które odbędzie się <strong>w&nbsp;środę, 30 listopada 2016 roku w&nbsp;godzinach 18:00-20:00 w&nbsp;sali S9 na Wydziale Matematyki i Informatyki UMK</strong> (<a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Chopina 12/18</a>).</p>
-
-<p>Wstęp na spotkanie jest <strong>wolny</strong>, obecność na wcześniejszych spotkaniach nie jest wymagana &ndash; pomiędzy spotkaniami nie ma żadnych zależności, do naszej społeczności można dołączyć w <strong>dowolnym</strong> momencie. Na spotkanie możesz przyjść bez rejestracji na portalu Meetup, jednak chcielibyśmy zachęcić Cię do  kliknięcia w RSVP &ndash; osoby, które <a href="http://www.meetup.com/Torun-JUG/events/235344925/" target="_blank">zapiszą się</a> na to spotkanie wezmą udział w losowaniu kilku cennych upominków.</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/27/cover.png" />
-  </div>
-</div>
-
-
-<p>Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https://www.facebook.com/carpekraft/" target="_blank"><strong>Carpe Kraft</strong></a> (<a href="https://www.google.pl/maps/place/Carpe+Kraft+Toru%C5%84/@53.0120765,18.6028162,19z/data=!4m2!3m1!1s0x0000000000000000:0xd4a984360753f841?hl=pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span>ul. Plac Teatralny 7</a>). Będzie można pogadać na najróżniejsze tematy, poznać się lepiej i napić najlepszego piwa w Toruniu :)</p>
-
-<div class="row text-center" style="margin-bottom:10px;">
-  <div class="col-md-12">
-    <img class="no-border" src="/images/meetings/27/afterparty.png" />
-  </div>
-</div>
-
-
-<p><strong>UWAGA:</strong> Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
-
-<h3>Software estimation tips</h3>
-
-<p>Jak na andrzejkowy wieczór przystało, będzie o wróżeniu. Bo tę właśnie czynność przypominają często nasze próby wyestymowania czekających nas zadań. Opowiem dlaczego tak się dzieje i jak zastąpić praktyki okultystyczne metodami bardziej systematycznymi. Prostej recepty nie będzie, ale garść porad i wskazówek do wykorzystania zarówno w agile'owym jak i waterfallowym otoczeniu.</p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/jaworski-wojciech.png" /></p>
-
-<h4><a href="https://www.linkedin.com/in/wojciech-jaworski-0a42a94" target="_blank">Wojciech Jaworski</a></h4>
-
-<p>Programista Java od 10 lat, zwolennik czystego, efektywnego i testowalnego kodu. Czasem lubi zastanowić się nad poza-technologicznymi aspektami wytwarzania oprogramowania. Zawodowo rozwija systemy płatnościowe w 4Finance IT. I nigdy nie był u wróżki.</p>
-
-<p><span class="clearfix"></span></p>
-
-<h3>Javaslang &ndash; Functional Java Done Right</h3>
-
-<p>Java 8&rsquo;s lambdas empower us to create wonderful APIs. Javaslang lets us dive deeper into the world of functional programming by providing us with persistent data types, immutable collections, and functional control structures. The results are beautiful and do just work.
-During this presentation, we will recall Java8&rsquo;s downsides and explore how Javaslang&rsquo;s Scala-inspired features fill-in the gaps.</p>
-
-<p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
-
-<p><img class="no-border speaker-face" src="/images/speakers/piwowarek-grzegorz.jpg" /></p>
-
-<h4><a href="https://twitter.com/pivovarit" target="_blank">Grzegorz Piwowarek</a></h4>
-
-<p>Is a senior software developer@TouK in Warsaw, senior technical editor@Baeldung, guitarist@VisionsOfTondal, professional yo-yo player and a former Mensa member. His professional experience ranges from backend web development and systems' integration to image recognition engines. Grzegorz is fascinated by the beauty of functional programming and recently helping in spreading the Javaslang word.</p>
 ]]></content>
   </entry>
   

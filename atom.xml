@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-04-28T20:07:16+02:00</updated>
+  <updated>2017-04-28T21:16:07+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,93 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie trzydziestego drugiego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2017/04/28/podsumowanie-trzydziestego-drugiego-spotkania/"/>
+    <updated>2017-04-28T20:30:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2017/04/28/podsumowanie-trzydziestego-drugiego-spotkania</id>
+    <content type="html"><![CDATA[<h4>Wydarzenie</h4>
+
+<ul>
+<li><a href="http://torun.jug.pl/meeting/32/">odbyło się 26 kwietnia</a></li>
+</ul>
+
+
+<h4>Ankieta</h4>
+
+<ul>
+<li><a href="http://bit.ly/32-spotkanie-Torun-JUG-ankieta">z prośbą o wypełnienie</a></li>
+</ul>
+
+
+<h4>Zdjęcia</h4>
+
+<ul>
+<li><a href="https://www.meetup.com/Torun-JUG/photos/27806300/">na Meetupie</a></li>
+</ul>
+
+
+<h4>Pliki</h4>
+
+<ul>
+<li><a href="http://nurkiewicz.github.io/talks/2017/async/">Slajdy z prezentacji Tomasza Nurkiewicza</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #32 [2017-04-26]]]></title>
+    <link href="http://torun.jug.pl/news/2017/04/12/spotkanie-32/"/>
+    <updated>2017-04-12T06:30:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2017/04/12/spotkanie-32</id>
+    <content type="html"><![CDATA[<p>Trzydzieste drugie spotkanie nadchodzi. Tym razem będzie mowa o <strong>Big Data</strong> i <strong>Asynchronous Communication</strong>. Szczegóły znajdziecie <a href="https://www.meetup.com/Torun-JUG/events/238825179/" target="_blank">na Meetupie</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie trzydziestego pierwszego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2017/03/31/podsumowanie-trzydziestego-pierwszego-spotkania/"/>
+    <updated>2017-03-31T16:30:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2017/03/31/podsumowanie-trzydziestego-pierwszego-spotkania</id>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/meeting/31/">trzydzieste pierwsze</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: dwóm Wojtkom, Krzyśkowi, Miłoszowi i Sławkowi za zgłoszenie swojej gotowości w trybie awaryjnym i wygłoszenie swoich prelekcji w zastępstwie &ldquo;kontuzjowanego&rdquo; Marcina. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+
+<p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft</p>
+
+<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="http://bit.ly/31-spotkanie-Torun-JUG-ankieta" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
+
+<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/TorunJUG/photos/?tab=album&album_id=1887301164826701" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27731999/" target="_blank">Meetupie</a>.</p>
+
+<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
+
+<ul>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/31/Testowanie_wydajnosci_kodu_za_pomoca_narzedzia_JMH_by_Wojciech_Oczkowski.pptx" target="_blank">
+      <em>Testowanie wydajności kodu za pomocą narzędzia JMH</em></a> (slajdy z&nbsp;prezentacji Wojciecha Oczkowskiego)
+  </li>
+  <li>
+    <a href="http://torun.jug.pl/materials/meetings/31/Evil_Java.tar.gz" target="_blank">
+      Link do kodu źródłowego prezentowanego przez Sławka</a>
+  </li>
+  <li>
+    <a href="https://github.com/RemboL" target="_blank">
+      Konto GitHub Miłosza, na którym znajdziecie jego przykłady wykorzystania jMonkeyEngine</a>
+  </li>
+  <li>
+    <a href="https://aws.amazon.com/lambda/" target="_blank">
+      Namiary na narzędzie, o którym opowiadał Wojtek Orzechowski (AWS Lambda)</a>
+  </li>
+</ul>
+
+
+<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
+
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+
+<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #31 [2017-03-29]]]></title>
@@ -104,7 +191,7 @@
   </li>
   <li>
     <a href="https://github.com/phiotr/JUG30--Examples">
-      <em>Link do kodu źródłowego używanego przez Piotra</em></a>
+      Link do kodu źródłowego używanego przez Piotra</a>
   </li>
   <li>
     <a href="http://torun.jug.pl/materials/meetings/30/Kanban_na_lodowce_by_Michal_Bartyzel.pdf">
@@ -858,100 +945,6 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 <p>He has taught programming at The Royal Institute of Technology, KTH, one of the leading technical universities in Sweden. Thomas has developed an obsession for technical excellence that translates to software craftsmanship, clean code, test automation and continuous deployment. Definition of done according to Thomas is working software, in production.</p>
 
 <p>He runs a blog where he writes about programming, software craftsmanship, tdd, bdd and whatever problem he wants to share a solution for. It can be found at <a href="http://www.thinkcode.se/blog" target="_blank">thinkcode.se/blog</a> Thomas tweets as <a href="https://twitter.com/thomassundberg" target="_blank">@thomassundberg</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TorunJUG.getSrc() // [#3] Xenia Development // [2016-06-25]]]></title>
-    <link href="http://torun.jug.pl/news/2016/06/16/torunjug-getsrc-3/"/>
-    <updated>2016-06-16T06:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/06/16/torunjug-getsrc-3</id>
-    <content type="html"><![CDATA[<p>Wspólnie z <a href="http://blpoland.com/torun/" target="_blank">Business Link Toruń</a> mamy przyjemność zaprosić na trzecie wydarzenie z cyklu <strong>TorunJUG.getSrc()</strong>. Jest to inicjatywa, która ma na celu zachęcić i pobudzić naszą lokalną JUGową społeczność do wspólnej pracy przy projektach open source.</p>
-
-<p>Spotkanie odbędzie się <strong>w sobotę 25 czerwca 2016 roku</strong> w godzinach <strong>16:00-20:00</strong> w siedzibie Business Link Toruń przy <a href="https://maps.google.com/maps?f=q&hl=en&q=ul.+W%C5%82adys%C5%82awa+%C5%81okietka+5%2C+Torun%2C+pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span><strong>ulicy Władysława Łokietka 5</strong></a>.</p>
-
-<p>Zamiast gadać o technologiach, będziemy wspólnie kodować. Już od pierwszego spotkania ruszyliśmy z kopyta i na celownik wzięliśmy aplikację, której używamy podczas naszych regularnych spotkań &ndash; Xenię. Jest to aplikacja, która powstała podczas <a href="http://torun.jug.pl/news/2014/09/07/podsumowanie-pierwszego-hackathornu/">pierwszego Hackathornu</a> i która od tamtego czasu nie przechodziła zbyt wielu aktualizacji. Wspólnymi siłami chcemy przygotować kilka fajnych i użytecznych ficzerów. Wstępną listę rzeczy do zrobienia znajdziecie na specjalnie przygotowanej do tego tablicy <a href="https://trello.com/invite/b/LicUDCaH/7ec11017d8c4148473e554d05e63ffc5/xenia-development" target="_blank">Trello</a>. <!-- more --></p>
-
-<p>Aplikację Xenia można pobrać z GitHuba:</p>
-
-<ul>
-<li><a href="https://github.com/TorunJUG/xenia-api">https://github.com/TorunJUG/xenia-api</a> (backend aplikacji)</li>
-<li><a href="https://github.com/TorunJUG/xenia-ng">https://github.com/TorunJUG/xenia-ng</a> (frontend aplikacji)</li>
-</ul>
-
-
-<p><strong>UWAGA!</strong> Zapisy na to wydarzenie <strong><a href="http://www.meetup.com/Torun-JUG/events/231907372/" target="_blank">rozpoczną się w czwartek 16 czerwca o godz. 20:00</a></strong>. O wydarzeniu informujemy jednak wcześniej, aby każdy zainteresowany mógł sobie zarezerwować czas na sobotę. Liczba uczestników tego spotkania jest ograniczona do <strong>12</strong>-tu. Będzie to pierwsze, ale nie ostanie spotkanie tego typu. Wspólnie z Business Link Toruń zależy nam na zrobieniu z <strong>TorunJUG.getSrc()</strong> cyklicznego wydarzenia, które na stałe wpisze się do kalendarza toruńskich imprez o charakterze programistycznym.</p>
-
-<p><strong>Na spotkania TorunJUG.getSrc() każdy przychodzi z własnym laptopem. Na miejscu będzie dostęp do WiFi oraz listw zasilających. Każdy powinien przyjść z wcześniej skonfigurowanym IDE (IntelliJ IDEA, Eclipse, NetBeans). Namiary na kody źródłowe projektów, którymi będziemy się zajmować będą zawsze podawane z wyprzedzeniem &ndash; warto już wcześniej zrobić fork wskazanego repozytorium i przygotować sobie środowisko do pracy.</strong></p>
-
-<p>Pod <a href="http://i.imgur.com/sgTdx5H.png" target="_blank">tym linkiem</a> znajdziecie pomocniczą mapkę dojazdową do Business Link Toruń wraz zaznaczonymi miejscami parkingowymi.</p>
-
-<p>Jeśli macie jakiekolwiek pytania odnośnie wydarzenia lub coś jest niewystarczająco jasno zakomunikowane, piszcie proszę w komentarzach.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nagranie z dwudziestego trzeciego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2016/06/13/nagranie-z-dwudziestego-trzeciego-spotkania/"/>
-    <updated>2016-06-13T14:15:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/06/13/nagranie-z-dwudziestego-trzeciego-spotkania</id>
-    <content type="html"><![CDATA[<p>Na stronie <a href="http://tv.umk.pl/?id=3127" target="_blank">UMK TV</a> pojawiło się dzisiaj nagranie <a href="http://torun.jug.pl/meeting/23/">dwudziestego trzeciego spotkania</a> naszej grupy. Można je obejrzeć poniżej.</p>
-
-<div class="row text-center" style="margin-top: 10px; margin-bottom: 10px;">
-  <div class="col-md-12">
-    <object type="application/x-shockwave-flash" data="http://tv.umk.pl/extp/ExtPlayer.swf" width="640" height="379">
-      <param name="movie" value="http://tv.umk.pl/extp/ExtPlayer.swf"/>
-      <param name="allowScriptAccess" value="always" />
-      <param name="flashVars" value="movieID=3127&amp;width=640" />
-    </object>
-  </div>
-</div>
-
-
-<p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
-
-<p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie dwudziestego trzeciego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2016/05/28/podsumowanie-dwudziestego-trzeciego-spotkania/"/>
-    <updated>2016-05-28T21:30:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/05/28/podsumowanie-dwudziestego-trzeciego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/meeting/23/">dwudzieste trzecie</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się Nakulowi za przedstawienie koncepcji mikroserwisów i Wojtkowi, za zaprezentowanie jak radzić sobie z integracją istniejących serwisów. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
-
-<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="http://bit.ly/23-spotkanie-Torun-JUG-ankieta" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/TorunJUG/photos/?tab=album&album_id=1762353977321421" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/26995723/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-    <li>
-    <a href="http://torun.jug.pl/materials/meetings/23/Microservices_–_applied_by_Nakul_Mishra.pdf" target="_blank">
-      <em>Microservices – applied</em></a> (slajdy z&nbsp;prezentacji Nakula Mishra)
-  </li>
-  <li>
-    <a href="https://github.com/nklmish/microservice-demo" target="_blank">Kod źródłowy wykorzystywany przez Nakula podczas prezentacji</a>
-  </li>
-  <li>
-    <a href="http://www.slideshare.net/WojciechOczkowski/apache-camel-62482178" target="_blank">
-      <em>Integracja systemów i usług z wykorzystaniem Apache Camel w środowisku ServiceMix</em></a> (slajdy z&nbsp;prezentacji Wojciecha Oczkowskiego)
-  </li>
-  <li>
-    <a href="https://github.com/woczkowski/camel-demo" target="_blank">Kod źródłowy wykorzystywany przez Wojtka podczas prezentacji</a>
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
   </entry>
   

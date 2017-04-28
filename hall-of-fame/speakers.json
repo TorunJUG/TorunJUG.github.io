@@ -415,7 +415,8 @@
             },
             {
                 "meetingNumber" : 31,
-                "title" : "Testowanie wydajności kodu za pomocą narzędzia JMH"
+                "title" : "Testowanie wydajności kodu za pomocą narzędzia JMH",
+                "slides" : "http://torun.jug.pl/materials/meetings/31/Testowanie_wydajnosci_kodu_za_pomoca_narzedzia_JMH_by_Wojciech_Oczkowski.pptx"
             }
         ]
     },
@@ -749,6 +750,31 @@
             {
                 "meetingNumber" : 31,
                 "title" : "jMonkeyEngine - Java 3D dla leniwych"
+            }
+        ]
+    },
+    {
+        "name" : "Mariusz Strzelecki",
+        "img" : "strzelecki-mariusz.jpg",
+        "twitter" : "marstrzelecki",
+        "lastMeeting": 32,
+        "talks" : [
+            {
+                "meetingNumber" : 32,
+                "title" : "Duże dane, mały budżet"
+            }
+        ]
+    },
+    {
+        "name" : "Tomasz Nurkiewicz",
+        "img" : "nurkiewicz-tomasz.jpg",
+        "twitter" : "tnurkiewicz",
+        "lastMeeting": 32,
+        "talks" : [
+            {
+                "meetingNumber" : 32,
+                "title" : "Asynchronous by default, synchronous when necessary",
+                "slides" : "http://nurkiewicz.github.io/talks/2017/async/"
             }
         ]
     }

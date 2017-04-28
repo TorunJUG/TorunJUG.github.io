@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-03-22T22:07:39+01:00</updated>
+  <updated>2017-04-28T20:07:16+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -24,7 +24,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/31/cover.png" />
+    <img class="no-border" src="/images/meetings/31/cover.png" />
   </div>
 </div>
 
@@ -33,28 +33,52 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/31/afterparty.png" />
+    <img class="no-border" src="/images/meetings/31/afterparty.png" />
   </div>
 </div>
 
 
 <p><strong>UWAGA:</strong> Sala S9 będzie otwarta <strong>od godz. 17:30</strong> &ndash; jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more --></p>
 
-<h3>Continuous Deployment to the Cloud with Spring Cloud Pipelines</h3>
+<h3><del>Continuous Deployment to the Cloud with Spring Cloud Pipelines</del></h3>
 
-<p>&ldquo;I have stopped counting how many times I’ve done this from scratch&rdquo; &ndash; was one of the responses to the tweet about starting the project called Spring Cloud Pipelines. Every company sets up a pipeline from scratch. Every company creates some sort of automation to deploy its applications to servers. Enough is enough &ndash; time to automate that and focus on delivering business value.</p>
+<p><del>&ldquo;I have stopped counting how many times I’ve done this from scratch&rdquo; &ndash; was one of the responses to the tweet about starting the project called Spring Cloud Pipelines. Every company sets up a pipeline from scratch. Every company creates some sort of automation to deploy its applications to servers. Enough is enough &ndash; time to automate that and focus on delivering business value.</del></p>
 
-<p>In this presentation we’ll go through the contents of the Spring Cloud Pipelines project. We’ll start a new project for which we’ll have a deployment pipeline set up in no time. We’ll deploy to Cloud Foundry and check if our application is backwards compatible so that we can roll it back on production.</p>
+<p><del>In this presentation we’ll go through the contents of the Spring Cloud Pipelines project. We’ll start a new project for which we’ll have a deployment pipeline set up in no time. We’ll deploy to Cloud Foundry and check if our application is backwards compatible so that we can roll it back on production.</del></p>
 
-<p><strong>UWAGA:</strong> prezentacja będzie po angielsku, pytania zadawać będziemy po polsku.</p>
+<p><del><strong>UWAGA:</strong> prezentacja będzie po angielsku, pytania zadawać będziemy po polsku.</del></p>
 
-<p>PS: będzie to pierwsze wystąpienie z tą prezentacją :&ndash;) Bądźcie pierwszymi, którzy ją zobaczą :&ndash;)</p>
+<p><del>PS: będzie to pierwsze wystąpienie z tą prezentacją :&ndash;) Bądźcie pierwszymi, którzy ją zobaczą :&ndash;) </del></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/grzejszczak-marcin.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/grzejszczak-marcin.jpg" /></p>
 
-<h4><a href="https://twitter.com/MGrzejszczak" target="_blank">Marcin Grzejszczak</a></h4>
+<h4><del><a href="https://twitter.com/MGrzejszczak" target="_blank">Marcin Grzejszczak</a></del></h4>
 
-<p>Author of &ldquo;Mockito Instant&rdquo; and &ldquo;Mockito Cookbook&rdquo; books. OSS Contributor. Co-founder of the Warsaw Groovy User Group and Warsaw Cloud Native Meetup. Lead of Spring Cloud Sleuth, Spring Cloud Contract and Spring Cloud Pipelines projects at Pivotal. Contributed to Groovy, Mockito, Rest-assured, Drools, Moco. Author of Uptodate Gradle plugin, Spock subjects-collaborators extension, gradle-test-profiler, JSONAssert and XMLAssert open source projects. Github profile: <a href="https://github.com/marcingrzejszczak" target="_blank"><a href="https://github.com/marcingrzejszczak">https://github.com/marcingrzejszczak</a></a></p>
+<p><del>Author of &ldquo;Mockito Instant&rdquo; and &ldquo;Mockito Cookbook&rdquo; books. OSS Contributor. Co-founder of the Warsaw Groovy User Group and Warsaw Cloud Native Meetup. Lead of Spring Cloud Sleuth, Spring Cloud Contract and Spring Cloud Pipelines projects at Pivotal. Contributed to Groovy, Mockito, Rest-assured, Drools, Moco. Author of Uptodate Gradle plugin, Spock subjects-collaborators extension, gradle-test-profiler, JSONAssert and XMLAssert open source projects. Github profile: <a href="https://github.com/marcingrzejszczak" target="_blank"><a href="https://github.com/marcingrzejszczak">https://github.com/marcingrzejszczak</a></a></del></p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Testowanie wydajności kodu za pomocą narzędzia JMH</h3>
+
+<p>W prezentacji pokażę jak wykorzystać narzędzie JMH do budowy microbenchmarków testujących wydajność zadanych kawałków kodu. Nabyte umiejętności pozwolą słuchaczom sprawdzić wydajność wybranych fragmentów kodu bez niebezpieczeństwa popełnienia, typowych dla tego typu testowania, błędów związanych z np. wygrzewaniem maszyny wirtualnej czy działalnością garbage collectora.</p>
+
+<p><img class="no-border speaker-face" src="/images/speakers/oczkowski-wojciech.jpg" /></p>
+
+<h4><a href="https://twitter.com/WOczkowski" target="_blank">Wojciech Oczkowski</a></h4>
+
+<p>Prowadzący własną działalność specjalista do spraw trudnych, zawodowo rozwiązuje problemy związane z projektowaniem architektury systemów, integracją, wydajnością i jakością kodu. Znajduje obsesyjną wręcz przyjemność w wynajdowaniu sensu w cudzym kodzie. Prywatnie rozwiązuje problemy związane z wychowaniem 2 dzieciaków i znajdowaniem czasu na żeglowanie i czytanie literatury fantastycznej. Jeden z liderów i założycieli Bydgoszcz JUG.</p>
+
+<p><span class="clearfix"></span></p>
+
+<h3>Sesja lighting talków</h3>
+
+<ol>
+<li><a href="https://twitter.com/krzpob" target="_blank">Krzysztof Pobożan</a> &ndash; &ldquo;Jak pisać historyjki&rdquo;</li>
+<li><a href="https://www.linkedin.com/in/wojciech-orzechowski-69783465/" target="_blank">Wojciech Orzechowski</a> &ndash; &ldquo;AWS Lambda &ndash; chmura to nie wirtualka gdzieś w serwerowni&rdquo;</li>
+<li><a href="https://www.linkedin.com/in/mi%C5%82osz-rembisz-90b8b458/" target="_blank">Miłosz Rembisz</a> &ndash; &ldquo;jMonkeyEngine &ndash; Java 3D dla leniwych&rdquo;</li>
+<li><a href="https://twitter.com/sentinelatteo" target="_blank">Sławek Piotrowski</a> &ndash; &ldquo;Java &ndash; Evil Edition&rdquo;</li>
+</ol>
+
 ]]></content>
   </entry>
   
@@ -69,7 +93,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/30/cover.png" />
+    <img class="no-border" src="/images/meetings/30/cover.png" />
   </div>
 </div>
 
@@ -78,7 +102,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/30/afterparty.png" />
+    <img class="no-border" src="/images/meetings/30/afterparty.png" />
   </div>
 </div>
 
@@ -93,7 +117,7 @@
 
 <p>Zapraszam.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/skonieczka-piotr.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/skonieczka-piotr.jpg" /></p>
 
 <h4><a href="https://www.linkedin.com/in/piotr-skonieczka-448927102" target="_blank">Piotr Skonieczka</a></h4>
 
@@ -109,7 +133,7 @@
 
 <p>Ten zabieg zmiany kontekstu posłuży nam do niezwykle ważnej rzeczy: do nazwania wartości stojących za agile oraz jego fundamentalnych zasad. Zobaczysz jak agile może zmienić z pozoru nudne czynności niesamowitą przygodę.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/bartyzel-michal.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/bartyzel-michal.jpg" /></p>
 
 <h4><a href="https://twitter.com/MichalBartyzel" target="_blank">Michał Bartyzel</a></h4>
 
@@ -132,7 +156,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/29/allegro.png" />
+    <img class="no-border" src="/images/meetings/29/allegro.png" />
   </div>
 </div>
 
@@ -144,7 +168,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/29/cover.png" />
+    <img class="no-border" src="/images/meetings/29/cover.png" />
   </div>
 </div>
 
@@ -153,7 +177,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/29/afterparty.png" />
+    <img class="no-border" src="/images/meetings/29/afterparty.png" />
   </div>
 </div>
 
@@ -166,7 +190,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>PS. Ta prezentacja będzie raczej rozwinięciem niż kopią prezentacji z JUGu w Bydgoszczy, więc zapraszam również Bydgoszczaków :)</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/muchewicz-krzysztof.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/muchewicz-krzysztof.jpg" /></p>
 
 <h4><a href="https://twitter.com/KrzyMucha" target="_blank">Krzysztof Muchewicz</a></h4>
 
@@ -184,7 +208,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>Tę prezentację sponsoruje -XX:+PrintCompliation, -XX:+PrintInlining, -XX:+PrintInterpreter oraz hsdis.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/palka-jaroslaw.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/palka-jaroslaw.jpg" /></p>
 
 <h4><a href="https://twitter.com/j_palka" target="_blank">Jarek Pałka</a></h4>
 
@@ -203,7 +227,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/28/cover.png" />
+    <img class="no-border" src="/images/meetings/28/cover.png" />
   </div>
 </div>
 
@@ -212,7 +236,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/28/afterparty.png" />
+    <img class="no-border" src="/images/meetings/28/afterparty.png" />
   </div>
 </div>
 
@@ -223,7 +247,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>Pogadajmy o freelancingu. Bez mędrkowania, teoretyzowania oraz prób ewangelizacji. W trakcie tej 45-minutowej dyskusji z prezentacją w tle chciałbym podzielić się z Wami tym, czego doświadczyłem i nauczyłem się przez ostatnie 2,5 roku &ndash; począwszy od ostatnich miesięcy spędzonych na etacie po dzień dzisiejszy. Opowiem o motywacjach, obawach, sukcesach i porażkach. Spróbuję obalić niektóre mity dotyczące freelancingu i pracy na własną rękę. W prezentacji pojawi się również kilka bardziej uniwersalnych wniosków, które mogą okazać się pomocne także dla tych z Was, którzy nie planują wiązać swojej kariery z freelancingiem.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/stepniak-szymon.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/stepniak-szymon.jpg" /></p>
 
 <h4><a href="https://twitter.com/wololock" target="_blank">Szymon Stępniak</a></h4>
 
@@ -245,7 +269,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/nabrdalik-jakub.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/nabrdalik-jakub.jpg" /></p>
 
 <h4><a href="https://twitter.com/jnabrdalik" target="_blank">Jakub Nabrdalik</a></h4>
 
@@ -264,7 +288,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/27/cover.png" />
+    <img class="no-border" src="/images/meetings/27/cover.png" />
   </div>
 </div>
 
@@ -273,7 +297,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/27/afterparty.png" />
+    <img class="no-border" src="/images/meetings/27/afterparty.png" />
   </div>
 </div>
 
@@ -284,7 +308,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>Jak na andrzejkowy wieczór przystało, będzie o wróżeniu. Bo tę właśnie czynność przypominają często nasze próby wyestymowania czekających nas zadań. Opowiem dlaczego tak się dzieje i jak zastąpić praktyki okultystyczne metodami bardziej systematycznymi. Prostej recepty nie będzie, ale garść porad i wskazówek do wykorzystania zarówno w agile'owym jak i waterfallowym otoczeniu.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/jaworski-wojciech.png" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/jaworski-wojciech.png" /></p>
 
 <h4><a href="https://www.linkedin.com/in/wojciech-jaworski-0a42a94" target="_blank">Wojciech Jaworski</a></h4>
 
@@ -299,7 +323,7 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 
 <p><em style="display:block;margin-bottom:32px;"><b>UWAGA:</b> pomimo angielskiego opisu, prezentacja będzie po polsku.</em></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/piwowarek-grzegorz.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/piwowarek-grzegorz.jpg" /></p>
 
 <h4><a href="https://twitter.com/pivovarit" target="_blank">Grzegorz Piwowarek</a></h4>
 

@@ -3,7 +3,7 @@
         "name" : "Sławek Piotrowski",
         "img" : "piotrowski-slawek.jpg",
         "twitter" : "sentinelatteo",
-        "lastMeeting": 25,
+        "lastMeeting": 31,
         "talks" : [
             {
                 "meetingNumber" : 1,
@@ -22,6 +22,10 @@
                 "title" : "Nowoczesne techniki dostarczania oprogramowania",
                 "slides" : "http://torun.jug.pl/materials/meetings/25/Nowoczesne_techniki_dostarczania_oprogramowania_by_Slawek_Piotrowski.pdf",
                 "youtube" : "https://www.youtube.com/watch?v=NniEiQ9nxLw"
+            },
+            {
+                "meetingNumber" : 31,
+                "title" : "Java - Evil Edition"
             }
         ]
     },
@@ -394,7 +398,8 @@
     {
         "name" : "Wojciech Oczkowski",
         "img" : "oczkowski-wojciech.jpg",
-        "lastMeeting": 23,
+        "twitter" : "WOczkowski",
+        "lastMeeting": 31,
         "talks" : [
             {
                 "meetingNumber" : 13,
@@ -407,6 +412,10 @@
                 "title" : "Integracja systemów i usług z wykorzystaniem Apache Camel w środowisku ServiceMix",
                 "slides" : "http://www.slideshare.net/WojciechOczkowski/apache-camel-62482178",
                 "youtube" : "https://www.youtube.com/watch?v=qkvRGxURnBA"
+            },
+            {
+                "meetingNumber" : 31,
+                "title" : "Testowanie wydajności kodu za pomocą narzędzia JMH"
             }
         ]
     },
@@ -626,12 +635,16 @@
         "name" : "Krzysztof Pobożan",
         "img" : "pobozan-krzysztof.jpg",
         "twitter" : "krzpob",
-        "lastMeeting": 24,
+        "lastMeeting": 31,
         "talks" : [
             {
                 "meetingNumber" : 24,
                 "title" : "Żywa dokumentacja RESTa",
                 "youtube" : "https://www.youtube.com/watch?v=3lFvUF4Js8c"
+            },
+            {
+                "meetingNumber" : 31,
+                "title" : "Jak pisać historyjki"
             }
         ]
     },
@@ -714,6 +727,28 @@
                 "title" : "Kanban na lodówce",
                 "slides" : "http://torun.jug.pl/materials/meetings/30/Kanban_na_lodowce_by_Michal_Bartyzel.pdf",
                 "youtube" : "https://www.youtube.com/watch?v=KIej-4T_n8I"
+            }
+        ]
+    },
+    {
+        "name" : "Wojciech Orzechowski",
+        "img" : "orzechowski-wojciech.jpg",
+        "lastMeeting": 31,
+        "talks" : [
+            {
+                "meetingNumber" : 31,
+                "title" : "AWS Lambda - chmura to nie wirtualka gdzieś w serwerowni"
+            }
+        ]
+    },
+    {
+        "name" : "Miłosz Rembisz",
+        "img" : "rembisz-milosz.jpg",
+        "lastMeeting": 31,
+        "talks" : [
+            {
+                "meetingNumber" : 31,
+                "title" : "jMonkeyEngine - Java 3D dla leniwych"
             }
         ]
     }

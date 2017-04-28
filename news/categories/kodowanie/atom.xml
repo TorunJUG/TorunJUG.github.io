@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Kodowanie | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/kodowanie/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-03-22T22:07:39+01:00</updated>
+  <updated>2017-04-28T20:07:16+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -22,7 +22,7 @@
 
 <p>Spotkanie odbędzie się <strong>w sobotę 25 czerwca 2016 roku</strong> w godzinach <strong>16:00-20:00</strong> w siedzibie Business Link Toruń przy <a href="https://maps.google.com/maps?f=q&hl=en&q=ul.+W%C5%82adys%C5%82awa+%C5%81okietka+5%2C+Torun%2C+pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span><strong>ulicy Władysława Łokietka 5</strong></a>.</p>
 
-<p>Zamiast gadać o technologiach, będziemy wspólnie kodować. Już od pierwszego spotkania ruszyliśmy z kopyta i na celownik wzięliśmy aplikację, której używamy podczas naszych regularnych spotkań &ndash; Xenię. Jest to aplikacja, która powstała podczas <a href="{{ root_url }}/news/2014/09/07/podsumowanie-pierwszego-hackathornu/">pierwszego Hackathornu</a> i która od tamtego czasu nie przechodziła zbyt wielu aktualizacji. Wspólnymi siłami chcemy przygotować kilka fajnych i użytecznych ficzerów. Wstępną listę rzeczy do zrobienia znajdziecie na specjalnie przygotowanej do tego tablicy <a href="https://trello.com/invite/b/LicUDCaH/7ec11017d8c4148473e554d05e63ffc5/xenia-development" target="_blank">Trello</a>. <!-- more --></p>
+<p>Zamiast gadać o technologiach, będziemy wspólnie kodować. Już od pierwszego spotkania ruszyliśmy z kopyta i na celownik wzięliśmy aplikację, której używamy podczas naszych regularnych spotkań &ndash; Xenię. Jest to aplikacja, która powstała podczas <a href="/news/2014/09/07/podsumowanie-pierwszego-hackathornu/">pierwszego Hackathornu</a> i która od tamtego czasu nie przechodziła zbyt wielu aktualizacji. Wspólnymi siłami chcemy przygotować kilka fajnych i użytecznych ficzerów. Wstępną listę rzeczy do zrobienia znajdziecie na specjalnie przygotowanej do tego tablicy <a href="https://trello.com/invite/b/LicUDCaH/7ec11017d8c4148473e554d05e63ffc5/xenia-development" target="_blank">Trello</a>. <!-- more --></p>
 
 <p>Aplikację Xenia można pobrać z GitHuba:</p>
 
@@ -51,7 +51,7 @@
 
 <p>Spotkanie odbędzie się <strong>w sobotę 14 maja 2016 roku</strong> w godzinach <strong>16:00-20:00</strong> w siedzibie Business Link Toruń przy <a href="https://maps.google.com/maps?f=q&hl=en&q=ul.+W%C5%82adys%C5%82awa+%C5%81okietka+5%2C+Torun%2C+pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span><strong>ulicy Władysława Łokietka 5</strong></a>.</p>
 
-<p>Zamiast gadać o technologiach, będziemy wspólnie kodować. Już od pierwszego spotkania ruszyliśmy z kopyta i na celownik wzięliśmy aplikację, której używamy podczas naszych regularnych spotkań &ndash; Xenię. Jest to aplikacja, która powstała podczas <a href="{{ root_url }}/news/2014/09/07/podsumowanie-pierwszego-hackathornu/">pierwszego Hackathornu</a> i która od tamtego czasu nie przechodziła zbyt wielu aktualizacji. Chcielibyśmy wspólnymi siłami przygotować kilka fajnych i użytecznych ficzerów. Wstępną listę rzeczy do zrobienia znajdziecie na specjalnie przygotowanej do tego tablicy <a href="https://trello.com/invite/b/LicUDCaH/7ec11017d8c4148473e554d05e63ffc5/xenia-development" target="_blank">Trello</a>. <!-- more --></p>
+<p>Zamiast gadać o technologiach, będziemy wspólnie kodować. Już od pierwszego spotkania ruszyliśmy z kopyta i na celownik wzięliśmy aplikację, której używamy podczas naszych regularnych spotkań &ndash; Xenię. Jest to aplikacja, która powstała podczas <a href="/news/2014/09/07/podsumowanie-pierwszego-hackathornu/">pierwszego Hackathornu</a> i która od tamtego czasu nie przechodziła zbyt wielu aktualizacji. Chcielibyśmy wspólnymi siłami przygotować kilka fajnych i użytecznych ficzerów. Wstępną listę rzeczy do zrobienia znajdziecie na specjalnie przygotowanej do tego tablicy <a href="https://trello.com/invite/b/LicUDCaH/7ec11017d8c4148473e554d05e63ffc5/xenia-development" target="_blank">Trello</a>. <!-- more --></p>
 
 <p>Aplikację Xenia można pobrać z GitHuba:</p>
 
@@ -80,7 +80,7 @@
 
 <p>Spotkanie odbędzie się <strong>2 kwietnia 2016 roku</strong> w godzinach <strong>11:00-15:00</strong> w siedzibie Business Link Toruń przy <a href="https://maps.google.com/maps?f=q&hl=en&q=ul.+W%C5%82adys%C5%82awa+%C5%81okietka+5%2C+Torun%2C+pl" target="_blank"><span class="glyphicon glyphicon-map-marker"></span><strong>ulicy Władysława Łokietka 5</strong></a>.</p>
 
-<p>Zamiast gadać o technologiach, będziemy wspólnie kodować. Już od pierwszego spotkania chcemy ruszyć z kopyta, dlatego na celownik bierzemy aplikację, której używamy podczas naszych regularnych spotkań &ndash; Xenię. Jest to aplikacja, która powstała podczas <a href="{{ root_url }}/news/2014/09/07/podsumowanie-pierwszego-hackathornu/">pierwszego Hackathornu</a> i która od tamtego czasu nie przechodziła zbyt wielu aktualizacji. Chcielibyśmy wspólnymi siłami przygotować kilka fajnych i użytecznych ficzerów. Wstępną listę rzeczy do zrobienia znajdziecie na specjalnie przygotowanej do tego tablicy <a href="https://trello.com/invite/b/LicUDCaH/7ec11017d8c4148473e554d05e63ffc5/xenia-development" target="_blank">Trello</a>. <!-- more --></p>
+<p>Zamiast gadać o technologiach, będziemy wspólnie kodować. Już od pierwszego spotkania chcemy ruszyć z kopyta, dlatego na celownik bierzemy aplikację, której używamy podczas naszych regularnych spotkań &ndash; Xenię. Jest to aplikacja, która powstała podczas <a href="/news/2014/09/07/podsumowanie-pierwszego-hackathornu/">pierwszego Hackathornu</a> i która od tamtego czasu nie przechodziła zbyt wielu aktualizacji. Chcielibyśmy wspólnymi siłami przygotować kilka fajnych i użytecznych ficzerów. Wstępną listę rzeczy do zrobienia znajdziecie na specjalnie przygotowanej do tego tablicy <a href="https://trello.com/invite/b/LicUDCaH/7ec11017d8c4148473e554d05e63ffc5/xenia-development" target="_blank">Trello</a>. <!-- more --></p>
 
 <p>Aplikację Xenia można pobrać z GitHuba:</p>
 

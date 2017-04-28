@@ -22,7 +22,7 @@ Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:
   </li>
   <li>
     <a href="https://github.com/phiotr/JUG30--Examples">
-      <em>Link do kodu źródłowego używanego przez Piotra</em></a>
+      Link do kodu źródłowego używanego przez Piotra</a>
   </li>
   <li>
     <a href="{{root_url}}/materials/meetings/30/Kanban_na_lodowce_by_Michal_Bartyzel.pdf">

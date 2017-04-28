@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Spotkanie #32 [2017-04-26]"
+description: "Toruń JUG - Spotkanie #32 [2017-04-26]"
+date: 2017-04-12 06:30:00 +0200
+comments: true
+categories: Spotkania
+---
+Trzydzieste drugie spotkanie nadchodzi. Tym razem będzie mowa o **Big Data** i **Asynchronous Communication**. Szczegóły znajdziecie <a href="https://www.meetup.com/Torun-JUG/events/238825179/" target="_blank">na Meetupie</a>.

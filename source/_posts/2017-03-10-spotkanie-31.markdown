@@ -26,15 +26,32 @@ Po spotkaniu zapraszamy tradycyjnie na małe afterparty do pubu <a href="https:/
 
 **UWAGA:** Sala S9 będzie otwarta **od godz. 17:30** - jeśli chcesz przyjść wcześniej i pogadać z uczestnikami spotkania to będzie to najlepsza do tego okazja :) <!-- more -->
 
-### Continuous Deployment to the Cloud with Spring Cloud Pipelines
-"I have stopped counting how many times I’ve done this from scratch" - was one of the responses to the tweet about starting the project called Spring Cloud Pipelines. Every company sets up a pipeline from scratch. Every company creates some sort of automation to deploy its applications to servers. Enough is enough - time to automate that and focus on delivering business value.
+### ~~Continuous Deployment to the Cloud with Spring Cloud Pipelines~~
+~~"I have stopped counting how many times I’ve done this from scratch" - was one of the responses to the tweet about starting the project called Spring Cloud Pipelines. Every company sets up a pipeline from scratch. Every company creates some sort of automation to deploy its applications to servers. Enough is enough - time to automate that and focus on delivering business value.~~
 
-In this presentation we’ll go through the contents of the Spring Cloud Pipelines project. We’ll start a new project for which we’ll have a deployment pipeline set up in no time. We’ll deploy to Cloud Foundry and check if our application is backwards compatible so that we can roll it back on production.
+~~In this presentation we’ll go through the contents of the Spring Cloud Pipelines project. We’ll start a new project for which we’ll have a deployment pipeline set up in no time. We’ll deploy to Cloud Foundry and check if our application is backwards compatible so that we can roll it back on production.~~
 
-**UWAGA:** prezentacja będzie po angielsku, pytania zadawać będziemy po polsku.
+~~**UWAGA:** prezentacja będzie po angielsku, pytania zadawać będziemy po polsku.~~
 
-PS: będzie to pierwsze wystąpienie z tą prezentacją :-) Bądźcie pierwszymi, którzy ją zobaczą :-) 
+~~PS: będzie to pierwsze wystąpienie z tą prezentacją :-) Bądźcie pierwszymi, którzy ją zobaczą :-) ~~
 
 <img class="no-border speaker-face" src="{{ root_url }}/images/speakers/grzejszczak-marcin.jpg" />
-#### <a href="https://twitter.com/MGrzejszczak" target="_blank">Marcin Grzejszczak</a>
-Author of "Mockito Instant" and "Mockito Cookbook" books. OSS Contributor. Co-founder of the Warsaw Groovy User Group and Warsaw Cloud Native Meetup. Lead of Spring Cloud Sleuth, Spring Cloud Contract and Spring Cloud Pipelines projects at Pivotal. Contributed to Groovy, Mockito, Rest-assured, Drools, Moco. Author of Uptodate Gradle plugin, Spock subjects-collaborators extension, gradle-test-profiler, JSONAssert and XMLAssert open source projects. Github profile: <a href="https://github.com/marcingrzejszczak" target="_blank">https://github.com/marcingrzejszczak</a>
+#### ~~<a href="https://twitter.com/MGrzejszczak" target="_blank">Marcin Grzejszczak</a>~~
+~~Author of "Mockito Instant" and "Mockito Cookbook" books. OSS Contributor. Co-founder of the Warsaw Groovy User Group and Warsaw Cloud Native Meetup. Lead of Spring Cloud Sleuth, Spring Cloud Contract and Spring Cloud Pipelines projects at Pivotal. Contributed to Groovy, Mockito, Rest-assured, Drools, Moco. Author of Uptodate Gradle plugin, Spock subjects-collaborators extension, gradle-test-profiler, JSONAssert and XMLAssert open source projects. Github profile: <a href="https://github.com/marcingrzejszczak" target="_blank">https://github.com/marcingrzejszczak</a>~~
+
+<span class="clearfix"></span>
+
+### Testowanie wydajności kodu za pomocą narzędzia JMH
+W prezentacji pokażę jak wykorzystać narzędzie JMH do budowy microbenchmarków testujących wydajność zadanych kawałków kodu. Nabyte umiejętności pozwolą słuchaczom sprawdzić wydajność wybranych fragmentów kodu bez niebezpieczeństwa popełnienia, typowych dla tego typu testowania, błędów związanych z np. wygrzewaniem maszyny wirtualnej czy działalnością garbage collectora.
+
+<img class="no-border speaker-face" src="{{ root_url }}/images/speakers/oczkowski-wojciech.jpg" />
+#### <a href="https://twitter.com/WOczkowski" target="_blank">Wojciech Oczkowski</a>
+Prowadzący własną działalność specjalista do spraw trudnych, zawodowo rozwiązuje problemy związane z projektowaniem architektury systemów, integracją, wydajnością i jakością kodu. Znajduje obsesyjną wręcz przyjemność w wynajdowaniu sensu w cudzym kodzie. Prywatnie rozwiązuje problemy związane z wychowaniem 2 dzieciaków i znajdowaniem czasu na żeglowanie i czytanie literatury fantastycznej. Jeden z liderów i założycieli Bydgoszcz JUG.
+
+<span class="clearfix"></span>
+
+### Sesja lighting talków
+1. <a href="https://twitter.com/krzpob" target="_blank">Krzysztof Pobożan</a> - "Jak pisać historyjki"
+2. <a href="https://www.linkedin.com/in/wojciech-orzechowski-69783465/" target="_blank">Wojciech Orzechowski</a> - "AWS Lambda - chmura to nie wirtualka gdzieś w serwerowni"
+3. <a href="https://www.linkedin.com/in/mi%C5%82osz-rembisz-90b8b458/" target="_blank">Miłosz Rembisz</a> - "jMonkeyEngine - Java 3D dla leniwych"
+4. <a href="https://twitter.com/sentinelatteo" target="_blank">Sławek Piotrowski</a> - "Java - Evil Edition"

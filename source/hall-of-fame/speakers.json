@@ -761,7 +761,8 @@
         "talks" : [
             {
                 "meetingNumber" : 32,
-                "title" : "Duże dane, mały budżet"
+                "title" : "Duże dane, mały budżet",
+                "slides" : "https://docs.google.com/presentation/d/1pkN9F7qSWnl8M4as0ne6VNH1807Btq0o-uErqsM0Mrs"
             }
         ]
     },

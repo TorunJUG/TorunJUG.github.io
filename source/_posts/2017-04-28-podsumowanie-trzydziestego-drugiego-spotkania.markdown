@@ -16,4 +16,6 @@ categories: Materiały
 * [na Meetupie](https://www.meetup.com/Torun-JUG/photos/27806300/)
 
 #### Pliki
+* [Slajdy z prezentacji Mariusza Strzeleckiego](https://docs.google.com/presentation/d/1pkN9F7qSWnl8M4as0ne6VNH1807Btq0o-uErqsM0Mrs)
+* [Kod źródłowy wykorzystywany przez Mariusza](https://github.com/szczeles/pyspark-notebooks/blob/master/stackoverflow/Torun%20JUG%20-%20exploratory%20analysis%20on%20stackoverflow%20data.ipynb)
 * [Slajdy z prezentacji Tomasza Nurkiewicza](http://nurkiewicz.github.io/talks/2017/async/)

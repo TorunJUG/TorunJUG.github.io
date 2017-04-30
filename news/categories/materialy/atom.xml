@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-04-28T21:16:07+02:00</updated>
+  <updated>2017-04-30T23:04:27+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -42,6 +42,8 @@
 <h4>Pliki</h4>
 
 <ul>
+<li><a href="https://docs.google.com/presentation/d/1pkN9F7qSWnl8M4as0ne6VNH1807Btq0o-uErqsM0Mrs">Slajdy z prezentacji Mariusza Strzeleckiego</a></li>
+<li><a href="https://github.com/szczeles/pyspark-notebooks/blob/master/stackoverflow/Torun%20JUG%20-%20exploratory%20analysis%20on%20stackoverflow%20data.ipynb">Kod źródłowy wykorzystywany przez Mariusza</a></li>
 <li><a href="http://nurkiewicz.github.io/talks/2017/async/">Slajdy z prezentacji Tomasza Nurkiewicza</a></li>
 </ul>
 

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Spotkanie #33 [2017-05-31]"
+description: "Toruń JUG - Spotkanie #33 [2017-05-31]"
+date: 2017-05-12 17:30:00 +0200
+comments: true
+categories: Spotkania
+---
+Czas na trzydzieste trzecie spotkanie. Tym razem będzie mowa o **uwierzytelnianiu RESTa** i **WildFly Swarm**. Szczegóły znajdziecie <a href="https://www.meetup.com/Torun-JUG/events/239875401/" target="_blank">na Meetupie</a>.

@@ -14,6 +14,7 @@ categories: Materiały
 
 #### Zdjęcia
 * [na Meetupie](https://www.meetup.com/Torun-JUG/photos/27806300/)
+* [na Facebooku](https://www.facebook.com/TorunJUG/photos/?tab=album&album_id=1903136363243181)
 
 #### Pliki
 * [Slajdy z prezentacji Mariusza Strzeleckiego](https://docs.google.com/presentation/d/1pkN9F7qSWnl8M4as0ne6VNH1807Btq0o-uErqsM0Mrs)

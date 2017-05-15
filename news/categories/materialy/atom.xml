@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Materiały | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/materialy/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-05-12T17:18:04+02:00</updated>
+  <updated>2017-05-15T18:02:22+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<h4>Wydarzenie</h4>
 
 <ul>
-<li><a href="/meeting/32/">odbyło się 26 kwietnia</a></li>
+<li><a href="{{root_url}}/meeting/32/">odbyło się 26 kwietnia</a></li>
 </ul>
 
 
@@ -36,6 +36,7 @@
 
 <ul>
 <li><a href="https://www.meetup.com/Torun-JUG/photos/27806300/">na Meetupie</a></li>
+<li><a href="https://www.facebook.com/TorunJUG/photos/?tab=album&amp;album_id=1903136363243181">na Facebooku</a></li>
 </ul>
 
 
@@ -55,7 +56,7 @@
     <link href="http://torun.jug.pl/news/2017/03/31/podsumowanie-trzydziestego-pierwszego-spotkania/"/>
     <updated>2017-03-31T16:30:00+02:00</updated>
     <id>http://torun.jug.pl/news/2017/03/31/podsumowanie-trzydziestego-pierwszego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/meeting/31/">trzydzieste pierwsze</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: dwóm Wojtkom, Krzyśkowi, Miłoszowi i Sławkowi za zgłoszenie swojej gotowości w trybie awaryjnym i wygłoszenie swoich prelekcji w zastępstwie &ldquo;kontuzjowanego&rdquo; Marcina. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/meeting/31/">trzydzieste pierwsze</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: dwóm Wojtkom, Krzyśkowi, Miłoszowi i Sławkowi za zgłoszenie swojej gotowości w trybie awaryjnym i wygłoszenie swoich prelekcji w zastępstwie &ldquo;kontuzjowanego&rdquo; Marcina. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft</p>
 
@@ -67,11 +68,11 @@
 
 <ul>
   <li>
-    <a href="/materials/meetings/31/Testowanie_wydajnosci_kodu_za_pomoca_narzedzia_JMH_by_Wojciech_Oczkowski.pptx" target="_blank">
+    <a href="{{root_url}}/materials/meetings/31/Testowanie_wydajnosci_kodu_za_pomoca_narzedzia_JMH_by_Wojciech_Oczkowski.pptx" target="_blank">
       <em>Testowanie wydajności kodu za pomocą narzędzia JMH</em></a> (slajdy z&nbsp;prezentacji Wojciecha Oczkowskiego)
   </li>
   <li>
-    <a href="/materials/meetings/31/Evil_Java.tar.gz" target="_blank">
+    <a href="{{root_url}}/materials/meetings/31/Evil_Java.tar.gz" target="_blank">
       Link do kodu źródłowego prezentowanego przez Sławka</a>
   </li>
   <li>
@@ -87,7 +88,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -98,7 +99,7 @@
     <link href="http://torun.jug.pl/news/2017/02/24/podsumowanie-trzydziestego-spotkania/"/>
     <updated>2017-02-24T16:30:00+01:00</updated>
     <id>http://torun.jug.pl/news/2017/02/24/podsumowanie-trzydziestego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/meeting/30/">trzydzieste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Piotrowi, za przedstawienie podstaw języka Frege i własnych eksperymentów z jego wykorzystaniem oraz Michałowi, za zaprezentowanie praktycznego użycia zwinnych metodyk w życiu codziennym. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/meeting/30/">trzydzieste</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Piotrowi, za przedstawienie podstaw języka Frege i własnych eksperymentów z jego wykorzystaniem oraz Michałowi, za zaprezentowanie praktycznego użycia zwinnych metodyk w życiu codziennym. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft</p>
 
@@ -110,7 +111,7 @@
 
 <ul>
   <li>
-    <a href="/materials/meetings/30/Kalafiorem_w_JVM_-_czyli_eksperymenty_z_jezykiem_Frege_by_Piotr_Skonieczka.pdf" target="_blank">
+    <a href="{{root_url}}/materials/meetings/30/Kalafiorem_w_JVM_-_czyli_eksperymenty_z_jezykiem_Frege_by_Piotr_Skonieczka.pdf" target="_blank">
       <em>Kalafiorem w JVM! - czyli eksperymenty z językiem Frege</em></a> (slajdy z&nbsp;prezentacji Piotra Skonieczki)
   </li>
   <li>
@@ -118,7 +119,7 @@
       Link do kodu źródłowego używanego przez Piotra</a>
   </li>
   <li>
-    <a href="/materials/meetings/30/Kanban_na_lodowce_by_Michal_Bartyzel.pdf">
+    <a href="{{root_url}}/materials/meetings/30/Kanban_na_lodowce_by_Michal_Bartyzel.pdf">
       <em>Kanban na lodówce</em></a> (slajdy z&nbsp;prezentacji Michała Bartyzla)
   </li>
 </ul>
@@ -126,7 +127,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -137,7 +138,7 @@
     <link href="http://torun.jug.pl/news/2017/01/29/podsumowanie-dwudziestego-dziewiatego-spotkania/"/>
     <updated>2017-01-29T21:45:00+01:00</updated>
     <id>http://torun.jug.pl/news/2017/01/29/podsumowanie-dwudziestego-dziewiatego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/meeting/29/">dwudzieste dziewiątego</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Krzyśkowi za podzielenie się doświadczeniem w budowaniu architektury microserwisów oraz Jarkowi za przybliżenie bebechów JVMa. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/meeting/29/">dwudzieste dziewiątego</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Krzyśkowi za podzielenie się doświadczeniem w budowaniu architektury microserwisów oraz Jarkowi za przybliżenie bebechów JVMa. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft</p>
 
@@ -153,7 +154,7 @@
       <em>Reaktywne Mikrousługi w Praktyce</em></a> (slajdy z&nbsp;prezentacji Krzysztofa Muchewicza)
   </li>
   <li>
-    <a href="/materials/meetings/29/jitmebaby-jugtorun.zip">
+    <a href="{{root_url}}/materials/meetings/29/jitmebaby-jugtorun.zip">
       <em>JIT me baby one more time</em></a> (slajdy z&nbsp;prezentacji Jarosława Pałki)
   </li>
 </ul>
@@ -161,7 +162,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
@@ -172,7 +173,7 @@
     <link href="http://torun.jug.pl/news/2016/12/27/podsumowanie-dwudziestego-osmego-spotkania/"/>
     <updated>2016-12-27T06:00:00+01:00</updated>
     <id>http://torun.jug.pl/news/2016/12/27/podsumowanie-dwudziestego-osmego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="/meeting/28/">dwudzieste ósme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Szymonowi, za przedstawienie blasków i cieni życia freelancera oraz Jakubowi za pokazanie jak utrzymać kod projektu w czystości. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
+    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="{{root_url}}/meeting/28/">dwudzieste ósme</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Szymonowi, za przedstawienie blasków i cieni życia freelancera oraz Jakubowi za pokazanie jak utrzymać kod projektu w czystości. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
 
 <p>Dziękujemy władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft</p>
 
@@ -196,7 +197,7 @@
 
 <p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
 
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
+<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="{{root_url}}/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
 
 <p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>

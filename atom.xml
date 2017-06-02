@@ -4,7 +4,7 @@
   <title><![CDATA[Toruń JUG]]></title>
   <link href="http://torun.jug.pl/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-05-15T17:59:59+02:00</updated>
+  <updated>2017-06-02T06:07:42+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie trzydziestego trzeciego spotkania]]></title>
+    <link href="http://torun.jug.pl/news/2017/06/02/podsumowanie-trzydziestego-trzeciego-spotkania/"/>
+    <updated>2017-06-02T06:30:00+02:00</updated>
+    <id>http://torun.jug.pl/news/2017/06/02/podsumowanie-trzydziestego-trzeciego-spotkania</id>
+    <content type="html"><![CDATA[<h4>Wydarzenie</h4>
+
+<ul>
+<li><a href="http://torun.jug.pl/meeting/33/">odbyło się 31 maja</a></li>
+</ul>
+
+
+<h4>Ankieta</h4>
+
+<ul>
+<li><a href="http://bit.ly/33-spotkanie-Torun-JUG-ankieta">z prośbą o wypełnienie</a></li>
+</ul>
+
+
+<h4>Zdjęcia</h4>
+
+<ul>
+<li><a href="https://www.meetup.com/Torun-JUG/photos/27896661/">na Meetupie</a></li>
+<li><a href="https://www.facebook.com/TorunJUG/photos/?tab=album&amp;album_id=1914711782085639">na Facebooku</a></li>
+</ul>
+
+
+<h4>Pliki</h4>
+
+<ul>
+<li><a href="http://torun.jug.pl/materials/meetings/33/Bezpieczny_wypoczynek_by_Krzysztof_Benedyczak.pdf">Slajdy z prezentacji Krzysztofa Benedyczaka</a></li>
+<li><a href="http://torun.jug.pl/materials/meetings/33/WildFly_Swarm_by_Michal_Szynkiewicz.pdf">Slajdy z prezentacji Michała Szynkiewicza</a></li>
+<li><a href="https://github.com/michalszynkiewicz/wildfly-swarm-jug-demo">Kod źródłowy wykorzystywany przez Michała</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #33 [2017-05-31]]]></title>
@@ -811,48 +849,6 @@ During this presentation, we will recall Java8&rsquo;s downsides and explore how
 <p>Serdeczne podziękowania dla Pawła Wojdyło i&nbsp;całego <a href="http://www.ucntn.umk.pl" target="_blank">UCNTN</a> za realizację nagrania.</p>
 
 <p>Nagrania z&nbsp;prezentacji pojawią się wkrótce również na naszym <a href="https://www.youtube.com/c/TorunJUG" target="_blank">kanale YouTube</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie dwudziestego czwartego spotkania]]></title>
-    <link href="http://torun.jug.pl/news/2016/07/03/podsumowanie-dwudziestego-czwartego-spotkania/"/>
-    <updated>2016-07-03T15:00:00+02:00</updated>
-    <id>http://torun.jug.pl/news/2016/07/03/podsumowanie-dwudziestego-czwartego-spotkania</id>
-    <content type="html"><![CDATA[<p>W&nbsp;minioną środę odbyło się <a href="http://torun.jug.pl/meeting/24/">dwudzieste czwarte</a> spotkanie naszej grupy. Bardzo dziękujemy wszystkim obecnym za przybycie. Szczególne podziękowania należą się prelegentom: Maciejowi, Wojtkowi, Sebastianowi, Krzysztofowi, Zbyszkowi i Thomasowi za podzielenie się z nami swoją wiedzą. Ze swojej strony obiecujemy, że będziemy starać się niwelować wszelkie niedociągnięcia, które nam zgłaszacie.</p>
-
-<p>Dziękujemy również władzom <a href="https://www.mat.umk.pl" target="_blank">WMiI UMK</a> za&nbsp;udostępnienie sali oraz każdemu, kto choćby w&nbsp;najmniejszym stopniu przyczynił się do tego, że&nbsp;mogliśmy spotkać się po raz kolejny i&nbsp;porozmawiać, zarówno w&nbsp;trakcie meetingu jak i&nbsp;na afterparty w&nbsp;pubie Carpe Kraft.</p>
-
-<p>Wszystkich obecnych na&nbsp;spotkaniu prosimy o&nbsp;wypełnienie <a href="http://bit.ly/24-spotkanie-Torun-JUG-ankieta" target="_blank">ankiety pospotkaniowej</a>. Zebrany w&nbsp;ten sposób feedback pomoże prelegentom rozwijać swój warsztat, a&nbsp;nam lepiej przygotować kolejne spotkania. <!--more--></p>
-
-<p>Zdjęcia ze spotkania możecie obejrzeć na&nbsp;<a href="https://www.facebook.com/TorunJUG/photos/?tab=album&album_id=1774686126088206" target="_blank">Facebooku</a> i&nbsp;<a href="http://www.meetup.com/Torun-JUG/photos/27085053/" target="_blank">Meetupie</a>.</p>
-
-<p>Poniżej znajdują się odnośniki do materiałów z&nbsp;prezentacji:</p>
-
-<ul>
-  <li>
-    <a href="https://github.com/amossoma/notnullannotations" target="_blank">Kod źródłowy wykorzystywany przez Macieja podczas prezentacji</a>
-  </li>
-  <li>
-    <a href="https://docs.google.com/presentation/d/1rQFj2DdwGYi9wbdV_F7sG3Brnk5iYByqr3a_TIihEHE" target="_blank">
-      <em>Jest! JavaScriptowe testy jednostkowe wg Facebooka</em></a> (slajdy z&nbsp;prezentacji Wojciecha Dzikowskiego)
-  </li>
-    <li>
-    <a href="https://prezi.com/_dmxsb_blwtl/versions/" target="_blank">
-      <em>X.Y.Z, czyli wszystko o wersjach artefaktów</em></a> (slajdy z&nbsp;prezentacji Sebastiana Łaskawca)
-  </li>
-  <li>
-    <a href="http://torun.jug.pl/materials/meetings/24/The_Power_of_Networking_by_Thomas_Sundberg.pdf">
-      <em>The Power of Networking</em></a> (slajdy z&nbsp;prezentacji Thomasa Sundberga)
-  </li>
-</ul>
-
-
-<p>Jeśli macie jakiekolwiek uwagi na&nbsp;temat przebiegu spotkania, to&nbsp;piszcie o&nbsp;tym w&nbsp;komentarzach.</p>
-
-<p>Zachęcamy wszystkich do dzielenia się swoją wiedzą i&nbsp;<a href="http://torun.jug.pl/speakers/">zgłaszania własnych prelekcji</a>. Każdy prelegent może liczyć na drobny upominek :)</p>
-
-<p>Dzięki serdeczne i&nbsp;do zobaczenia wkrótce.</p>
 ]]></content>
   </entry>
   

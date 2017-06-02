@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Spotkania | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-05-15T18:02:22+02:00</updated>
+  <updated>2017-06-02T06:07:42+02:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -42,7 +42,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/31/cover.png" />
+    <img class="no-border" src="/images/meetings/31/cover.png" />
   </div>
 </div>
 
@@ -51,7 +51,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/31/afterparty.png" />
+    <img class="no-border" src="/images/meetings/31/afterparty.png" />
   </div>
 </div>
 
@@ -68,7 +68,7 @@
 
 <p><del>PS: będzie to pierwsze wystąpienie z tą prezentacją :&ndash;) Bądźcie pierwszymi, którzy ją zobaczą :&ndash;) </del></p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/grzejszczak-marcin.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/grzejszczak-marcin.jpg" /></p>
 
 <h4><del><a href="https://twitter.com/MGrzejszczak" target="_blank">Marcin Grzejszczak</a></del></h4>
 
@@ -80,7 +80,7 @@
 
 <p>W prezentacji pokażę jak wykorzystać narzędzie JMH do budowy microbenchmarków testujących wydajność zadanych kawałków kodu. Nabyte umiejętności pozwolą słuchaczom sprawdzić wydajność wybranych fragmentów kodu bez niebezpieczeństwa popełnienia, typowych dla tego typu testowania, błędów związanych z np. wygrzewaniem maszyny wirtualnej czy działalnością garbage collectora.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/oczkowski-wojciech.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/oczkowski-wojciech.jpg" /></p>
 
 <h4><a href="https://twitter.com/WOczkowski" target="_blank">Wojciech Oczkowski</a></h4>
 
@@ -111,7 +111,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/30/cover.png" />
+    <img class="no-border" src="/images/meetings/30/cover.png" />
   </div>
 </div>
 
@@ -120,7 +120,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/30/afterparty.png" />
+    <img class="no-border" src="/images/meetings/30/afterparty.png" />
   </div>
 </div>
 
@@ -135,7 +135,7 @@
 
 <p>Zapraszam.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/skonieczka-piotr.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/skonieczka-piotr.jpg" /></p>
 
 <h4><a href="https://www.linkedin.com/in/piotr-skonieczka-448927102" target="_blank">Piotr Skonieczka</a></h4>
 
@@ -151,7 +151,7 @@
 
 <p>Ten zabieg zmiany kontekstu posłuży nam do niezwykle ważnej rzeczy: do nazwania wartości stojących za agile oraz jego fundamentalnych zasad. Zobaczysz jak agile może zmienić z pozoru nudne czynności niesamowitą przygodę.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/bartyzel-michal.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/bartyzel-michal.jpg" /></p>
 
 <h4><a href="https://twitter.com/MichalBartyzel" target="_blank">Michał Bartyzel</a></h4>
 
@@ -174,7 +174,7 @@
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/29/allegro.png" />
+    <img class="no-border" src="/images/meetings/29/allegro.png" />
   </div>
 </div>
 
@@ -186,7 +186,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/29/cover.png" />
+    <img class="no-border" src="/images/meetings/29/cover.png" />
   </div>
 </div>
 
@@ -195,7 +195,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <div class="row text-center" style="margin-bottom:10px;">
   <div class="col-md-12">
-    <img class="no-border" src="{{ root_url }}/images/meetings/29/afterparty.png" />
+    <img class="no-border" src="/images/meetings/29/afterparty.png" />
   </div>
 </div>
 
@@ -208,7 +208,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>PS. Ta prezentacja będzie raczej rozwinięciem niż kopią prezentacji z JUGu w Bydgoszczy, więc zapraszam również Bydgoszczaków :)</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/muchewicz-krzysztof.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/muchewicz-krzysztof.jpg" /></p>
 
 <h4><a href="https://twitter.com/KrzyMucha" target="_blank">Krzysztof Muchewicz</a></h4>
 
@@ -226,7 +226,7 @@ allegro.tech jest naszym pomysłem na dzielenie się zebranym doświadczeniem po
 
 <p>Tę prezentację sponsoruje -XX:+PrintCompliation, -XX:+PrintInlining, -XX:+PrintInterpreter oraz hsdis.</p>
 
-<p><img class="no-border speaker-face" src="{{ root_url }}/images/speakers/palka-jaroslaw.jpg" /></p>
+<p><img class="no-border speaker-face" src="/images/speakers/palka-jaroslaw.jpg" /></p>
 
 <h4><a href="https://twitter.com/j_palka" target="_blank">Jarek Pałka</a></h4>
 

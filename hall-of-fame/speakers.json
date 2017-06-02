@@ -778,5 +778,30 @@
                 "slides" : "http://nurkiewicz.github.io/talks/2017/async/"
             }
         ]
+    },
+    {
+        "name" : "Krzysztof Benedyczak",
+        "img" : "benedyczak-krzysztof.jpg",
+        "lastMeeting": 33,
+        "talks" : [
+            {
+                "meetingNumber" : 33,
+                "title" : "Bezpieczny odpoczynek, czyli uwierzytelnianie RESTa",
+                "slides" : "http://torun.jug.pl/materials/meetings/33/Bezpieczny_wypoczynek_by_Krzysztof_Benedyczak.pdf"
+            }
+        ]
+    },
+    {
+        "name" : "Michał Szynkiewicz",
+        "img" : "szynkiewicz-michal.jpg",
+        "twitter" : "MSzynkiewicz",
+        "lastMeeting": 33,
+        "talks" : [
+            {
+                "meetingNumber" : 33,
+                "title" : "WildFly Swarm: JavaEE w świecie mikroserwisów",
+                "slides" : "http://torun.jug.pl/materials/meetings/33/WildFly_Swarm_by_Michal_Szynkiewicz.pdf"
+            }
+        ]
     }
 ]

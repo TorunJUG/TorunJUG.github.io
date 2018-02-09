@@ -3,35 +3,66 @@ layout: default
 navbar: News
 ---
 
-<div class="row">
-  <div class="page-content {% unless site.default_asides == empty and site.blog_index_asides == empty %}col-md-9{% else %}col-md-12{% endunless %}">
-    <div class="blog-index">
-      {% assign index = true %}
-      {% for post in paginator.posts %}
-      {% assign content = post.content %}
-        <article class="post">
-          {% include article.html %}
-        </article>
-      {% endfor %}
+<article>
+  <div class="parallax">
+    <div class="bg__cover1">
+      <h1>Toruń Java User Group</h1>
     </div>
+    <div class="bg__cover2"></div>
+    <div class="bg__cover3"></div>
+    <div class="bg__cover4"></div>
+  </div>
+  
+  <header>
+      <h1>Toruń Java User Group</h1>
+      <h2>Kim jesteśmy?</h2>
+  </header>
+  <section>
+    <div class="container">
+      <p>Toruń JUG (Java User Group) zrzesza pasjonatów technologii opartych o&nbsp;Java Virtual Machine, dla których programowanie to nie tylko praca, ale przede wszystkim hobby i&nbsp;dobra zabawa. Chcemy stale rozwijać naszą wiedzę i&nbsp;umiejętności programistyczne, a&nbsp;także zacieśniać więzy naszej lokalnej społeczności. W&nbsp;tym celu organizujemy cykliczne spotkania.</p>
+    </div>
+  </section>
+  
+  <section class="parallax">
+    <div class="bg__break1">
+    </div>
+  </section>
+  <header>
+      <h1>Toruń Java User Group</h1>
+      <h1>Spotkania</h1>
+  </header>
+  <section>
+      <div class="container">
+           <p>Spotkania odbywają się cyklicznie, zazwyczaj w&nbsp;ostatnią środę miesiąca w&nbsp;godzinach 18:00-20:00, na&nbsp;<a href="http://www.mat.umk.pl" target="_blank">Wydziale Matematyki i&nbsp;Informatyki UMK</a> w&nbsp;Toruniu, przy ulicy <a href="https://www.google.pl/maps/place/Fryderyka+Chopina+12%2F18,+Toruń/" target="_blank">Fryderyka Chopina 12/18</a>. Spotkania grupy są idealną okazją do wymiany doświadczeń, poznawania nowych technologii oraz podejmowania inicjatyw w&nbsp;ramach społeczności Open Source. </p>
+      </div>
+  </section>
 
-    <ul class="pager">
-      {% if paginator.next_page %}
-        <li class="previous"><a href="{{paginator.next_page}}">&larr;&nbsp;Starsze</a></li>
-      {% endif %}
-      {% if paginator.previous_page %}
-        <li class="next"><a href="{{paginator.previous_page}}">Nowsze&nbsp;&rarr;</a></li>
-      {% endif %}
-    </ul>
+  <section class="parallax">
+    <div class="bg__break2">
+    </div>
+  </section>
+  <header>
+      <h1>Toruń Java User Group</h1>
+      <h2>Dołącz do nas</h2>
+  </header>
+  <section>
+      <div class="container">
+           <p>Wystarczy, że&nbsp;dopiszesz się do naszej grupy na portalu <a href="http://www.meetup.com/Torun-JUG/" target="_blank">Meetup</a> i&nbsp;przyjdziesz na spotkanie. Proponujemy Ci również możliwość przyłączenia się do <a href="https://groups.google.com/group/torunjug" target="_blank">grupy dyskusyjnej</a>, gdzie będziesz mógł podzielić się z&nbsp;nami wszelkimi uwagami dotyczącymi organizacji spotkań.</p>
+
+           <p>Jeśli jesteś zainteresowany prowadzeniem wykładu, wypełnij <a href="https://docs.google.com/forms/d/1OkM_2JqnBZPEUNld_9rmOmWYxxSXgsjTpKxvBJcFPa4/viewform" target="_blank">formularz zgłoszeniowy prelegenta</a> i&nbsp;oczekuj na&nbsp;odpowiedź od&nbsp;nas. Odwiedź również naszą <a href="{{ root_url }}/speakers/">strefę prelegenta</a>, żeby zapoznać się z&nbsp;kilkoma wskazówkami na temat odpowiedniego przygotywania się do prezentacji.</p>
+
+           <p>Zachęcamy do dzielenia się swoją wiedzą z&nbsp;innymi!</p>
+  </section>
   </div>
 
-  {% unless site.default_asides == empty and site.blog_index_asides == empty %}
-    <aside class="sidebar col-md-3">
-      {% if site.blog_index_asides.size %}
-        {% include_array blog_index_asides %}
-      {% else %}
-        {% include_array default_asides %}
-      {% endif %}
-    </aside>
-  {% endunless %}
-</div>
+  <div class="row">
+       <div class="col-sm-4">
+            {% include custom/asides/meetup.html %}
+       </div>
+       <div class="col-sm-4">
+            {% include custom/asides/hall_of_fame.html %}
+       </div>
+       <div class="col-sm-4">
+            {% include custom/asides/slack.html %}
+       </div>
+</article>

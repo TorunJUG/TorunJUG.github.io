@@ -1,4 +1,48 @@
 [
+  {
+    "name" : "Łukasz Wachowicz",
+    "img" : "lukasz-wachowicz.jpg",
+    "twitter" : "vachacz",
+    "lastMeeting": "35",
+    "talks" : [
+      {
+        "meetingNumber" : "35",
+        "title" : "Serverless czyli jak zbudować aplikację bez serwera (za darmo)",
+        "youtube" : "https://www.youtube.com/watch?v=xUkN2I9mTKY"
+      }
+    ]
+  },
+  {
+    "name" : "Grzegorz Dyrda",
+    "img" : "grzegorz-dyrda.jpg",
+    "twitter" : "grzegorzdyrda",
+    "lastMeeting": "34",
+    "talks" : [
+      {
+        "meetingNumber" : "34",
+        "title" : "Introduction to Kotlin",
+        "youtube" : "https://www.youtube.com/watch?v=37nMmeL9qLA"
+      }
+    ]
+  },
+  {
+    "name" : "Venkat Subramaniam",
+    "img" : "venkat-subramaniam.jpg",
+    "twitter" : "venkat_s",
+    "lastMeeting": "33",
+    "talks" : [
+        {
+            "meetingNumber" : "jug-day",
+            "title" : "Twelve Ways to Make Code Suck Less",
+            "youtube" : "https://www.youtube.com/watch?v=AW8VdWQYJGE"
+        },
+        {
+            "meetingNumber" : "jug-day",
+            "title" : "Reactive Programming",
+            "youtube" : "https://www.youtube.com/watch?v=CStKwb8ouJ8"
+        }
+    ]
+    },
     {
         "name" : "Sławek Piotrowski",
         "img" : "piotrowski-slawek.jpg",
@@ -490,13 +534,18 @@
         "name" : "Dominik Przybysz",
         "img" : "przybysz-dominik.jpg",
         "twitter" : "alien11689",
-        "lastMeeting": 17,
+        "lastMeeting": 35,
         "talks" : [
             {
                 "meetingNumber" : 17,
                 "title" : "Na co czekamy w Javie 9",
                 "slides" : "http://torun.jug.pl/materials/meetings/17/Na_co_czekamy_w_Javie_9_by_Dominik_Przybysz.pdf",
                 "youtube" : "https://www.youtube.com/watch?v=x_Iqt-yGMGE"
+            },
+            {
+              "meetingNumber" : 35,
+              "title" : "Porty i adaptery",
+              "youtube" : "https://www.youtube.com/watch?v=trqMkS2UwjA"
             }
         ]
     },
@@ -504,7 +553,7 @@
         "name" : "Paweł Kapała",
         "img" : "kapala-pawel.jpg",
         "twitter" : "kapware",
-        "lastMeeting": 26,
+        "lastMeeting": 34,
         "talks" : [
             {
                 "meetingNumber" : 17,
@@ -517,6 +566,11 @@
                 "title" : "Introduction to functional programming in practice",
                 "slides" : "http://slides.com/kapware/introduction-to-fp-in-practice",
                 "youtube" : "https://www.youtube.com/watch?v=HVYRmIsj6dM"
+            },
+            {
+              "meetingNumber" : 34,
+              "title" : "Back to the legacy. Jak wprowadzać technologie",
+              "youtube" : "https://www.youtube.com/watch?v=6Jd0LRoUtPY"
             }
         ]
     },

@@ -1,4 +1,83 @@
 [
+  {
+    "name" : "Szymon Janikowski",
+    "img" : "szymon-janikowski.jpg",
+    "lastMeeting": "38",
+    "talks" : [
+      {
+        "meetingNumber" : "38",
+        "title" : "Dlaczego DDD skutecznie zapobiega chorobie legacy?"
+      }
+    ]
+  },
+  {
+    "name" : "Marcin Markowski",
+    "img" : "marcin-markowski.jpg",
+    "lastMeeting": "38",
+    "talks" : [
+      {
+        "meetingNumber" : "38",
+        "title" : "Dlaczego DDD skutecznie zapobiega chorobie legacy?"
+      }
+    ]
+  },
+  {
+    "name" : "Tomek Rękawek",
+    "img" : "tomek-rekawek.jpg",
+    "twitter" : "Tomek1024",
+    "lastMeeting": "36",
+    "talks" : [
+      {
+        "meetingNumber" : "36",
+        "title" : "Emulacja konsoli Game Boy w Javie",
+        "youtube" : "https://www.youtube.com/watch?v=uKv-DCKXWmg"
+      }
+    ]
+  },
+  {
+    "name" : "Łukasz Wachowicz",
+    "img" : "lukasz-wachowicz.jpg",
+    "twitter" : "vachacz",
+    "lastMeeting": "35",
+    "talks" : [
+      {
+        "meetingNumber" : "35",
+        "title" : "Serverless czyli jak zbudować aplikację bez serwera (za darmo)",
+        "youtube" : "https://www.youtube.com/watch?v=xUkN2I9mTKY"
+      }
+    ]
+  },
+  {
+    "name" : "Grzegorz Dyrda",
+    "img" : "grzegorz-dyrda.jpg",
+    "twitter" : "grzegorzdyrda",
+    "lastMeeting": "34",
+    "talks" : [
+      {
+        "meetingNumber" : "34",
+        "title" : "Introduction to Kotlin",
+        "youtube" : "https://www.youtube.com/watch?v=37nMmeL9qLA"
+      }
+    ]
+  },
+  {
+    "name" : "Venkat Subramaniam",
+    "img" : "venkat-subramaniam.jpg",
+    "twitter" : "venkat_s",
+    "lastMeeting": "33",
+    "talks" : [
+        {
+            "meetingNumber" : "jug-day",
+            "title" : "Twelve Ways to Make Code Suck Less",
+            "youtube" : "https://www.youtube.com/watch?v=AW8VdWQYJGE"
+        },
+        {
+            "meetingNumber" : "jug-day",
+            "title" : "Reactive Programming",
+            "youtube" : "https://www.youtube.com/watch?v=CStKwb8ouJ8"
+        }
+    ]
+    },
     {
         "name" : "Sławek Piotrowski",
         "img" : "piotrowski-slawek.jpg",
@@ -264,13 +343,18 @@
         "name" : "Paweł Wrzeszcz",
         "img" : "wrzeszcz-pawel.png",
         "twitter" : "pawelwrzeszcz",
-        "lastMeeting": 8,
+        "lastMeeting": 37,
         "talks" : [
             {
                 "meetingNumber" : 8,
                 "title" : "9 lat pracy zdalnej – czego się nauczyłem? Jak efektywnie pracować w zespole rozproszonym?",
                 "youtube" : "https://www.youtube.com/watch?v=Ms3jmcPQi70",
                 "slides" : "http://www.slideshare.net/pawelwrzeszcz/9-lat-pracy-zdalnej-czego-si-nauczyem"
+            },
+            {
+              "meetingNumber" : 37,
+              "title" : "Zanim założysz startup",
+              "youtube" : "https://www.youtube.com/watch?v=uexOmZ8p8ZQ"
             }
         ]
     },
@@ -385,13 +469,18 @@
         "name" : "Marek Nowicki",
         "img" : "nowicki-marek.jpg",
         "twitter" : "faramir2",
-        "lastMeeting": 12,
+        "lastMeeting": 37,
         "talks" : [
             {
                 "meetingNumber" : 12,
                 "title" : "Biblioteka PCJ do naukowych obliczeń równoległych",
                 "youtube" : "https://www.youtube.com/watch?v=w-7U1vA8UMk",
                 "slides" : "http://torun.jug.pl/materials/meetings/12/Biblioteka_PCJ_do_naukowych_obliczen_rownoleglych_by_Marek_Nowicki.pdf"
+            },
+            {
+              "meetingNumber" : 37,
+              "title" : "Biblioteka PCJ - aplikacje równoległe w Javie?",
+              "youtube" : "https://www.youtube.com/watch?v=P3N_K-jiq2A"
             }
         ]
     },
@@ -490,13 +579,18 @@
         "name" : "Dominik Przybysz",
         "img" : "przybysz-dominik.jpg",
         "twitter" : "alien11689",
-        "lastMeeting": 17,
+        "lastMeeting": 35,
         "talks" : [
             {
                 "meetingNumber" : 17,
                 "title" : "Na co czekamy w Javie 9",
                 "slides" : "http://torun.jug.pl/materials/meetings/17/Na_co_czekamy_w_Javie_9_by_Dominik_Przybysz.pdf",
                 "youtube" : "https://www.youtube.com/watch?v=x_Iqt-yGMGE"
+            },
+            {
+              "meetingNumber" : 35,
+              "title" : "Porty i adaptery",
+              "youtube" : "https://www.youtube.com/watch?v=trqMkS2UwjA"
             }
         ]
     },
@@ -504,7 +598,7 @@
         "name" : "Paweł Kapała",
         "img" : "kapala-pawel.jpg",
         "twitter" : "kapware",
-        "lastMeeting": 26,
+        "lastMeeting": 34,
         "talks" : [
             {
                 "meetingNumber" : 17,
@@ -517,6 +611,11 @@
                 "title" : "Introduction to functional programming in practice",
                 "slides" : "http://slides.com/kapware/introduction-to-fp-in-practice",
                 "youtube" : "https://www.youtube.com/watch?v=HVYRmIsj6dM"
+            },
+            {
+              "meetingNumber" : 34,
+              "title" : "Back to the legacy. Jak wprowadzać technologie",
+              "youtube" : "https://www.youtube.com/watch?v=6Jd0LRoUtPY"
             }
         ]
     },
@@ -757,12 +856,17 @@
         "name" : "Mariusz Strzelecki",
         "img" : "strzelecki-mariusz.jpg",
         "twitter" : "marstrzelecki",
-        "lastMeeting": 32,
+        "lastMeeting": 36,
         "talks" : [
             {
                 "meetingNumber" : 32,
                 "title" : "Duże dane, mały budżet",
                 "slides" : "https://docs.google.com/presentation/d/1pkN9F7qSWnl8M4as0ne6VNH1807Btq0o-uErqsM0Mrs"
+            },
+            {
+              "meetingNumber" : 36,
+              "title" : "Czym nie jest Apache Kafka?",
+              "youtube": "https://www.youtube.com/watch?v=7Xjy2ewPJFA"
             }
         ]
     },

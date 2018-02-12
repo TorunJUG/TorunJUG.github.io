@@ -4,7 +4,7 @@
   <title><![CDATA[Kategoria: Kodowanie | Toruń JUG]]></title>
   <link href="http://torun.jug.pl/news/categories/kodowanie/atom.xml" rel="self"/>
   <link href="http://torun.jug.pl/"/>
-  <updated>2017-06-02T06:07:42+02:00</updated>
+  <updated>2018-02-12T15:38:16+00:00</updated>
   <id>http://torun.jug.pl/</id>
   <author>
     <name><![CDATA[Toruń JUG]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[TorunJUG.getSrc() // [#3] Xenia Development // [2016-06-25]]]></title>
     <link href="http://torun.jug.pl/news/2016/06/16/torunjug-getsrc-3/"/>
-    <updated>2016-06-16T06:00:00+02:00</updated>
+    <updated>2016-06-16T04:00:00+00:00</updated>
     <id>http://torun.jug.pl/news/2016/06/16/torunjug-getsrc-3</id>
     <content type="html"><![CDATA[<p>Wspólnie z <a href="http://blpoland.com/torun/" target="_blank">Business Link Toruń</a> mamy przyjemność zaprosić na trzecie wydarzenie z cyklu <strong>TorunJUG.getSrc()</strong>. Jest to inicjatywa, która ma na celu zachęcić i pobudzić naszą lokalną JUGową społeczność do wspólnej pracy przy projektach open source.</p>
 
@@ -45,7 +45,7 @@
   <entry>
     <title type="html"><![CDATA[TorunJUG.getSrc() // [#2] Xenia Development // [2016-05-14]]]></title>
     <link href="http://torun.jug.pl/news/2016/05/05/torunjug-getsrc-2/"/>
-    <updated>2016-05-05T06:00:00+02:00</updated>
+    <updated>2016-05-05T04:00:00+00:00</updated>
     <id>http://torun.jug.pl/news/2016/05/05/torunjug-getsrc-2</id>
     <content type="html"><![CDATA[<p>Wspólnie z <a href="http://blpoland.com/torun/" target="_blank">Business Link Toruń</a> mamy przyjemność zaprosić na drugie wydarzenie z cyklu <strong>TorunJUG.getSrc()</strong>. Jest to inicjatywa, która ma na celu zachęcić i pobudzić naszą lokalną JUGową społeczność do wspólnej pracy przy projektach open source.</p>
 
@@ -74,7 +74,7 @@
   <entry>
     <title type="html"><![CDATA[TorunJUG.getSrc() // [#1] Xenia Development // [2016-04-02]]]></title>
     <link href="http://torun.jug.pl/news/2016/03/24/torunjug-getsrc-1/"/>
-    <updated>2016-03-24T07:30:00+01:00</updated>
+    <updated>2016-03-24T06:30:00+00:00</updated>
     <id>http://torun.jug.pl/news/2016/03/24/torunjug-getsrc-1</id>
     <content type="html"><![CDATA[<p>Wspólnie z <a href="http://blpoland.com/torun/" target="_blank">Business Link Toruń</a> mamy przyjemność zaprosić na pierwsze wydarzenie z cyklu <strong>TorunJUG.getSrc()</strong>. Jest to inicjatywa, która ma na celu zachęcić i pobudzić naszą lokalną &ldquo;JUGową&rdquo; społeczność do wspólnej pracy przy projektach open source.</p>
 

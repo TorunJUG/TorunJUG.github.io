@@ -1,0 +1,59 @@
+{
+  "number": 86,
+  "slug": "86-zarf-keycloak-architektura-komunikacyjna",
+  "title": "Zarf i Keycloak oraz architektura komunikacyjna",
+  "description": "Toruń JUG #86: bezpieczne wdrożenia Zarf i Keycloak w środowisku air-gapped oraz komunikacja w zespołach Agile.",
+  "startDate": "2026-02-25T18:00:00+01:00",
+  "endDate": "2026-02-25T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "Grudziądzka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/torun-jug/events/313373204/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Airgapped DevSecOps, czyli Zarf i Keycloak w akcji",
+      "description": "Jak zbudować całkowicie odizolowany od internetu system uwierzytelniania dla środowisk o wysokich wymaganiach bezpieczeństwa. Prelekcja omawia specyfikę systemów air-gapped, dostosowanie Keycloak oraz praktyczne wdrażanie DevSecOps przy ograniczonym dostępie do sieci.",
+      "speakers": [
+        {
+          "name": "Sebastian Łaskawiec",
+          "bio": "Ekspert od uwierzytelniania i autoryzacji w środowiskach o wysokich wymaganiach bezpieczeństwa. Wspiera projekty Keycloak, Kubernetes i UDS Platform oraz współtworzy społeczność Bydgoszcz JUG.",
+          "photo": "sebastian-laskawiec.jpg"
+        },
+        {
+          "name": "Michał Szynkiewicz",
+          "bio": "Inżynier oprogramowania specjalizujący się w backendzie, architekturze i systemach rozproszonych. Pracował nad systemami Meta i w głównym zespole Quarkusa, a obecnie rozwija narzędzia Defense Unicorns.",
+          "photo": "michal-szynkiewicz.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=dZs55x5X0ts"
+    },
+    {
+      "title": "Architektura komunikacyjna w zespołach Agile",
+      "description": "Prelekcja o tym, jak różne style komunikacji wpływają na sprinty, decyzje i konflikty. Pokazuje sposoby ograniczania błędnych interpretacji, reworku i napięć oraz szybszego osiągania wspólnego zrozumienia w zespołach Agile.",
+      "speakers": [
+        {
+          "name": "Anna Żołądkiewicz",
+          "bio": "Strateg przywództwa i coach pracująca z liderami oraz founderami działającymi pod presją. Łączy doświadczenie korporacyjne z pracą nad strategią, sprawczością i zapobieganiem wypaleniu.",
+          "photo": "anna-zoladkiewicz.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=kYQvl47U42k"
+    }
+  ],
+  "navigation": {
+    "newer": {
+      "number": 87,
+      "slug": "87-spark-pipelines-jezykoznawcze-supermoce"
+    },
+    "older": {
+      "number": 85,
+      "slug": "85-archunit-generatywne-ai"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "number": 90,
+  "slug": "90-zmiana-pod-presja-thread-pool",
+  "title": "Zmiana pod presją i bottleneck w ThreadPool",
+  "description": "Toruń JUG #90: ograniczanie rosnącego kosztu zmian w systemach oraz diagnozowanie czasu oczekiwania w pulach wątków.",
+  "startDate": "2026-06-24T18:00:00+02:00",
+  "endDate": "2026-06-24T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "Grudziądzka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/pl-PL/torun-jug/events/315260528/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Zmiana pod presją: dlaczego koszt zmiany rośnie i jak go zatrzymać",
+      "description": "Koszt zmiany rośnie, gdy tymczasowe skróty utrwalają się w architekturze, modele tracą jednoznaczne znaczenie, a odpowiedzialność rozmywa się między zespołami. Prelekcja pokazuje sposoby ograniczania tego kosztu na poziomie organizacji, języka domeny i technicznej modernizacji systemów legacy.",
+      "speakers": [
+        {
+          "name": "Łukasz Pięta",
+          "bio": "Senior Software Engineer i konsultant przekładający niejasne potrzeby na proste, utrzymywalne rozwiązania. Specjalizuje się w iteracyjnej modernizacji systemów legacy, upraszczaniu architektury i ograniczaniu kosztu utrzymania.",
+          "photo": "lukasz-pieta.jpg"
+        }
+      ],
+      "recordingUrl": null
+    },
+    {
+      "title": "Thread Pool i czas czekania w kolejce: Bottleneck, którego nawet AI nie znalazł",
+      "description": "Analiza rzeczywistych danych produkcyjnych pokazująca, gdzie w pulach wątków powstaje czas oczekiwania, jak go mierzyć i jak reagować, gdy kolejka staje się wąskim gardłem systemu obsługującego HTTP, parsowanie danych i logikę biznesową.",
+      "speakers": [
+        {
+          "name": "Mateusz Nalepa",
+          "bio": "Inżynier oprogramowania z dziewięcioletnim doświadczeniem, skupiony na wydajnych i skalowalnych systemach. Lubi wyjaśniać złożone problemy za pomocą prostych narzędzi i danych; prywatnie występuje w teatrze i gra na pianinie.",
+          "photo": "mateusz-nalepa.jpg"
+        }
+      ],
+      "recordingUrl": null
+    }
+  ],
+  "navigation": {
+    "older": {
+      "number": 89,
+      "slug": "89-wspolbiezny-sadyzm-historia-programistow"
+    }
+  }
+}

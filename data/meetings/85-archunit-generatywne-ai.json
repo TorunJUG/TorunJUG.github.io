@@ -1,0 +1,54 @@
+{
+  "number": 85,
+  "slug": "85-archunit-generatywne-ai",
+  "title": "ArchUnit i generatywne AI w rękach developera",
+  "description": "Toruń JUG #85: automatyczne testowanie reguł architektonicznych oraz praktyczne tworzenie aplikacji z pomocą generatywnego AI.",
+  "startDate": "2026-01-28T18:00:00+01:00",
+  "endDate": "2026-01-28T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "Grudziądzka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/torun-jug/events/312854034/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "ArchUnit – jak testy architektury oszczędzają mi godziny code review i uczą zespół odpowiedzialności",
+      "description": "Praktyczne zastosowania ArchUnit do automatycznego sprawdzania zależności między warstwami, nazewnictwa i użycia adnotacji. Prelekcja pokazuje, jak przenieść wykrywanie naruszeń architektury do CI i zamienić testy w żywą dokumentację dla zespołu.",
+      "speakers": [
+        {
+          "name": "Marcel Baumgardt",
+          "bio": "Engineering Team Leader w XTB, od ośmiu lat związany z Javą. Pragmatyk automatyzujący powtarzalną pracę, fan Warhammer Fantasy Roleplay i budowania środowiska, w którym zespół nie boi się zadawać pytań.",
+          "photo": "marcel-baumgardt.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=kaDmqnchIpQ"
+    },
+    {
+      "title": "Generatywne AI w rękach developera – od inspiracji do działającej aplikacji",
+      "description": "Droga od eksperymentów z promptami i generowaniem obrazów do działającego backendu oraz aplikacji Kotlin Multiplatform stworzonej z pomocą AI. Prelekcja pokazuje AI-assisted development w praktyce, bez pomijania ograniczeń i wniosków dla codziennej pracy.",
+      "speakers": [
+        {
+          "name": "Maciej Krawczyk",
+          "bio": "Android Developer z dziesięcioletnim doświadczeniem, testujący nowe technologie w praktyce. Tworzy z pomocą AI zarówno proste eksperymenty, jak i kompletne aplikacje mobilne oraz backendy.",
+          "photo": "maciej-krawczyk.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=ku7vvr2K1wM"
+    }
+  ],
+  "navigation": {
+    "newer": {
+      "number": 86,
+      "slug": "86-zarf-keycloak-architektura-komunikacyjna"
+    },
+    "older": {
+      "number": 84,
+      "slug": "84-refleksje-programisty-w-erze-ai"
+    }
+  }
+}

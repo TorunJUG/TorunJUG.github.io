@@ -1,0 +1,54 @@
+{
+  "number": 87,
+  "slug": "87-spark-pipelines-jezykoznawcze-supermoce",
+  "title": "Spark Pipelines i językoznawcze supermoce programisty",
+  "description": "Toruń JUG #87: deklaratywne potoki danych w Apache Spark 4.1 oraz wykorzystanie językoznawstwa do lepszego nazywania elementów kodu.",
+  "startDate": "2026-03-25T18:00:00+01:00",
+  "endDate": "2026-03-25T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "Grudziądzka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/torun-jug/events/313786118/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Spark Declarative Pipelines (Apache Spark 4.1)",
+      "description": "Wprowadzenie do Spark Declarative Pipelines w Apache Spark 4.1. Prelekcja pokazuje deklaratywne definiowanie potoków ETL w SQL i Pythonie oraz mechanizmy, dzięki którym Spark zarządza grafem wykonania, zależnościami, równoległością i ponawianiem zadań.",
+      "speakers": [
+        {
+          "name": "Jacek Laskowski",
+          "bio": "Programista, trener i popularyzator technologii przetwarzania danych skupiony na Apache Spark. Organizator społeczności Warsaw Data Engineering i aktywny uczestnik ekosystemu open source.",
+          "photo": "jacek-laskowski.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=aRdla6UXQSo"
+    },
+    {
+      "title": "Językoznawcze supermoce programisty",
+      "description": "Dlaczego nazywanie zmiennych i klas jest tak trudne oraz jak językoznawstwo i psychologia poznawcza pomagają diagnozować problem. Prelekcja pokazuje, jak trafniejsze nazwy ograniczają zaskoczenie i ułatwiają innym programistom zrozumienie kodu.",
+      "speakers": [
+        {
+          "name": "Piotr Wereszczyński",
+          "bio": "Programista z doświadczeniem w Javie, C# i ekosystemie .NET. Interesuje się znaczeniem pojęć, jakością modeli i komunikacją w kodzie; prywatnie gra w RPG i planszówki oraz jeździ po Toruniu rowerem.",
+          "photo": "wereszczynski-piotr.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=BkPUo8vF_9M"
+    }
+  ],
+  "navigation": {
+    "newer": {
+      "number": 88,
+      "slug": "88-blue-green-opentelemetry"
+    },
+    "older": {
+      "number": 86,
+      "slug": "86-zarf-keycloak-architektura-komunikacyjna"
+    }
+  }
+}

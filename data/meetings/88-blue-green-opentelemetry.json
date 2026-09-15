@@ -1,0 +1,54 @@
+{
+  "number": 88,
+  "slug": "88-blue-green-opentelemetry",
+  "title": "Blue/Green deployment i OpenTelemetry Collector",
+  "description": "Toruń JUG #88: bezpieczne aktualizacje klastrów Kubernetes oraz projektowanie i zarządzanie flotą OpenTelemetry Collector.",
+  "startDate": "2026-04-29T18:00:00+02:00",
+  "endDate": "2026-04-29T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "Grudziądzka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/torun-jug/events/314203384/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Blue/Green Deployment w zarządzaniu klastrem Kubernetes – mniej ryzyka, mniej przestojów",
+      "description": "Jak ograniczyć ryzyko aktualizacji klastra Kubernetes dzięki Infrastructure as Code, Immutable Infrastructure i strategii blue/green na poziomie klastra. Prelekcja omawia bezprzestojowe wdrożenia, szybkie wycofywanie zmian i kontrolę cyklu życia infrastruktury.",
+      "speakers": [
+        {
+          "name": "Jędrzej Andrykowski",
+          "bio": "DevOps w Leroy Merlin, wcześniej programista Java. Pasjonat infrastruktury, potoków wdrożeń i automatyzacji oraz współorganizator Zielona Góra JUG; poza IT gitarzysta i fan cięższej muzyki.",
+          "photo": "jedrzej-andrykowski.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=L_tQ9mjB0LE"
+    },
+    {
+      "title": "From Edge to Gateway: architecting your OpenTelemetry Collector deployment",
+      "description": "Przegląd cyklu życia floty OpenTelemetry Collector: od wyboru dystrybucji i własnych buildów OCB po topologie edge agent i central gateway. Prelekcja omawia kompromisy architektoniczne oraz ewolucję zarządzania od statycznej konfiguracji do orkiestracji przez OpAMP.",
+      "speakers": [
+        {
+          "name": "Marcin Stożek",
+          "bio": "Pomaga zbierać dane do Elastica i współtworzy OpenTelemetry. Pracował jako tester, developer, administrator i menedżer, zawsze blisko infrastruktury, automatyzacji, systemów rozproszonych i GNU/Linux.",
+          "photo": "marcin-stozek.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=RMz2_dZF2ZQ"
+    }
+  ],
+  "navigation": {
+    "newer": {
+      "number": 89,
+      "slug": "89-wspolbiezny-sadyzm-historia-programistow"
+    },
+    "older": {
+      "number": 87,
+      "slug": "87-spark-pipelines-jezykoznawcze-supermoce"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "number": 84,
+  "slug": "84-refleksje-programisty-w-erze-ai",
+  "title": "Refleksje programisty w średnim wieku, w erze AI",
+  "description": "Toruń JUG #84: refleksje o pracy inżyniera oprogramowania, jakości kodu, rozwoju zawodowym i wpływie modeli językowych.",
+  "startDate": "2025-12-10T18:00:00+01:00",
+  "endDate": "2025-12-10T19:30:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "Grudziądzka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/torun-jug/events/312241852/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Refleksje Programisty w Średnim Wieku (w Erze AI)",
+      "description": "Osobiste podsumowanie ponad 20 lat pracy w IT: od aplikacji desktopowych do dużych modeli w chmurze. Rozmowa o istocie pracy inżyniera, jakości i pięknie kodu, wpływie LLM-ów, satysfakcji z tworzenia oraz radzeniu sobie z ciągłą zmianą.",
+      "speakers": [
+        {
+          "name": "Krzysztof Muchewicz",
+          "bio": "Doktor matematyki i architekt oprogramowania w Amazon AGI, pracujący nad modelami Amazon Nova. Ma ponad 20 lat doświadczenia w IT, specjalizuje się w Domain-Driven Design, a inżynierię łączy z praktyką medytacji i rozwoju osobistego.",
+          "photo": "krzysztof-muchewicz.jpg"
+        }
+      ],
+      "recordingUrl": null
+    }
+  ],
+  "navigation": {
+    "newer": {
+      "number": 85,
+      "slug": "85-archunit-generatywne-ai"
+    },
+    "older": {
+      "number": 83,
+      "slug": "83-system-design-maintenance"
+    }
+  }
+}

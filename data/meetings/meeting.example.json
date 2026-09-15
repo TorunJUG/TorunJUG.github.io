@@ -1,0 +1,50 @@
+{
+  "number": 91,
+  "slug": "91-pierwsza-prelekcja-druga-prelekcja",
+  "title": "Pierwsza prelekcja i druga prelekcja",
+  "description": "Toruń JUG #91: krótki opis tematów spotkania i nazwiska prelegentów.",
+  "startDate": "2026-09-23T18:00:00+02:00",
+  "endDate": "2026-09-23T20:00:00+02:00",
+  "status": "scheduled",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "ul. Grudziądzka 5/7",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/pl-PL/torun-jug/events/ID-WYDARZENIA/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Tytuł pierwszej prelekcji",
+      "description": "Opis pierwszej prelekcji skopiowany z wydarzenia na Meetup. Może zawierać kilka akapitów tekstu.",
+      "speakers": [
+        {
+          "name": "Imię i nazwisko",
+          "bio": "Krótka informacja o doświadczeniu, specjalizacji i zainteresowaniach prelegenta.",
+          "photo": "imie-nazwisko.jpg"
+        }
+      ],
+      "recordingUrl": null
+    },
+    {
+      "title": "Tytuł drugiej prelekcji",
+      "description": "Opis drugiej prelekcji skopiowany z wydarzenia na Meetup.",
+      "speakers": [
+        {
+          "name": "Imię i nazwisko",
+          "bio": "Krótka informacja o prelegencie.",
+          "photo": "imie-nazwisko.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=AyNTM6eVy-k"
+    }
+  ],
+  "navigation": {
+    "older": {
+      "number": 90,
+      "slug": "90-zmiana-pod-presja-thread-pool"
+    }
+  }
+}

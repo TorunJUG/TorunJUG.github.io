@@ -1,0 +1,54 @@
+{
+  "number": 89,
+  "slug": "89-wspolbiezny-sadyzm-historia-programistow",
+  "title": "Odrobina współbieżnego sadyzmu i historia prób wytępienia programistów",
+  "description": "Toruń JUG #89: rygorystyczne testowanie kodu współbieżnego oraz historia kolejnych prób zastąpienia programistów.",
+  "startDate": "2026-05-27T18:00:00+02:00",
+  "endDate": "2026-05-27T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "Grudziądzka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/torun-jug/events/314835606/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Nie mój cyrk, nie moje wątki — czyli o testowaniu kodu współbieżnego",
+      "description": "Przykładowy fragment kodu współbieżnego przechodzi przez cztery poziomy testów: klasyczne testy jednostkowe, analizę przeplotów we Fray, testy na sprzęcie z jcstress oraz pomiary wydajności JMH. Celem jest odróżnienie rzeczywistej stabilności od przypadkowo działającego kodu.",
+      "speakers": [
+        {
+          "name": "Wiktor Sztajerowski",
+          "bio": "Programista, trener i konsultant z 15-letnim doświadczeniem w naprawianiu złożonych systemów. Współorganizator Łódź JUG, miłośnik trudnych pytań, inżynierskiego pragmatyzmu i kawy speciality.",
+          "photo": "wiktor-sztajerowski.jpg"
+        }
+      ],
+      "recordingUrl": null
+    },
+    {
+      "title": "Historia prób wytępienia programistów",
+      "description": "Przegląd ponad 70 lat zapowiedzi demokratyzacji programowania i technologii, które miały uczynić programistów zbędnymi. Prelekcja zestawia krótkofalowe obietnice z długoterminowymi rezultatami i pyta, czy obecna fala AI rzeczywiście jest inna.",
+      "speakers": [
+        {
+          "name": "Mariusz Strzelecki",
+          "bio": "Inżynier danych, ojciec trojga dzieci i stały bywalec toruńskiego JUG-a. Interesuje się historią branży IT i prostymi rozwiązaniami problemów związanych z danymi.",
+          "photo": "mariusz-strzelecki.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=AyNTM6eVy-k"
+    }
+  ],
+  "navigation": {
+    "newer": {
+      "number": 90,
+      "slug": "90-zmiana-pod-presja-thread-pool"
+    },
+    "older": {
+      "number": 88,
+      "slug": "88-blue-green-opentelemetry"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "number": 81,
+  "slug": "81-programowanie-zorientowane-na-dane-refaktoring-keycloak",
+  "title": "Programowanie zorientowane na dane, refaktoring i Keycloak",
+  "description": "Toruń JUG #81: programowanie zorientowane na dane w Javie, rozsądny refaktoring oraz praktyczne spojrzenie na Keycloak.",
+  "startDate": "2025-06-25T18:00:00+02:00",
+  "endDate": "2025-06-25T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "Grudziądzka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/torun-jug/events/308506334/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Programowanie zorientowane na dane w Javie",
+      "description": "Przejście od klasycznego OOP do programowania zorientowanego na dane w nowoczesnej Javie. Prelekcja omawia rekordy, pattern matching i biblioteki takie jak jOOQ, pokazując, jak budować czytelniejsze i wydajniejsze aplikacje przetwarzające duże ilości danych.",
+      "speakers": [
+        {
+          "name": "Arkadiusz Sokołowski",
+          "bio": "Programista z ponad 25-letnim doświadczeniem w Javie i innych językach JVM. Engineering Manager w InPost oraz wykładowca Javy na Uniwersytecie Jagiellońskim.",
+          "photo": "arkadiusz-sokolowski.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=PtBbbyZCuQ4"
+    },
+    {
+      "title": "Refaktoring czy obsesja? Jak poprawiać kod i nie zwariować",
+      "description": "Spojrzenie na refaktoring od strony technicznej i ludzkiej: gdzie kończy się troska o jakość, a zaczyna perfekcjonizm, jak pogodzić poprawianie kodu z terminami i jak utrzymać wspólne podejście w zespole.",
+      "speakers": [
+        {
+          "name": "Piotr Wereszczyński",
+          "bio": "Programista z doświadczeniem w Javie, C# i ekosystemie .NET. Na co dzień mierzy się z niejasnymi wymaganiami, zależnościami i niską kohezją; prywatnie gra w RPG i planszówki oraz zwiedza Toruń na rowerze.",
+          "photo": "wereszczynski-piotr.jpg"
+        }
+      ],
+      "recordingUrl": null
+    },
+    {
+      "title": "Keycloak – gold solution",
+      "description": "Lightning talk pokazujący Keycloak od środka, praktyczne rozszerzenia i nietypowe zastosowania oraz różnice pomiędzy JWT i identyfikatorem sesji.",
+      "speakers": [
+        {
+          "name": "Patryk Kożuchowski",
+          "bio": "Java developer z kilkuletnim doświadczeniem i wieloletni uczestnik spotkań JUG. Prywatnie pasjonat sportu oraz maratończyk.",
+          "photo": "patryk-kozuchowski.jpg"
+        }
+      ],
+      "recordingUrl": null
+    }
+  ],
+  "navigation": {
+    "newer": {
+      "number": 82,
+      "slug": "82-vaadin-flow-graphql"
+    }
+  }
+}

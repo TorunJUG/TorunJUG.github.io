@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#071b2d">
+    <title>{{pageTitle}}</title>
+    <meta name="description" content="{{description}}">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-video-preview:-1">
+    <link rel="canonical" href="{{canonicalUrl}}">
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="pl_PL">
+    <meta property="og:site_name" content="Toruń JUG">
+    <meta property="og:title" content="{{pageTitle}}">
+    <meta property="og:description" content="{{ogDescription}}">
+    <meta property="og:url" content="{{canonicalUrl}}">
+    <meta property="og:image" content="{{ogImage}}">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="icon" href="../favicon.ico" sizes="any">
+    <link rel="stylesheet" href="../styles.css">
+    <script src="../script.js" defer></script>
+    <script type="application/ld+json">
+{{structuredData}}
+    </script>
+  </head>
+  <body class="meeting-page">
+    <a class="skip-link" href="#main-content">Przejdź do treści</a>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="../index.html" aria-label="Toruń JUG – strona główna">
+          <img class="brand-logo" src="../static/media/logo_mini.png" width="180" height="75" alt="">
+        </a>
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-navigation" aria-label="Otwórz menu" data-menu-toggle><span></span><span></span><span></span></button>
+        <div class="nav-panel" id="main-navigation" data-nav-panel>
+          <nav aria-label="Główna nawigacja">
+            <ul class="nav-links">
+              <li><a href="../index.html#o-nas">O nas</a></li>
+              <li><a href="../index.html#spotkania">Spotkania</a></li>
+              <li><a href="../index.html#liderzy">Liderzy</a></li>
+              <li><a href="../index.html#partnerzy">Partnerzy</a></li>
+            </ul>
+          </nav>
+          <nav class="header-socials" aria-label="Media społecznościowe">
+            <a href="https://www.youtube.com/channel/UCLuHypXd9ODOivs7gRpxNZg" target="_blank" rel="noopener noreferrer" aria-label="Toruń JUG na YouTube" title="YouTube">
+              <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+                <path d="M31.331,8.248c-.368-1.386-1.452-2.477-2.829-2.848-2.496-.673-12.502-.673-12.502-.673,0,0-10.007,0-12.502,.673-1.377,.37-2.461,1.462-2.829,2.848-.669,2.512-.669,7.752-.669,7.752,0,0,0,5.241,.669,7.752,.368,1.386,1.452,2.477,2.829,2.847,2.496,.673,12.502,.673,12.502,.673,0,0,10.007,0,12.502-.673,1.377-.37,2.461-1.462,2.829-2.847,.669-2.512,.669-7.752,.669-7.752,0,0,0-5.24-.669-7.752ZM12.727,20.758V11.242l8.364,4.758-8.364,4.758Z"></path>
+              </svg>
+            </a>
+            <a href="https://twitter.com/TorunJUG" target="_blank" rel="noopener noreferrer" aria-label="Toruń JUG na X / Twitterze" title="X / Twitter">
+              <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+                <path d="M18.42,14.009L27.891,3h-2.244l-8.224,9.559L10.855,3H3.28l9.932,14.455L3.28,29h2.244l8.684-10.095,6.936,10.095h7.576l-10.301-14.991h0Zm-3.074,3.573l-1.006-1.439L6.333,4.69h3.447l6.462,9.243,1.006,1.439,8.4,12.015h-3.447l-6.854-9.804h0Z"></path>
+              </svg>
+            </a>
+            <a href="https://www.facebook.com/TorunJUG" target="_blank" rel="noopener noreferrer" aria-label="Toruń JUG na Facebooku" title="Facebook">
+              <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+                <path d="M16,2c-7.732,0-14,6.268-14,14,0,6.566,4.52,12.075,10.618,13.588v-9.31h-2.887v-4.278h2.887v-1.843c0-4.765,2.156-6.974,6.835-6.974,.887,0,2.417,.174,3.043,.348v3.878c-.33-.035-.904-.052-1.617-.052-2.296,0-3.183,.87-3.183,3.13v1.513h4.573l-.786,4.278h-3.787v9.619c6.932-.837,12.304-6.74,12.304-13.897,0-7.732-6.268-14-14-14Z"></path>
+              </svg>
+            </a>
+            <a href="https://www.linkedin.com/company/106077920" target="_blank" rel="noopener noreferrer" aria-label="Toruń JUG na LinkedIn" title="LinkedIn">
+              <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+                <path d="M26.111,3H5.889c-1.595,0-2.889,1.293-2.889,2.889V26.111c0,1.595,1.293,2.889,2.889,2.889H26.111c1.595,0,2.889-1.293,2.889-2.889V5.889c0-1.595-1.293-2.889-2.889-2.889ZM10.861,25.389h-3.877V12.87h3.877v12.519Zm-1.957-14.158c-1.267,0-2.293-1.034-2.293-2.31s1.026-2.31,2.293-2.31,2.292,1.034,2.292,2.31-1.026,2.31-2.292,2.31Zm16.485,14.158h-3.858v-6.571c0-1.802-.685-2.809-2.111-2.809-1.551,0-2.362,1.048-2.362,2.809v6.571h-3.718V12.87h3.718v1.686s1.118-2.069,3.775-2.069,4.556,1.621,4.556,4.975v7.926Z" fill-rule="evenodd"></path>
+              </svg>
+            </a>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <main id="main-content">
+      <section class="meeting-hero">
+        <div class="container">
+          <p class="breadcrumb"><a href="../index.html">Strona główna</a> / <a href="../index.html#spotkania">Spotkania</a> / #{{number}}</p>
+          <div class="meeting-hero-content">
+            <p class="meeting-kicker">Toruń JUG #{{number}}</p>
+            <h1>{{title}}</h1>
+            <p class="meeting-hero-meta"><time datetime="{{startDate}}">{{dateAndTimeLabel}}</time><span>{{placeAndCity}}</span></p>
+            <div class="meeting-hero-actions">
+              <a class="button button-accent" href="{{meetupUrl}}" target="_blank" rel="noopener noreferrer">{{meetupLabel}} <span aria-hidden="true">↗</span></a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="meeting-content">
+        <div class="container meeting-layout meeting-layout-single">
+          <div class="meeting-main">
+            <h2>Prelekcje</h2>
+            <div class="talk-list">
+{{talks}}
+            </div>
+{{meetingNavigation}}
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-bottom">
+        <p>© <span data-current-year>{{year}}</span> Toruń JUG</p>
+        <p><a href="../index.html#spotkania">Wróć do listy spotkań</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

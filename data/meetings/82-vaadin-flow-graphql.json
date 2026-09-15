@@ -1,0 +1,54 @@
+{
+  "number": 82,
+  "slug": "82-vaadin-flow-graphql",
+  "title": "Vaadin Flow i złożoność GraphQL",
+  "description": "Toruń JUG #82: tworzenie aplikacji webowych w Vaadin Flow oraz krytyczne spojrzenie na złożoność GraphQL.",
+  "startDate": "2025-10-29T18:00:00+01:00",
+  "endDate": "2025-10-29T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "Grudziądzka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/torun-jug/events/311059661/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Web applications for Java developers",
+      "description": "Wprowadzenie do Vaadin Flow, frameworka pozwalającego programistom Javy budować nowoczesne aplikacje webowe bez pisania frontendu w JavaScript. Prelekcja pokazuje podstawy pracy z komponentami UI, źródłem danych i konfiguracją bezpieczeństwa.",
+      "speakers": [
+        {
+          "name": "Marcin Głowacki",
+          "bio": "Z Javą związany od 15 lat. Pracował nad głównym frameworkiem Vaadin Flow, następnie prowadził zespół Vaadin Copilot; odpowiada także za start.vaadin.com oraz rozszerzenia do IntelliJ i VS Code.",
+          "photo": "marcin-glowacki.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=AMK_4ZeqhQ0"
+    },
+    {
+      "title": "Żeglując po złożoności GraphQL: od płytkich wód szczęścia po głębiny rozpaczy",
+      "description": "Praktyczne spojrzenie na zalety i ograniczenia GraphQL. Prelekcja odpowiada na pytanie, dlaczego popularna technologia nie jest uniwersalnym rozwiązaniem i jakie problemy pojawiają się wraz ze wzrostem złożoności systemu.",
+      "speakers": [
+        {
+          "name": "Sebastian Rabiej",
+          "bio": "Programista z ponad 10-letnim doświadczeniem, zainteresowany clean code, software craftsmanship i metodykami zwinnymi. Związany z SoftwareMill i społecznością Wrocław JUG.",
+          "photo": "sebastian-rabiej.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=eI7_3a4SH8E"
+    }
+  ],
+  "navigation": {
+    "newer": {
+      "number": 83,
+      "slug": "83-system-design-maintenance"
+    },
+    "older": {
+      "number": 81,
+      "slug": "81-programowanie-zorientowane-na-dane-refaktoring-keycloak"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "number": 83,
+  "slug": "83-system-design-maintenance",
+  "title": "System Design Interview i ucieczka z pułapki maintenance’u",
+  "description": "Toruń JUG #83: przygotowanie do System Design Interview oraz organizacja pracy zespołu łączącego rozwój produktu z utrzymaniem.",
+  "startDate": "2025-11-26T18:00:00+01:00",
+  "endDate": "2025-11-26T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "Grudziądzka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/torun-jug/events/311992427/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Sekrety System Design Interview – zaprojektuj swój sukces w rozmowie rekrutacyjnej",
+      "description": "Omówienie typowego przebiegu System Design Interview: od zbierania wymagań, przez projekt wysokiego poziomu, po szczegóły implementacyjne. Prelekcja przedstawia strategie, częste błędy oraz kryteria, na które zwracają uwagę osoby prowadzące rekrutację.",
+      "speakers": [
+        {
+          "name": "Sławomir Piotrowski",
+          "bio": "Programista i architekt z doświadczeniem w branży finansowej, ubezpieczeniowej i farmaceutycznej. Entuzjasta zwinnego prowadzenia projektów, CI/CD oraz open source; współzałożyciel CompactIO.",
+          "photo": "slawomir-piotrowski.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=k5VBnSYbceg"
+    },
+    {
+      "title": "Stop Making The Machine That Goes „Ping”! – Jak uwolnić zespół z pułapki maintenance’u",
+      "description": "Jak ograniczyć ciągłe przełączanie kontekstu i rozdzielić utrzymanie od rozwoju nowych funkcji. Prelekcja pokazuje model Mission Crew i Home Crew, jego wpływ na czas realizacji, jakość produktu i morale zespołu.",
+      "speakers": [
+        {
+          "name": "Łukasz Jarochowski",
+          "bio": "Engineering Manager zajmujący się organizacją pracy zespołów produktowych i inżynierskich. Praktyk podejścia Mission Crew i Home Crew, łączącego rozwój produktu z przewidywalnym utrzymaniem systemów.",
+          "photo": "lukasz-jarochowski.jpg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=KBHpn4nd9Go"
+    }
+  ],
+  "navigation": {
+    "newer": {
+      "number": 84,
+      "slug": "84-refleksje-programisty-w-erze-ai"
+    },
+    "older": {
+      "number": 82,
+      "slug": "82-vaadin-flow-graphql"
+    }
+  }
+}

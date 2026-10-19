@@ -148,7 +148,7 @@ document.querySelectorAll("[data-meetings-carousel]").forEach((carousel) => {
 
   const getMaxIndex = () => {
     const step = getStep();
-    return step > 0 ? Math.ceil((viewport.scrollWidth - viewport.clientWidth) / step) : 0;
+    return step > 0 ? Math.round((viewport.scrollWidth - viewport.clientWidth) / step) : 0;
   };
 
   const updateControls = () => {

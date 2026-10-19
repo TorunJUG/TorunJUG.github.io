@@ -85,7 +85,7 @@ const speakerPhotoSource = (filename, field) => {
     throw new Error(`pole „${field}” musi być nazwą pliku graficznego umieszczonego w static/media`);
   }
 
-  return `../static/media/${value}`;
+  return `../static/media/speakers/${value}`;
 };
 
 const youtubeVideoId = (value, field) => {

@@ -1,0 +1,158 @@
+[
+  {
+    "numerSpotkania": 89,
+    "tytul": "Historia prób wytępienia programistów",
+    "prowadzacy": "M. Strzelecki",
+    "link": "https://www.youtube.com/watch?v=AyNTM6eVy-k"
+  },
+  {
+    "numerSpotkania": 54,
+    "tytul": "Co robi architekt IT?",
+    "prowadzacy": "Hubert Pruszyński & Hubert Bieńkowski",
+    "link": "https://www.youtube.com/watch?v=d7OebPPW3T8"
+  },
+  {
+    "numerSpotkania": 86,
+    "tytul": "Airgapped DevSecOps, czyli Zarf i Keycloak...",
+    "prowadzacy": "Seba Łaskawiec&Michał Szynkiewicz",
+    "link": "https://www.youtube.com/watch?v=dZs55x5X0ts"
+  },
+  {
+    "numerSpotkania": 83,
+    "tytul": "Sekrety System Design Interview",
+    "prowadzacy": "S. Piotrowski",
+    "link": "https://www.youtube.com/watch?v=k5VBnSYbceg"
+  },
+  {
+    "numerSpotkania": 88,
+    "tytul": "From Edge to Gateway: architecting your OpenTelemetry Collector...",
+    "prowadzacy": "Marcin Stożek",
+    "link": "https://www.youtube.com/watch?v=RMz2_dZF2ZQ"
+  },
+  {
+    "numerSpotkania": 28,
+    "tytul": "Keep IT clean, or how to hide your shit",
+    "prowadzacy": "Jakub Nabrdalik",
+    "link": "https://www.youtube.com/watch?v=KO6K3_Ac54M"
+  },
+  {
+    "numerSpotkania": 90,
+    "tytul": "Thread Pool i czas czekania w kolejce (...)",
+    "prowadzacy": "M. Nalepa",
+    "link": "https://www.youtube.com/watch?v=jG71Hhs0b2w"
+  },
+  {
+    "numerSpotkania": null,
+    "tytul": "Bieszczady | Live on the Roof @ Toruń JUG Day 24 (18.05.2024)",
+    "prowadzacy": null,
+    "link": "https://www.youtube.com/watch?v=xr7IJJMvb-c"
+  },
+  {
+    "numerSpotkania": 82,
+    "tytul": "Żeglując po złożoności GraphQL: od płytkich wód szczęścia po...",
+    "prowadzacy": "Sebastian Rabiej",
+    "link": "https://www.youtube.com/watch?v=eI7_3a4SH8E"
+  },
+  {
+    "numerSpotkania": 59,
+    "tytul": "Co maszyna miała na myśli?",
+    "prowadzacy": "Maria Knorps",
+    "link": "https://www.youtube.com/watch?v=in0JSzFPSV8"
+  },
+  {
+    "numerSpotkania": 5,
+    "tytul": "Sexy unit testy",
+    "prowadzacy": "Łukasz Sawicki",
+    "link": "https://www.youtube.com/watch?v=zxFPwT0r_JM"
+  },
+  {
+    "numerSpotkania": 30,
+    "tytul": "Kalafiorem w JVM! - czyli eksperymenty z językiem Frege",
+    "prowadzacy": "Piotr Skonieczka",
+    "link": "https://www.youtube.com/watch?v=E76HC-OlrE4"
+  },
+  {
+    "numerSpotkania": 86,
+    "tytul": "Architektura Komunikacyjna w zespołach Agile",
+    "prowadzacy": "Anna Żołądkiewicz",
+    "link": "https://www.youtube.com/watch?v=kYQvl47U42k"
+  },
+  {
+    "numerSpotkania": 87,
+    "tytul": "Spark Declarative Pipelines (Spark 4.1)",
+    "prowadzacy": "J.Laskowski",
+    "link": "https://www.youtube.com/watch?v=aRdla6UXQSo"
+  },
+  {
+    "numerSpotkania": 74,
+    "tytul": "Java dla średnio zaawansowanych",
+    "prowadzacy": "Jakub Gardo",
+    "link": "https://www.youtube.com/watch?v=0ejEELouNgI"
+  },
+  {
+    "numerSpotkania": 50,
+    "tytul": "Jak DDD ma się do Architektury?",
+    "prowadzacy": "Marcin Markowski",
+    "link": "https://www.youtube.com/watch?v=YEBWenEQ5MI"
+  },
+  {
+    "numerSpotkania": 76,
+    "tytul": "Wzorce komunikacji asynchronicznej z RabbitMQ",
+    "prowadzacy": "Mariusz Mączkowski",
+    "link": "https://www.youtube.com/watch?v=p5-GjyiagXI"
+  },
+  {
+    "numerSpotkania": 4,
+    "tytul": "Akka, Play, Spray, Scalatra, Spark z perspektywy sbt",
+    "prowadzacy": "Jacek Laskowski",
+    "link": "https://www.youtube.com/watch?v=vLMRwMeWDTs"
+  },
+  {
+    "numerSpotkania": 1,
+    "tytul": "ClassIndex, szybka alternatywa dla skanowania klas",
+    "prowadzacy": "Sławomir Piotrowski",
+    "link": "https://www.youtube.com/watch?v=L9UOpEo0E1s"
+  },
+  {
+    "numerSpotkania": 55,
+    "tytul": "Kafka Connect - szwajcarski scyzoryk w rękach inżyniera?",
+    "prowadzacy": "Mariusz Strzelecki",
+    "link": "https://www.youtube.com/watch?v=iiz6t8g5t6Q"
+  },
+  {
+    "numerSpotkania": 63,
+    "tytul": "Daleko od agregatów, jak projektować złożoną logikę odczytową",
+    "prowadzacy": "Szymon Janikowski",
+    "link": "https://www.youtube.com/watch?v=En0avvrI-y4"
+  },
+  {
+    "numerSpotkania": 83,
+    "tytul": "Stop Making The Machine That Goes 'Ping'!",
+    "prowadzacy": "Łukasz Jarochowski",
+    "link": "https://www.youtube.com/watch?v=KBHpn4nd9Go"
+  },
+  {
+    "numerSpotkania": 64,
+    "tytul": "O tym jak zacząłem trzymać JSON'y w bazie",
+    "prowadzacy": "Patryk Bojańczyk",
+    "link": "https://www.youtube.com/watch?v=i8gZiFr1C6I"
+  },
+  {
+    "numerSpotkania": 24,
+    "tytul": "Jest! testy jednostkowe według Facebooka!",
+    "prowadzacy": "Wojciech Dzikowski",
+    "link": "https://www.youtube.com/watch?v=ploFNLwMv1I"
+  },
+  {
+    "numerSpotkania": 24,
+    "tytul": "@NotNull w Javie",
+    "prowadzacy": "Maciej Boniewicz",
+    "link": "https://www.youtube.com/watch?v=DYUnEo06fYE"
+  },
+  {
+    "numerSpotkania": 47,
+    "tytul": "Podstawy czystego kodu. Powtórka.",
+    "prowadzacy": "Marcin Pilaczyński",
+    "link": "https://www.youtube.com/watch?v=KzMMXKhPOOY"
+  }
+]

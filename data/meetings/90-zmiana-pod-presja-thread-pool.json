@@ -23,10 +23,10 @@
         {
           "name": "Łukasz Pięta",
           "bio": "Senior Software Engineer i konsultant przekładający niejasne potrzeby na proste, utrzymywalne rozwiązania. Specjalizuje się w iteracyjnej modernizacji systemów legacy, upraszczaniu architektury i ograniczaniu kosztu utrzymania.",
-          "photo": "lukasz-pieta.jpg"
+          "photo": "lukasz-pieta.png"
         }
       ],
-      "recordingUrl": null
+      "recordingUrl": "https://www.youtube.com/watch?v=Fxbk18uHmho"
     },
     {
       "title": "Thread Pool i czas czekania w kolejce: Bottleneck, którego nawet AI nie znalazł",
@@ -35,10 +35,10 @@
         {
           "name": "Mateusz Nalepa",
           "bio": "Inżynier oprogramowania z dziewięcioletnim doświadczeniem, skupiony na wydajnych i skalowalnych systemach. Lubi wyjaśniać złożone problemy za pomocą prostych narzędzi i danych; prywatnie występuje w teatrze i gra na pianinie.",
-          "photo": "mateusz-nalepa.jpg"
+          "photo": "mateusz-nalepa.png"
         }
       ],
-      "recordingUrl": null
+      "recordingUrl": "https://www.youtube.com/watch?v=jG71Hhs0b2w"
     }
   ],
   "navigation": {

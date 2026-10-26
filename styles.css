@@ -1673,11 +1673,11 @@ h3 {
 }
 
 .talk-description {
-  max-width: 850px;
   margin-bottom: 0;
   color: var(--slate-700);
   font-size: 1rem;
   white-space: pre-line;
+  text-align: justify;
 }
 
 .talk-speakers {
@@ -1709,6 +1709,7 @@ h3 {
 
 .talk-speaker-details {
   padding-top: 4px;
+  text-align: justify;
 }
 
 .talk-speaker-label {
@@ -1722,6 +1723,7 @@ h3 {
 
 .talk-speaker-details h4 {
   margin-bottom: 12px;
+  margin-top: 0px;
   font-family: inherit;
   font-size: clamp(1.3rem, 3vw, 1.8rem);
   letter-spacing: -0.02em;

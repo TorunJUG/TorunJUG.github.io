@@ -48,14 +48,14 @@
     {
       "@type": "Person",
       "name": "Łukasz Pięta",
-      "description": "Senior Software Engineer i konsultant przekładający niejasne potrzeby na proste, utrzymywalne rozwiązania. Specjalizuje się w iteracyjnej modernizacji systemów legacy, upraszczaniu architektury i ograniczaniu kosztu utrzymania.",
-      "image": "https://torun.jug.pl/static/speakers/lukasz-pieta.png"
+      "description": "Senior Software Engineer i konsultant. Pomagam przekuwać niejasne potrzeby w proste, utrzymywalne rozwiązania - pragmatycznie, iteracyjnie i bez overengineeringu. Najwięcej satysfakcji daje mi modernizacja złożonych systemów legacy, w której upraszczam architekturę i obniżam koszt utrzymania.",
+      "image": "https://torun.jug.pl/static/media/lukasz-pieta.jpg"
     },
     {
       "@type": "Person",
       "name": "Mateusz Nalepa",
-      "description": "Inżynier oprogramowania z dziewięcioletnim doświadczeniem, skupiony na wydajnych i skalowalnych systemach. Lubi wyjaśniać złożone problemy za pomocą prostych narzędzi i danych; prywatnie występuje w teatrze i gra na pianinie.",
-      "image": "https://torun.jug.pl/static/speakers/mateusz-nalepa.png"
+      "description": "Jest inżynierem oprogramowania z dziewięcioletnim doświadczenie komercyjnym. Jego praca koncentruje się na budowaniu wydajnych, dobrze zaprojektowanych systemów, ze szczególnym uwzględnieniem podstawowych zasad inżynierii oprogramowania, które wpływają na wydajność i skalowalność. Uważa, że \"Paint\" oraz \"to zależy\" są absolutnie najlepszymi narzędziami które pomagają wyjaśniać zawiłe koncepty z programowania. Jego ulubiony prompt do AI to: \"Hej, wytłumacz mi XYZ jak dla 6 letniego dziecka\" który pomaga bardzo szybko znaleźć punkt odniesienia. W ramach pracy chętnie dzieli się wiedzą i zawsze jest chętny do tego, żeby wdrożyć nową osobę do zespołu. W wolnej chwili występuje w teatrze i gra na pianinie.",
+      "image": "https://torun.jug.pl/static/media/mateusz-nalepa.jpg"
     }
   ]
 }
@@ -124,14 +124,14 @@
             <div class="talk-list">
               <article class="talk-card">
                 <h3>Zmiana pod presją: dlaczego koszt zmiany rośnie i jak go zatrzymać</h3>
-                <p class="talk-description">Koszt zmiany rośnie, gdy tymczasowe skróty utrwalają się w architekturze, modele tracą jednoznaczne znaczenie, a odpowiedzialność rozmywa się między zespołami. Prelekcja pokazuje sposoby ograniczania tego kosztu na poziomie organizacji, języka domeny i technicznej modernizacji systemów legacy.</p>
+                <p class="talk-description">„Legacy” często kojarzymy z wiekiem systemu albo przestarzałą technologią. W praktyce problem zaczyna się gdzie indziej: w rosnącym koszcie zmiany. Pod presją dostarczania powstają skróty, które z czasem zamieniają się w strukturę. Decyzje trafiają „tymczasowo” do przypadkowych miejsc, wspólne modele zaczynają znaczyć wszystko naraz, a granice odpowiedzialności rozmywają się między zespołami. Efekt to coraz większy coupling, coraz wyższy koszt koordynacji i zmiany, które zamiast być lokalne, przechodzą przez pół organizacji. 
+W mojej prezentacji pokażę, dlaczego koszt zmiany rośnie oraz jak świadomie go obniżać na trzech poziomach. Organizacyjnie: przez dopasowanie architektury do sposobu pracy zespołów i jasne tryby współpracy. Semantycznie: przez szukanie naturalnych granic w języku domeny, rozróżnianie znaczeń tych samych pojęć w różnych kontekstach i nadawanie modelom realnych właścicieli. Technicznie: przez pracę z legacy małymi krokami — zabezpieczanie zachowania testami, znajdowanie spoin (seams), ochronę nowego modelu przed starym oraz wydzielanie pierwszego „bubble context” bez przepisywania całego systemu.</p>
                 <div class="talk-speakers">
                   <section class="talk-speaker-profile" aria-label="Informacje o prelegencie">
-                    <img class="talk-speaker-photo" src="../static/speakers/lukasz-pieta.png" width="300" height="300" alt="Zdjęcie: Łukasz Pięta" loading="lazy" decoding="async">
+                    <img class="talk-speaker-photo" src="../static/speakers/lukasz-pieta.jpg" width="300" height="300" alt="Zdjęcie: Łukasz Pięta" loading="lazy" decoding="async">
                     <div class="talk-speaker-details">
-                      <p class="talk-speaker-label">Prelegent</p>
                       <h4>Łukasz Pięta</h4>
-                      <p class="talk-speaker-bio">Senior Software Engineer i konsultant przekładający niejasne potrzeby na proste, utrzymywalne rozwiązania. Specjalizuje się w iteracyjnej modernizacji systemów legacy, upraszczaniu architektury i ograniczaniu kosztu utrzymania.</p>
+                      <p class="talk-speaker-bio">Senior Software Engineer i konsultant. Pomagam przekuwać niejasne potrzeby w proste, utrzymywalne rozwiązania - pragmatycznie, iteracyjnie i bez overengineeringu. Najwięcej satysfakcji daje mi modernizacja złożonych systemów legacy, w której upraszczam architekturę i obniżam koszt utrzymania.</p>
                     </div>
                   </section>
                 </div>
@@ -141,14 +141,13 @@
               </article>
               <article class="talk-card">
                 <h3>Thread Pool i czas czekania w kolejce: Bottleneck, którego nawet AI nie znalazł</h3>
-                <p class="talk-description">Analiza rzeczywistych danych produkcyjnych pokazująca, gdzie w pulach wątków powstaje czas oczekiwania, jak go mierzyć i jak reagować, gdy kolejka staje się wąskim gardłem systemu obsługującego HTTP, parsowanie danych i logikę biznesową.</p>
+                <p class="talk-description">Wiele różnych systemów zachowuje się zaskakująco podobnie: działają na wątkach lub pulach wątków, wysyłają żądania HTTP w trybie blokującym lub nieblokującym oraz parsują JSONy żeby móc wykonywać logikę biznesową. Jednak prędzej czy później zaczynają zwalniać – niczym jazda przez miasto w godzinach szczytu, gdy każda ulica kryje kolejny korek. W tym wystąpieniu przyjrzymy się, gdzie pojawia się czas oczekiwania w kolejce w naszych Thread Poolach i jak go mierzyć. Oczywiście dowiemy się też co robić, gdy czas czekania jest większy niż 0. Wszystkie wnioski pochodzą bezpośrednio z rzeczywistych danych produkcyjnych.</p>
                 <div class="talk-speakers">
                   <section class="talk-speaker-profile" aria-label="Informacje o prelegencie">
-                    <img class="talk-speaker-photo" src="../static/speakers/mateusz-nalepa.png" width="300" height="300" alt="Zdjęcie: Mateusz Nalepa" loading="lazy" decoding="async">
+                    <img class="talk-speaker-photo" src="../static/speakers/mateusz-nalepa.jpg" width="300" height="300" alt="Zdjęcie: Mateusz Nalepa" loading="lazy" decoding="async">
                     <div class="talk-speaker-details">
-                      <p class="talk-speaker-label">Prelegent</p>
                       <h4>Mateusz Nalepa</h4>
-                      <p class="talk-speaker-bio">Inżynier oprogramowania z dziewięcioletnim doświadczeniem, skupiony na wydajnych i skalowalnych systemach. Lubi wyjaśniać złożone problemy za pomocą prostych narzędzi i danych; prywatnie występuje w teatrze i gra na pianinie.</p>
+                      <p class="talk-speaker-bio">Jest inżynierem oprogramowania z dziewięcioletnim doświadczenie komercyjnym. Jego praca koncentruje się na budowaniu wydajnych, dobrze zaprojektowanych systemów, ze szczególnym uwzględnieniem podstawowych zasad inżynierii oprogramowania, które wpływają na wydajność i skalowalność. Uważa, że &quot;Paint&quot; oraz &quot;to zależy&quot; są absolutnie najlepszymi narzędziami które pomagają wyjaśniać zawiłe koncepty z programowania. Jego ulubiony prompt do AI to: &quot;Hej, wytłumacz mi XYZ jak dla 6 letniego dziecka&quot; który pomaga bardzo szybko znaleźć punkt odniesienia. W ramach pracy chętnie dzieli się wiedzą i zawsze jest chętny do tego, żeby wdrożyć nową osobę do zespołu. W wolnej chwili występuje w teatrze i gra na pianinie.</p>
                     </div>
                   </section>
                 </div>

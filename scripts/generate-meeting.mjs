@@ -82,10 +82,10 @@ const formatTime = (date) =>
 const speakerPhotoSource = (filename, field) => {
   const value = requiredString(filename, field);
   if (!/^[a-zA-Z0-9][a-zA-Z0-9._-]*\.(?:avif|gif|jpe?g|png|webp)$/i.test(value)) {
-    throw new Error(`pole „${field}” musi być nazwą pliku graficznego umieszczonego w static/media`);
+    throw new Error(`pole „${field}” musi być nazwą pliku graficznego umieszczonego w static/speakers`);
   }
 
-  return `../static/media/speakers/${value}`;
+  return `../static/speakers/${value}`;
 };
 
 const youtubeVideoId = (value, field) => {
@@ -137,7 +137,6 @@ const renderTalks = (talks, templateVersion) => {
           return `                  <section class="talk-speaker-profile" aria-label="Informacje o prelegencie">
                     <img class="talk-speaker-photo" src="${photoSource}" width="300" height="300" alt="Zdjęcie: ${speakerName}" loading="lazy" decoding="async">
                     <div class="talk-speaker-details">
-                      <p class="talk-speaker-label">Prelegent</p>
                       <h4>${speakerName}</h4>
                       <p class="talk-speaker-bio">${speakerBio}</p>
                     </div>

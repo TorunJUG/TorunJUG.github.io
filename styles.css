@@ -151,13 +151,32 @@ h3 {
 }
 
 .brand {
+  position: relative;
+  isolation: isolate;
   display: inline-flex;
   align-items: center;
   gap: 12px;
   text-decoration: none;
 }
 
+.brand.tjug-game-countdown::before {
+  content: "";
+  position: absolute;
+  inset: -4px;
+  z-index: 0;
+  border-radius: 16px;
+  background: conic-gradient(
+    from -90deg,
+    #f4512c 0 calc(var(--tjug-game-progress, 0) * 1%),
+    rgba(255, 255, 255, 0.2) 0 100%
+  );
+  box-shadow: 0 0 18px rgba(244, 81, 44, 0.4);
+  pointer-events: none;
+}
+
 .brand-logo {
+  position: relative;
+  z-index: 1;
   width: auto;
   height: 50px;
   padding: 7px 11px;
@@ -2598,6 +2617,207 @@ h3 {
   }
 }
 
+body.tjug-game-open {
+  overflow: hidden;
+}
+
+.tjug-game-dialog {
+  width: 100vw;
+  max-width: none;
+  height: 100vh;
+  height: 100dvh;
+  max-height: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  background: #061624;
+  color: #fff;
+}
+
+.tjug-game-dialog::backdrop {
+  background: #061624;
+}
+
+.tjug-game-shell {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 50% 15%, rgba(8, 113, 138, 0.4), transparent 40%),
+    #061624;
+}
+
+.tjug-game-dialog {
+  --tjug-pixel-font: "Press Start 2P", ui-monospace, monospace;
+}
+
+.tjug-game-close {
+  position: absolute;
+  top: 16px;
+  right: 18px;
+  z-index: 4;
+  width: 48px;
+  height: 48px;
+  display: grid;
+  place-items: center;
+  padding: 0;
+  border: 4px solid #02090f;
+  border-radius: 0;
+  background: #0b2335;
+  color: #fff;
+  font-family: var(--tjug-pixel-font);
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow:
+    inset 4px 4px 0 #164560,
+    inset -4px -4px 0 #051521,
+    4px 4px 0 #02090f;
+}
+
+.tjug-game-close:hover,
+.tjug-game-close:focus-visible {
+  background: #f4512c;
+  box-shadow:
+    inset 4px 4px 0 #ff8a6b,
+    inset -4px -4px 0 #a92b15,
+    4px 4px 0 #02090f;
+  outline: 4px solid #fff;
+  outline-offset: 4px;
+}
+
+.tjug-game-close:active {
+  box-shadow: inset 4px 4px 0 #a92b15;
+  transform: translate(4px, 4px);
+}
+
+.tjug-game-loader {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  display: grid;
+  align-content: center;
+  justify-items: center;
+  gap: 16px;
+  padding: 32px;
+  background:
+    linear-gradient(rgba(6, 22, 36, 0.78), rgba(6, 22, 36, 0.94)),
+    repeating-linear-gradient(0deg, transparent 0 31px, rgba(113, 216, 232, 0.08) 31px 32px),
+    repeating-linear-gradient(90deg, #092333 0 31px, #0b2b3c 31px 32px);
+  font-family: var(--tjug-pixel-font);
+  text-align: center;
+  transition: opacity 500ms ease, visibility 500ms ease;
+}
+
+.tjug-game-loader p {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.72);
+  font-size: 0.6rem;
+  line-height: 1.8;
+}
+
+.tjug-game-loader .tjug-game-loader-title {
+  color: #fff;
+  font-size: clamp(0.85rem, 2.2vw, 1.4rem);
+  line-height: 1.5;
+  text-shadow: 4px 4px 0 #a92b15;
+}
+
+.tjug-game-loader-icon {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  margin-bottom: 16px;
+  border: 4px solid #02090f;
+  background: #a94b22;
+  box-shadow:
+    inset 4px 4px 0 #ffb45d,
+    inset -4px -4px 0 #6e2c10,
+    8px 8px 0 rgba(0, 0, 0, 0.45);
+  animation: tjug-cookie-loading 600ms steps(2, jump-none) infinite alternate;
+}
+
+.tjug-game-loader-icon::before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  width: 4px;
+  height: 4px;
+  background: #ffb45d;
+  box-shadow:
+    12px 4px 0 #ffb45d,
+    4px 16px 0 #ffb45d,
+    20px 16px 0 #ffb45d;
+}
+
+.tjug-game-loader.is-error .tjug-game-loader-icon {
+  display: none;
+}
+
+.tjug-game-return {
+  min-height: 52px;
+  margin-top: 12px;
+  padding: 0 22px;
+  border: 4px solid #02090f;
+  border-radius: 0;
+  background: #f4512c;
+  color: #fff;
+  font-family: var(--tjug-pixel-font);
+  font-size: 0.7rem;
+  line-height: 1.6;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 0 #a92b15;
+  cursor: pointer;
+  box-shadow:
+    inset -4px -4px 0 #a92b15,
+    inset 4px 4px 0 #ff8a6b,
+    0 8px 0 #02090f;
+}
+
+.tjug-game-return:hover,
+.tjug-game-return:focus-visible {
+  background: #ff6846;
+  outline: 4px solid #fff;
+  outline-offset: 4px;
+}
+
+.tjug-game-return:active {
+  box-shadow: inset 4px 4px 0 #a92b15;
+  transform: translateY(8px);
+}
+
+.tjug-game-frame {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 500ms ease;
+}
+
+.tjug-game-dialog.is-ready .tjug-game-loader {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.tjug-game-dialog.is-ready .tjug-game-frame {
+  opacity: 1;
+  visibility: visible;
+}
+
+@keyframes tjug-cookie-loading {
+  to {
+    transform: translateY(-12px);
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
@@ -2608,6 +2828,10 @@ h3 {
   *::after {
     scroll-behavior: auto !important;
     transition-duration: 0.01ms !important;
+  }
+
+  .tjug-game-loader-icon {
+    animation: none;
   }
 }
 

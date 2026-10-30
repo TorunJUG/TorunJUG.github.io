@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <title>Piernikowy Quest</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./game.css">
+    <script>
+      window.parent.postMessage(
+        { source: "tjug-piernikowy-quest", type: "booting" },
+        window.location.protocol === "file:" ? "*" : window.location.origin
+      );
+    </script>
+  </head>
+  <body>
+    <section class="game-title-screen" data-title-screen aria-labelledby="game-title-screen-heading">
+      <h2 id="game-title-screen-heading" class="game-title-logo" aria-label="Piernikowy Quest">
+        <span class="game-title-word game-title-word-first" data-title-word aria-hidden="true">Piernikowy</span>
+        <span class="game-title-word game-title-word-second" data-title-word aria-hidden="true">Quest</span>
+      </h2>
+    </section>
+
+    <main class="game" data-game-root aria-labelledby="game-title" inert>
+      <header class="game-hud">
+        <div>
+          <p class="game-kicker">Toruń JUG przedstawia · <span data-level-name>Piernikowy ogród</span></p>
+          <h1 id="game-title">Piernikowy Quest</h1>
+        </div>
+        <dl class="game-score" aria-label="Wynik gry">
+          <div>
+            <dt>Czas</dt>
+            <dd data-time>00:30</dd>
+          </div>
+          <div>
+            <dt>Bugi</dt>
+            <dd data-bug-count>0/6</dd>
+          </div>
+        </dl>
+      </header>
+
+      <section class="game-stage-wrap" aria-label="Plansza gry">
+        <div class="game-stage" data-game-stage>
+          <p class="game-canvas-fallback">Kafelkowa mapa, na której bohater zbiera pierniki.</p>
+        </div>
+
+        <div class="game-panel" data-start-panel>
+          <div class="game-panel-card">
+            <span class="game-cookie" aria-hidden="true">◆</span>
+            <p class="game-kicker">Ukryta misja</p>
+            <h2>Zbierz 10 pierników</h2>
+            <p>Masz 30 sekund, by odszukać wszystkie toruńskie wypieki. Wylosowana plansza: <strong data-level-name>Piernikowy ogród</strong>.</p>
+            <p>Uważaj na bugi — z czasem jest ich coraz więcej, a jedno dotknięcie kończy grę.</p>
+            <p class="game-controls">Ruch: strzałki lub WASD</p>
+            <button type="button" data-start-game>Zagraj</button>
+          </div>
+        </div>
+
+        <div class="game-panel" data-win-panel hidden>
+          <div class="game-panel-card">
+            <span class="game-cookie game-cookie-win" aria-hidden="true">◆</span>
+            <p class="game-kicker">Misja wykonana</p>
+            <h2>Wszystkie pierniki zebrane!</h2>
+            <p>Twój czas: <strong data-final-time>00:00</strong></p>
+            <button type="button" data-restart-game>Zagraj ponownie</button>
+          </div>
+        </div>
+
+        <div class="game-panel" data-lose-panel hidden>
+          <div class="game-panel-card">
+            <span class="game-cookie game-cookie-lose" aria-hidden="true">◆</span>
+            <p class="game-kicker">Misja nieudana</p>
+            <h2 data-lose-title>Koniec gry</h2>
+            <p data-lose-reason></p>
+            <p>Zebrane pierniki: <strong data-final-score>0/10</strong></p>
+            <button type="button" data-restart-game>Spróbuj ponownie</button>
+          </div>
+        </div>
+      </section>
+
+      <div class="game-tray" data-tray role="img" aria-label="Zebrane pierniki: 0 z 10"></div>
+
+      <p class="game-help">Strzałki / WASD — ruch · Esc — powrót do strony</p>
+      <p class="sr-only" aria-live="polite" data-announcer></p>
+    </main>
+    <img class="game-hero-source" data-hero-source src="../media/favicon.ico" alt="" hidden>
+    <script src="./vendor/littlejs.min.js"></script>
+    <script src="./map.js"></script>
+    <script src="./sprites.js"></script>
+    <script src="./game-core.js"></script>
+    <script src="./littlejs-adapter.js"></script>
+    <script src="./game.js"></script>
+  </body>
+</html>

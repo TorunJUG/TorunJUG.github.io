@@ -1,5 +1,9 @@
 document.documentElement.classList.add("js");
 
+const siteScriptUrl = document.currentScript?.src
+  ? new URL(document.currentScript.src)
+  : new URL("script.js", window.location.href);
+
 const menuToggle = document.querySelector("[data-menu-toggle]");
 const navPanel = document.querySelector("[data-nav-panel]");
 const currentYear = document.querySelector("[data-current-year]");
@@ -217,6 +221,222 @@ brandLogos.forEach((logo) => {
     logo.src = staticSource;
   });
 });
+
+const setupGameEasterEgg = () => {
+  const logo = document.querySelector(".site-header .brand-logo");
+  const desktopPointer = window.matchMedia("(min-width: 961px) and (hover: hover) and (pointer: fine)");
+
+  if (!logo) {
+    return;
+  }
+
+  const logoLink = logo.closest(".brand");
+  let hoverTimer;
+  let progressDelayTimer;
+  let progressFrame;
+  let hoverStartedAt;
+  let gameDialog;
+  let gameFrame;
+  let loadingTimeout;
+  let revealTimeout;
+  let gameOpenedAt;
+  let isGameOpen = false;
+  const LOADER_MIN_DURATION_MS = 1500;
+  const LOADER_FADE_MS = 500;
+  const allowedGameMessages = new Set(["booting", "ready", "completed", "close", "error"]);
+  const expectedGameOrigin = window.location.protocol === "file:" ? "null" : window.location.origin;
+
+  const clearHoverTimer = () => {
+    window.clearTimeout(hoverTimer);
+    window.clearTimeout(progressDelayTimer);
+    window.cancelAnimationFrame(progressFrame);
+    hoverTimer = undefined;
+    progressDelayTimer = undefined;
+    progressFrame = undefined;
+    hoverStartedAt = undefined;
+    logoLink?.classList.remove("tjug-game-countdown");
+    logoLink?.style.removeProperty("--tjug-game-progress");
+  };
+
+  const updateHoverProgress = (currentTime) => {
+    if (hoverStartedAt === undefined || !logoLink) {
+      return;
+    }
+
+    const progress = Math.min(100, Math.max(0, ((currentTime - hoverStartedAt - 5000) / 5000) * 100));
+    logoLink.style.setProperty("--tjug-game-progress", progress.toFixed(2));
+
+    if (progress < 100) {
+      progressFrame = window.requestAnimationFrame(updateHoverProgress);
+    }
+  };
+
+  const closeGame = () => {
+    if (!isGameOpen) {
+      return;
+    }
+
+    isGameOpen = false;
+    window.clearTimeout(loadingTimeout);
+    window.clearTimeout(revealTimeout);
+    window.removeEventListener("message", handleGameMessage);
+    document.body.classList.remove("tjug-game-open");
+
+    if (gameDialog?.open && typeof gameDialog.close === "function") {
+      gameDialog.close();
+    }
+
+    gameDialog?.remove();
+    gameDialog = undefined;
+    gameFrame = undefined;
+    logoLink?.focus({ preventScroll: true });
+  };
+
+  const showLoadError = () => {
+    window.clearTimeout(loadingTimeout);
+    const loader = gameDialog?.querySelector("[data-game-loader]");
+    if (!loader) {
+      return;
+    }
+
+    loader.classList.add("is-error");
+    loader.innerHTML = `
+      <p class="tjug-game-loader-title">Nie udało się uruchomić gry.</p>
+      <button class="tjug-game-return" type="button">Wróć do strony</button>
+    `;
+    loader.querySelector("button")?.addEventListener("click", closeGame);
+  };
+
+  // Keep the loader up for a moment, cross-fade it into the game's title screen,
+  // and only then let the game start its title animation.
+  const revealGame = () => {
+    gameDialog?.classList.add("is-ready");
+    gameFrame.title = "Piernikowy Quest — minigra Toruń JUG";
+    revealTimeout = window.setTimeout(() => {
+      gameFrame?.contentWindow?.postMessage(
+        { source: "tjug-site", type: "start-title" },
+        window.location.protocol === "file:" ? "*" : window.location.origin
+      );
+    }, LOADER_FADE_MS);
+  };
+
+  function handleGameMessage(event) {
+    if (
+      !gameFrame
+      || event.source !== gameFrame.contentWindow
+      || event.origin !== expectedGameOrigin
+      || event.data?.source !== "tjug-piernikowy-quest"
+      || !allowedGameMessages.has(event.data.type)
+    ) {
+      return;
+    }
+
+    if (event.data.type === "ready") {
+      window.clearTimeout(loadingTimeout);
+      revealTimeout = window.setTimeout(
+        revealGame,
+        Math.max(0, LOADER_MIN_DURATION_MS - (performance.now() - gameOpenedAt))
+      );
+    } else if (event.data.type === "error") {
+      window.clearTimeout(loadingTimeout);
+      showLoadError();
+    } else if (event.data.type === "close") {
+      closeGame();
+    }
+  }
+
+  const openGame = () => {
+    if (isGameOpen || !desktopPointer.matches || document.hidden) {
+      return;
+    }
+
+    isGameOpen = true;
+    gameOpenedAt = performance.now();
+    clearHoverTimer();
+    document.body.classList.add("tjug-game-open");
+
+    if (!document.querySelector("[data-game-font]")) {
+      const gameFont = document.createElement("link");
+      gameFont.rel = "stylesheet";
+      gameFont.href = "https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap";
+      gameFont.dataset.gameFont = "";
+      document.head.append(gameFont);
+    }
+
+    gameDialog = document.createElement("dialog");
+    gameDialog.className = "tjug-game-dialog";
+    gameDialog.setAttribute("aria-label", "Piernikowy Quest");
+    gameDialog.innerHTML = `
+      <div class="tjug-game-shell">
+        <button class="tjug-game-close" type="button" aria-label="Zamknij grę">×</button>
+        <div class="tjug-game-loader" data-game-loader role="status" aria-live="polite">
+          <span class="tjug-game-loader-icon" aria-hidden="true"></span>
+          <p class="tjug-game-loader-title">Ładowanie Piernikowego Questu…</p>
+          <p>Przygotowujemy mapę i chowamy pierniki.</p>
+        </div>
+      </div>
+    `;
+
+    gameFrame = document.createElement("iframe");
+    gameFrame.className = "tjug-game-frame";
+    gameFrame.title = "Ładowanie minigry";
+    gameFrame.src = new URL("./static/game/game.html", siteScriptUrl).href;
+    gameFrame.addEventListener("error", showLoadError, { once: true });
+    gameDialog.querySelector(".tjug-game-shell").append(gameFrame);
+    gameDialog.querySelector(".tjug-game-close").addEventListener("click", closeGame);
+    gameDialog.addEventListener("cancel", (event) => {
+      event.preventDefault();
+      closeGame();
+    });
+
+    window.addEventListener("message", handleGameMessage);
+    document.body.append(gameDialog);
+
+    if (typeof gameDialog.showModal === "function") {
+      gameDialog.showModal();
+    } else {
+      gameDialog.setAttribute("open", "");
+    }
+
+    loadingTimeout = window.setTimeout(showLoadError, 20000);
+  };
+
+  const startHoverTimer = (event) => {
+    if (event.pointerType !== "mouse" || !desktopPointer.matches || isGameOpen) {
+      return;
+    }
+
+    clearHoverTimer();
+    hoverStartedAt = performance.now();
+    progressDelayTimer = window.setTimeout(() => {
+      logoLink?.classList.add("tjug-game-countdown");
+      logoLink?.style.setProperty("--tjug-game-progress", "0");
+      progressFrame = window.requestAnimationFrame(updateHoverProgress);
+    }, 5000);
+    hoverTimer = window.setTimeout(() => {
+      window.cancelAnimationFrame(progressFrame);
+      logoLink?.style.setProperty("--tjug-game-progress", "100");
+      progressFrame = window.requestAnimationFrame(openGame);
+    }, 10000);
+  };
+
+  logo.addEventListener("pointerenter", startHoverTimer);
+  logo.addEventListener("pointerleave", clearHoverTimer);
+  window.addEventListener("blur", clearHoverTimer);
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) {
+      clearHoverTimer();
+    }
+  });
+  desktopPointer.addEventListener("change", (event) => {
+    if (!event.matches) {
+      clearHoverTimer();
+      closeGame();
+    }
+  });
+};
+
+setupGameEasterEgg();
 
 if (menuToggle && navPanel) {
   const closeMenu = () => {

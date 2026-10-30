@@ -1,0 +1,50 @@
+{
+  "number": 91,
+  "slug": "91-virtual-threads-private-ai-benchmarks",
+  "title": "Virtual Threads i Private AI Benchmarks",
+  "description": "Toruń JUG #91: wirtualne wątki i prywatne benchmarki AI",
+  "startDate": "2026-10-28T18:00:00+02:00",
+  "endDate": "2026-10-28T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "Grudziądzka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/pl-pl/torun-jug/events/316921855/",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Virtual Threads: 101",
+      "description": "Programiści Java pracujący nad aplikacjami serwerowymi stoją przed wieloma wyzwaniami. Nie tylko muszą dbać o ich stabilność i bezpieczeństwo, ale także skalowalność. Gdy aplikacja cieszy się zainteresowaniem i liczba użytkowników rośnie, przygotowują się na większy ruch i m.in. powiększają pule wątków, aby równolegle móc obsługiwać więcej żądań. \nNiestety, ten sposób skalowania ma swoje ograniczenia. W powszechnie stosowanym modelu thread-per-request (używanym np. przez kontener Tomcat) każde żądanie wymaga osobnego, zasobożernego wątku, który przez większość czasu... po prostu czeka na odpowiedź bazy danych lub API. Zwiększenie puli o setki czy tysiące takich wątków nie przyniesie wymiernych korzyści: zamiast tego doprowadzi do spadku wydajności (procesor marnuje czas na przełączanie kontekstu między wątkami) lub błędu OOME.\n\nJak w takich warunkach poradzić sobie ze skalowaniem? Dołożyć kolejne instancje usługi? Migrować na inny serwer? Przejść na programowanie reaktywne? A może wykorzystać wirtualne wątki? Ten koncept, rozwijany w ramach projektu Loom, stał się stabilną funkcjonalnością w Javie 21. W mojej prezentacji wyjaśnię, czym one są, czym różnią się od wątków platformowych oraz jak je zastosować, aby drastycznie zwiększyć przepustowość aplikacji i efektywnie wykorzystywać zasoby serwera bez drastycznych zmian w codebase.",
+      "speakers": [
+        {
+          "name": "Paweł Kowalski",
+          "bio": "Full-stack developer, swobodnie poruszający się zarówno w back-endzie opartym o ekosystem JVM jak i we front-endzie (Angular, React czy vanilla JS). Zwolennik czystego kodu, pasjonujący się destylacją niecodziennych lub skomplikowanych rozwiązań, by później uwarzyć ciekawe prezentacje na bazie zebranych doświadczeń. Po godzinach mąż i ojciec dwójki dzieci, miłośnik ciężkiego brzmienia i pasjonat kettlebell hardstyle. Nie pogardzi też rozwiązywaniem krzyżówek, grą na gitarze czy wszelkiego rodzaju grami zespołowymi. Koneser sucharów i ironicznych żartów.",
+          "photo": "pawel-kowalski.jpg"
+        }
+      ],
+      "recordingUrl": null
+    },
+    {
+      "title": "Zrozum swój AI harness - Automatyczna ewaluacja agentów kodujących za pomocą private benchmarks",
+      "description": "Twój AI harness to masa decyzji: agent, model, pliki kontekstu, skille, MCP... Skąd wiesz, że dana kombinacja działa dobrze? Skąd wiesz, czy dany skill wnosi powtarzalną wartość, a nie przeszkadza? Skąd wiesz, jaki model wybrać do konkretnego zadania? Najczęściej ufasz automatom, sprawdzasz ręcznie albo... wybierasz najlepszy i każesz mu nie robić błędów. To może wystarczało, dopóki trwała dilerka tokenów. Dziś Copilot, Cursor i Kiro liczą kredyty, limity Claude Code i Codex zmieniają się co kilka tygodni, a najdroższy model wcale nie musi być optymalny do Twoich zadań. Publiczne benchmarki pomagają się rozeznać, ale... nie znają Twojego projektu. Dlatego warto poznać private coding benchmarks. Są jak testy automatyczne zapięte na Twojej codziennej pracy. Podczas prezentacji pokażę, jak stworzyć i uruchomić private benchmark z użyciem narzędzi Harbor i toolkitu NASDE oraz jak rozumieć wyniki. Cel? Wiedzieć, a nie zgadywać, co w Twoim harnessie działa i za ile. Zapraszam!",
+      "speakers": [
+        {
+          "name": "Szymon Janikowski",
+          "bio": "Doświadczony inżynier IT, który zawsze wierzył w siłę wszechstronnego rozwoju zawodowego, a teraz obserwuje, jak rewolucja AI potwierdza, że miał rację. Konsultant w Bottega IT Minds specjalizujący się w Domain-Driven Design i architekturze IT, z bogatym doświadczeniem w branżach FinTech oraz systemach rezerwacji podróży. Rozwija Noesis Vision - startup skupiony na narzędziach i usługach, które pomagają firmom przejść na hiperwydajne, agentowe wytwarzanie oprogramowania.",
+          "photo": "szymon-janikowski.jpg"
+        }
+      ],
+      "recordingUrl": null
+    }
+  ],
+  "navigation": {
+    "older": {
+      "number": 90,
+      "slug": "90-zmiana-pod-presja-thread-pool"
+    }
+  }
+}

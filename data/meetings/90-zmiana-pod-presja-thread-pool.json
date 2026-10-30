@@ -42,6 +42,10 @@
     }
   ],
   "navigation": {
+    "newer": {
+      "number": 91,
+      "slug": "91-virtual-threads-private-ai-benchmarks"
+    },
     "older": {
       "number": 89,
       "slug": "89-wspolbiezny-sadyzm-historia-programistow"

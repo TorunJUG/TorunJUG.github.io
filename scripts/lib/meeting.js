@@ -62,6 +62,16 @@ export const isoDay = (date) => {
   return `${parts.year}-${parts.month}-${parts.day}`;
 };
 
+/** Identyfikator prelegenta do adresów i kotwic, np. „Michał Szynkiewicz” → „michal-szynkiewicz”. */
+export const speakerId = (name) =>
+  name
+    .toLowerCase()
+    .replaceAll("ł", "l")
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+
 const youtubeVideoId = (value, field) => {
   const source = requiredUrl(value, field);
   const url = new URL(source);
@@ -86,8 +96,10 @@ const normalizeSpeaker = (speaker, prefix) => {
   if (!PHOTO_PATTERN.test(photo)) {
     throw new Error(`pole „${prefix}.photo” musi być nazwą pliku graficznego umieszczonego w src/static/speakers`);
   }
+  const name = requiredString(speaker?.name, `${prefix}.name`);
   return {
-    name: requiredString(speaker?.name, `${prefix}.name`),
+    id: speakerId(name),
+    name,
     bio: requiredString(speaker?.bio, `${prefix}.bio`),
     photo,
   };

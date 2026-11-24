@@ -2,7 +2,7 @@
     root       – ścieżka do katalogu głównego ("" lub "../")
     nav.home   – adres logo
     nav.prefix – prefiks linków do sekcji strony głównej ("" na stronie głównej, "../index.html" na podstronach)
-    nav.current – "spotkania", aby oznaczyć archiwum jako bieżącą stronę
+    nav.current – "spotkania" lub "prelegenci", aby oznaczyć bieżącą stronę
     nav.action – opcjonalny przycisk { label, href } -#}
     <header class="site-header"{% if nav.dataHeader %} data-header{% endif %}>
       <div class="container header-inner">
@@ -19,6 +19,7 @@
               {%- else -%}
               <li><a href="{{ nav.prefix }}#spotkania">Spotkania</a></li>
               {%- endif %}
+              <li><a href="{{ root }}prelegenci/index.html"{% if nav.current == "prelegenci" %} aria-current="page"{% endif %}>Prelegenci</a></li>
               <li><a href="{{ nav.prefix }}#liderzy">Liderzy</a></li>
               <li><a href="{{ nav.prefix }}#partnerzy">Partnerzy</a></li>
               <li><a href="{{ nav.prefix }}#wspolpraca">Współpraca</a></li>

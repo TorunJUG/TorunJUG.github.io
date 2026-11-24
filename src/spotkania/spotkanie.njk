@@ -67,7 +67,7 @@ nav:
                   <section class="talk-speaker-profile" aria-label="Informacje o prelegencie">
                     <img class="talk-speaker-photo" src="../static/speakers/{{ speaker.photo }}" width="300" height="300" alt="Zdjęcie: {{ speaker.name }}" loading="lazy" decoding="async">
                     <div class="talk-speaker-details">
-                      <h4>{{ speaker.name }}</h4>
+                      <h4><a href="../prelegenci/index.html#{{ speaker.id }}">{{ speaker.name }}</a></h4>
                       <p class="talk-speaker-bio">{{ speaker.bio }}</p>
                     </div>
                   </section>

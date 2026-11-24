@@ -2,6 +2,7 @@
 export default {
   url: "https://torun.jug.pl",
   googleAnalyticsId: "G-TDS6RBGKS5",
+  callForPapersUrl: "https://pawelkapala1.typeform.com/to/jvIxOo",
   // Liczba spotkań pokazywana w karuzeli na stronie głównej.
   homepageMeetings: 10,
 };

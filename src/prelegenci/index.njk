@@ -1,0 +1,122 @@
+---
+permalink: "prelegenci/index.html"
+root: "../"
+nav:
+  home: "../index.html"
+  prefix: "../index.html"
+  current: "prelegenci"
+  action:
+    label: "Zgłoś swoją prezentację"
+    href: "https://pawelkapala1.typeform.com/to/jvIxOo"
+---
+{% extends "layouts/base.njk" %}
+{%- set oldest = meetings | last %}
+{%- set meetingsCount = meetings[0].number | floorTo(10) %}
+
+{% block head %}
+    <meta name="color-scheme" content="light">
+
+    <title>Prelegenci Toruń JUG</title>
+    <meta name="description" content="Prelegenci Toruń Java User Group: kto i ile razy wystąpił na naszych spotkaniach, z listą prelekcji i nagrań.">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <link rel="canonical" href="{{ site.url }}/prelegenci/">
+
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pl_PL">
+    <meta property="og:site_name" content="Toruń JUG">
+    <meta property="og:title" content="Prelegenci Toruń JUG">
+    <meta property="og:description" content="Kto i ile razy wystąpił na spotkaniach społeczności Java i JVM w Toruniu.">
+    <meta property="og:url" content="{{ site.url }}/prelegenci/">
+    <meta property="og:image" content="{{ site.url }}/static/media/cover.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <link rel="icon" href="../static/media/favicon.ico" sizes="any">
+    <link rel="stylesheet" href="../styles.css">
+    <script src="../script.js" defer></script>
+{%- endblock %}
+
+{% block structuredData %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Prelegenci Toruń JUG",
+        "url": "{{ site.url }}/prelegenci/",
+        "isPartOf": { "@type": "WebSite", "name": "Toruń JUG", "url": "{{ site.url }}/" },
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": {{ speakers.all | length }},
+          "itemListElement": [
+          {%- for speaker in speakers.all %}
+            { "@type": "ListItem", "position": {{ loop.index }}, "item": { "@type": "Person", "name": {{ speaker.name | dump | safe }}, "url": "{{ site.url }}/prelegenci/#{{ speaker.id }}", "image": "{{ site.url }}/static/speakers/{{ speaker.photo }}" } }{% if not loop.last %},{% endif %}
+          {%- endfor %}
+          ]
+        }
+      }
+    </script>
+{%- endblock %}
+
+{% block bodyAttributes %} class="meeting-page meetings-archive-page speakers-page"{% endblock %}
+
+{% block main %}
+    <main id="main-content">
+      <section class="meeting-hero meetings-archive-hero" aria-labelledby="speakers-title">
+        <div class="container">
+          <p class="breadcrumb"><a href="../index.html">Strona główna</a> / Prelegenci</p>
+          <div class="meeting-hero-content">
+            <p class="meeting-kicker">Toruń JUG</p>
+            <h1 id="speakers-title">Prelegenci</h1>
+            <p class="meeting-hero-meta"><span>{{ speakers.all | length | plural("prelegent", "prelegentów", "prelegentów") }}</span><span>{{ speakers.talkTotal | talksLabel }}</span><span>spotkania #{{ oldest.number }}–#{{ meetings[0].number }}</span></p>
+          </div>
+        </div>
+      </section>
+
+      <section class="archive-content" aria-labelledby="speakers-list-title">
+        <div class="container">
+          <div class="archive-heading speakers-intro">
+            <p class="eyebrow">Toruń JUG od 2014 roku</p>
+            <h2 id="speakers-list-title">Ludzie, którzy tworzą Toruń JUG</h2>
+            <p>Za każdym z ponad {{ meetingsCount }} spotkań stoi ktoś, kto stanął przed salą i opowiedział, czego nauczył się w kodzie, na produkcji albo na własnych błędach. Przez ponad dekadę gościliśmy ponad 150 prelegentów: lokalnych programistów, debiutantów i gości z daleka, jak Venkat Subramaniam na Toruń JUG Day 2017. W 2024 roku świętowaliśmy dziesięciolecie społeczności, a historia pisze się dalej co miesiąc.</p>
+            <p class="speakers-cta">Brakuje tu Twojego nazwiska? <a href="{{ site.callForPapersUrl }}" target="_blank" rel="noopener noreferrer">Zgłoś swoją prezentację <span aria-hidden="true">↗</span></a></p>
+          </div>
+
+          <section class="speakers-top-section" aria-labelledby="speakers-top-title">
+            <h2 class="speakers-group-title" id="speakers-top-title">TOP {{ speakers.top | length }} prelegentów <span>najwięcej wystąpień; przy remisie wyżej ten, kto wystąpił u nas pierwszy</span></h2>
+            <ol class="speakers-list speakers-top">
+            {%- for speaker in speakers.top %}
+              <li>
+{% include "partials/speaker-card.njk" %}
+              </li>
+            {%- endfor %}
+            </ol>
+          </section>
+
+          {%- if speakers.groups | length %}
+          <h2 class="speakers-rest-title">Pozostali prelegenci</h2>
+          <p class="speakers-rest-lead">Według liczby wystąpień, a przy tej samej liczbie od najnowszego wystąpienia.</p>
+          {%- endif %}
+          {%- for group in speakers.groups %}
+          <section class="speakers-group" aria-labelledby="speakers-group-{{ group.talkCount }}">
+            <h3 class="speakers-group-title" id="speakers-group-{{ group.talkCount }}">{{ group.talkCount | talksLabel }} <span>{{ group.speakers | length | plural("prelegent", "prelegentów", "prelegentów") }}</span></h3>
+            <ol class="speakers-list">
+            {%- for speaker in group.speakers %}
+              <li>
+{% include "partials/speaker-card.njk" %}
+              </li>
+            {%- endfor %}
+            </ol>
+          </section>
+          {%- endfor %}
+        </div>
+      </section>
+    </main>
+{%- endblock %}
+
+{% block footer %}
+    <footer class="site-footer">
+      <div class="container footer-bottom">
+        <p>© <span data-current-year>{{ meetings[0].year }}</span> Toruń JUG</p>
+        <p><a href="../spotkania/index.html">Zobacz wszystkie spotkania</a></p>
+      </div>
+    </footer>
+{%- endblock %}

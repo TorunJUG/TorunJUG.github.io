@@ -13,14 +13,17 @@ export default function (eleventyConfig) {
     JSON.stringify(value, null, 2).replaceAll("<", "\\u003c"),
   );
 
-  // „1 nagranie”, „2 nagrania”, „5 nagrań”.
-  eleventyConfig.addFilter("recordingsLabel", (count) => {
+  // Polska odmiana po liczebniku: plural(2, "nagranie", "nagrania", "nagrań") → „2 nagrania”.
+  const plural = (count, one, few, many) => {
     const lastDigit = count % 10;
     const lastTwo = count % 100;
-    if (count === 1) return "1 nagranie";
-    if (lastDigit >= 2 && lastDigit <= 4 && (lastTwo < 12 || lastTwo > 14)) return `${count} nagrania`;
-    return `${count} nagrań`;
-  });
+    if (count === 1) return `1 ${one}`;
+    if (lastDigit >= 2 && lastDigit <= 4 && (lastTwo < 12 || lastTwo > 14)) return `${count} ${few}`;
+    return `${count} ${many}`;
+  };
+  eleventyConfig.addFilter("plural", plural);
+  eleventyConfig.addFilter("recordingsLabel", (count) => plural(count, "nagranie", "nagrania", "nagrań"));
+  eleventyConfig.addFilter("talksLabel", (count) => plural(count, "wystąpienie", "wystąpienia", "wystąpień"));
 
   eleventyConfig.addFilter("floorTo", (value, step) => Math.floor(value / step) * step);
 

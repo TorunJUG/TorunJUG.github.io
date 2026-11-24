@@ -11,7 +11,8 @@ Z jednego pliku JSON spotkania powstają automatycznie:
 - pozycja w archiwum `spotkania/`,
 - linki „Nowsze/Starsze spotkanie” między podstronami,
 - wpis w `sitemap.xml` i dane strukturalne Schema.org,
-- licznik „Spotkań” w statystykach na stronie głównej.
+- licznik „Spotkań” w statystykach na stronie głównej,
+- wpis prelegenta na stronie `prelegenci/` (TOP 3 i ranking według liczby wystąpień).
 
 ---
 
@@ -65,6 +66,7 @@ Port można zmienić: `npm start -- --port 8081`.
 ├── src/                      # wszystko, co trafia na stronę
 │   ├── _data/
 │   │   ├── meetings.js       # wczytuje data/meetings, waliduje, sortuje, liczy nawigację
+│   │   ├── speakers.js       # prelegenci zebrani ze spotkań, ranking według liczby wystąpień
 │   │   └── site.js           # adres strony, ID Google Analytics, liczba kafelków itp.
 │   ├── _includes/
 │   │   ├── layouts/base.njk  # wspólny <head> (z Google Analytics) i nagłówek strony
@@ -73,6 +75,7 @@ Port można zmienić: `npm start -- --port 8081`.
 │   ├── spotkania/
 │   │   ├── index.njk         # archiwum spotkań
 │   │   └── spotkanie.njk     # szablon podstrony spotkania (jedna strona na plik JSON)
+│   ├── prelegenci/index.njk  # lista prelegentów
 │   ├── sitemap.njk           # → sitemap.xml
 │   ├── wydarzenia/           # strony Toruń JUG Day (kopiowane bez zmian)
 │   ├── static/               # media/, speakers/, game/ (kopiowane bez zmian)
@@ -120,6 +123,19 @@ Plik JSON można też edytować w przeglądarce na GitHubie (ikona ołówka → 
 
 Nawigacji między spotkaniami **nie wpisujemy**, bo jest wyliczana z numerów.
 
+### Prelegenci
+
+Strona `prelegenci/` powstaje automatycznie z prelekcji we wszystkich plikach spotkań. Prelekcja z dwoma prelegentami liczy się każdemu z nich.
+
+- **TOP 3:** najwięcej wystąpień. Przy remisie wyżej jest ten, kto wystąpił **najdawniej** (wcześniejsze spotkanie, a na tym samym spotkaniu wcześniejsza prelekcja).
+- **Pozostali:** w grupach według liczby wystąpień, a przy tej samej liczbie od **najnowszego** wystąpienia do najstarszego.
+- Tekst wstępu (historia JUG-a, liczby) jest w `src/prelegenci/index.njk`. Liczba spotkań wylicza się z danych, a „ponad 150 prelegentów” jest wpisane ręcznie, tak jak na stronie głównej.
+
+- **Prelegent jest rozpoznawany po imieniu i nazwisku** (pole `name`). Przy kolejnym wystąpieniu wpisz je dokładnie tak samo, łącznie z polskimi znakami. Inaczej na liście pojawią się dwie osoby.
+- Zdjęcie i bio na stronie prelegentów pochodzą z jego **najnowszego** wystąpienia.
+- Każdy prelegent ma kotwicę `prelegenci/index.html#<imie-nazwisko>`, np. `#michal-szynkiewicz`. Nazwiska na podstronach spotkań prowadzą do tej kotwicy.
+- Ranking obejmuje tylko spotkania, które mają plik w `data/meetings/`. Dopisanie starszych spotkań automatycznie uzupełni liczniki.
+
 Napis na kafelku zależy od danych: „2 nagrania”, „Nadchodzące spotkanie” (dla `scheduled` bez nagrań) albo „Nagranie niedostępne / Nagrania niedostępne”.
 
 ## Deployment (GitHub Pages)
@@ -149,6 +165,7 @@ Następnie sprawdź, czy w tej samej sekcji domena *Custom domain* nadal ma wart
 - Wspólny `<head>` (Google Analytics) i nagłówek z menu: `src/_includes/layouts/base.njk`, `src/_includes/partials/header.njk`.
 - Kafelek spotkania (strona główna i archiwum): `src/_includes/partials/meeting-card.njk`.
 - Podstrona spotkania: `src/spotkania/spotkanie.njk`.
+- Strona prelegentów: `src/prelegenci/index.njk` (dane: `src/_data/speakers.js`).
 - Treść strony głównej (O nas, liderzy, partnerzy, stopka): `src/index.njk`.
 - Style i skrypty: `src/styles.css`, `src/script.js`.
 - Ustawienia globalne (ID Google Analytics, liczba kafelków na stronie głównej): `src/_data/site.js`.

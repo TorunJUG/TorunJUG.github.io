@@ -26,6 +26,8 @@ Pierwsze uruchomienie po sklonowaniu repozytorium:
 npm install
 ```
 
+Nie usuwaj pliku `.npmrc` (`legacy-peer-deps=true`). Bez niego npm 11 zapisuje w `package-lock.json` wpisy (m.in. `fsevents` tylko dla macOS), przez które `npm ci` w GitHub Actions kończy się błędem `EBADPLATFORM`. Po każdej zmianie zależności commituj zaktualizowany `package-lock.json`.
+
 ## Praca lokalnie
 
 | Polecenie | Co robi |

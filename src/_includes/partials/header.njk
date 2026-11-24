@@ -1,51 +1,27 @@
-<!doctype html>
-<html lang="pl">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#071b2d">
-    <title>{{pageTitle}}</title>
-    <meta name="description" content="{{description}}">
-    <meta name="robots" content="index, follow, max-image-preview:large, max-video-preview:-1">
-    <link rel="canonical" href="{{canonicalUrl}}">
-    <meta property="og:type" content="article">
-    <meta property="og:locale" content="pl_PL">
-    <meta property="og:site_name" content="Toruń JUG">
-    <meta property="og:title" content="{{pageTitle}}">
-    <meta property="og:description" content="{{ogDescription}}">
-    <meta property="og:url" content="{{canonicalUrl}}">
-    <meta property="og:image" content="{{ogImage}}">
-    <meta name="twitter:card" content="summary_large_image">
-    <link rel="icon" href="../static/media/favicon.ico" sizes="any">
-    <link rel="stylesheet" href="../styles.css">
-    <script src="../script.js" defer></script>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TDS6RBGKS5"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-TDS6RBGKS5');
-    </script>
-    <script type="application/ld+json">
-{{structuredData}}
-    </script>
-  </head>
-  <body class="meeting-page meeting-page-v2">
-    <a class="skip-link" href="#main-content">Przejdź do treści</a>
-    <header class="site-header">
+{#- Wspólny nagłówek. Konfiguracja przez front matter strony:
+    root       – ścieżka do katalogu głównego ("" lub "../")
+    nav.home   – adres logo
+    nav.prefix – prefiks linków do sekcji strony głównej ("" na stronie głównej, "../index.html" na podstronach)
+    nav.current – "spotkania", aby oznaczyć archiwum jako bieżącą stronę
+    nav.action – opcjonalny przycisk { label, href } -#}
+    <header class="site-header"{% if nav.dataHeader %} data-header{% endif %}>
       <div class="container header-inner">
-        <a class="brand" href="../index.html" aria-label="Toruń JUG – strona główna">
-          <img class="brand-logo" src="../static/media/logo_mini.png" width="180" height="75" alt="">
+        <a class="brand" href="{{ nav.home }}" aria-label="Toruń JUG – strona główna">
+          <img class="brand-logo" src="{{ root }}static/media/logo_mini.png" width="180" height="75" alt="" decoding="async">
         </a>
         <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-navigation" aria-label="Otwórz menu" data-menu-toggle><span></span><span></span><span></span></button>
         <div class="nav-panel" id="main-navigation" data-nav-panel>
           <nav aria-label="Główna nawigacja">
             <ul class="nav-links">
-              <li><a href="../index.html#o-nas">O nas</a></li>
-              <li><a href="../index.html#spotkania">Spotkania</a></li>
-              <li><a href="../index.html#liderzy">Liderzy</a></li>
-              <li><a href="../index.html#partnerzy">Partnerzy</a></li>
+              <li><a href="{{ nav.prefix }}#o-nas">O nas</a></li>
+              {% if nav.current == "spotkania" -%}
+              <li><a href="index.html" aria-current="page">Spotkania</a></li>
+              {%- else -%}
+              <li><a href="{{ nav.prefix }}#spotkania">Spotkania</a></li>
+              {%- endif %}
+              <li><a href="{{ nav.prefix }}#liderzy">Liderzy</a></li>
+              <li><a href="{{ nav.prefix }}#partnerzy">Partnerzy</a></li>
+              <li><a href="{{ nav.prefix }}#wspolpraca">Współpraca</a></li>
             </ul>
           </nav>
           <nav class="header-socials" aria-label="Media społecznościowe">
@@ -70,40 +46,9 @@
               </svg>
             </a>
           </nav>
+          {%- if nav.action %}
+          <a class="button button-small button-accent" href="{{ nav.action.href }}" target="_blank" rel="noopener noreferrer">{{ nav.action.label }}</a>
+          {%- endif %}
         </div>
       </div>
     </header>
-    <main id="main-content">
-      <section class="meeting-hero">
-        <div class="container">
-          <p class="breadcrumb"><a href="../index.html">Strona główna</a> / <a href="../index.html#spotkania">Spotkania</a> / #{{number}}</p>
-          <div class="meeting-hero-content">
-            <p class="meeting-kicker">Toruń JUG #{{number}}</p>
-            <h1>{{title}}</h1>
-            <p class="meeting-hero-meta"><time datetime="{{startDate}}">{{dateAndTimeLabel}}</time><span>{{placeAndCity}}</span></p>
-            <div class="meeting-hero-actions">
-              <a class="button button-accent" href="{{meetupUrl}}" target="_blank" rel="noopener noreferrer">{{meetupLabel}} <span aria-hidden="true">↗</span></a>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section class="meeting-content">
-        <div class="container meeting-layout meeting-layout-single">
-          <div class="meeting-main">
-            <h2>Prelekcje</h2>
-            <div class="talk-list">
-{{talks}}
-            </div>
-{{meetingNavigation}}
-          </div>
-        </div>
-      </section>
-    </main>
-    <footer class="site-footer">
-      <div class="container footer-bottom">
-        <p>© <span data-current-year>{{year}}</span> Toruń JUG</p>
-        <p><a href="../index.html#spotkania">Wróć do listy spotkań</a></p>
-      </div>
-    </footer>
-  </body>
-</html>

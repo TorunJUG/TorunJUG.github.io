@@ -92,3 +92,6 @@ $RECYCLE.BIN/
 
 # NFS temporary files
 .nfs*
+### Eleventy
+# Wynik buildu – generowany lokalnie i w GitHub Actions, nie commitujemy
+_site/

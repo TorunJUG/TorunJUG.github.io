@@ -28,15 +28,5 @@
       ],
       "recordingUrl": null
     }
-  ],
-  "navigation": {
-    "newer": {
-      "number": 85,
-      "slug": "85-archunit-generatywne-ai"
-    },
-    "older": {
-      "number": 83,
-      "slug": "83-system-design-maintenance"
-    }
-  }
+  ]
 }

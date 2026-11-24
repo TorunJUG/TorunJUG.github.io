@@ -40,11 +40,5 @@
       ],
       "recordingUrl": null
     }
-  ],
-  "navigation": {
-    "older": {
-      "number": 90,
-      "slug": "90-zmiana-pod-presja-thread-pool"
-    }
-  }
+  ]
 }

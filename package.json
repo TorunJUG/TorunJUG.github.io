@@ -1,0 +1,17 @@
+{
+  "name": "torun-jug-website",
+  "private": true,
+  "type": "module",
+  "description": "Strona Toruń JUG generowana przez Eleventy",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "npm run clean && eleventy",
+    "clean": "node -e \"require('node:fs').rmSync('_site',{recursive:true,force:true})\""
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.8"
+  }
+}

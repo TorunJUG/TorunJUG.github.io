@@ -1,0 +1,21 @@
+---
+permalink: "sitemap.xml"
+eleventyExcludeFromCollections: true
+# Strony spoza danych spotkań (kopiowane bez zmian z src/wydarzenia).
+staticPages:
+  - url: "wydarzenia/torun-jug-day-2024.html"
+    lastmod: "2026-08-31"
+  - url: "wydarzenia/torun-jug-day-2017.html"
+    lastmod: "2026-08-31"
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>{{ site.url }}/</loc><lastmod>{{ meetings[0].day }}</lastmod></url>
+  <url><loc>{{ site.url }}/spotkania/</loc><lastmod>{{ meetings[0].day }}</lastmod></url>
+  {%- for page in staticPages %}
+  <url><loc>{{ site.url }}/{{ page.url }}</loc><lastmod>{{ page.lastmod }}</lastmod></url>
+  {%- endfor %}
+  {%- for meeting in meetings %}
+  <url><loc>{{ meeting.canonicalUrl }}</loc><lastmod>{{ meeting.day }}</lastmod></url>
+  {%- endfor %}
+</urlset>

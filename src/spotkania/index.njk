@@ -1,0 +1,105 @@
+---
+permalink: "spotkania/index.html"
+root: "../"
+nav:
+  home: "../index.html"
+  prefix: "../index.html"
+  current: "spotkania"
+  action:
+    label: "Najbliższe spotkanie"
+    href: "https://www.meetup.com/Torun-JUG/events/"
+---
+{% extends "layouts/base.njk" %}
+
+{% block head %}
+    <meta name="color-scheme" content="light">
+
+    <title>Wszystkie spotkania Toruń JUG</title>
+    <meta name="description" content="Archiwum spotkań Toruń Java User Group: tematy, prelegenci i nagrania z wydarzeń społeczności Java i JVM w Toruniu.">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <link rel="canonical" href="{{ site.url }}/spotkania/">
+
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pl_PL">
+    <meta property="og:site_name" content="Toruń JUG">
+    <meta property="og:title" content="Wszystkie spotkania Toruń JUG">
+    <meta property="og:description" content="Tematy, prelegenci i nagrania ze spotkań społeczności Java i JVM w Toruniu.">
+    <meta property="og:url" content="{{ site.url }}/spotkania/">
+    <meta property="og:image" content="{{ site.url }}/static/media/cover.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <link rel="icon" href="../static/media/favicon.ico" sizes="any">
+    <link rel="stylesheet" href="../styles.css">
+    <script src="../script.js" defer></script>
+{%- endblock %}
+
+{% block structuredData %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Wszystkie spotkania Toruń JUG",
+        "url": "{{ site.url }}/spotkania/",
+        "description": "Archiwum spotkań Toruń Java User Group.",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "Toruń JUG",
+          "url": "{{ site.url }}/"
+        },
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": {{ meetings | length }},
+          "itemListOrder": "https://schema.org/ItemListOrderDescending",
+          "itemListElement": [
+          {%- for meeting in meetings %}
+            { "@type": "ListItem", "position": {{ loop.index }}, "url": "{{ meeting.canonicalUrl }}", "name": "Toruń JUG #{{ meeting.number }}" }{% if not loop.last %},{% endif %}
+          {%- endfor %}
+          ]
+        }
+      }
+    </script>
+{%- endblock %}
+
+{% block bodyAttributes %} class="meeting-page meetings-archive-page"{% endblock %}
+
+{% block main %}
+    <main id="main-content">
+      <section class="meeting-hero meetings-archive-hero" aria-labelledby="archive-title">
+        <div class="container">
+          <p class="breadcrumb"><a href="../index.html">Strona główna</a> / Spotkania</p>
+          <div class="meeting-hero-content">
+            <p class="meeting-kicker">Archiwum Toruń JUG</p>
+            <h1 id="archive-title">Wszystkie spotkania</h1>
+            <p class="meeting-hero-meta">Prelekcje, doświadczenia i wiedza społeczności Java oraz JVM w jednym miejscu.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="archive-content" aria-labelledby="archive-list-title">
+        <div class="container">
+          <div class="archive-heading">
+            <h2 id="archive-list-title">Wybierz spotkanie</h2>
+            <p>Lista jest ułożona od najnowszego wydarzenia. Na stronach spotkań znajdziesz szczegóły prelekcji, informacje o prelegentach i dostępne nagrania.</p>
+          </div>
+
+          <ol class="archive-meetings-list" reversed start="{{ meetings[0].number }}">
+          {%- set meetingsBase = "" %}
+          {%- for meeting in meetings %}
+            <li>
+{% include "partials/meeting-card.njk" %}
+            </li>
+          {%- endfor %}
+          </ol>
+        </div>
+      </section>
+    </main>
+{%- endblock %}
+
+{% block footer %}
+    <footer class="site-footer">
+      <div class="container footer-bottom">
+        <p>© <span data-current-year>{{ meetings[0].year }}</span> Toruń JUG</p>
+        <p><a href="../index.html">Wróć na stronę główną</a></p>
+      </div>
+    </footer>
+{%- endblock %}

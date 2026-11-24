@@ -45,15 +45,5 @@
       ],
       "recordingUrl": "https://www.youtube.com/watch?v=kYQvl47U42k"
     }
-  ],
-  "navigation": {
-    "newer": {
-      "number": 87,
-      "slug": "87-spark-pipelines-jezykoznawcze-supermoce"
-    },
-    "older": {
-      "number": 85,
-      "slug": "85-archunit-generatywne-ai"
-    }
-  }
+  ]
 }

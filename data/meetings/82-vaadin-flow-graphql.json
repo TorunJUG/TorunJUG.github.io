@@ -40,15 +40,5 @@
       ],
       "recordingUrl": "https://www.youtube.com/watch?v=eI7_3a4SH8E"
     }
-  ],
-  "navigation": {
-    "newer": {
-      "number": 83,
-      "slug": "83-system-design-maintenance"
-    },
-    "older": {
-      "number": 81,
-      "slug": "81-programowanie-zorientowane-na-dane-refaktoring-keycloak"
-    }
-  }
+  ]
 }

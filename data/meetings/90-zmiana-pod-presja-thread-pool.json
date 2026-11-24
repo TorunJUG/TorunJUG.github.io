@@ -40,15 +40,5 @@
       ],
       "recordingUrl": "https://www.youtube.com/watch?v=jG71Hhs0b2w"
     }
-  ],
-  "navigation": {
-    "newer": {
-      "number": 91,
-      "slug": "91-virtual-threads-private-ai-benchmarks"
-    },
-    "older": {
-      "number": 89,
-      "slug": "89-wspolbiezny-sadyzm-historia-programistow"
-    }
-  }
+  ]
 }

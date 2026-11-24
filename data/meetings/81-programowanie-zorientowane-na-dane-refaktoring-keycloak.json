@@ -52,11 +52,5 @@
       ],
       "recordingUrl": null
     }
-  ],
-  "navigation": {
-    "newer": {
-      "number": 82,
-      "slug": "82-vaadin-flow-graphql"
-    }
-  }
+  ]
 }

@@ -1,0 +1,112 @@
+---
+# Jedna podstrona na każdy plik data/meetings/<numer>-<slug>.json
+pagination:
+  data: meetings
+  size: 1
+  alias: meeting
+permalink: "spotkania/{{ meeting.slug }}.html"
+root: "../"
+nav:
+  home: "../index.html"
+  prefix: "../index.html"
+---
+{% extends "layouts/base.njk" %}
+
+{% block head %}
+    <title>{{ meeting.pageTitle }}</title>
+    <meta name="description" content="{{ meeting.description }}">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-video-preview:-1">
+    <link rel="canonical" href="{{ meeting.canonicalUrl }}">
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="pl_PL">
+    <meta property="og:site_name" content="Toruń JUG">
+    <meta property="og:title" content="{{ meeting.pageTitle }}">
+    <meta property="og:description" content="{{ meeting.ogDescription }}">
+    <meta property="og:url" content="{{ meeting.canonicalUrl }}">
+    <meta property="og:image" content="{{ meeting.ogImage }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="icon" href="../static/media/favicon.ico" sizes="any">
+    <link rel="stylesheet" href="../styles.css">
+    <script src="../script.js" defer></script>
+{%- endblock %}
+
+{% block structuredData %}
+    <script type="application/ld+json">
+{{ meeting.structuredData | jsonLd | safe }}
+    </script>
+{%- endblock %}
+
+{% block bodyAttributes %} class="meeting-page{% if meeting.template == 'v2' %} meeting-page-v2{% endif %}"{% endblock %}
+
+{% block main %}
+    <main id="main-content">
+      <section class="meeting-hero">
+        <div class="container">
+          <p class="breadcrumb"><a href="../index.html">Strona główna</a> / <a href="index.html">Spotkania</a> / #{{ meeting.number }}</p>
+          <div class="meeting-hero-content">
+            <p class="meeting-kicker">Toruń JUG #{{ meeting.number }}</p>
+            <h1>{{ meeting.title }}</h1>
+            <p class="meeting-hero-meta"><time datetime="{{ meeting.startDate }}">{{ meeting.dateLabel }}, {{ meeting.timeLabel }}</time><span>{{ meeting.location.place }}, {{ meeting.location.city }}</span></p>
+            <div class="meeting-hero-actions">
+              <a class="button button-accent" href="{{ meeting.meetup.url }}" target="_blank" rel="noopener noreferrer">{{ meeting.meetup.label }} <span aria-hidden="true">↗</span></a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="meeting-content">
+        <div class="container meeting-layout meeting-layout-single">
+          <div class="meeting-main">
+            <h2>Prelekcje</h2>
+            <div class="talk-list">
+            {%- for talk in meeting.talks %}
+              <article class="talk-card">
+                <h3>{{ talk.title }}</h3>
+                <p class="talk-description">{{ talk.description }}</p>
+                <div class="talk-speakers">
+                {%- for speaker in talk.speakers %}
+                  <section class="talk-speaker-profile" aria-label="Informacje o prelegencie">
+                    <img class="talk-speaker-photo" src="../static/speakers/{{ speaker.photo }}" width="300" height="300" alt="Zdjęcie: {{ speaker.name }}" loading="lazy" decoding="async">
+                    <div class="talk-speaker-details">
+                      <h4>{{ speaker.name }}</h4>
+                      <p class="talk-speaker-bio">{{ speaker.bio }}</p>
+                    </div>
+                  </section>
+                {%- endfor %}
+                </div>
+                {% if not talk.videoId -%}
+                <span class="talk-unavailable">Nagranie jeszcze niedostępne</span>
+                {%- elif meeting.template == "v2" -%}
+                <div class="talk-recording">
+                  <div class="talk-video talk-video-desktop">
+                    <iframe src="https://www.youtube.com/embed/{{ talk.videoId }}" title="Nagranie prelekcji: {{ talk.title }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                  </div>
+                  <a class="button button-primary talk-video-mobile-action" href="{{ talk.recordingUrl }}" target="_blank" rel="noopener noreferrer">Obejrzyj nagranie na YouTube <span aria-hidden="true">↗</span></a>
+                </div>
+                {%- else -%}
+                <div class="talk-video">
+                  <iframe src="https://www.youtube-nocookie.com/embed/{{ talk.videoId }}" title="Nagranie prelekcji: {{ talk.title }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+                {%- endif %}
+              </article>
+            {%- endfor %}
+            </div>
+            {%- if meeting.newer or meeting.older %}
+            <nav class="meeting-navigation" aria-label="Nawigacja między spotkaniami">
+              {%- if meeting.newer %}<a href="{{ meeting.newer.url }}"><small>Nowsze spotkanie</small>← Toruń JUG #{{ meeting.newer.number }}</a>{% endif -%}
+              {%- if meeting.older %}<a href="{{ meeting.older.url }}"><small>Starsze spotkanie</small>Toruń JUG #{{ meeting.older.number }} →</a>{% endif -%}
+            </nav>
+            {%- endif %}
+          </div>
+        </div>
+      </section>
+    </main>
+{%- endblock %}
+
+{% block footer %}
+    <footer class="site-footer">
+      <div class="container footer-bottom">
+        <p>© <span data-current-year>{{ meeting.year }}</span> Toruń JUG</p>
+        <p><a href="index.html">Wróć do listy spotkań</a></p>
+      </div>
+    </footer>
+{%- endblock %}

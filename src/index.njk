@@ -1,9 +1,20 @@
-<!doctype html>
-<html lang="pl">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#071b2d">
+---
+permalink: "index.html"
+root: ""
+nav:
+  home: "#top"
+  prefix: ""
+  dataHeader: true
+  action:
+    label: "Zgłoś swoją prezentację"
+    href: "https://pawelkapala1.typeform.com/to/jvIxOo"
+---
+{% extends "layouts/base.njk" %}
+{#- Spotkania w karuzeli i liczniki wyliczane z data/meetings. -#}
+{%- set recentMeetings = meetings.slice(0, site.homepageMeetings) %}
+{%- set meetingsCount = meetings[0].number | floorTo(10) %}
+
+{% block head %}
     <meta name="color-scheme" content="light">
 
     <title>Toruń JUG – społeczność Java i JVM w Toruniu</title>
@@ -44,16 +55,10 @@
     <link rel="preload" as="image" href="./static/media/cover_comp.jpg" fetchpriority="high">
     <link rel="stylesheet" href="styles.css">
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TDS6RBGKS5"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-TDS6RBGKS5');
-    </script>
-
     <script src="script.js" defer></script>
+{%- endblock %}
+
+{% block structuredData %}
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -120,19 +125,12 @@
             "@type": "ItemList",
             "@id": "https://torun.jug.pl/#meetings",
             "name": "Ostatnie spotkania Toruń JUG",
-            "numberOfItems": 10,
+            "numberOfItems": {{ recentMeetings | length }},
             "itemListOrder": "https://schema.org/ItemListOrderDescending",
             "itemListElement": [
-              { "@type": "ListItem", "position": 1, "url": "https://torun.jug.pl/spotkania/91-virtual-threads-private-ai-benchmarks.html", "name": "Toruń JUG #91" },
-              { "@type": "ListItem", "position": 2, "url": "https://torun.jug.pl/spotkania/90-zmiana-pod-presja-thread-pool.html", "name": "Toruń JUG #90" },
-              { "@type": "ListItem", "position": 3, "url": "https://torun.jug.pl/spotkania/89-wspolbiezny-sadyzm-historia-programistow.html", "name": "Toruń JUG #89" },
-              { "@type": "ListItem", "position": 4, "url": "https://torun.jug.pl/spotkania/88-blue-green-opentelemetry.html", "name": "Toruń JUG #88" },
-              { "@type": "ListItem", "position": 5, "url": "https://torun.jug.pl/spotkania/87-spark-pipelines-jezykoznawcze-supermoce.html", "name": "Toruń JUG #87" },
-              { "@type": "ListItem", "position": 6, "url": "https://torun.jug.pl/spotkania/86-zarf-keycloak-architektura-komunikacyjna.html", "name": "Toruń JUG #86" },
-              { "@type": "ListItem", "position": 7, "url": "https://torun.jug.pl/spotkania/85-archunit-generatywne-ai.html", "name": "Toruń JUG #85" },
-              { "@type": "ListItem", "position": 8, "url": "https://torun.jug.pl/spotkania/84-refleksje-programisty-w-erze-ai.html", "name": "Toruń JUG #84" },
-              { "@type": "ListItem", "position": 9, "url": "https://torun.jug.pl/spotkania/83-system-design-maintenance.html", "name": "Toruń JUG #83" },
-              { "@type": "ListItem", "position": 10, "url": "https://torun.jug.pl/spotkania/82-vaadin-flow-graphql.html", "name": "Toruń JUG #82" },
+            {%- for meeting in recentMeetings %}
+              { "@type": "ListItem", "position": {{ loop.index }}, "url": "{{ meeting.canonicalUrl }}", "name": "Toruń JUG #{{ meeting.number }}" }{% if not loop.last %},{% endif %}
+            {%- endfor %}
             ]
           },
           {
@@ -149,78 +147,9 @@
         ]
       }
     </script>
-  </head>
-  <body>
-    <a class="skip-link" href="#main-content">Przejdź do treści</a>
+{%- endblock %}
 
-    <header class="site-header" data-header>
-      <div class="container header-inner">
-        <a class="brand" href="#top" aria-label="Toruń JUG – strona główna">
-          <img
-            class="brand-logo"
-            src="./static/media/logo_mini.png"
-            width="180"
-            height="75"
-            alt=""
-            decoding="async"
-          >
-        </a>
-
-        <button
-          class="menu-toggle"
-          type="button"
-          aria-expanded="false"
-          aria-controls="main-navigation"
-          aria-label="Otwórz menu"
-          data-menu-toggle
-        >
-          <span></span>
-          <span></span>
-          <span></span>
-        </button>
-
-        <div class="nav-panel" id="main-navigation" data-nav-panel>
-          <nav aria-label="Główna nawigacja">
-            <ul class="nav-links">
-              <li><a href="#o-nas">O nas</a></li>
-              <li><a href="#spotkania">Spotkania</a></li>
-              <li><a href="#liderzy">Liderzy</a></li>
-              <li><a href="#partnerzy">Partnerzy</a></li>
-              <li><a href="#wspolpraca">Współpraca</a></li>
-            </ul>
-          </nav>
-          <nav class="header-socials" aria-label="Media społecznościowe">
-            <a href="https://www.youtube.com/@TorunJUG" target="_blank" rel="noopener noreferrer" aria-label="Toruń JUG na YouTube" title="YouTube">
-              <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-                <path d="M31.331,8.248c-.368-1.386-1.452-2.477-2.829-2.848-2.496-.673-12.502-.673-12.502-.673,0,0-10.007,0-12.502,.673-1.377,.37-2.461,1.462-2.829,2.848-.669,2.512-.669,7.752-.669,7.752,0,0,0,5.241,.669,7.752,.368,1.386,1.452,2.477,2.829,2.847,2.496,.673,12.502,.673,12.502,.673,0,0,10.007,0,12.502-.673,1.377-.37,2.461-1.462,2.829-2.847,.669-2.512,.669-7.752,.669-7.752,0,0,0-5.24-.669-7.752ZM12.727,20.758V11.242l8.364,4.758-8.364,4.758Z"></path>
-              </svg>
-            </a>
-            <a href="https://twitter.com/TorunJUG" target="_blank" rel="noopener noreferrer" aria-label="Toruń JUG na X / Twitterze" title="X / Twitter">
-              <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-                <path d="M18.42,14.009L27.891,3h-2.244l-8.224,9.559L10.855,3H3.28l9.932,14.455L3.28,29h2.244l8.684-10.095,6.936,10.095h7.576l-10.301-14.991h0Zm-3.074,3.573l-1.006-1.439L6.333,4.69h3.447l6.462,9.243,1.006,1.439,8.4,12.015h-3.447l-6.854-9.804h0Z"></path>
-              </svg>
-            </a>
-            <a href="https://www.facebook.com/TorunJUG" target="_blank" rel="noopener noreferrer" aria-label="Toruń JUG na Facebooku" title="Facebook">
-              <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-                <path d="M16,2c-7.732,0-14,6.268-14,14,0,6.566,4.52,12.075,10.618,13.588v-9.31h-2.887v-4.278h2.887v-1.843c0-4.765,2.156-6.974,6.835-6.974,.887,0,2.417,.174,3.043,.348v3.878c-.33-.035-.904-.052-1.617-.052-2.296,0-3.183,.87-3.183,3.13v1.513h4.573l-.786,4.278h-3.787v9.619c6.932-.837,12.304-6.74,12.304-13.897,0-7.732-6.268-14-14-14Z"></path>
-              </svg>
-            </a>
-            <a href="https://www.linkedin.com/company/106077920" target="_blank" rel="noopener noreferrer" aria-label="Toruń JUG na LinkedIn" title="LinkedIn">
-              <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-                <path d="M26.111,3H5.889c-1.595,0-2.889,1.293-2.889,2.889V26.111c0,1.595,1.293,2.889,2.889,2.889H26.111c1.595,0,2.889-1.293,2.889-2.889V5.889c0-1.595-1.293-2.889-2.889-2.889ZM10.861,25.389h-3.877V12.87h3.877v12.519Zm-1.957-14.158c-1.267,0-2.293-1.034-2.293-2.31s1.026-2.31,2.293-2.31,2.292,1.034,2.292,2.31-1.026,2.31-2.292,2.31Zm16.485,14.158h-3.858v-6.571c0-1.802-.685-2.809-2.111-2.809-1.551,0-2.362,1.048-2.362,2.809v6.571h-3.718V12.87h3.718v1.686s1.118-2.069,3.775-2.069,4.556,1.621,4.556,4.975v7.926Z" fill-rule="evenodd"></path>
-              </svg>
-            </a>
-          </nav>
-          <a
-            class="button button-small button-accent"
-            href="https://pawelkapala1.typeform.com/to/jvIxOo"
-            target="_blank"
-            rel="noopener noreferrer"
-          >Zgłoś swoją prezentację</a>
-        </div>
-      </div>
-    </header>
-
+{% block main %}
     <main id="main-content">
       <section class="hero" id="top" aria-labelledby="hero-title">
         <img
@@ -338,8 +267,8 @@
             <div class="stat-item">
               <dt>Spotkań</dt>
               <dd>
-                <span class="stat-value" data-counter="90" aria-hidden="true">90</span><span class="stat-plus" aria-hidden="true">+</span>
-                <span class="visually-hidden">Ponad 90 spotkań</span>
+                <span class="stat-value" data-counter="{{ meetingsCount }}" aria-hidden="true">{{ meetingsCount }}</span><span class="stat-plus" aria-hidden="true">+</span>
+                <span class="visually-hidden">Ponad {{ meetingsCount }} spotkań</span>
               </dd>
             </div>
           </dl>
@@ -368,87 +297,13 @@
               tabindex="0"
               aria-label="Ostatnie spotkania. Przewiń poziomo, aby zobaczyć kolejne."
             >
-              <ol class="meetings-list" reversed start="90">
+              <ol class="meetings-list" reversed start="{{ meetings[0].number }}">
+              {%- set meetingsBase = "spotkania/" %}
+              {%- for meeting in recentMeetings %}
             <li>
-              <article class="meeting-card">
-                <div class="meeting-card-meta"><span class="meeting-number">#91</span><time datetime="2026-07-22">28 października 2026</time></div>
-                <h3><a href="spotkania/91-virtual-threads-private-ai-benchmarks.html">Virtual Threads i private AI benchmarks</a></h3>
-                <p>Paweł Kowalski · Szymon Janikowski</p>
-                <span class="meeting-status">Brak nagrań</span>
-              </article>
+{% include "partials/meeting-card.njk" %}
             </li>
-                <li>
-              <article class="meeting-card">
-                <div class="meeting-card-meta"><span class="meeting-number">#90</span><time datetime="2026-06-24">24 czerwca 2026</time></div>
-                <h3><a href="spotkania/90-zmiana-pod-presja-thread-pool.html">Zmiana pod presją i bottleneck w ThreadPool</a></h3>
-                <p>Łukasz Pięta · Mateusz Nalepa</p>
-                <span class="meeting-status">2 nagrania</span>
-              </article>
-            </li>
-            <li>
-              <article class="meeting-card">
-                <div class="meeting-card-meta"><span class="meeting-number">#89</span><time datetime="2026-05-27">27 maja 2026</time></div>
-                <h3><a href="spotkania/89-wspolbiezny-sadyzm-historia-programistow.html">Odrobina współbieżnego sadyzmu i historia prób wytępienia programistów</a></h3>
-                <p>Wiktor Sztajerowski · Mariusz Strzelecki</p>
-                <span class="meeting-status">1 nagranie</span>
-              </article>
-            </li>
-            <li>
-              <article class="meeting-card">
-                <div class="meeting-card-meta"><span class="meeting-number">#88</span><time datetime="2026-04-29">29 kwietnia 2026</time></div>
-                <h3><a href="spotkania/88-blue-green-opentelemetry.html">Blue/Green deployment i OpenTelemetry Collector</a></h3>
-                <p>Jędrzej Andrykowski · Marcin Stożek</p>
-                <span class="meeting-status">2 nagrania</span>
-              </article>
-            </li>
-            <li>
-              <article class="meeting-card">
-                <div class="meeting-card-meta"><span class="meeting-number">#87</span><time datetime="2026-03-25">25 marca 2026</time></div>
-                <h3><a href="spotkania/87-spark-pipelines-jezykoznawcze-supermoce.html">Spark Pipelines i językoznawcze supermoce programisty</a></h3>
-                <p>Jacek Laskowski · Piotr Wereszczyński</p>
-                <span class="meeting-status">2 nagrania</span>
-              </article>
-            </li>
-            <li>
-              <article class="meeting-card">
-                <div class="meeting-card-meta"><span class="meeting-number">#86</span><time datetime="2026-02-25">25 lutego 2026</time></div>
-                <h3><a href="spotkania/86-zarf-keycloak-architektura-komunikacyjna.html">Zarf i Keycloak oraz architektura komunikacyjna</a></h3>
-                <p>Sebastian Łaskawiec i Michał Szynkiewicz · Anna Żołądkiewicz</p>
-                <span class="meeting-status">2 nagrania</span>
-              </article>
-            </li>
-            <li>
-              <article class="meeting-card">
-                <div class="meeting-card-meta"><span class="meeting-number">#85</span><time datetime="2026-01-28">28 stycznia 2026</time></div>
-                <h3><a href="spotkania/85-archunit-generatywne-ai.html">ArchUnit i generatywne AI w rękach developera</a></h3>
-                <p>Marcel Baumgardt · Maciej Krawczyk</p>
-                <span class="meeting-status">2 nagrania</span>
-              </article>
-            </li>
-            <li>
-              <article class="meeting-card">
-                <div class="meeting-card-meta"><span class="meeting-number">#84</span><time datetime="2025-12-10">10 grudnia 2025</time></div>
-                <h3><a href="spotkania/84-refleksje-programisty-w-erze-ai.html">Refleksje programisty w średnim wieku, w erze AI</a></h3>
-                <p>Krzysztof Muchewicz</p>
-                <span class="meeting-status meeting-status-pending">Nagranie niedostępne</span>
-              </article>
-            </li>
-            <li>
-              <article class="meeting-card">
-                <div class="meeting-card-meta"><span class="meeting-number">#83</span><time datetime="2025-11-26">26 listopada 2025</time></div>
-                <h3><a href="spotkania/83-system-design-maintenance.html">System Design Interview i ucieczka z pułapki maintenance’u</a></h3>
-                <p>Sławomir Piotrowski · Łukasz Jarochowski</p>
-                <span class="meeting-status">2 nagrania</span>
-              </article>
-            </li>
-            <li>
-              <article class="meeting-card">
-                <div class="meeting-card-meta"><span class="meeting-number">#82</span><time datetime="2025-10-29">29 października 2025</time></div>
-                <h3><a href="spotkania/82-vaadin-flow-graphql.html">Vaadin Flow i złożoność GraphQL</a></h3>
-                <p>Marcin Głowacki · Sebastian Rabiej</p>
-                <span class="meeting-status">2 nagrania</span>
-              </article>
-            </li>
+              {%- endfor %}
             <li>
               <a class="meeting-card meeting-card-archive" href="spotkania/index.html">
                 <span class="meeting-archive-label">Pełne archiwum</span>
@@ -473,7 +328,7 @@
                 <input
                   type="range"
                   min="0"
-                  max="10"
+                  max="{{ recentMeetings | length }}"
                   value="0"
                   step="1"
                   data-carousel-progress
@@ -481,7 +336,7 @@
                 >
               </label>
 
-              <span class="carousel-position" data-carousel-position aria-live="polite">1 z 11</span>
+              <span class="carousel-position" data-carousel-position aria-live="polite">1 z {{ (recentMeetings | length) + 1 }}</span>
 
               <button
                 class="carousel-button"
@@ -776,7 +631,9 @@
         </div>
       </section>
     </main>
+{%- endblock %}
 
+{% block footer %}
     <footer class="site-footer">
       <div class="container footer-grid">
         <div>
@@ -821,5 +678,4 @@
         <p>© <span data-current-year>2026</span> Toruń JUG</p>
       </div>
     </footer>
-  </body>
-</html>
+{%- endblock %}

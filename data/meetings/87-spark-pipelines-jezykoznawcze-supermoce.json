@@ -40,15 +40,5 @@
       ],
       "recordingUrl": "https://www.youtube.com/watch?v=BkPUo8vF_9M"
     }
-  ],
-  "navigation": {
-    "newer": {
-      "number": 88,
-      "slug": "88-blue-green-opentelemetry"
-    },
-    "older": {
-      "number": 86,
-      "slug": "86-zarf-keycloak-architektura-komunikacyjna"
-    }
-  }
+  ]
 }

@@ -1,0 +1,15 @@
+              <article class="meeting-card">
+                <div class="meeting-card-meta"><span class="meeting-number">#{{ meeting.number }}</span><time datetime="{{ meeting.day }}">{{ meeting.dateLabel }}</time></div>
+                <h3><a href="{{ meetingsBase }}{{ meeting.url }}">{{ meeting.cardTitle }}</a></h3>
+                <p>{{ meeting.speakersLabel }}</p>
+                {%- if meeting.recordings > 0 %}
+                <span class="meeting-status">{{ meeting.recordings | recordingsLabel }}</span>
+                {%- elif meeting.status == "scheduled" %}
+                <span class="meeting-status meeting-status-pending">Nadchodzące spotkanie</span>
+                {%- elif meeting.talks | length == 1 %}
+                <span class="meeting-status meeting-status-pending">Nagranie niedostępne</span>
+                {%- else %}
+                <span class="meeting-status meeting-status-pending">Nagrania niedostępne</span>
+                {%- endif %}
+              </article>
+{#- Kafelek spotkania. Wymaga zmiennych: meeting oraz meetingsBase ("" w archiwum, "spotkania/" na stronie głównej). #}

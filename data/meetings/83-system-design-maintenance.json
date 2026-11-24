@@ -40,15 +40,5 @@
       ],
       "recordingUrl": "https://www.youtube.com/watch?v=KBHpn4nd9Go"
     }
-  ],
-  "navigation": {
-    "newer": {
-      "number": 84,
-      "slug": "84-refleksje-programisty-w-erze-ai"
-    },
-    "older": {
-      "number": 82,
-      "slug": "82-vaadin-flow-graphql"
-    }
-  }
+  ]
 }

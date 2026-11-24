@@ -40,15 +40,5 @@
       ],
       "recordingUrl": "https://www.youtube.com/watch?v=AyNTM6eVy-k"
     }
-  ],
-  "navigation": {
-    "newer": {
-      "number": 90,
-      "slug": "90-zmiana-pod-presja-thread-pool"
-    },
-    "older": {
-      "number": 88,
-      "slug": "88-blue-green-opentelemetry"
-    }
-  }
+  ]
 }

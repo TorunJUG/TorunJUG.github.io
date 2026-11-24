@@ -40,15 +40,5 @@
       ],
       "recordingUrl": "https://www.youtube.com/watch?v=ku7vvr2K1wM"
     }
-  ],
-  "navigation": {
-    "newer": {
-      "number": 86,
-      "slug": "86-zarf-keycloak-architektura-komunikacyjna"
-    },
-    "older": {
-      "number": 84,
-      "slug": "84-refleksje-programisty-w-erze-ai"
-    }
-  }
+  ]
 }

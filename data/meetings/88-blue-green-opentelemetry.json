@@ -40,15 +40,5 @@
       ],
       "recordingUrl": "https://www.youtube.com/watch?v=RMz2_dZF2ZQ"
     }
-  ],
-  "navigation": {
-    "newer": {
-      "number": 89,
-      "slug": "89-wspolbiezny-sadyzm-historia-programistow"
-    },
-    "older": {
-      "number": 87,
-      "slug": "87-spark-pipelines-jezykoznawcze-supermoce"
-    }
-  }
+  ]
 }

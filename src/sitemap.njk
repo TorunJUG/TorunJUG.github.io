@@ -17,6 +17,6 @@ staticPages:
   <url><loc>{{ site.url }}/{{ page.url }}</loc><lastmod>{{ page.lastmod }}</lastmod></url>
   {%- endfor %}
   {%- for meeting in meetings %}
-  <url><loc>{{ meeting.canonicalUrl }}</loc><lastmod>{{ meeting.day }}</lastmod></url>
+  <url><loc>{{ meeting.canonicalUrl }}</loc>{% if meeting.day %}<lastmod>{{ meeting.day }}</lastmod>{% endif %}</url>
   {%- endfor %}
 </urlset>

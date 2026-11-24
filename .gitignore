@@ -95,3 +95,6 @@ $RECYCLE.BIN/
 ### Eleventy
 # Wynik buildu – generowany lokalnie i w GitHub Actions, nie commitujemy
 _site/
+
+# Surowy HTML pobrany z crossweb.pl (scripts/crossweb/fetch-details.mjs)
+data/crossweb/cache/

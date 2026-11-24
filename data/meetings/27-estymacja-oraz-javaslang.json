@@ -1,0 +1,43 @@
+{
+  "number": 27,
+  "slug": "27-estymacja-oraz-javaslang",
+  "title": "Estymacja oraz Javaslang",
+  "description": "Toruń JUG #27: Software estimation tips · Javaslang - Functional Java Done Right",
+  "startDate": "2016-11-30T18:00:00+01:00",
+  "endDate": "2016-11-30T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/27-spotkanie-torun-jug-estymacja-oraz-javaslang-listopad-2016/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Software estimation tips",
+      "speakers": [
+        {
+          "name": "Wojciech Jaworski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=fluqZqrWzzk"
+    },
+    {
+      "title": "Javaslang - Functional Java Done Right",
+      "speakers": [
+        {
+          "name": "Grzegorz Piwowarek"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=64V0PEr3N7Q"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/27-spotkanie-torun-jug-estymacja-oraz-javaslang-listopad-2016/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

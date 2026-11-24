@@ -1,0 +1,32 @@
+{
+  "number": 14,
+  "slug": "14-brzydka-pani-od-hr-radzi-czyli-1011-bledow-i-java",
+  "title": "Brzydka Pani od HR radzi, czyli 1011 błędów i Java microservices made easy with Ratel",
+  "description": "Toruń JUG #14: Brzydka Pani od HR radzi, czyli 1011 błędów · Java microservices made easy with Ratel",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Brzydka Pani od HR radzi, czyli 1011 błędów",
+      "speakers": [
+        {
+          "name": "Tomasz Dziurko"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=3by7dvZkvsk"
+    },
+    {
+      "title": "Java microservices made easy with Ratel",
+      "speakers": [
+        {
+          "name": "Łukasz Puławski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=27bY3E4CJRg"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

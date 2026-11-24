@@ -1,0 +1,34 @@
+{
+  "number": 19,
+  "slug": "19-java-memory-consistency-model",
+  "title": "Java Memory Consistency Model",
+  "description": "Toruń JUG #19: Java Memory Consistency Model",
+  "startDate": "2016-01-27T18:00:00+01:00",
+  "endDate": "2016-01-27T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-19-java-memory-consistency-model/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Java Memory Consistency Model",
+      "speakers": [
+        {
+          "name": "Tomasz Borek"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=e5rw9urCN7Q"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/torun-jug-19-java-memory-consistency-model/",
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

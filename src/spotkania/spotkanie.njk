@@ -46,10 +46,12 @@ nav:
           <div class="meeting-hero-content">
             <p class="meeting-kicker">Toruń JUG #{{ meeting.number }}</p>
             <h1>{{ meeting.title }}</h1>
-            <p class="meeting-hero-meta"><time datetime="{{ meeting.startDate }}">{{ meeting.dateLabel }}, {{ meeting.timeLabel }}</time><span>{{ meeting.location.place }}, {{ meeting.location.city }}</span></p>
+            <p class="meeting-hero-meta">{% if meeting.startDate %}<time datetime="{{ meeting.startDate }}">{{ meeting.dateLabel }}, {{ meeting.timeLabel }}</time>{% else %}<span>Data spotkania nieznana</span>{% endif %}{% if meeting.location %}<span>{{ meeting.location.place }}, {{ meeting.location.city }}</span>{% endif %}</p>
+            {%- if meeting.meetup %}
             <div class="meeting-hero-actions">
               <a class="button button-accent" href="{{ meeting.meetup.url }}" target="_blank" rel="noopener noreferrer">{{ meeting.meetup.label }} <span aria-hidden="true">↗</span></a>
             </div>
+            {%- endif %}
           </div>
         </div>
       </section>
@@ -61,14 +63,22 @@ nav:
             {%- for talk in meeting.talks %}
               <article class="talk-card">
                 <h3>{{ talk.title }}</h3>
+                {%- if talk.description %}
                 <p class="talk-description">{{ talk.description }}</p>
+                {%- endif %}
                 <div class="talk-speakers">
                 {%- for speaker in talk.speakers %}
                   <section class="talk-speaker-profile" aria-label="Informacje o prelegencie">
+                    {%- if speaker.photo %}
                     <img class="talk-speaker-photo" src="../static/speakers/{{ speaker.photo }}" width="300" height="300" alt="Zdjęcie: {{ speaker.name }}" loading="lazy" decoding="async">
+                    {%- else %}
+                    <span class="talk-speaker-photo speaker-photo-placeholder" aria-hidden="true">{{ speaker.initials }}</span>
+                    {%- endif %}
                     <div class="talk-speaker-details">
                       <h4><a href="../prelegenci/index.html#{{ speaker.id }}">{{ speaker.name }}</a></h4>
+                      {%- if speaker.bio %}
                       <p class="talk-speaker-bio">{{ speaker.bio }}</p>
+                      {%- endif %}
                     </div>
                   </section>
                 {%- endfor %}
@@ -105,7 +115,7 @@ nav:
 {% block footer %}
     <footer class="site-footer">
       <div class="container footer-bottom">
-        <p>© <span data-current-year>{{ meeting.year }}</span> Toruń JUG</p>
+        <p>© <span data-current-year>{{ meeting.year or meetings[0].year }}</span> Toruń JUG</p>
         <p><a href="index.html">Wróć do listy spotkań</a></p>
       </div>
     </footer>

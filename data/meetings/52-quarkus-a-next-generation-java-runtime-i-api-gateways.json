@@ -1,0 +1,46 @@
+{
+  "number": 52,
+  "slug": "52-quarkus-a-next-generation-java-runtime-i-api-gateways",
+  "title": "Quarkus - a next generation Java runtime i API Gateways",
+  "description": "Toruń JUG #52: Quarkus - a next generation Java runtime · API Gateways",
+  "startDate": "2019-05-29T18:00:00+02:00",
+  "endDate": "2019-05-29T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/52-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Quarkus - a next generation Java runtime",
+      "speakers": [
+        {
+          "name": "Michał Szynkiewicz",
+          "bio": "Senior Software Engineer at Red Hat, Java developer with more than 10 years of experience in developing back-end systems.\nEclipse MicroProfile Committer, member of the SmallRye and Thorntail team, also contributing to Quarkus."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=_PEc5CCKrtM"
+    },
+    {
+      "title": "API Gateways",
+      "description": "1. \"Api Gateways\"\n\nCo ma wspólnego z sobą security, request caching, request tracking, itp? Otóż żadne z nich (prawie zawsze) nie jest częścią domeny, którą my jako progamiści implementujemy naszym klientom, a więc nie daje im również przewagi biznesowej nad konkurencją. Mimo to, są one niezbędne (mniej lub bardziej) w każdej aplikacji udostępniające interfejs HTTP oraz na każdej z tych rzeczy tracimy wiele MD implementując non stop to samo zamiast skupić się na istotnych problemach. W trakcie tej prezentacji wyjaśnię co to jest API Gateway oraz w jaki sposób rozwiązuje wszystkie powyższe problemy. Do celów demonstracyjnych użyję AWS API Gateway, które jest jednym z najlepszych dostępnych rozwiązań.",
+      "speakers": [
+        {
+          "name": "Łukasz Marchewka",
+          "bio": "Programista / Architekt z 12 letnim doświadczeniem. Od 5 lat programista Scala, Akka, Play Framework, a ostatnio Big Data. Wielki fan programowania funkcyjnego, reaktywnego oraz DDD. Na co dzień pracuję w Scalac jako scala hAkker.\n\n2. \"Quarkus - a next generation Java runtime\"\n\nQuarkus is a new Java runtime, designed for productivity and efficiency.\nInstant reload, hotspot and native execution, vastly reduced start time and memory usage, and all that with a set of libraries you already know, such as Hibernate, RestEasy, Vert.x or MicroProfile.\n\nThis talk will give an overview of Quarkus and demo how to expose a REST resource, feed and consume from a Kafka topic and talk to a database."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=BHgVSJxlpLE"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/52-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

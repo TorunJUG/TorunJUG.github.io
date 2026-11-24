@@ -1,0 +1,47 @@
+{
+  "number": 69,
+  "slug": "69-inzynierze-ekspercie-oraz-operatorze-dla-mongodb",
+  "title": "\"Inżynierze-Ekspercie\" oraz \"Operatorze dla MongoDB",
+  "description": "Toruń JUG #69: Analityk + Deweloper = Inżynier-ekspert · Czego się nauczyliśmy pisząc Operator dla MognoDB?",
+  "startDate": "2024-02-28T18:00:00+01:00",
+  "endDate": "2024-02-28T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/69-spotkanie-torun-jug-o-inzynierze-ekspercie-oraz-operatorze-dla-mongodb/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Analityk + Deweloper = Inżynier-ekspert",
+      "description": "Cześć!\n\nZapraszamy Was na 69. spotkanie Toruń JUG! 28 lutego w godzinach 18:00-20:00 na Wydziale Matematyki i Informatyki UMK (ul. Chopina 12/18) w sali S9 spotykamy się z Wami oraz naszymi Prelegentami.\n\nDla przypomnienia - jak zwykle wstęp jest wolny, obecność na wcześniejszych spotkaniach nie jest wymagana. UWAGA: ze względów formalnych musieliśmy ograniczyć liczbę osób, więc jeżeli będziecie wiedzieć, że nie przyjdziecie a się zapisaliście to zwolnijcie miejsce dla innej osoby! Druga rzecz - w celu poprawnej identyfikacji prosimy w miarę możliwości o podanie imienia i nazwiska w profilu meetupowym.\n\nI jeszcze trochę ogólnego info...\n\nDzięki Simplito będziecie mogli zobaczyć nagrania z tego spotkania na naszym kanale YT (https://www.youtube.com/TorunJUG), a oprócz tego sporo fantów dla Was przygotowali:\n\n• JetBrains -> vouchery na oprogramowanie,\n\n• Allegro -> książki,\n\n• Helion -> książki\n\nJak zwykle, już po wszystkim, zapraszamy Was tradycyjnie na małe after party do Deer Bear Pub ;)\n\nA teraz trochę o naszych Prelegentach i ich prelekcjach:\n\n“Analityk + Deweloper = Inżynier-ekspert” - kogo szuka biznes i czego wymagać od siebie i organizacji\nJak to? Można być jednocześnie analitykiem i deweloperem? Nie tylko można, ale warto. Opowiem Wam o furtkach jakie otwiera takie podejście i o wielkich firmach, które pracują tak od lat. Powiem Wam dlaczego biznes szuka takich kompetencji i jakimi rolami je nagradza (zdradzę, że jest ich wiele). Powiem wreszcie jak się za to zabrać i po czym poznać organizację, która Cię w tym wesprze. Wspomnę też o związkach tego tematu z AI (a jak!), Agile i Domian Driven Design, ale to nie one będą sednem tej prezentacji. Sednem będzie Twój rozwój na poziomie znacznie głębszym niż buzzwordy.",
+      "speakers": [
+        {
+          "name": "Szymon Janikowski",
+          "bio": "od kilkunastu lat inżynier IT (nie tylko z dyplomu) Od 2017 r. konsultant i trener specjalizujący się w Domain Driven Design i współpracujący z Bottega IT Minds. Najbardziej wgryzł się w domeny finansową oraz rezerwacji podróży lotniczych. Architekt aplikacji, projektant i integrator API. Pochodzi z krainy JVM. Poza tym zajadły enkapsulator, budowniczy mostów między biznesem a IT oraz niestrudzony poszukiwacz prostoty na poziomie kodu i architektury, świadomy jak trudno ją osiągnąć. Działa w tandemie z Marcinem Markowskim pod wspólnym szyldem ITLIBRIUM."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=R-jFV1qMWhE"
+    },
+    {
+      "title": "Czego się nauczyliśmy pisząc Operator dla MognoDB?",
+      "description": "Podczas prezentacji opowiem Wam o naszych przygodach związanych z tworzeniem Operatora MongoDB dla Kubernetesa.",
+      "speakers": [
+        {
+          "name": "Sebastian Łaskawiec",
+          "bio": "Staff Engineer zajmujący się budowaniem produktów opartych o Kubernetesa w MongoDB. Niepoprawny optymista wierzący, że wszystkie klastry są stabilne, a opóźnienie sieciowe równe zero."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=JeYv0sDYOoE"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/69-spotkanie-torun-jug-o-inzynierze-ekspercie-oraz-operatorze-dla-mongodb/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

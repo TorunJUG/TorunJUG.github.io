@@ -1,0 +1,47 @@
+{
+  "number": 44,
+  "slug": "44-introduction-to-functional-reactive-programming-i-jforex",
+  "title": "Introduction to Functional-Reactive Programming i JForex - kasa na javie",
+  "description": "Toruń JUG #44: Introduction to Functional-Reactive Programming · JForex - kasa na javie",
+  "startDate": "2018-09-26T18:00:00+02:00",
+  "endDate": "2018-09-26T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/44-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Introduction to Functional-Reactive Programming",
+      "description": "Jesteś ciekaw czym jest FRP? Ciągle słyszysz o RX, ale nie wiesz co to? Zapraszam Cię w podróż do magicznego świata programowania funkcyjno-reaktywnego! Pełnego potworów (flatMap), zasadzek (hot vs cold), i labiryntów (zip, merge, combineLatest)...\nTemat nie jest prosty, ale nie jest też niemożliwy do ogarnięcia.\nJako że jestem pragmatykiem, skupimy się na praktycznych zastosowaniach tego paradygmatu. Na czym polega, i co nam daje? Jakie problemy rozwiązuje? Jakie problemy generuje...?\nTak więc zaopatrz się w dobrą kawę, otwarty umysł, i zaczynamy... :)",
+      "speakers": [
+        {
+          "name": "Grzegorz Dyrda",
+          "bio": "koduję odkąd pamiętam. Robiłem już apki desktopowe, backendy, frontendy, embedded, systemy bankowe, płatnicze i inne cuda... Jednak dopiero na platformach mobilnych czuję się jak “ryba w wodzie”. Od kilku lat tworzę i sprzedaję własne apki, i tak zarabiam na chleb i wczasy na Kanarach ;) Jestem wielkim entuzjastą Kotlina, programowania reaktywnego (ReactiveX), a ostatnio również JavaScriptu (sic!), React’a, serverless i innych takich :)\nPrywatnie - snuję plany na milionowe imperium, prowadzę bloga (blog.geekydevs.com), chodzę po górach, gram na gitarze, czytam..."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=9PO3OCD5sSM"
+    },
+    {
+      "title": "JForex - kasa na javie",
+      "description": "Praca programisty Java najczęściej kojarzy się z rozwijaniem aplikacji biznesowych, lub mobilnych dla Androida. Jednak Java ma znacznie więcej ciekawych zastosowań. Jednym z nich może być tworzenie strategii (automatów) tradingu na największym rynku finansowym świata!\nZ prezentacji będzie można dowiedzieć się czym jest i jak działa Forex, poznać wybrane elementy analizy technicznej, zobaczyć na żywo jak wygląda zawieranie transakcji przy użyciu platformy JForex, oraz dowiedzieć się jak zaimplementować własną strategię (która pracuje dla Ciebie nawet wtedy kiedy Ty śpisz) wykorzystując JForex API.",
+      "speakers": [
+        {
+          "name": "Damian Ledziński",
+          "bio": "na co dzień nauczyciel akademicki na UTP w Bydgoszczy. Ponadto programista Java i Python. Główne obszary zainteresowań to zastosowanie informatyki w medycynie, autonomiczne drony oraz wybrane techniki uczenia maszynowego."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=se6SjZWeVek"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/44-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

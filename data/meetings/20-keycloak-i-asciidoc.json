@@ -1,0 +1,46 @@
+{
+  "number": 20,
+  "slug": "20-keycloak-i-asciidoc",
+  "title": "Keycloak i AsciiDoc",
+  "description": "Toruń JUG #20: W poszukiwaniu bożków dokumentacji · Keycloak",
+  "startDate": "2016-02-24T18:00:00+01:00",
+  "endDate": "2016-02-24T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-20-keycloak-i-asciidoc/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "W poszukiwaniu bożków dokumentacji",
+      "speakers": [
+        {
+          "name": "Jakub Marchwicki"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=JGFBG22mHcs"
+    },
+    {
+      "title": "Keycloak",
+      "speakers": [
+        {
+          "name": "Bolesław Dawidowicz"
+        },
+        {
+          "name": "Andrzej Goławski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=qv_2cFuZMm4"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/torun-jug-20-keycloak-i-asciidoc/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

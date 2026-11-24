@@ -1,0 +1,34 @@
+{
+  "number": 21,
+  "slug": "21-category-theory-is-absolute-general-nonsense",
+  "title": "Category theory is absolute general nonsense!",
+  "description": "Toruń JUG #21: Category theory is absolute general nonsense!",
+  "startDate": "2016-03-30T18:00:00+02:00",
+  "endDate": "2016-03-30T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-21/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Category theory is absolute general nonsense!",
+      "speakers": [
+        {
+          "name": "Paweł Szulc"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=ENtdZ9MBo5Y"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/torun-jug-21/",
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

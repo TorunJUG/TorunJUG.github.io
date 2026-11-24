@@ -1,0 +1,794 @@
+[
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-19-java-memory-consistency-model/",
+    "slug": "torun-jug-19-java-memory-consistency-model",
+    "title": "Toruń JUG #19 – Java Memory Consistency Model",
+    "date": "2016-01-27",
+    "type": "Spotkanie",
+    "number": 19
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-20-keycloak-i-asciidoc/",
+    "slug": "torun-jug-20-keycloak-i-asciidoc",
+    "title": "Toruń JUG #20 – Keycloak i AsciiDoc",
+    "date": "2016-02-24",
+    "type": "Spotkanie",
+    "number": 20
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-21/",
+    "slug": "torun-jug-21",
+    "title": "Toruń JUG #21",
+    "date": "2016-03-30",
+    "type": "Spotkanie",
+    "number": 21
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/22-spotkanie-torun-jug/",
+    "slug": "22-spotkanie-torun-jug",
+    "title": "22. spotkanie Toruń JUG",
+    "date": "2016-04-27",
+    "type": "Spotkanie",
+    "number": 22
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/23-spotkanie-torun-jug/",
+    "slug": "23-spotkanie-torun-jug",
+    "title": "23. spotkanie Toruń JUG",
+    "date": "2016-05-25",
+    "type": "Spotkanie",
+    "number": 23
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/24-spotkanie-torun-jug-lightning-talks/",
+    "slug": "24-spotkanie-torun-jug-lightning-talks",
+    "title": "24. spotkanie Toruń JUG – Lightning Talks",
+    "date": "2016-06-29",
+    "type": "Spotkanie",
+    "number": 24
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/25-spotkanie-torun-jug-cicd-oraz-impact-mapping/",
+    "slug": "25-spotkanie-torun-jug-cicd-oraz-impact-mapping",
+    "title": "25. spotkanie Toruń JUG – CI/CD oraz Impact Mapping",
+    "date": "2016-09-28",
+    "type": "Spotkanie",
+    "number": 25
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/26-spotkanie-torun-jug-functional-programming-pazdziernik-2016/",
+    "slug": "26-spotkanie-torun-jug-functional-programming-pazdziernik-2016",
+    "title": "26. spotkanie Toruń JUG – Functional Programming",
+    "date": "2016-10-26",
+    "type": "Spotkanie",
+    "number": 26
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/27-spotkanie-torun-jug-estymacja-oraz-javaslang-listopad-2016/",
+    "slug": "27-spotkanie-torun-jug-estymacja-oraz-javaslang-listopad-2016",
+    "title": "27. spotkanie Toruń JUG – Estymacja oraz Javaslang",
+    "date": "2016-11-30",
+    "type": "Spotkanie",
+    "number": 27
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/28-spotkanie-torun-jug-freelancing-oraz-clean-project/",
+    "slug": "28-spotkanie-torun-jug-freelancing-oraz-clean-project",
+    "title": "28. spotkanie Toruń JUG – Freelancing oraz Clean Project",
+    "date": "2016-12-21",
+    "type": "Spotkanie",
+    "number": 28
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/29-spotkanie-torun-jug-reaktywne-mikrouslugi-oraz-jit/",
+    "slug": "29-spotkanie-torun-jug-reaktywne-mikrouslugi-oraz-jit",
+    "title": "29. spotkanie Toruń JUG – Reaktywne Mikrousługi...",
+    "date": "2017-01-25",
+    "type": "Spotkanie",
+    "number": 29
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/30-spotkanie-torun-jug-frege-oraz-kanban/",
+    "slug": "30-spotkanie-torun-jug-frege-oraz-kanban",
+    "title": "30. spotkanie Toruń JUG - Frege oraz Kanban",
+    "date": "2017-02-22",
+    "type": "Spotkanie",
+    "number": 30
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/31-spotkanie-torun-jug-spring-cloud-pipelines/",
+    "slug": "31-spotkanie-torun-jug-spring-cloud-pipelines",
+    "title": "31. spotkanie Toruń JUG - Spring Cloud Pipelines",
+    "date": "2017-03-29",
+    "type": "Spotkanie",
+    "number": 31
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/32-spotkanie-torun-jug-big-data-and-asynchronous-communication/",
+    "slug": "32-spotkanie-torun-jug-big-data-and-asynchronous-communication",
+    "title": "32. spotkanie Toruń JUG - Big Data and Asynchronous...",
+    "date": "2017-04-26",
+    "type": "Spotkanie",
+    "number": 32
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/33-spotkanie-torun-jug/",
+    "slug": "33-spotkanie-torun-jug",
+    "title": "33. spotkanie Toruń JUG",
+    "date": "2017-05-31",
+    "type": "Spotkanie",
+    "number": 33
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/34-spotkanie-torun-jug-kotlin-oraz-nowe-technologie-w-projekta-ch-legacy/",
+    "slug": "34-spotkanie-torun-jug-kotlin-oraz-nowe-technologie-w-projekta-ch-legacy",
+    "title": "34. spotkanie Toruń JUG - Kotlin oraz nowe technologie...",
+    "date": "2017-09-27",
+    "type": "Spotkanie",
+    "number": 34
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/35-torun-jug/",
+    "slug": "35-torun-jug",
+    "title": "35. Toruń JUG",
+    "date": "2017-10-25",
+    "type": "Spotkanie",
+    "number": 35
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/36-spotkanie-torun-jug/",
+    "slug": "36-spotkanie-torun-jug",
+    "title": "36. spotkanie Toruń JUG",
+    "date": "2017-11-29",
+    "type": "Spotkanie",
+    "number": 36
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/37-spotkanie-torun-jug/",
+    "slug": "37-spotkanie-torun-jug",
+    "title": "37. spotkanie Toruń JUG",
+    "date": "2017-12-20",
+    "type": "Spotkanie",
+    "number": 37
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/38-torun-jug/",
+    "slug": "38-torun-jug",
+    "title": "38. Toruń JUG",
+    "date": "2018-01-31",
+    "type": "Spotkanie",
+    "number": 38
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/39-torun-jug/",
+    "slug": "39-torun-jug",
+    "title": "39. Toruń JUG",
+    "date": "2018-02-28",
+    "type": "Spotkanie",
+    "number": 39
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/40-spotkanie-torun-jug/",
+    "slug": "40-spotkanie-torun-jug",
+    "title": "40. spotkanie Toruń JUG",
+    "date": "2018-03-28",
+    "type": "Spotkanie",
+    "number": 40
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/41-spotkanie-torun-jug/",
+    "slug": "41-spotkanie-torun-jug",
+    "title": "41. spotkanie Toruń JUG",
+    "date": "2018-04-25",
+    "type": "Spotkanie",
+    "number": 41
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/42-spotkanie-torun-jug/",
+    "slug": "42-spotkanie-torun-jug",
+    "title": "42. spotkanie Toruń JUG",
+    "date": "2018-05-30",
+    "type": "Spotkanie",
+    "number": 42
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/43-torun-jug/",
+    "slug": "43-torun-jug",
+    "title": "43. Toruń JUG",
+    "date": "2018-06-27",
+    "type": "Spotkanie",
+    "number": 43
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/44-torun-jug/",
+    "slug": "44-torun-jug",
+    "title": "44. Toruń JUG",
+    "date": "2018-09-26",
+    "type": "Spotkanie",
+    "number": 44
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/45-spotkanie-torun-jug/",
+    "slug": "45-spotkanie-torun-jug",
+    "title": "45. spotkanie Toruń JUG",
+    "date": "2018-10-31",
+    "type": "Spotkanie",
+    "number": 45
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/46-torun-jug/",
+    "slug": "46-torun-jug",
+    "title": "46. Toruń JUG",
+    "date": "2018-11-28",
+    "type": "Spotkanie",
+    "number": 46
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/47-spotkanie-torun-jug/",
+    "slug": "47-spotkanie-torun-jug",
+    "title": "47. spotkanie Toruń JUG",
+    "date": "2018-12-19",
+    "type": "Spotkanie",
+    "number": 47
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/48-torun-jug/",
+    "slug": "48-torun-jug",
+    "title": "48. Toruń JUG",
+    "date": "2019-01-30",
+    "type": "Spotkanie",
+    "number": 48
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/49-torun-jug/",
+    "slug": "49-torun-jug",
+    "title": "49. Toruń JUG",
+    "date": "2019-02-27",
+    "type": "Spotkanie",
+    "number": 49
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/50-spotkanie-torun-jug/",
+    "slug": "50-spotkanie-torun-jug",
+    "title": "50. spotkanie Toruń JUG",
+    "date": "2019-03-27",
+    "type": "Spotkanie",
+    "number": 50
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/51-spotkanie-torun-jug/",
+    "slug": "51-spotkanie-torun-jug",
+    "title": "51. spotkanie Toruń JUG",
+    "date": "2019-04-24",
+    "type": "Spotkanie",
+    "number": 51
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/52-spotkanie-torun-jug/",
+    "slug": "52-spotkanie-torun-jug",
+    "title": "52. spotkanie Toruń JUG",
+    "date": "2019-05-29",
+    "type": "Spotkanie",
+    "number": 52
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/53-torun-jug/",
+    "slug": "53-torun-jug",
+    "title": "53. Toruń JUG",
+    "date": "2019-06-26",
+    "type": "Spotkanie",
+    "number": 53
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/54-spotkanie-torun-jug/",
+    "slug": "54-spotkanie-torun-jug",
+    "title": "54. spotkanie Toruń JUG",
+    "date": "2019-09-25",
+    "type": "Spotkanie",
+    "number": 54
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/55-spotkanie-torun-jug/",
+    "slug": "55-spotkanie-torun-jug",
+    "title": "55. spotkanie Toruń JUG",
+    "date": "2019-10-30",
+    "type": "Spotkanie",
+    "number": 55
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/56-spotkanie-torun-jug-o-springowych-beanach-i-systemach-reaktywnych/",
+    "slug": "56-spotkanie-torun-jug-o-springowych-beanach-i-systemach-reaktywnych",
+    "title": "56. spotkanie Toruń JUG - O \"Springowych Beanach\" i...",
+    "date": "2019-11-27",
+    "type": "Spotkanie",
+    "number": 56
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/57-spotkanie-torun-jug/",
+    "slug": "57-spotkanie-torun-jug",
+    "title": "57. spotkanie Toruń JUG",
+    "date": "2019-12-18",
+    "type": "Spotkanie",
+    "number": 57
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/58-spotkanie-torun-jug-o-refactoringu-i-jenkins-shared-library/",
+    "slug": "58-spotkanie-torun-jug-o-refactoringu-i-jenkins-shared-library",
+    "title": "58. spotkanie Toruń JUG - O \"Refactoringu\" i \"Jenkins...",
+    "date": "2020-01-29",
+    "type": "Spotkanie",
+    "number": 58
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/59-spotkanie-torun-jug/",
+    "slug": "59-spotkanie-torun-jug",
+    "title": "59. spotkanie Toruń JUG",
+    "date": "2020-02-26",
+    "type": "Spotkanie",
+    "number": 59
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/60-spotkanie-torun-jug-o-micronaut-i-self-sovereign-identit-y/",
+    "slug": "60-spotkanie-torun-jug-o-micronaut-i-self-sovereign-identit-y",
+    "title": "60. spotkanie Toruń JUG - O \"Micronaut\" i...",
+    "date": "2022-12-07",
+    "type": "Spotkanie",
+    "number": 60
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/61-spotkanie-torun-jug-o-wyszukiwaniu-i-helmie-styczen-2023/",
+    "slug": "61-spotkanie-torun-jug-o-wyszukiwaniu-i-helmie-styczen-2023",
+    "title": "61. spotkanie Toruń JUG - O \"Wyszukiwaniu\" i \"Helmie\"",
+    "date": "2023-01-25",
+    "type": "Spotkanie",
+    "number": 61
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/62-spotkanie-torun-jug-duzo-o-javie-i-jvmie/",
+    "slug": "62-spotkanie-torun-jug-duzo-o-javie-i-jvmie",
+    "title": "62. spotkanie Toruń JUG - Dużo o Javie i JVMie!",
+    "date": "2023-03-29",
+    "type": "Spotkanie",
+    "number": 62
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/63-spotkanie-torun-jug-o-czystych-funkcjach-i-zlozonej-logice-odczytowej/",
+    "slug": "63-spotkanie-torun-jug-o-czystych-funkcjach-i-zlozonej-logice-odczytowej",
+    "title": "63. spotkanie Toruń JUG - O \"czystych funkcjach\" i...",
+    "date": "2023-04-26",
+    "type": "Spotkanie",
+    "number": 63
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/64-spotkanie-torun-jug-frameworki-testowe-3-lighning-talks/",
+    "slug": "64-spotkanie-torun-jug-frameworki-testowe-3-lighning-talks",
+    "title": "64. spotkanie Toruń JUG - \"Frameworki testowe\" + 3...",
+    "date": "2023-05-31",
+    "type": "Spotkanie",
+    "number": 64
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/65-spotkanie-torun-jug-o-procesowaniu-adnotacji-i-czasie-zycia-cve/",
+    "slug": "65-spotkanie-torun-jug-o-procesowaniu-adnotacji-i-czasie-zycia-cve",
+    "title": "65. spotkanie Toruń JUG - O",
+    "date": "2023-06-28",
+    "type": "Spotkanie",
+    "number": 65
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/66-spotkanie-torun-jug-o-architekturze-systemow-i-zonglerce-danymi/",
+    "slug": "66-spotkanie-torun-jug-o-architekturze-systemow-i-zonglerce-danymi",
+    "title": "66. spotkanie Toruń JUG - O \"Architekturze systemów\" i...",
+    "date": "2023-10-25",
+    "type": "Spotkanie",
+    "number": 66
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/67-spotkanie-torun-jug-o-wspolbieznosci-w-jvm-i-pieniadzach/",
+    "slug": "67-spotkanie-torun-jug-o-wspolbieznosci-w-jvm-i-pieniadzach",
+    "title": "67. spotkanie Toruń JUG - O \"Współbieżności w JVM\"...",
+    "date": "2023-11-29",
+    "type": "Spotkanie",
+    "number": 67
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/68-spotkanie-torun-jug-o-czystym-kodzie-oraz-datach-czasie-i-strefach/",
+    "slug": "68-spotkanie-torun-jug-o-czystym-kodzie-oraz-datach-czasie-i-strefach",
+    "title": "68. spotkanie Toruń JUG - O \"Czystym kodzie\" oraz...",
+    "date": "2024-01-31",
+    "type": "Spotkanie",
+    "number": 68
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/69-spotkanie-torun-jug-o-inzynierze-ekspercie-oraz-operatorze-dla-mongodb/",
+    "slug": "69-spotkanie-torun-jug-o-inzynierze-ekspercie-oraz-operatorze-dla-mongodb",
+    "title": "69. spotkanie Toruń JUG - O \"Inżynierze-Ekspercie\"...",
+    "date": "2024-02-28",
+    "type": "Spotkanie",
+    "number": 69
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/70-spotkanie-torun-jug-o-systemach-rag-oraz-dobrym-wejsciu-w-aws/",
+    "slug": "70-spotkanie-torun-jug-o-systemach-rag-oraz-dobrym-wejsciu-w-aws",
+    "title": "70. spotkanie Toruń JUG - O \"Systemach RAG\" oraz...",
+    "date": "2024-03-27",
+    "type": "Spotkanie",
+    "number": 70
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/71-spotkanie-torun-jug-o-truffle-w-graalvm-oraz-testach-black-box/",
+    "slug": "71-spotkanie-torun-jug-o-truffle-w-graalvm-oraz-testach-black-box",
+    "title": "71. spotkanie Toruń JUG - O \"Truffle w GraalVM\" oraz...",
+    "date": "2024-04-24",
+    "type": "Spotkanie",
+    "number": 71
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/73-spotkanie-torun-jug-o-tanim-ai-oraz-keycloaku-w-praktyce/",
+    "slug": "73-spotkanie-torun-jug-o-tanim-ai-oraz-keycloaku-w-praktyce",
+    "title": "73. spotkanie Toruń JUG - O \"Tanim AI\" oraz \"Keycloaku...",
+    "date": "2024-06-26",
+    "type": "Spotkanie",
+    "number": 73
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/74-spotkanie-torun-jug-o-atari-2600-oraz-jak-ta-java-dziala/",
+    "slug": "74-spotkanie-torun-jug-o-atari-2600-oraz-jak-ta-java-dziala",
+    "title": "74. spotkanie Toruń JUG - O \"Atari 2600\" oraz \"Jak ta...",
+    "date": "2024-10-30",
+    "type": "Spotkanie",
+    "number": 74
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/75-spotkanie-torun-jug-o-jakosci-oprogramowania-oraz-overengineeringu/",
+    "slug": "75-spotkanie-torun-jug-o-jakosci-oprogramowania-oraz-overengineeringu",
+    "title": "75. spotkanie Toruń JUG - O \"Jakości oprogramowania\"...",
+    "date": "2024-11-27",
+    "type": "Spotkanie",
+    "number": 75
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/76-spotkanie-torun-jug-o-szyfrowaniu-oraz-wzorcach-komunikacji-z-rabbitmq/",
+    "slug": "76-spotkanie-torun-jug-o-szyfrowaniu-oraz-wzorcach-komunikacji-z-rabbitmq",
+    "title": "76. spotkanie Toruń JUG - O \"Szyfrowaniu\" oraz...",
+    "date": "2025-01-29",
+    "type": "Spotkanie",
+    "number": 76
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/77-spotkanie-torun-jug-o-structured-concurrency-oraz-rag-w-springai/",
+    "slug": "77-spotkanie-torun-jug-o-structured-concurrency-oraz-rag-w-springai",
+    "title": "77. spotkanie Toruń JUG - O \"Structured Concurrency\"...",
+    "date": "2025-02-26",
+    "type": "Spotkanie",
+    "number": 77
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/78-spotkanie-torun-jug-o-tworzeniu-open-source-oraz-flipper-zero/",
+    "slug": "78-spotkanie-torun-jug-o-tworzeniu-open-source-oraz-flipper-zero",
+    "title": "78. spotkanie Toruń JUG - O \"Tworzeniu Open Source\"...",
+    "date": "2025-03-26",
+    "type": "Spotkanie",
+    "number": 78
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/79-spotkanie-torun-jug-o-zlych-mikroserwisach-oraz-diagramach-z-kodu/",
+    "slug": "79-spotkanie-torun-jug-o-zlych-mikroserwisach-oraz-diagramach-z-kodu",
+    "title": "79. spotkanie Toruń JUG - O \"Złych mikroserwisach\"...",
+    "date": "2025-04-30",
+    "type": "Spotkanie",
+    "number": 79
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/80-spotkanie-torun-jug-o-gen-ai-dla-programistow-oraz-sqlite-i-duckdb/",
+    "slug": "80-spotkanie-torun-jug-o-gen-ai-dla-programistow-oraz-sqlite-i-duckdb",
+    "title": "80. spotkanie Toruń JUG - O Gen AI dla Programistów...",
+    "date": "2025-05-28",
+    "type": "Spotkanie",
+    "number": 80
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-81-programowanie-zorientowane-na-dane-refactoring-keycloak/",
+    "slug": "torun-jug-81-programowanie-zorientowane-na-dane-refactoring-keycloak",
+    "title": "Toruń JUG #81 - Programowanie zorientowane na dane,...",
+    "date": "2025-06-25",
+    "type": "Spotkanie",
+    "number": 81
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-82-o-vaadin-flow-i-graphql/",
+    "slug": "torun-jug-82-o-vaadin-flow-i-graphql",
+    "title": "Toruń JUG #82 - O \"Vaadin Flow\" i \"GraphQL",
+    "date": "2025-10-29",
+    "type": "Spotkanie",
+    "number": 82
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-83-o-sukcesie-w-rekrutacji-i-ucieczce-z-pulapki-utrzymania/",
+    "slug": "torun-jug-83-o-sukcesie-w-rekrutacji-i-ucieczce-z-pulapki-utrzymania",
+    "title": "Toruń JUG #83 - O \"Sukcesie w rekrutacji\" i \"Ucieczce z...",
+    "date": "2025-11-26",
+    "type": "Spotkanie",
+    "number": 83
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-84-refleksje-programisty-w-srednim-wieku-w-erze-ai-quiz/",
+    "slug": "torun-jug-84-refleksje-programisty-w-srednim-wieku-w-erze-ai-quiz",
+    "title": "Toruń JUG #84 - \"Refleksje Programisty w Średnim Wieku...",
+    "date": "2025-12-10",
+    "type": "Spotkanie",
+    "number": 84
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-85-o-archunit-i-generatywnym-ai-w-rekach-developera/",
+    "slug": "torun-jug-85-o-archunit-i-generatywnym-ai-w-rekach-developera",
+    "title": "Toruń JUG #85 - O \"Archunit\" i \"Generatywnym AI w...",
+    "date": "2026-01-28",
+    "type": "Spotkanie",
+    "number": 85
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-86-zarf-i-keycloak-architektura-komunikacyjna-w-zespolach/",
+    "slug": "torun-jug-86-zarf-i-keycloak-architektura-komunikacyjna-w-zespolach",
+    "title": "Toruń JUG #86 - \"Zarf i Keycloak\" + \"Architektura...",
+    "date": "2026-02-25",
+    "type": "Spotkanie",
+    "number": 86
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-87-spark-pipelines-jezykoznawcze-supermoce-programisty/",
+    "slug": "torun-jug-87-spark-pipelines-jezykoznawcze-supermoce-programisty",
+    "title": "Toruń JUG #87 - Spark Pipelines + Językoznawcze...",
+    "date": "2026-03-25",
+    "type": "Spotkanie",
+    "number": 87
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-88-bluegreen-deployment-opentelemetry-collector-deployment/",
+    "slug": "torun-jug-88-bluegreen-deployment-opentelemetry-collector-deployment",
+    "title": "Toruń JUG #88 - Blue/Green deployment & OpenTelemetry...",
+    "date": "2026-04-29",
+    "type": "Spotkanie",
+    "number": 88
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-88-odrobina-wspolbieznego-sadyzmu-oraz-zaglada-programistow/",
+    "slug": "torun-jug-88-odrobina-wspolbieznego-sadyzmu-oraz-zaglada-programistow",
+    "title": "Toruń JUG #89 - Odrobina współbieżnego sadyzmu oraz...",
+    "date": "2026-05-27",
+    "type": "Spotkanie",
+    "number": 89
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-90-obnizanie-kosztu-zmiany-bottleneck-w-threadpool/",
+    "slug": "torun-jug-90-obnizanie-kosztu-zmiany-bottleneck-w-threadpool",
+    "title": "Toruń JUG #90 - Obniżanie kosztu zmiany + Bottleneck w...",
+    "date": "2026-06-24",
+    "type": "Spotkanie",
+    "number": 90
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-91-virtual-threads-private-ai-benchmarks/",
+    "slug": "torun-jug-91-virtual-threads-private-ai-benchmarks",
+    "title": "Toruń JUG #91 - Virtual Threads + Private AI Benchmarks",
+    "date": "2026-10-28",
+    "type": "Spotkanie",
+    "number": 91
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-92-kosmiczne-it-czy-agenty-dowoza/",
+    "slug": "torun-jug-92-kosmiczne-it-czy-agenty-dowoza",
+    "title": "Toruń JUG #92 - Kosmiczne IT + Czy agenty dowożą",
+    "date": "2026-11-25",
+    "type": "Spotkanie",
+    "number": 92
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/warsztaty-apache-spark/",
+    "slug": "warsztaty-apache-spark",
+    "title": "Warsztaty Apache Spark",
+    "date": "2016-03-12",
+    "type": "Warsztaty",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torunjug-getsrc-1-xenia-development/",
+    "slug": "torunjug-getsrc-1-xenia-development",
+    "title": "TorunJUG.getSrc() // [#1] Xenia Development",
+    "date": "2016-04-02",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torunjug-getsrc-2-xenia-development/",
+    "slug": "torunjug-getsrc-2-xenia-development",
+    "title": "TorunJUG.getSrc() // [#2] Xenia Development",
+    "date": "2016-05-14",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torunjug-getsrc-3-xenia-development/",
+    "slug": "torunjug-getsrc-3-xenia-development",
+    "title": "TorunJUG.getSrc() // [#3] Xenia Development",
+    "date": "2016-06-25",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-day-czerwiec-2017/",
+    "slug": "torun-jug-day-czerwiec-2017",
+    "title": "Toruń JUG Day",
+    "date": "2017-06-24",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-warsztaty-clojure-pazdziernik-2017/",
+    "slug": "torun-jug-warsztaty-clojure-pazdziernik-2017",
+    "title": "Toruń JUG - Warsztaty Clojure",
+    "date": "2017-10-19",
+    "type": "Warsztaty",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/warsztaty-clojure-quot-clojure-koans-quot-amp-quot-rest-assured-quot-listopad-2017/",
+    "slug": "warsztaty-clojure-quot-clojure-koans-quot-amp-quot-rest-assured-quot-listopad-2017",
+    "title": "Warsztaty Clojure: \"Clojure Koans\" &...",
+    "date": "2017-11-22",
+    "type": "Warsztaty",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-warsztaty-spark-luty-2018/",
+    "slug": "torun-jug-warsztaty-spark-luty-2018",
+    "title": "Toruń JUG: Warsztaty Spark",
+    "date": "2018-02-23",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-warsztaty-kwiecien-2018/",
+    "slug": "torun-jug-warsztaty-kwiecien-2018",
+    "title": "Toruń JUG warsztaty",
+    "date": "2018-04-18",
+    "type": "Warsztaty",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/holiday-afterparty-talk-drink-code-lipiec-2019/",
+    "slug": "holiday-afterparty-talk-drink-code-lipiec-2019",
+    "title": "Holiday Afterparty: Talk, drink & code",
+    "date": "2019-07-31",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/refactoring-from-the-big-ball-of-mud-listopad-2019/",
+    "slug": "refactoring-from-the-big-ball-of-mud-listopad-2019",
+    "title": "Refactoring from the Big Ball of Mud",
+    "date": "2019-11-23",
+    "type": "Warsztaty",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/vafter-party-torun-jug-2/",
+    "slug": "vafter-party-torun-jug-2",
+    "title": "vAFTER-PARTY Toruń JUG #2",
+    "date": "2020-05-27",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/vafter-party-torun-jug-4/",
+    "slug": "vafter-party-torun-jug-4",
+    "title": "vAFTER-PARTY Toruń JUG #4",
+    "date": "2020-07-29",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/license-raffle/",
+    "slug": "license-raffle",
+    "title": "License Raffle",
+    "date": "2020-09-24",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/vafter-party-torun-jug-6/",
+    "slug": "vafter-party-torun-jug-6",
+    "title": "vAFTER-PARTY Toruń JUG #6",
+    "date": "2020-09-30",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/vafter-party-torun-jug-7/",
+    "slug": "vafter-party-torun-jug-7",
+    "title": "vAFTER-PARTY Toruń JUG #7",
+    "date": "2020-11-25",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/vafter-party-torun-jug-71/",
+    "slug": "vafter-party-torun-jug-71",
+    "title": "vAFTER-PARTY Toruń JUG #7.1",
+    "date": "2020-12-02",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/vafter-party-torun-jug-8/",
+    "slug": "vafter-party-torun-jug-8",
+    "title": "vAFTER-PARTY Toruń JUG #8",
+    "date": "2021-01-27",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-networking/",
+    "slug": "torun-jug-networking",
+    "title": "Toruń JUG Networking",
+    "date": "2022-04-26",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-networking-2-lightning-talks/",
+    "slug": "torun-jug-networking-2-lightning-talks",
+    "title": "Toruń JUG Networking #2 + Lightning Talks",
+    "date": "2022-05-31",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-networking-3-lightning-talks/",
+    "slug": "torun-jug-networking-3-lightning-talks",
+    "title": "Toruń JUG Networking #3 + Lightning Talks",
+    "date": "2022-06-28",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-xmas-party/",
+    "slug": "torun-jug-xmas-party",
+    "title": "Toruń JUG - Xmas Party",
+    "date": "2023-12-20",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-day-24/",
+    "slug": "torun-jug-day-24",
+    "title": "Toruń JUG Day 24",
+    "date": "2024-05-18",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-networking-wrzesien-2024/",
+    "slug": "torun-jug-networking-wrzesien-2024",
+    "title": "Toruń JUG Networking",
+    "date": "2024-08-28",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-networking-25-wrzesien-2024/",
+    "slug": "torun-jug-networking-25-wrzesien-2024",
+    "title": "Toruń JUG Networking",
+    "date": "2024-09-25",
+    "type": "Spotkanie",
+    "number": null
+  },
+  {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-xmas-party-2024/",
+    "slug": "torun-jug-xmas-party-2024",
+    "title": "Toruń JUG - Xmas Party 2024",
+    "date": "2024-12-11",
+    "type": "Spotkanie",
+    "number": null
+  }
+]

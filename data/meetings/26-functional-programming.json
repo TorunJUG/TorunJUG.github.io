@@ -1,0 +1,43 @@
+{
+  "number": 26,
+  "slug": "26-functional-programming",
+  "title": "Functional Programming",
+  "description": "Toruń JUG #26: FP vs. OOP · Introduction to Clojure",
+  "startDate": "2016-10-26T18:00:00+02:00",
+  "endDate": "2016-10-26T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/26-spotkanie-torun-jug-functional-programming-pazdziernik-2016/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "FP vs. OOP",
+      "speakers": [
+        {
+          "name": "Mikołaj Fejzer"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=tUz5HcTmRPc"
+    },
+    {
+      "title": "Introduction to Clojure",
+      "speakers": [
+        {
+          "name": "Paweł Kapała"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=HVYRmIsj6dM"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/26-spotkanie-torun-jug-functional-programming-pazdziernik-2016/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

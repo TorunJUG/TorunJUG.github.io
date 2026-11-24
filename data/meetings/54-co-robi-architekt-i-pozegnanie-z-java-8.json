@@ -1,0 +1,48 @@
+{
+  "number": 54,
+  "slug": "54-co-robi-architekt-i-pozegnanie-z-java-8",
+  "title": "Co robi architekt? i Pożegnanie z Javą 8",
+  "description": "Toruń JUG #54: Co robi architekt? · Pożegnanie z Javą 8",
+  "startDate": "2019-09-25T18:00:00+02:00",
+  "endDate": "2019-09-25T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/54-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Co robi architekt?",
+      "description": "Co robi architekt gdy nie jest na spotkaniu i skończył obgadywać najnowsze trendy technologiczne przy kawie, co z jego pozostałymi cennymi 15 minutami z 8 godzinnego czasu pracy? Na to i inne pytania postara się odpowiedzieć 2 Hubertów - architektów",
+      "speakers": [
+        {
+          "name": "Hubert Pruszyński",
+          "bio": "od dziecka chciałem być leśnikiem, ale na koniec ogólniaka stwierdziłem, że w IT zarabia się trochę lepiej. Było to już prawie 15 lat temu i cały czas zbieram na leśniczówkę.. ale udało mi się zdobyć duże doświadczenie w wielu różnych inicjatywach, którymi lubię się dzielić, gdyż daje mi to niezłego adrenalinowego kopa. Mimo, że jestem architektem IT to cały czas staram się kodować, być na bieżąco i blisko technologii. Prywatnie posiadacz psa (niedługo psów), złota rączka, cały czas początkujący wspinacz i fajny gość"
+        },
+        {
+          "name": "Hubert Bieńkowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=d7OebPPW3T8"
+    },
+    {
+      "title": "Pożegnanie z Javą 8",
+      "speakers": [
+        {
+          "name": "Maciej Radziński"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=-OviT-t3w0Q"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/54-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

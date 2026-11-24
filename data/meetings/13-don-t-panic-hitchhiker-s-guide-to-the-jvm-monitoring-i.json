@@ -1,0 +1,32 @@
+{
+  "number": 13,
+  "slug": "13-don-t-panic-hitchhiker-s-guide-to-the-jvm-monitoring-i",
+  "title": "Don’t Panic, Hitchhiker’s guide to the JVM monitoring i Wprowadzenie do RxJava",
+  "description": "Toruń JUG #13: Don’t Panic, Hitchhiker’s guide to the JVM monitoring · Wprowadzenie do RxJava",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Don’t Panic, Hitchhiker’s guide to the JVM monitoring",
+      "speakers": [
+        {
+          "name": "Wojciech Oczkowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=kM4_GC5lBOE"
+    },
+    {
+      "title": "Wprowadzenie do RxJava",
+      "speakers": [
+        {
+          "name": "Mikołaj Fejzer"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=1tIKzibf_k4"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

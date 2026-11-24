@@ -1,0 +1,47 @@
+{
+  "number": 63,
+  "slug": "63-czystych-funkcjach-i-zlozonej-logice-odczytowej",
+  "title": "\"czystych funkcjach\" i \"złożonej logice odczytowej\"",
+  "description": "Toruń JUG #63: Daleko od agregatów, czyli jak projektować złożoną logikę odczytową · Spotting pure functions in I/O driven code",
+  "startDate": "2023-04-26T18:00:00+02:00",
+  "endDate": "2023-04-26T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/63-spotkanie-torun-jug-o-czystych-funkcjach-i-zlozonej-logice-odczytowej/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Daleko od agregatów, czyli jak projektować złożoną logikę odczytową",
+      "description": "Masz „tylko” pobrać dane i odrobinę je wzbogacić w zależności od parametrów w bazie. Potem dokonać konwersji, przepakować i zwrócić. Niby to daleko od agregatu DDD - strażnika skomplikowanych zmian stanu - a mimo to nie jest prosto. Trudno zdecydować kiedy i jak często pytać o dane, co wrzucić do cache’a a co nie, jak elegancko zaimplementować obliczenia, jak sensownie użyć wzorca strategii, jak zwracać błędy itp itd.Prezentacja dla wszystkich mierzących się z podobnymi problemami lub chcących się dowiedzieć jak się z nimi mierzyć. Omówię podstawowe zasady i narzędzia przydatne przy projektowaniu logiki odczytowej. Pomówimy o tym, jakich wzorców DDD używać, w szczególności jak bardzo Value Objects mogą tu ratować skórę. Podpowiem, co warto przyswoić z programowania funkcyjnego i dlaczego warto wyraźnie oddzielić taką logikę od frameworka. Porozmawiamy też o błędach i monadzie Try jako o cennej alternatywie dla wyjątków (szczególnie w Javie). Pokażę wreszcie jak to wszystko połączyć w kodzie, na przykładzie sprytnej implementacji wzorca strategii. Zapraszam!",
+      "speakers": [
+        {
+          "name": "Szymon Janikowski",
+          "bio": "od 2017 r. konsultant i trener specjalizujący się w Domain Driven Design i współpracujący z Bottega IT Minds. Najbardziej wgryzł się w domeny finansową oraz rezerwacji podróży lotniczych. Architekt aplikacji, projektant API. Pochodzi z krainy JVM. Poza tym zajadły enkapsulator, budowniczy mostów między biznesem a IT oraz niestrudzony poszukiwacz prostoty na poziomie kodu i architektury, świadomy jak trudno ją osiągnąć. Działa w tandemie z Marcinem Markowskim pod wspólnym szyldem ITLIBRIUM."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=En0avvrI-y4"
+    },
+    {
+      "title": "Spotting pure functions in I/O driven code",
+      "description": "Przez długi czas mojej kariery pracowałem z systemami w stylu imperatywnym, które przede wszystkim bazują na I/O. Funkcyjne programowanie (FP) staje się coraz bardziej obecne w moim kodzie. Doszedłem do tego, że nawet nie znając zasad FP od zawsze szukałem prostych, czystych funkcji. Chciałbym się podzielić moimi doświadczeniami w malutkiej przykładowej aplikacji.\nZanim zaczniemy, powiem wam o co chodzi z czystymi funkcjami i czemu tak je lubimy. Zrefaktoryzujemy przykładową aplikację i wyodrębnimy czyste funkcje. W trakcie, zwrócę uwagę na parę aspektów, o które trzeba dbać. Pokażę wam, gdzie zazwyczaj siedzą czyste funkcje. Chciałbym podnieść waszą świadomość na samodzielne odkrycie czystych funkcji. Mam nadzieję, że po tej prezentacji będziecie inaczej patrzeć na swój kod!",
+      "speakers": [
+        {
+          "name": "Stefan Fromm",
+          "bio": "Programowanie to mój eliksir życia. Programuję od więcej niż 25 lat. JVM został moim domem 16 lat temu. Ekosystem Javy podekscytował mnie bardziej niż wszystko przedtem. Wypróbowałem gorsze i lepsze rozwiązania. Dojrzewałem do tego, żeby dążyć do prostego, czytelnego i przewidywalnego kodu. W Allegro dostałem szansę pełnego wgłębienia się w funkcyjnym programowaniu w języku Scala, moim ukochanym języku programowania od paru lat. Po długim czasie programowania imperatywnego w stylu obiektowym czuję, że znalazłem swoje właściwe miejsce.\n\n* * *"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=0m7UYgSCW78"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/63-spotkanie-torun-jug-o-czystych-funkcjach-i-zlozonej-logice-odczytowej/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 28,
+  "slug": "28-freelancing-oraz-clean-project",
+  "title": "Freelancing oraz Clean Project",
+  "description": "Toruń JUG #28: Kariera freelancera krok po kroku · Keep IT clean, or how to hide your shit",
+  "startDate": "2016-12-21T18:00:00+01:00",
+  "endDate": "2016-12-21T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/28-spotkanie-torun-jug-freelancing-oraz-clean-project/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Kariera freelancera krok po kroku",
+      "speakers": [
+        {
+          "name": "Szymon Stępniak"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=MaNR6MC4Teo"
+    },
+    {
+      "title": "Keep IT clean, or how to hide your shit",
+      "speakers": [
+        {
+          "name": "Jakub Nabrdalik"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=KO6K3_Ac54M"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/28-spotkanie-torun-jug-freelancing-oraz-clean-project/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

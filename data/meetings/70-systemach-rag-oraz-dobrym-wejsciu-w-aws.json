@@ -1,0 +1,47 @@
+{
+  "number": 70,
+  "slug": "70-systemach-rag-oraz-dobrym-wejsciu-w-aws",
+  "title": "\"Systemach RAG\" oraz \"Dobrym wejściu w AWS\"",
+  "description": "Toruń JUG #70: Architecting for Success and Optimizing for Longer Runways · Systemy Retrieval-Augmented Generation (RAG): jak działają i jak sprawdzić czy aby dobrze?",
+  "startDate": "2024-03-27T18:00:00+01:00",
+  "endDate": "2024-03-27T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/70-spotkanie-torun-jug-o-systemach-rag-oraz-dobrym-wejsciu-w-aws/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Architecting for Success and Optimizing for Longer Runways",
+      "description": "Jak wejść w chmurę AWS, nie popełniając przy tym kosztownych błędów. Jako punkt wyjścia posłuży mi rzeczywista sytuacja z jednego z dużych międzynarodowych banków, którą można by określić mianem antypatternu. Ponadto kilka wskazówek, by używanie AWS było dla nas łatwiejsze, bardziej przewidywalne i przejrzyste.",
+      "speakers": [
+        {
+          "name": "Wojciech Orzechowski",
+          "bio": "Solution Architect @ kreutzwerker. 17 lat w IT w różnistych dziedzinach, a od 7 lat infra na AWS w różnych smakach i wydaniach. Prawie wszystkie certy AWS, łącznie z AWS Champion Trainer. Członek Mensa Polska :)"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=H68eLiJDN28"
+    },
+    {
+      "title": "Systemy Retrieval-Augmented Generation (RAG): jak działają i jak sprawdzić czy aby dobrze?",
+      "description": "Prezentacja łagodnie wprowadzi słuchacza w tematykę GenAI i Retrieved-Augmented Generation (RAG). Opowiem o tym co to są RAG-i, jakie są ich wady i zalety oraz jakie komponenty są nam potrzebne do zbudowania prostego RAG-a. Zmierzymy się też z mierzeniem ich wydajności (pun intended), co nie jest łatwym zadaniem. Opowiem o tym jak w Tweagu pracowaliśmy nad własnymi systemami RAG oraz czego się przy okazji nauczyliśmy. Przedstawię framework do ewaluacji części \"Retrieval\" całego systemu.",
+      "speakers": [
+        {
+          "name": "Maria Knorps",
+          "bio": "Senior Data Engineer @Tweag/Modus Create. Łączy zdolności analityczne i naukowe korzenie z umiejętnościami programistycznymi (ostatnio głównie Python, choć były też czasy Haskella). W Modus Create, Maria jest członkiem dwóch grup technicznych: GenAI w której zajmuje się rozwijaniem systemów RAG oraz Data Engineering, gdzie rozwija open-sourcowy dependency checker FawltyDeps dla projektów Pythonowych. Ceni czysty, reprodukowalny kod oraz dba o dobry przebieg projektów.\nŁącząc karierę z byciem mamą, znajduje ograniczony, ale cenny czas na hobby: podróże motocyklowe i wycieczki górskie."
+        }
+      ],
+      "recordingUrl": null
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/70-spotkanie-torun-jug-o-systemach-rag-oraz-dobrym-wejsciu-w-aws/",
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

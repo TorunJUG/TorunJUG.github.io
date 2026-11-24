@@ -1,0 +1,32 @@
+{
+  "number": 5,
+  "slug": "5-hadoop-szybki-start-i-sexy-unit-testy",
+  "title": "Hadoop, szybki start i Sexy unit testy",
+  "description": "Toruń JUG #5: Hadoop, szybki start · Sexy unit testy",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Hadoop, szybki start",
+      "speakers": [
+        {
+          "name": "Arek Osiński"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=oJ9c2yzC7Ug"
+    },
+    {
+      "title": "Sexy unit testy",
+      "speakers": [
+        {
+          "name": "Łukasz Sawicki"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=zxFPwT0r_JM"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

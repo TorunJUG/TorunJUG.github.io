@@ -1,0 +1,47 @@
+{
+  "number": 53,
+  "slug": "53-reaktywna-subskrybcja-w-trzech-aktach-i-wykorzystanie",
+  "title": "Reaktywna subskrybcja w trzech aktach i Wykorzystanie rekurencyjnych sieci neuronowych do generowania sekwencji na przykładzie muzyki.",
+  "description": "Toruń JUG #53: Reaktywna subskrybcja w trzech aktach · Wykorzystanie rekurencyjnych sieci neuronowych do generowania sekwencji na przykładzie muzyki.",
+  "startDate": "2019-06-26T18:00:00+02:00",
+  "endDate": "2019-06-26T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/53-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Reaktywna subskrybcja w trzech aktach",
+      "description": "Historia jednego przypadku użycia reaktywnych subskrybcji z użyciem websocketów, Springa, kafki, graphql i react-native opowiedziana z punktu widzenia dewelopera. Stań razem z naszym bohaterem przed zadaniem integracyjnym, zastanów się nad możliwymi rozwiązaniami.\nPrześledź działanie systemu od pojawienia się zdarzenia w zewnętrznym serwisie aż do obsłużenia go w aplikacji mobilnej. Zbuduj pełne rozwiązanie, krok po kroku. Wejdziemy łagodnie w świat architektury zdarzeniowej, ale też ubrudzimy nieco ręce shellem, adnotacjami, camelem i javascriptem. Prezentacja skierowana jest dla osób rozpoczynających w temacie, ale myślę, że eksperci też znajdą coś dla siebie. Serdecznie zapraszam!",
+      "speakers": [
+        {
+          "name": "Paweł Kapała",
+          "bio": "krzewiciel prostego kodu. Zwolennik programowania i projektowania zorientowanego biznesowo. W długotrwałym małżeństwie z wirtualną maszyną Java. Neofita Clojure."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=7Fa-GsMwHQI"
+    },
+    {
+      "title": "Wykorzystanie rekurencyjnych sieci neuronowych do generowania sekwencji na przykładzie muzyki.",
+      "description": "Sieci neuronowe znajdują coraz więcej zastosowań w aplikacjach do rozpoznawania mowy, tłumaczenia tekstu, generowania obrazów czy też wykrywania chorób. Często określa się je mianem czarnych skrzynek ze względu na ich złożoność. Na wykładzie postaram się wyjaśnić ideę działania sztucznego neuronu oraz jedną z architektur - rekurencyjną sieć neuronową z pamięcią krótkotrwałą LSTM (Long short-term memory) . Na jej podstawie pokażę w jaki sposób można użyć sieci RNN do generowania nut w oparciu o dane pochodzące z plików MIDI.",
+      "speakers": [
+        {
+          "name": "Łukasz Ogan",
+          "bio": "obecnie pracuje nad rozwiązaniami związanymi z okulografią. W wolnych chwilach uczy innych kodowania, podróżuje i prowadzi bloga. Entuzjasta sztucznych sieci neuronowych i uczenia maszynowego. Po godzinach uzupełnia wiedzę na temat ciągle rozwijających się technologii oraz gra na pianinie."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=a0thSStfqrU"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/53-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

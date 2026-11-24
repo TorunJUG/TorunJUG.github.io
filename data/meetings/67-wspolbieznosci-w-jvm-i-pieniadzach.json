@@ -1,0 +1,47 @@
+{
+  "number": 67,
+  "slug": "67-wspolbieznosci-w-jvm-i-pieniadzach",
+  "title": "\"Współbieżności w JVM\" i \"Pieniądzach\"",
+  "description": "Toruń JUG #67: Ilu bankierów zatańczy na główce od szpilki? – co znaczą pieniądze w późnym kapitalizmie? · Monitory, zamki i atomy, czyli wszystko czego nie chcesz wiedzieć o współbieżności w JVM",
+  "startDate": "2023-11-29T18:00:00+01:00",
+  "endDate": "2023-11-29T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/67-spotkanie-torun-jug-o-wspolbieznosci-w-jvm-i-pieniadzach/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Ilu bankierów zatańczy na główce od szpilki? – co znaczą pieniądze w późnym kapitalizmie?",
+      "description": "Czym jest nowoczesna teoria monetarna? Czemu mBank jest przeciwny energii atomowej? Ile płci potrzeba mieć w firmie, żeby dostać dobry kredyt? Skąd biorą się pieniądze w IT? I czemu połowa artykułów w Forbesie zajmuje się ESG?\nZadajmy sobie te, oraz kilka innych, pytań żeby dowiedzieć się jak działają współczesne systemy monetarne i do kogo należy ta dycha, którą noszę w portfelu?",
+      "speakers": [
+        {
+          "name": "Andrzej Fricze",
+          "bio": "Doświadczony programista i elokwentny speaker. Członek i lider w krakowskim tech-community. Organizuje i występuje na meetupach i konferencjach. Mentor i konsultant w dziedzinie budowania aplikacji webowych. Dzieli się doświadczeniem na warsztatach JavaScript i Clojure.\nPoza IT dźwiga ciężary, produkuje bity na MPC i planuje nowe biznesy. Od kilku lat działa jako wolontariusz w domach dziecka. Zagadaj jeśli też chcesz pomagać."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=ktDeISJxRsQ"
+    },
+    {
+      "title": "Monitory, zamki i atomy, czyli wszystko czego nie chcesz wiedzieć o współbieżności w JVM",
+      "description": "JVM dostarcza nam wiele sposobów implementacji \"mutual exclusion\" w aplikacjach wielowątkowych. Synchronized, ReentrantLock czy Atomic. Każdy z tych mechanizmów ma swoje plus i minusy, znane także jako \"to tylko szczegół implementacji\". Podczas kolejnej odsłony podróży w czeluście JVM, dowiesz się czym różnią się te mechanizmy, zaglądniemy w ich wnętrze i dowiesz się jaki wpływ na wydajność i skalowalność mają te drobne szczegóły implementacji. Będzie też czas na dyskusje i praktyczne porady w jakich sytuacjach sięgać po każdy z tych mechanizmów. Czym jest \"adaptive locking\"? Co robią wątki kiedy są zaparkowane? Czym jest tajemniczy futex oraz dlaczego zmienne typu Atomic to tak naprawdę lock na poziomie sprzętowym? Jeśli choć na jedno pytanie odpowiedziałeś tak, to ta prezentacja jest dla Ciebie.",
+      "speakers": [
+        {
+          "name": "Jarosław Pałka",
+          "bio": "Od ponad 20 lat w branży IT jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”.\nBrałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk - z tym samym zawsze skutkiem. Wszystko to doprowadziło mnie do wniosku, że nieważne co robisz, ważne byś robił to dobrze, w najprostszy z możliwych sposobów i przy użyciu właściwych narzędzi, które wykonają pracę za Ciebie. W międzyczasie dałem się porwać ideom TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL. Porzuciłem je, by zgłębić tajniki „system thinking” i zachwycić się siłą, jaką niesie ze sobą „metafora” oraz by odkryć, że rządzą nami te same prawa „natury”.\nNiepokorny wyznawca kościoła JVM, badacz bytecode’u i JIT oraz wszelkiej maści parserów, interpreterów i kompilatorów. Na co dzień walczący o lepszą wydajność w Neo4j. Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce. W wolnych chwilach trener w Symentis, autor bloga na http://geekyprimitives.wordpress.com/ oraz samozwańczy dyktator w radach programowych wielu konferencji."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=OaogTqOwAfA"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/67-spotkanie-torun-jug-o-wspolbieznosci-w-jvm-i-pieniadzach/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "number": 1,
+  "slug": "1-wprowadzenie-do-wybranych-zagadnien-jdk-8-i-classindex",
+  "title": "Wprowadzenie do wybranych zagadnień JDK 8 i ClassIndex, szybka alternatywa dla skanowania klas",
+  "description": "Toruń JUG #1: Wprowadzenie do wybranych zagadnień JDK 8 · ClassIndex, szybka alternatywa dla skanowania klas",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Wprowadzenie do wybranych zagadnień JDK 8",
+      "speakers": [
+        {
+          "name": "Szymon Stępniak"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=VizSYSbspok"
+    },
+    {
+      "title": "ClassIndex, szybka alternatywa dla skanowania klas",
+      "speakers": [
+        {
+          "name": "Sławomir Piotrowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=L9UOpEo0E1s"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

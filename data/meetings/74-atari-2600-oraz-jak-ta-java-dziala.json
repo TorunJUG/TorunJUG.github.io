@@ -1,0 +1,46 @@
+{
+  "number": 74,
+  "slug": "74-atari-2600-oraz-jak-ta-java-dziala",
+  "title": "\"Atari 2600\" oraz \"Jak ta Java działa?\"",
+  "description": "Toruń JUG #74: Atari 2600, czyli programowanie w drastycznie... · Java dla średnio zaawansowanych",
+  "startDate": "2024-10-30T18:00:00+01:00",
+  "endDate": "2024-10-30T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/74-spotkanie-torun-jug-o-atari-2600-oraz-jak-ta-java-dziala/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Atari 2600, czyli programowanie w drastycznie...",
+      "description": "Cześć!\n\nPo wakacyjnej przerwie startujemy z nowym sezonem. Zapraszamy Was na spotkanie nr 74! Spotykamy się 30 października w godzinach 18:00-20:00 na Wydziale Matematyki i Informatyki UMK (ul. Chopina 12/18) w sali S9.\n\nDla przypomnienia - jak zwykle wstęp jest wolny, obecność na wcześniejszych spotkaniach nie jest wymagana. UWAGA: ze względów formalnych musieliśmy ograniczyć liczbę osób, więc gdy wypadnie Wam nieobecność, zwolnijcie miejsce dla innej osoby! Druga rzecz - w celu poprawnej identyfikacji prosimy o podanie imienia i nazwiska w profilu meetupowym.\n\nI jeszcze trochę ogólnego info...\nDzięki Simplito będziecie mogli zobaczyć nagrania z tego spotkania na naszym kanale YT (https://www.youtube.com/TorunJUG), a oprócz tego sporo fantów dla Was przygotowali:\n\n• Allegro -> książki,\n\n• Helion -> książki,\n\n• JetBrains -> vouchery na oprogramowanie\n\nJak zwykle, już po wszystkim, zapraszamy Was tradycyjnie na małe after party do Deer Bear Pub ;)\nA teraz trochę o naszych Prelegentach i ich prelekcjach:\n\nAtari 2600, czyli programowanie w drastycznie ograniczonych warunkach\nAutor podzieli się doświadczeniami z tworzenia gry 'Berta i motyle' na konsolę Atari 2600 z 1976 roku. Opowie o ograniczeniach, sposobach ich obejścia oraz koniecznych do stosowania 'hackach', odwołując się także do klasycznych gier typu 'Combat' czy 'Pitfall'.",
+      "speakers": [
+        {
+          "name": "Sławomir Krysztowiak",
+          "bio": "Programista komputerowy zarówno z powołania, jak i z wykształcenia. Meloman, mylnie postrzegany jako audiofil. Amator fotografii analogowej. Miłośnik starych komputerów, w szczególności Atari i Amigi. Konstruuje do nich różne rozszerzenia, które czasami nie wybuchają.\n\nJava dla średnio-zaawansowanych\nJava ze swą prawie 30 letnią historią dorobiła się wielu interesujących mechanizmów. Chociaż wciąż zdaje się być stosunkowo prostym językiem, to czasem można się zdziwić ile ciekawostek skrywa.\nJeśli interesuje Cię odpowiedź na pytanie \"Jak ta Java działa?\", to zapraszam na krótką podróż po kodzie Javy do wnętrza JVMa."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=UKpi3iYGthk"
+    },
+    {
+      "title": "Java dla średnio zaawansowanych",
+      "speakers": [
+        {
+          "name": "Jakub Gardo",
+          "bio": "Java Developer z 10 letnim stażem. Fan Javy, JVMa oraz ich niskopoziomowych aspektów."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=0ejEELouNgI"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/74-spotkanie-torun-jug-o-atari-2600-oraz-jak-ta-java-dziala/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

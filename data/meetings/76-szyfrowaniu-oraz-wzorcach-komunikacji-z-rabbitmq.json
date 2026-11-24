@@ -1,0 +1,51 @@
+{
+  "number": 76,
+  "slug": "76-szyfrowaniu-oraz-wzorcach-komunikacji-z-rabbitmq",
+  "title": "\"Szyfrowaniu\" oraz \"Wzorcach komunikacji z RabbitMQ\"",
+  "description": "Toruń JUG #76: Wzorce komunikacji asynchronicznej z wykorzystaniem RabbitMQ · Od szyfrowanego maila do platformy E2EE",
+  "startDate": "2025-01-29T18:00:00+01:00",
+  "endDate": "2025-01-29T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "ul. Grudziądzka 5/7",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/76-spotkanie-torun-jug-o-szyfrowaniu-oraz-wzorcach-komunikacji-z-rabbitmq/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Wzorce komunikacji asynchronicznej z wykorzystaniem RabbitMQ",
+      "description": "Dlaczego niektóre komunikaty giną w niewyjaśnionych okolicznościach? Jak zadbać o ich pewne dostarczanie? I czy rozwiązanie problemu zawsze musi być skomplikowane? Na te i wiele innych pytań chciałbym odpowiedzieć prezentując wzorce komunikacji asynchronicznej z powodzeniem stosowane m.in. w jednej z wiodących platform płatniczych.",
+      "speakers": [
+        {
+          "name": "Mariusz Mączkowski",
+          "bio": "Ponad 9 lat doświadczenia w rozwoju systemów opartych o technologie związane z Java. Od ponad 6 lat programista w zespole PayU. Poszukiwacz alternatywnych i niekonwencjonalnych rozwiązań. Interesuje się oprogramowaniem z perspektywy jego architektury."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=p5-GjyiagXI"
+    },
+    {
+      "title": "Od szyfrowanego maila do platformy E2EE",
+      "description": "Od szyfrowanego maila do platformy E2EE – to nie tylko hasło, ale i krótki opis naszej historii oraz wyzwanie, któremu postanowiliśmy sprostać.\nPodczas nadchodzącego spotkania pokażemy, jak rozbudowywaliśmy naszą koncepcję Private Mind Exchange, opartą na technologii E2EE: od wstępnego prototypu szyfrowania maili, aż po skalowalną, uniwersalną platformę PrivMX z modułem Bridge i Endpointami klienckimi.\nDowiesz się, dlaczego pełne szyfrowanie (zachowujące zasadę „Zero Knowledge”) staje się dziś koniecznością, jakie korzyści niesie użytkownikom, a także jak w praktyce użyć naszej platformy w projektach pisanych w językach JavaScript i Java.",
+      "speakers": [
+        {
+          "name": "Błażej Zyglarski",
+          "bio": "wykładowca i progamista, w Simplito koordynator rozwoju platformy PrivMX, która wspiera deweloperów w tworzeniu aplikacji z wykorzystaniem szyfrowania end-to-end (E2E). Prywatnie pasjonat systemów smart home, druku 3D oraz gier planszowych."
+        },
+        {
+          "name": "Dawid Jenczewski",
+          "bio": "programista z doświadczeniem w tworzeniu aplikacji mobilnych, w Simplito zajmujący się projektami w Javie i Kotlinie, pasjonat rozwiązań wieloplatformowych i fotografii."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=vADqBAv6-lk"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/76-spotkanie-torun-jug-o-szyfrowaniu-oraz-wzorcach-komunikacji-z-rabbitmq/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

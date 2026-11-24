@@ -1,0 +1,32 @@
+{
+  "number": 9,
+  "slug": "9-jak-sobie-radzic-z-zastanym-kodem-i-infinispan-data-grid-do",
+  "title": "Jak sobie radzić z zastanym kodem i Infinispan, Data Grid do zadań specjalnych",
+  "description": "Toruń JUG #9: Jak sobie radzić z zastanym kodem · Infinispan, Data Grid do zadań specjalnych",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Jak sobie radzić z zastanym kodem",
+      "speakers": [
+        {
+          "name": "Krzysztof Muchewicz"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=fbmuw1Rn15c"
+    },
+    {
+      "title": "Infinispan, Data Grid do zadań specjalnych",
+      "speakers": [
+        {
+          "name": "Sebastian Łaskawiec"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=RQXV_PPS4aA"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

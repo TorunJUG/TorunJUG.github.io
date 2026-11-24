@@ -1,0 +1,41 @@
+{
+  "number": 2,
+  "slug": "2-continuous-delivery-jtwig-czyli-twig-w-javie-i-jedna",
+  "title": "Continuous Delivery, JTwig, czyli Twig w Javie i jedna prelekcja więcej",
+  "description": "Toruń JUG #2: Continuous Delivery · JTwig, czyli Twig w Javie · O fragmentach w Androidzie",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Continuous Delivery",
+      "speakers": [
+        {
+          "name": "Jakub Westfalewski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=4mKR-DdHac8"
+    },
+    {
+      "title": "JTwig, czyli Twig w Javie",
+      "speakers": [
+        {
+          "name": "Maciej Boniewicz"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=KcrFDcLHhAQ"
+    },
+    {
+      "title": "O fragmentach w Androidzie",
+      "speakers": [
+        {
+          "name": "Michał Wojtyna"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=mGmX9y7iRlY"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 3,
+    "generatedAt": "2026-11-24"
+  }
+}

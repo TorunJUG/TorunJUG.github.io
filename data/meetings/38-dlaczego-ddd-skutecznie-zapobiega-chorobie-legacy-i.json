@@ -1,0 +1,51 @@
+{
+  "number": 38,
+  "slug": "38-dlaczego-ddd-skutecznie-zapobiega-chorobie-legacy-i",
+  "title": "Dlaczego DDD skutecznie zapobiega chorobie legacy? i Continuous Deployment of Your Application",
+  "description": "Toruń JUG #38: Dlaczego DDD skutecznie zapobiega chorobie legacy? · Continuous Deployment of Your Application",
+  "startDate": "2018-01-31T18:00:00+01:00",
+  "endDate": "2018-01-31T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/38-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Dlaczego DDD skutecznie zapobiega chorobie legacy?",
+      "description": "Legacy boli. Czasami ujawnia się już po kilku miesiącach pracy zespołu. Jest jak choroba, która toczy naszą branżę. Często sami sobie na nią zapracowujemy…\n\nCo robić, żeby nie zachorować? Jak poznać, że to się zaczyna? Jakich nawyków nabrać żeby się obronić? Pokażemy dlaczego to właśnie Domain Driven Design jest często najlepszym środkiem zapobiegawczym: - Jak wskazuje najlepsze miejsce na daną funkcjonalność w kodzie.\n\n• Jak pozwala budować ogarnialnej wielkości building block-i\n\n• Jak pozwala rozdzielić logikę na aplikacyjną i domenową\n\nPrześledzimy te problemy na podstawie historii, która mogła się zdarzyć. Przyjrzymy się rozwojowi firmy pana Stefana, który postanowił podbić rynek serwisu klimatyzatorów w biurowcach. Poznamy też z bliska zespół deweloperów z pewnego software house’u, którzy mu w tym pomagali...",
+      "speakers": [
+        {
+          "name": "Szymon Janikowski",
+          "bio": "Liderzy techniczni oraz deweloperzy z ponad 7-letnim doświadczeniem. Zafascynowani tym, co dzieje się na styku biznesu i IT. Wierzą, że otwartość, orientacja na człowieka i wymiana wiedzy mogą pomóc zbliżyć się tym dwóm, pozornie odległym, światom.\n\nPróbowali wspólnego start-up-u, ale uznali, że bardziej przydadzą się w IT. Doświadczeni w branżach turystycznej (Szymon), usługowej i medycznej (Marcin) oraz finansowej (obaj). Ich ulubionymi tematami są architektura, DDD oraz Agile. Propagatorzy rzemieślniczego podejścia do rozwoju oprogramowania stojącego za ruchem Software Craftsmanship. Blogują na ITLIBRIUM.COM"
+        },
+        {
+          "name": "Marcin Markowski",
+          "bio": "Liderzy techniczni oraz deweloperzy z ponad 7-letnim doświadczeniem. Zafascynowani tym, co dzieje się na styku biznesu i IT. Wierzą, że otwartość, orientacja na człowieka i wymiana wiedzy mogą pomóc zbliżyć się tym dwóm, pozornie odległym, światom.\n\nPróbowali wspólnego start-up-u, ale uznali, że bardziej przydadzą się w IT. Doświadczeni w branżach turystycznej (Szymon), usługowej i medycznej (Marcin) oraz finansowej (obaj). Ich ulubionymi tematami są architektura, DDD oraz Agile. Propagatorzy rzemieślniczego podejścia do rozwoju oprogramowania stojącego za ruchem Software Craftsmanship. Blogują na ITLIBRIUM.COM"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=aEk9usr4atk"
+    },
+    {
+      "title": "Continuous Deployment of Your Application",
+      "description": "“I have stopped counting how many times I’ve done this from scratch” - was one of the responses to the tweet about starting the project called Spring Cloud Pipelines. Every company sets up a pipeline to take code from your source control, through unit testing and integration testing, to production from scratch. Every company creates some sort of automation to deploy its applications to servers. Enough is enough - time to automate that and focus on delivering business value.\n\nIn this presentation we’ll go through the contents of the Spring Cloud Pipelines project. We’ll start a new project for which we’ll have a deployment pipeline set up in no time. We’ll deploy to Cloud Foundry (but we also could do it with Kubernetes) and check if our application is backwards compatible so that we can roll it back on production",
+      "speakers": [
+        {
+          "name": "Marcin Grzejszczak",
+          "bio": "Author of \"Mockito Instant\" and \"Mockito Cookbook\" books. OSS Contributor. Co-founder of the Warsaw Groovy User Group and Warsaw Cloud Native Meetup. Lead of Spring Cloud Sleuth, Spring Cloud Contract and Spring Cloud Pipelines projects at Pivotal. Contributed to Groovy, Mockito, Rest-assured, Drools, Moco. Author of Uptodate Gradle plugin, Spock subjects-collaborators extension, gradle-test-profiler, JSONAssert and XMLAssert open source projects."
+        }
+      ],
+      "recordingUrl": null
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/38-torun-jug/",
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

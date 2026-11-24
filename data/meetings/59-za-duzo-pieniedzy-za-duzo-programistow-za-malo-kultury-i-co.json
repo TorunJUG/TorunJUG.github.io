@@ -1,0 +1,47 @@
+{
+  "number": 59,
+  "slug": "59-za-duzo-pieniedzy-za-duzo-programistow-za-malo-kultury-i-co",
+  "title": "Za dużo pieniędzy, za dużo programistów, za mało kultury i Co maszyna miała na myśli?",
+  "description": "Toruń JUG #59: Za dużo pieniędzy, za dużo programistów, za mało kultury · Co maszyna miała na myśli?",
+  "startDate": "2020-02-26T18:00:00+01:00",
+  "endDate": "2020-02-26T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/59-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Za dużo pieniędzy, za dużo programistów, za mało kultury",
+      "description": "Krótka opowieść o chłopaku, który przespał liceum, przypadkiem został programistą i wciąż próbuje zrozumieć co Ci ludzie przy komputerach robią. Przejdę przez moją ścieżkę od zera do bohatera. Opowiem jak psychologia i ekonomia pomagają mi w zbudowaniu „sensownego” obrazu branży IT. Podzielę się paroma uwagami na temat odpowiedzialności społecznej, lub jej braku. Mam nadzieję, że wszyscy wyjdziemy z tej prezentacji trochę mniej głupi, choć wiem co mówią o nadziei.",
+      "speakers": [
+        {
+          "name": "Andrzej Fricze",
+          "bio": "w dwóch słowach: wkurzony człowiek. Jestem samozwańczym programistą JavaScript/Clojure. Organizuję eventy. Lubię gadać i podnosić ciężary. Moja święta trójca to Alan Kay, Rich Hickey i Bret Victor."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=s_pMdJsXTRE"
+    },
+    {
+      "title": "Co maszyna miała na myśli?",
+      "description": "Czego właściwie oczekuje klient płacąc za model predykcyjny? Nie wystarczy sama implementacja, trenowanie i opakowanie go w narzędzie. Często klient chce wiedzieć dlaczego model dał konkretne wskazanie. Chciałby, żeby algorytm tak bardziej \"po ludzku\" mógł wyjaśnić wynik swojego działania. Na przykładzie projektu, w którym klasyfikowaliśmy dokumenty w oparciu o NLP (natural language processing), opowiem jak istotna jest możliwość wyjaśnienia wskazań algorytmów uczenia maszynowego.\nOpowiem o tym jak wyjaśniać predykcje w sposób niezależny od modelu na przykładzie algorytm LIME i w jakim stopniu można temu wyjaśnieniu ufać.",
+      "speakers": [
+        {
+          "name": "Maria Knorps",
+          "bio": "pracuje jako senior data scientist i tworzy aplikacje wspomagające decyzje biznesowe oparte na analizie i modelowaniu danych. Łączy doświadczenie naukowe (numeryczna mechanika płynów i modelowanie matematyczne) z branżą IT. Jest miłośniczką prostych rozwiązań i czystego kodu, co zaprowadziło ją na drogę programowania funkcyjnego."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=in0JSzFPSV8"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/59-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

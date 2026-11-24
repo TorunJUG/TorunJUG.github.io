@@ -1,0 +1,47 @@
+{
+  "number": 32,
+  "slug": "32-big-data-and-asynchronous-communication",
+  "title": "Big Data and Asynchronous Communication",
+  "description": "Toruń JUG #32: Asynchronous by default, synchronous when necessary · Duże dane, mały budżet",
+  "startDate": "2017-04-26T18:00:00+02:00",
+  "endDate": "2017-04-26T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/32-spotkanie-torun-jug-big-data-and-asynchronous-communication/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Asynchronous by default, synchronous when necessary",
+      "description": "In distributed systems, synchronous communication (RPC-style) is tempting but can quickly get out of hand. Suddenly you need to think about retrying, fallbacks, circuit breakers, failover, and latency. Tomasz Nurkiewicz explains how all of this can be avoided by preferring asynchronous communication between services, pub-sub patterns, and event sourcing. Too often migrations from monolith to microservices architecture are unsuccessful. Simply replacing in-process method calls with RESTful interfaces doesn’t mean we have a distributed system consisting of loosely coupled independent services. Quite the opposite: our architecture is now a tangled web of interconnected, slow, chatty, and unreliable components. Dozens of patterns were introduced to ease the pain, such as circuit breakers, scaling services horizontally, and load balancing — all of this to prevent cascading failures and increased latencies. We can achieve fast, loosely coupled, independent services only if we apply the dependency inversion principle at the architecture level. Moving to asynchronous communication via message passing and pub-sub patterns can prevent temporal coupling. Such coupling requires two systems to exist and work reliably at the same time in order to communicate. This is the biggest challenge in distributed systems that increases complexity, latency, and the possibility of failure.\n\nTomasz demonstrates how pushing changes asynchronously between systems can improve fault tolerance and make systems more reliable, faster, and more independent, focusing on publishing (pushing) changes and rebuilding state on the client side as opposed to pulling data when needed. From this point jumping to event sourcing is quite natural. Along the way, Tomasz covers the drawbacks and challenges of this architectural style.",
+      "speakers": [
+        {
+          "name": "Tomasz Nurkiewicz",
+          "bio": "Senior software engineer at Allegro. Tomasz has spent half of his life programming (for the last decade professionally in Java land). He loves backend, tolerates JavaScript, is passionate about alternative JVM languages, is disappointed with the quality of software written these days (so often by himself!), and hates long methods and hidden side effects. Tomasz is interested in charting, data analysis and reporting and believes that computers were invented so that developers could automate boring and repetitive tasks. He is involved in open source and used to be very active on StackOverflow. Tomasz is an author, trainer, conference speaker, technical reviewer, and runner and has been recognized as DZone’s most valuable blogger. He claims that code not tested automatically is not a feature but just a rumour."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=YjJZaGVwKAY"
+    },
+    {
+      "title": "Duże dane, mały budżet",
+      "description": "Panuje przekonanie, że Big Data jest drogie - wymaga sporo wiedzy, czasu i dużej inwestycji w infrastrukturę, dając przy tym niewielkie korzyści.\n\nPodczas prezentacji pokażę alternatywne podejście do pracy z danymi w środowisku rozproszonym. Postaram się przekonać Was, że żeby wygodnie wyciągać wnioski z setek gigabajtów nie potrzeba całego ekosystemu usług czy drogich klastrów.\n\nBędzie: tanio (na infrę nie wydamy więcej niż kilka złotych), łatwo (popracujemy w Sparku, chyba najwygodniejszym interfejsie dostępu do danych) i - mam nadzieję - ciekawie (wyciśniemy ile się da z publicznych zrzutów stackoverflow).",
+      "speakers": [
+        {
+          "name": "Mariusz Strzelecki",
+          "bio": "Od 7 lat w branży IT. Niegdyś programista, teraz inżynier danych. Entuzjasta łatwego przetwarzania dużych zbiorów danych i wciskania (py)Sparka gdzie to tylko możliwe.\n\n-----------------------------------------------------------------------"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=uR_rwWd2QkI"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/32-spotkanie-torun-jug-big-data-and-asynchronous-communication/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

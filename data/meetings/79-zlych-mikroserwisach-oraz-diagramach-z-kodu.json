@@ -1,0 +1,47 @@
+{
+  "number": 79,
+  "slug": "79-zlych-mikroserwisach-oraz-diagramach-z-kodu",
+  "title": "\"Złych mikroserwisach\" oraz \"Diagramach z kodu\"",
+  "description": "Toruń JUG #79: Dobry diagram prosto z kodu? Nie tylko z AI! · Microservices - Lessons learned from bad examples",
+  "startDate": "2025-04-30T18:00:00+02:00",
+  "endDate": "2025-04-30T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "ul. Grudziądzka 5/7",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/79-spotkanie-torun-jug-o-zlych-mikroserwisach-oraz-diagramach-z-kodu/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Dobry diagram prosto z kodu? Nie tylko z AI!",
+      "description": "Czy da się w ogóle wygenerować sensowny diagram prosto z kodu? Coraz wyraźniej widać, że tak. Okazuje się, że narzędzi tego typu jest coraz więcej, nie wszystkie opierają się o AI, a statyczna analiza kodu wciąż ma się dobrze.\nA jaki diagram jest idealny? To oczywiście zależy od tego, kto przychodzi z pytaniem i co chce zrozumieć — czy jest to deweloper, architekt, analityk, tester, menedżer, DevOps. Czy chce zobaczyć ogólny obraz, czy soczyste szczegóły.\nPokażę, jak różnorakie narzędzia rozwiązują ten problem — w kogo celują, co ukrywają, a czego nie i z jaką powtarzalnością działają. Będzie o rozwiązaniach w pełni opartych o LLM i pakujących całe repo do prompta. Będzie o podobieństwach i różnicach w pokrewnych eksperymentach prowadzonych równocześnie przez Simona Browna w C4/Structurizr i przez nas w Noesis.vision. Będzie oczywiście kod i live demo. Zapraszam!",
+      "speakers": [
+        {
+          "name": "Szymon Janikowski",
+          "bio": "Od kilkunastu zim śmiały inżynier i architekt przemierzający światy IT. Nie stroni od najgłębszych lochów domen biznesowych, gdzie drzemią smoki złożonych reguł i zależności — zwłaszcza w krainach finansów i podróży lotniczych, które zna jak własną kieszeń. Wywodzi się z cechu JVM. W bitwach technologicznych zaprawiony, od 2017 roku służy jako konsultant i trener w gildii Bottega IT Minds.\nW tym roku obrał nowy, niezależny szlak jako współzałożyciel startupu Noesis.vision – kuźni narzędzi do automatycznego wydobywania diagramów, analiz i dokumentacji prosto z kodu źródłowego.\nZajadły enkapsulator, budowniczy mostów, kartograf złożoności, niestrudzony łowca prostoty w zakamarkach kodu i architektury — dobrze wiedzący, że prostota to nie dar, lecz zdobycz, o którą trzeba walczyć."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=IBPDi1rivSM"
+    },
+    {
+      "title": "Microservices - Lessons learned from bad examples",
+      "description": "Jakie wnioski można wyciągnąć z doświadczeń z pracy nad różnej jakości mikroserwisami. Spróbujemy odpowiedzieć na pytania: czy da się i jak uniknąć problemów z nimi związanych, kiedy i po co je wdrażać oraz czy są jakieś alternatywy.",
+      "speakers": [
+        {
+          "name": "Wojciech Znaczko",
+          "bio": "Od 9 lat w IT, początkowo PHP i jQuery, ostatnio Java i React. W pracy entuzjasta czystej architektury i prostoty. Lubi wiedzieć co piszczy w każdym zakątku projektu.\nPrywatnie domator, muzyk, okazjonalnie biega na nartach biegowych i gra w badmintona."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=mjS8YisXdY0"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/79-spotkanie-torun-jug-o-zlych-mikroserwisach-oraz-diagramach-z-kodu/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

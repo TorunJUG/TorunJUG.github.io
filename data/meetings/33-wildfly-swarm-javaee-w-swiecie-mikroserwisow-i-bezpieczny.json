@@ -1,0 +1,43 @@
+{
+  "number": 33,
+  "slug": "33-wildfly-swarm-javaee-w-swiecie-mikroserwisow-i-bezpieczny",
+  "title": "WildFly Swarm: JavaEE w świecie mikroserwisów i Bezpieczny odpoczynek, czyli uwierzytelnianie RESTa",
+  "description": "Toruń JUG #33: WildFly Swarm: JavaEE w świecie mikroserwisów · Bezpieczny odpoczynek, czyli uwierzytelnianie RESTa",
+  "startDate": "2017-05-31T18:00:00+02:00",
+  "endDate": "2017-05-31T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/33-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "WildFly Swarm: JavaEE w świecie mikroserwisów",
+      "speakers": [
+        {
+          "name": "Michał Szynkiewicz"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=GpSjyMdh2wQ"
+    },
+    {
+      "title": "Bezpieczny odpoczynek, czyli uwierzytelnianie RESTa",
+      "speakers": [
+        {
+          "name": "Krzysztof Benedyczak"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=IDPNV6MU_Hc"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/33-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

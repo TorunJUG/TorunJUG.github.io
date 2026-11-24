@@ -1,0 +1,47 @@
+{
+  "number": 49,
+  "slug": "49-the-good-the-bad-and-the-api-i-prowadzenie-bloga-z-poziomu",
+  "title": "The Good, The Bad and The API i Prowadzenie bloga z poziomu IDE - sztuczki i najlepsze praktyki",
+  "description": "Toruń JUG #49: The Good, The Bad and The API · Prowadzenie bloga z poziomu IDE - sztuczki i najlepsze praktyki",
+  "startDate": "2019-02-27T18:00:00+01:00",
+  "endDate": "2019-02-27T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/49-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "The Good, The Bad and The API",
+      "description": "\"Gratujacje, właśnie stworzyłeś perfekcyjne API zgodnie ze sztuką\" - ...i co dalej? Czasami, tworząc interfejs zapominamy, że będą z niego korzystali ludzie, interfejs będzie się zmieniał, rozwijał, że nie jest to tylko kawałek pięknego kodu, ale coś co ma być użyteczne i funkcjonalne. W tej prezentacji chciałbym przejść przez swoiste studium przypadków różnych integracji z API, które miałem okazję doświadczyć i podzielić się zestawem znaków ostrzegawczych, które sobie wyrobiłem i które w miarę sprawnie informują mnie, czy następna integracja będzie przyjemna, czy raczej bolesna.",
+      "speakers": [
+        {
+          "name": "Miłosz Rembisz",
+          "bio": "zawodowo programista java z 7-letnim doświadczeniem, korpo-szczur, wyznawca toZależyzmu, lubiący debugować problemy w legacy codzie, żeby móc potem git-blame’ować autora i wspólnie, w sposób konstruktywny, znaleźć optymalne rozwiązanie. Prywatnie ojciec, mąż, game-o-holic, czytacz fantastyki i oglądacz anime."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=eZuyCiCWB1c"
+    },
+    {
+      "title": "Prowadzenie bloga z poziomu IDE - sztuczki i najlepsze praktyki",
+      "description": "Czy kiedykolwiek zdarzyło Ci się wystartować blog, zainstalować wszystkie niezbędne wtyczki, napisać artykuł (lub dwa), aby po kilku dniach lub tygodniach zarzucić jego dalszy rozwój? A może od dawna nosisz się z zamiarem wystartowania, ale mnogość różnych opcji skutecznie odwodzi Cię od tego pomysłu? Być może masz wątpliwości, że nie warto? W tej prezentacji chciałbym pokazać od praktycznej strony, że można podejść do tego tematu zupełnie inaczej. Pokażę Ci kilka alternatywnych możliwości w stosunku do najpopularniejszych rozwiązań takich jak WordPress, Medium, Blogger itd. Przekonasz się, że bloga można skutecznie prowadzić z poziomu IDE. Zaś dzięki dobrym praktykom znanym powszechnie w świecie open source wspólnie zastanowimy się jak rozpalić i podtrzymać motywację do dalszego rozwoju. A wszystko to poparte praktycznymi przykładami z masą gotowych do zastosowania rozwiązań!",
+      "speakers": [
+        {
+          "name": "Szymon Stępniak",
+          "bio": "prowadzę bloga https://e.printstacktrace.blog za pośrednictwem którego dzielę się moją pasją do programowania i rozwiązywania nietuzinkowych problemów. Pracuję zdalnie jako freelancer oraz Delivery Automation Architect dla Upwork Global Inc. Mój najlepszy sposób na spędzanie wolnego czasu? Cisza, spokój i książka, której treść pobudza do myślenia"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=Z_EQroTrSP4"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/49-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "number": 48,
+  "slug": "48-wprowadzenie-do-scali-poprzez-fp-i-do-fp-poprzez-scale",
+  "title": "Wprowadzenie do Scali poprzez FP (i do FP poprzez Scalę)",
+  "description": "Toruń JUG #48: Wprowadzenie do Scali poprzez FP (i do FP poprzez Scalę)",
+  "startDate": "2019-01-30T18:00:00+01:00",
+  "endDate": "2019-01-30T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/48-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Wprowadzenie do Scali poprzez FP (i do FP poprzez Scalę)",
+      "description": "Chciałbym Wam pokazać z jednej strony jak pewne podejścia \"paradygmatu funkcyjnego\" mogą poprawić nasze codzienne programowanie (choć dla hardkorowych OOP mogą na pierwszy rzut oka być herezją), a z drugiej jak ta dziwna składnia Scali w praktyce pomaga te podejścia przekuć na kod. A ponieważ ostatnio Java trochę \"przyśpieszyła\", to będą również liczne odniesienia do tegoż języka (oraz innych jak np. Kotlin)",
+      "speakers": [
+        {
+          "name": "Paweł Włodarski",
+          "bio": "od ponad 12 lat programuję legalnie i płacę podatki. Ostatnie 5 lat w zasadzie programowałem w Scali, jakkolwiek trochę mi się znudziło i od kilku miesięcy robię Kotlina na Springu i Androidzie. W kwestiach społecznościowych działam na JUG Łódź. No i zarobkowo robię zdjęcia...mogę coś cyknąć po znajomości."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=TM0MKb6XAz0"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/48-torun-jug/",
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

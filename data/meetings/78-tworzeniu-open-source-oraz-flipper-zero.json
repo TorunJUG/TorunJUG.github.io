@@ -1,0 +1,47 @@
+{
+  "number": 78,
+  "slug": "78-tworzeniu-open-source-oraz-flipper-zero",
+  "title": "\"Tworzeniu Open Source\" oraz \"Flipper Zero\"",
+  "description": "Toruń JUG #78: Flipper Zero: zabawka czy cyber broń? · Jak stworzyć własną bibliotekę open source?",
+  "startDate": "2025-03-26T18:00:00+01:00",
+  "endDate": "2025-03-26T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "ul. Grudziądzka 5/7",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/78-spotkanie-torun-jug-o-tworzeniu-open-source-oraz-flipper-zero/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Flipper Zero: zabawka czy cyber broń?",
+      "description": "Nie tylko opowiem, ale pokażę czym jest Flipper zero.\nChciałbym Wam przybliżyć małe niepozorne urządzenie jakim jest Flipper Zero. Możecie je znać jako zabawkę z TikToka ale można nim badać otaczający nas świat cyfrowy między innymi karty zbliżeniowe, sygnały radiowe, protokół USB i kilka innych.\nPostaram się Wam przybliżyć jak zabezpieczone są niektóre systemy kontroli dostępu oraz czy jest groźny ogólnie w świecie IT. Odpowiemy sobie na pytanie czy można nim sklonować kartę zbliżeniową? Czy zastąpi nam pilota do garażu? Czy jest to tylko zabawka którą wyłączymy komuś telewizor dla żartu.",
+      "speakers": [
+        {
+          "name": "Krzysztof Polak",
+          "bio": "Pracuję jako Security Engineer w Eviden, z wykształcenia technik-elektronik. W wolnym czasie gram w jakieś gry komputerowe albo poprogramuje coś na Arduino / Raspberry Pi."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=GV_hgcHG81c"
+    },
+    {
+      "title": "Jak stworzyć własną bibliotekę open source?",
+      "description": "Jakiś czas temu wpadłem na pomysł rozszerzenia JUnit 5 o możliwość definiowania testów parametryzowanych w zupełnie nowy sposób. Potraktowałem to jako okazję do stworzenia mojej pierwszej biblioteki open source dostępnej w Maven Central. Projekt ten pokazał mi jak bardzo tworzenie bibliotek różni się od typowego rozwijania backendowych serwisów.\nCzego się nauczyłem pracując nad JUnit5 FormattedSource? Jak opublikować taką bibliotekę i zautomatyzować jej wydania? Na co zwrócić uwagę budując takie rozwiązanie? Jak podejść do kwestii testowania?\nPodczas wystąpienia podzielę się swoimi doświadczeniami i pokażę JUnit5 FormattedSource w akcji.",
+      "speakers": [
+        {
+          "name": "Michał Kowalski",
+          "bio": "Inżynier wierzący w rzemieślnicze podejście do tworzenia oprogramowania i moc świeżego espresso. Bloger techniczny i konsultant specjalizujący się w systemach rozproszonych działających na JVM. Na co dzień pracuje w części subskrypcyjnej platformy streamingowej Max."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=Zm8yXIIP5mU"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/78-spotkanie-torun-jug-o-tworzeniu-open-source-oraz-flipper-zero/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "number": 40,
+  "slug": "40-apache-beam-promyk-nadziei-data-engineera-i-ratpack",
+  "title": "Apache Beam - promyk nadziei data engineera i Ratpack - praktyczne wprowadzenie",
+  "description": "Toruń JUG #40: Apache Beam - promyk nadziei data engineera · Ratpack - praktyczne wprowadzenie",
+  "startDate": "2018-03-28T18:00:00+02:00",
+  "endDate": "2018-03-28T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/40-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Apache Beam - promyk nadziei data engineera",
+      "speakers": [
+        {
+          "name": "Piotr Wikieł"
+        },
+        {
+          "name": "Robert Mroczkowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=lWr68xn4aQc"
+    },
+    {
+      "title": "Ratpack - praktyczne wprowadzenie",
+      "speakers": [
+        {
+          "name": "Szymon Stępniak"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=k43RD7GPZP4"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/40-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

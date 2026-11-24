@@ -1,0 +1,47 @@
+{
+  "number": 77,
+  "slug": "77-structured-concurrency-oraz-rag-w-springai",
+  "title": "\"Structured Concurrency\" oraz \"RAG w SpringAI\"",
+  "description": "Toruń JUG #77: RAG SpringAI - Java tez potrafi w LLM’y · Porządkowanie chaosu - Structured concurrency",
+  "startDate": "2025-02-26T18:00:00+01:00",
+  "endDate": "2025-02-26T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "ul. Grudziądzka 5/7",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/77-spotkanie-torun-jug-o-structured-concurrency-oraz-rag-w-springai/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "RAG SpringAI - Java tez potrafi w LLM’y",
+      "description": "Prezentacja ma celu omówienie modułu Spring AI z framework’a Spring oraz wyjaśnienie pojęć z obszaru AI i LLM, zrozumienie których jest niezbędne do optymalnego korzystania z Spring AI.\nW trakcie prezentacji zbudujemy w pełni funkcjonalną aplikację typu RAG oparta na SpringAI, OpenAI oraz wektorowej bazie danych PGVector",
+      "speakers": [
+        {
+          "name": "Przemysław Skwiercz",
+          "bio": "Programista i cyklista. Od ponad 20 lat zarabiam na kromkę chleba i kufelek piwa tworząc oprogramowanie więc jestem już chyba seniorem (wiekowo na pewno) :-) Ostatnie kilka lat spędziłem w świecie Java’y i Spring’a . Jeden z założycieli i organizatorów bydgoskiego JUG’a. W wolnym czasie miłośnik wypraw rowerowych, kraftowego piwa, starego punk rocka i teatru (niekoniecznie w tej kolejności)."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=JOSTa0J5Cuc"
+    },
+    {
+      "title": "Porządkowanie chaosu - Structured concurrency",
+      "description": "Kiedy w naszym świecie panuje porządek jest nam łatwiej się w nim poruszać. Ten dosyć znany fakt jako programiści odkrywamy z radością co parę lat. W Javie 21 dostaliśmy nową zabawkę - wątki wirtualne.\n\nJednym z ich głównych haseł reklamowych jest \"Stwórz, wystartuj, zapomnij\" - kusi, do tego wszyscy zachęcają by jak najwięcej takich wątków tworzyć. A wszyscy wiemy co dzieje się w dziecięcych pokojach po urodzinach naszych pociech, po świeżej dostawie zabawek - chaos. Tym razem jednak twórcy Javy starają się uprzedzić fakty i dać nam do użytku całkiem nowe API - Structured Concurrency. Nie jest to odkrycie koła na nowo i wielka sensacja - ale raczej sprawdzony sposób na \"ogarnięcie\" współbieżności w naszych programach.\nPodczas tej prezentacji postaram się Was wprowadzić w koncepcję Structured Concurrency, dlaczego ona działa i dlaczego powstała. Postaram się również zaprezentować ten kod w działaniu.",
+      "speakers": [
+        {
+          "name": "Konrad Szałkowski",
+          "bio": "Programista Javy z chęcią węszący co w krzemie piszczy i skwierczy. Na co dzień zbawiam świat pozbywając się kodu legacy oraz kawy z ekspresu."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=YWh7fZXd7xs"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/77-spotkanie-torun-jug-o-structured-concurrency-oraz-rag-w-springai/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

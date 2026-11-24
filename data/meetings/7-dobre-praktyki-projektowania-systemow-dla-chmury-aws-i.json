@@ -1,0 +1,32 @@
+{
+  "number": 7,
+  "slug": "7-dobre-praktyki-projektowania-systemow-dla-chmury-aws-i",
+  "title": "Dobre praktyki projektowania systemów dla chmury AWS i Wstęp do AngularJS dla programisty Java",
+  "description": "Toruń JUG #7: Dobre praktyki projektowania systemów dla chmury AWS · Wstęp do AngularJS dla programisty Java",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Dobre praktyki projektowania systemów dla chmury AWS",
+      "speakers": [
+        {
+          "name": "Michał Baliński"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=z_rZrN2GQmk"
+    },
+    {
+      "title": "Wstęp do AngularJS dla programisty Java",
+      "speakers": [
+        {
+          "name": "Sławomir Piotrowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=uyWqZc59-B8"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

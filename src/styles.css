@@ -1841,6 +1841,31 @@ h3 {
   color: var(--slate-600);
 }
 
+/* Prelegent bez zdjęcia: kafelek z inicjałami */
+.speaker-photo-placeholder {
+  display: grid;
+  place-items: center;
+  aspect-ratio: 1;
+  background: linear-gradient(135deg, var(--teal-100), var(--slate-100));
+  color: var(--teal-700);
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  user-select: none;
+}
+
+.talk-speaker-photo.speaker-photo-placeholder {
+  font-size: clamp(3rem, 8vw, 5.5rem);
+}
+
+.speaker-card-photo.speaker-photo-placeholder {
+  font-size: 2.2rem;
+}
+
+.speaker-card-top .speaker-card-photo.speaker-photo-placeholder {
+  font-size: 2.8rem;
+}
+
 /* Podstrony spotkań */
 .meeting-page {
   background: var(--slate-50);

@@ -1,6 +1,10 @@
                 <article class="speaker-card{% if speaker.rank %} speaker-card-top speaker-card-rank-{{ speaker.rank }}{% endif %}" id="{{ speaker.id }}">
                   <div class="speaker-card-media">
+                    {%- if speaker.photo %}
                     <img class="speaker-card-photo" src="../static/speakers/{{ speaker.photo }}" width="300" height="300" alt="Zdjęcie: {{ speaker.name }}" loading="lazy" decoding="async">
+                    {%- else %}
+                    <span class="speaker-card-photo speaker-photo-placeholder" aria-hidden="true">{{ speaker.initials }}</span>
+                    {%- endif %}
                     {%- if speaker.rank %}
                     <span class="speaker-rank" aria-label="Miejsce {{ speaker.rank }}">{{ speaker.rank }}</span>
                     {%- endif %}
@@ -14,16 +18,18 @@
                     {%- for talk in speaker.talks %}
                       <li>
                         <a href="../spotkania/{{ talk.meeting.url }}"><span class="meeting-number">#{{ talk.meeting.number }}</span> {{ talk.title }}</a>
-                        <small><time datetime="{{ talk.meeting.day }}">{{ talk.meeting.dateLabel }}</time>
+                        <small>{% if talk.meeting.day %}<time datetime="{{ talk.meeting.day }}">{{ talk.meeting.dateLabel }}</time>{% else %}data nieznana{% endif %}
                         {%- if talk.coSpeakers | length %} · razem z: {{ talk.coSpeakers | join(", ") }}{% endif %}
                         {%- if talk.recordingUrl %} · <a href="{{ talk.recordingUrl }}" target="_blank" rel="noopener noreferrer">nagranie <span aria-hidden="true">↗</span></a>{% endif %}</small>
                       </li>
                     {%- endfor %}
                     </ul>
+                    {%- if speaker.bio %}
                     <details class="speaker-bio">
                       <summary>O prelegencie</summary>
                       <p>{{ speaker.bio }}</p>
                     </details>
+                    {%- endif %}
                   </div>
                 </article>
 {#- Karta prelegenta. Wymaga zmiennej `speaker`; `speaker.rank` (1–3) włącza wariant TOP 3. #}

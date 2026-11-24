@@ -1,0 +1,47 @@
+{
+  "number": 30,
+  "slug": "30-frege-oraz-kanban",
+  "title": "Frege oraz Kanban",
+  "description": "Toruń JUG #30: Kanban na lodówce · Kalafiorem w JVM! - czyli eksperymenty z językiem Frege.",
+  "startDate": "2017-02-22T18:00:00+01:00",
+  "endDate": "2017-02-22T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/30-spotkanie-torun-jug-frege-oraz-kanban/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Kanban na lodówce",
+      "description": "Każdy wie co to agile, każdy próbował Scruma. Nie każdemu jednak się to podoba i nie każdemu się udaje. W trakcie prezentacji chcę zaproponować Ci pewien eksperyment – zostawmy na chwilę kontekst IT i zmieńmy go na inny.\nOpowiem o moich własnych wdrożeniach zwinnych podejść w zarządzaniu sprawami domowymi, finansach, wykańczaniu mieszkania i życiu jako takim.\nTen zabieg zmiany kontekstu posłuży nam do niezwykle ważnej rzeczy: do nazwania wartości stojących za agile oraz jego fundamentalnych zasad. Zobaczysz jak agile może zmienić z pozoru nudne czynności niesamowitą przygodę.",
+      "speakers": [
+        {
+          "name": "Michał Bartyzel",
+          "bio": "Od dwunastu lat pracuje w IT kolejno jako: programista, trener coach. Pomaga programistom i zespołom pracować efektywniej, przyjemniej i tworzyć lepsze oprogramowanie. Najczęściej pracuje nad ułatwianiem współpracy z biznesem, uzwinnianiem organizacji, refaktoryzacją i efektywnością pracy.\n\nTechnikami, które opracowuje dzieli się w artykułach w magazynie Programista, portalu InfoQ, blogu, konferencjach. Jest autorem książek: „Oprogramowanie szyte na miarę. Jak rozmawiać z klientem, który nie wie, czego chce?” (Helion, 2012 i 2015), „Getting Things Programmed” (Helion, 2016), „Conversation Patterns for Software Professionals” (InfoQ, w przygotowaniu).\nProwadzi blog www.gettingthingsprogrammed.pl"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=KIej-4T_n8I"
+    },
+    {
+      "title": "Kalafiorem w JVM! - czyli eksperymenty z językiem Frege.",
+      "description": "Podczas swojej debiutanckiej prezentacji na deskach Toruńskiego JUGa, przedstawię Wam swoje krótkie (choć mam nadzieję, że owocne :)) doświadczenia z pewnym dosyć egzotycznym językiem programowanie zwanym - Frege /ˈfreɪɡə/. Językiem funkcyjnym, którego twórcy sami określają mianem Haskella na JVM! Jak to jest możliwe? W jaki sposób działa? Jak duże obliczenia mu nie straszne? I jak w ogóle zacząć się w nim poruszać? Dowiecie się jak przyjdziecie!\n\nSzybki kurs programowania funkcyjnego - gratis.\n\nZapraszam.",
+      "speakers": [
+        {
+          "name": "Piotr Skonieczka",
+          "bio": "Sam siebie nazywam czasem żartobliwie \"wiecznym studentem\", gdyż ciekawość świata i nieustanny głód wiedzy wciąż nie pozwalają mi się rozstać z murami Uniwersytetu. Niecałe dwa lata temu uzyskałem tytuł magistra z wszech pojętej \"informatyki\" na UMK, po czym dla frajdy i czystej ciekawości wybrałem się na kolejne studia... z Astronomii. Obecnie weekendy spędzam na podyplomowych studiach z zakresu programowania urządzeń mobilnych, a od następnego roku - zgodnie z planem - zamierzam rozpocząć doktorat. W wolnych chwilach szwendam się po wszelakich możliwych konferencjach, warsztatach i hackathonach lub też ganiam po starówce uczestnicząc w miejskich grach :)\n\n-----------------------------------------------------------------------"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=E76HC-OlrE4"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/30-spotkanie-torun-jug-frege-oraz-kanban/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

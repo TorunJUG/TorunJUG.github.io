@@ -1,0 +1,46 @@
+{
+  "number": 71,
+  "slug": "71-truffle-w-graalvm-oraz-testach-black-box",
+  "title": "\"Truffle w GraalVM\" oraz \"Testach black box\"",
+  "description": "Toruń JUG #71: Kopiąc Trufle · W poszukiwaniu czarnej skrzynki",
+  "startDate": "2024-04-24T18:00:00+02:00",
+  "endDate": "2024-04-24T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/71-spotkanie-torun-jug-o-truffle-w-graalvm-oraz-testach-black-box/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Kopiąc Trufle",
+      "description": "Cześć!\n\nZapraszamy Was na 71. spotkanie Toruń JUG! 24 kwietnia w godzinach 18:00-20:00 na Wydziale Matematyki i Informatyki UMK (ul. Chopina 12/18) w sali S9 spotykamy się z Wami oraz naszymi Prelegentami.\n\nDla przypomnienia - jak zwykle wstęp jest wolny, obecność na wcześniejszych spotkaniach nie jest wymagana. UWAGA: ze względów formalnych musieliśmy ograniczyć liczbę osób, więc gdy jednak wypadnie Wam nieobecność, zwolnijcie miejsce dla innej osoby! Druga rzecz - w celu poprawnej identyfikacji prosimy, w miarę możliwości, o podanie imienia i nazwiska w profilu meetupowym.\n\nI jeszcze trochę ogólnego info...\n\nDzięki Simplito będziecie mogli zobaczyć nagrania z tego spotkania na naszym kanale YT (https://www.youtube.com/TorunJUG), a oprócz tego sporo fantów dla Was przygotowali:\n\n• JetBrains -> vouchery na oprogramowanie,\n\n• Allegro -> książki,\n\n• Helion -> książki\n\nJak zwykle, już po wszystkim, zapraszamy Was tradycyjnie na małe after party do Deer Bear Pub ;)\nA teraz trochę o naszych Prelegentach i ich prelekcjach:\n\nKopiąc Trufle - Odkrywanie tajemnic najmniej zrozumiałego elementu GraalVM\nMyślisz, że znalezienie trufli jest trudne? Spróbuj zrozumieć Truffle w GraalVM!\nW tej lekkostrawnej prezentacji zamierzam uprościć to, co skomplikowane, i wyjaśnić rolę Truffle w ekosystemie GraalVM. Kontynuując kulinarną analogię, wyobraź sobie Truffle jako tajemniczy składnik, który wyciąga prawdziwy aromat GraalVM – wspiera wiele języków i zwiększa wydajność, tak jak prawdziwe trufle dodają daniu smak.\nPrzebijemy się przez techniczny żargon i wyjaśnimy, co naprawdę oznacza \"framework implementacji języka\". Dowiesz się, jak działa Truffle, dlaczego jest ważne, a nawet spróbujemy napisać jakiś kawałek prostego języka – zgodnie z zasadą \"słowa są tanie, pokaż mi kod\"",
+      "speakers": [
+        {
+          "name": "Artur Skowroński",
+          "bio": "Head of Java/Kotlin Engineering at VirtusLab. W tym roku stuknęła mu dycha w branży. Tę dekadę spędził przy bardzo różnych projektach - takich, które startowały od zera, jak i grubo starszych od niego. Miał przyjemność pracować po różnych stronach barykady - jako Software Engineer, Tech Lead, Architekt czy nawet Technical Product Manager, co pozwala podchodzić do problemów z szeroką perspektywą. W dalszym ciągu uwielbia brudzić sobie ręce - od ponad dwóch lat, co tydzień publikuje autorskie przeglądy wydarzeń w świecie JVM - https://vived.substack.com\n\nW poszukiwaniu czarnej skrzynki - testowanie aplikacji przy użyciu testów \"black box\"\nA gdyby tak potraktować aplikację jak czarną skrzynkę? A co jeśli wcisnę ten guzik? Co się stanie?\nJak napisać testy, żeby były pomocne przy rozwiązywaniu błędów z produkcji? Jak przetestować zmianę technologii?\nZapraszam na praktyczną prezentację w javie, gdzie pokażę nieortodoksyjne podejście do testowania aplikacji na przykładzie prostego serwisu."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=bkxNZvkBECU"
+    },
+    {
+      "title": "W poszukiwaniu czarnej skrzynki",
+      "speakers": [
+        {
+          "name": "Paweł Kapała",
+          "bio": "Programista, generalista, pozostający w związku małżeńskim z JVM już 19 lat, wcześniej programista hobbysta. Karmi się problemami do rozwiązania, które popija kawą najlepiej z przelewu. Zawodowo programował systemy od embedded po big data w startupach seed level i korporacjach na różnych stanowiskach. Zwolennik myślenia systemowego, podejścia data-driven. Konwertyta Clojure. Pasjonat-amator etymologii, psychologii. Początkujący muzyk. Od lat uprawiający regularnie siatkówkę. Tata trójki i edukator domowy."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=5pWNIoGv6sI"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/71-spotkanie-torun-jug-o-truffle-w-graalvm-oraz-testach-black-box/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "number": 72,
+  "slug": "72-torun-jug-day-2024-10-lat-torun-jug",
+  "title": "Toruń JUG Day 2024 – 10 lat Toruń JUG",
+  "description": "Toruń JUG #72: Inteligentny dom po taniości · 10 lat ewolucji, czyli co Java ma wspólnego z ludzkim ciałem? · Zwinność nie jest pojęciem psychologicznym, a tworzenie softu nie jest sztuką · Niezapomniane przygody w krainie alokacji pamięci w JVM",
+  "startDate": "2024-05-18T14:00:00+02:00",
+  "endDate": "2024-05-18T23:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "Toruński Inkubator Technologiczny",
+    "address": "ul. Władysława Łokietka 5",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://www.meetup.com/torun-jug/events/300358431",
+    "label": "Wydarzenie na Meetup"
+  },
+  "talks": [
+    {
+      "title": "Inteligentny dom po taniości",
+      "speakers": [
+        {
+          "name": "Mariusz Strzelecki"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=qhZJ4-cue1g"
+    },
+    {
+      "title": "10 lat ewolucji, czyli co Java ma wspólnego z ludzkim ciałem?",
+      "speakers": [
+        {
+          "name": "Szymon Stępniak"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=AcDTLXA8BuQ"
+    },
+    {
+      "title": "Zwinność nie jest pojęciem psychologicznym, a tworzenie softu nie jest sztuką",
+      "speakers": [
+        {
+          "name": "Adam Michalczyk"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=LDBRElYzKpo"
+    },
+    {
+      "title": "Niezapomniane przygody w krainie alokacji pamięci w JVM",
+      "speakers": [
+        {
+          "name": "Jarosław Pałka"
+        }
+      ],
+      "recordingUrl": null
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/torun-jug-day-24/",
+    "youtube": 3,
+    "generatedAt": "2026-11-24"
+  }
+}

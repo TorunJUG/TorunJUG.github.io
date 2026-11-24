@@ -1,0 +1,34 @@
+{
+  "number": 22,
+  "slug": "22-bootstrapping-projects-with-spring-boot",
+  "title": "Bootstrapping projects with Spring Boot",
+  "description": "Toruń JUG #22: Bootstrapping projects with Spring Boot",
+  "startDate": "2016-04-27T18:00:00+02:00",
+  "endDate": "2016-04-27T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/22-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Bootstrapping projects with Spring Boot",
+      "speakers": [
+        {
+          "name": "Rafał Borowiec"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=XsH4kfDsQxc"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/22-spotkanie-torun-jug/",
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

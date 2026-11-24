@@ -1,0 +1,47 @@
+{
+  "number": 80,
+  "slug": "80-gen-ai-dla-programistow-oraz-sqlite-i-duckdb",
+  "title": "Gen AI dla Programistów oraz SQLite i DuckDB",
+  "description": "Toruń JUG #80: SQLite i DuckDB - małe jest piękne · Gen AI dla Programistów: Praktyczny przegląd narzędzi i trendów",
+  "startDate": "2025-05-28T18:00:00+02:00",
+  "endDate": "2025-05-28T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "ul. Grudziądzka 5/7",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/80-spotkanie-torun-jug-o-gen-ai-dla-programistow-oraz-sqlite-i-duckdb/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "SQLite i DuckDB - małe jest piękne",
+      "description": "SQLite uchodzi wśród programistów za \"zabawkową\" bazę danych, dobrą może do testów integracyjnych, ale raczej nieprzydatną na produkcji. Czy słusznie? Pokażę Wam, że niekoniecznie - to kawał świetnej jakości oprogramowania, który ma mnóstwo zastosowań i - odpowiednio wykorzystany - potrafi uprościć życie.\nW drugiej części przedstawię DuckDB - młodszego kuzyna SQLite, bazę typu \"embedded\" do zastosowań analitycznych, która robi furorę w świecie analityki w ostatnich miesiącach. Pokażę, że do przetwarzania danych rzędu dziesiątek GB nie potrzeba klastra, ani nawet serwera - laptop ze średniej półki spokojnie wystarczy.",
+      "speakers": [
+        {
+          "name": "Mariusz Strzelecki",
+          "bio": "Inżynier danych, stały bywalec toruńskiego JUGa"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=g141X-xGuj0"
+    },
+    {
+      "title": "Gen AI dla Programistów: Praktyczny przegląd narzędzi i trendów",
+      "description": "Sztuczna inteligencja, a w szczególności modele generatywne (Gen AI), dynamicznie zmieniają świat tworzenia oprogramowania. Podczas tej sesji przyjrzymy się praktycznym aspektom wykorzystania AI z perspektywy programisty. Wspomnimy o kluczowych frameworkach, bibliotekach i narzędziach, które umożliwiają integrację LLM z tworzonymi aplikacjami. Omówimy również istotne koncepcje towarzyszące pracy z Gen AI, w tym ewaluację (np. za pomocą DeepEval), optymalizację kosztów i zarządzanie tokenami, a także wdrażanie mechanizmów bezpieczeństwa i kontroli (Guardrails). Dowiecie się, co nowego dzieje się w ekosystemie AI, jakie są najnowsze trendy i na jakie aspekty zwracać szczególną uwagę podczas implementacji rozwiązań opartych o GenAI.",
+      "speakers": [
+        {
+          "name": "Marcin Szyszko",
+          "bio": "solution engineer, genai z zamiłowania i z pracy"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=39dYHVJVYZU"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/80-spotkanie-torun-jug-o-gen-ai-dla-programistow-oraz-sqlite-i-duckdb/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

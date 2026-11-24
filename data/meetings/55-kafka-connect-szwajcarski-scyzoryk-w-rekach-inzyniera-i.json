@@ -1,0 +1,46 @@
+{
+  "number": 55,
+  "slug": "55-kafka-connect-szwajcarski-scyzoryk-w-rekach-inzyniera-i",
+  "title": "Kafka Connect - szwajcarski scyzoryk w rękach inżyniera? i Praktyczne wprowadzenie do Kubernetes",
+  "description": "Toruń JUG #55: Kafka Connect - szwajcarski scyzoryk w rękach inżyniera? · Praktyczne wprowadzenie do Kubernetes",
+  "startDate": "2019-10-30T18:00:00+01:00",
+  "endDate": "2019-10-30T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/55-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Kafka Connect - szwajcarski scyzoryk w rękach inżyniera?",
+      "description": "Zapraszamy na 55. spotkanie Toruń Java User Group, które odbędzie się w środę 30 października w godzinach 18:00-20:00 na Wydziale Matematyki i Informatyki UMK (ul. Chopina 12/18), w sali S9.\n\nJak zawsze wstęp jest wolny, obecność na wcześniejszych spotkaniach nie jest wymagana. Zachęcamy Was do kliknięcia w RSVP i podania maila - osoby, które zapiszą się i przybędą na to spotkanie będą miały szansę na zdobycie jednego z kilku upominków:\n\n- 2x licencja na dowolny produkt od JetBrains (https://www.jetbrains.com/)\n- 2x ebook od wydawnictwa Manning (https://www.manning.com)\n\nDzięki Simplito (https://simplito.com) będziecie mogli zobaczyć nagranie z tego spotkania na naszym kanale YT (https://www.youtube.com/TorunJUG)\n\nJak zwykle, już po wszystkim, zapraszamy Was tradycyjnie na małe after party do Parter - Whisky Vodka Cocktail Bar (gdzie wspomogą nas nasi Partnerzy spotkania :) )\n\nA teraz trochę o naszych Prelegentach i ich prelekcjach:\n\nKafka Connect - szwajcarski scyzoryk w rękach inżyniera?\n\nKafka Connect to jeden z elementów podstawowego ekosystemu zbudowanego wokół Apache Kafki. Zaczął nieśmiało, jako prosty interfejs do integracji szyny danych z zewnętrznymi systemami, ale społeczność zbudowała w jego oparciu całe mnóstwo rozszerzeń. Jednym z nich jest Debezium (https://debezium.io), które implementuje rozwiązanie typu CDC (Change Data Capture) na kilku popularnych bazach: MySQL, Postgresie, MongoDB, Oracle i SQL Serverze.\n\nW czasie krótkiego live demo użyjemy Kafki Connect i Debezium, żeby:\n- zsynchronizować ze sobą bazy, które nigdy nie były projektowane do bycia \"synchronizowalnymi\",\n- zaimplementować CQRS bez pisania linijki kodu,\n- a wreszcie stworzyć krótką aplikacją bez otwierania edytora ;-)",
+      "speakers": [
+        {
+          "name": "Mariusz Strzelecki",
+          "bio": "kiedyś programista, od 5 lat inżynier danych. Wciska Apache Kafkę gdzie tylko może ;-) Prywatnie ojciec trojga i miłośnik hiszpańskich klimatów.\n\n***\n\nPraktyczne wprowadzenie do Kubernetes\n\nW świecie micro-serwisów coraz częściej konteneryzujemy aplikacje przy pomocy Dockera. Kubernetes jest otwartą platformą do zarządzania skonteneryzowanymi aplikacjami. Podczas prezentacji przedstawię podstawy Kubernetesa. W trakcie demo wdrożymy gotową aplikację bazującą na Springboot."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=iiz6t8g5t6Q"
+    },
+    {
+      "title": "Praktyczne wprowadzenie do Kubernetes",
+      "speakers": [
+        {
+          "name": "Krzysztof Dziankowski",
+          "bio": "inżynier oprogramowania pracujący od ponad 10 lat w bydgoskim oddziale firmy Nokia. Od początku związany z Javą. Aktualnie zmierza w kierunku DevSecOps. Prezentuje krytyczny styl myślenia. Uważa, że kod powinien być ładny. Współorganizator Bydgoszcz Java User Group. Miłośnik podcastów IT."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=QgIXBApr58A"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/55-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

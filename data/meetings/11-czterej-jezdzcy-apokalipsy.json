@@ -1,0 +1,23 @@
+{
+  "number": 11,
+  "slug": "11-czterej-jezdzcy-apokalipsy",
+  "title": "Czterej jeźdźcy apokalipsy",
+  "description": "Toruń JUG #11: Czterej jeźdźcy apokalipsy",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Czterej jeźdźcy apokalipsy",
+      "speakers": [
+        {
+          "name": "Jarosław Pałka"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=Mq9LT-gwQYU"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

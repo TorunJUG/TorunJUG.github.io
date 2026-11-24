@@ -1,0 +1,47 @@
+{
+  "number": 46,
+  "slug": "46-too-smart-ui-jak-projektowac-api-rest-owe-i-pokusy",
+  "title": "(Too) Smart UI? Jak projektować API REST-owe i Pokusy programowania przekrojowego",
+  "description": "Toruń JUG #46: (Too) Smart UI? Jak projektować API REST-owe · Pokusy programowania przekrojowego",
+  "startDate": "2018-11-28T18:00:00+01:00",
+  "endDate": "2018-11-28T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/46-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "(Too) Smart UI? Jak projektować API REST-owe",
+      "description": "Rozwijając aplikacje musimy kiedyś zdecydować, jak będzie wyglądało API wystawione do front-endu (a może nawet publicznie). Ale jak je zaprojektować, żeby było „dobrze”? Które części ogólnego stanu powinny zostać ukryte głęboko w back-endzie, a które zostawione drugiej stronie? Czy backend powinien być przeglądarką do bazy, czy może czymś więcej?\n\nJeśli nie docenimy złożoności problemu i umieścimy zbyt wiele logiki „na zewnątrz” możemy doprowadzić do sytuacji, gdy nasz klient będzie musiał robić za dużo. W „Domain Driven Design” Erica Evansa tego typu antywzorzec nosi nazwę \"Smart UI\".\n\nPokażę Wam więc jak nie wpadać w tę pułapkę wykorzystując to, co proponuje DDD i dobrze pojęty REST. Będą to wnioski z „placu boju” - projektów, w których brałem udział i które z powodu tego antywzorca miały (lekko mówiąc) poważne problemy.",
+      "speakers": [
+        {
+          "name": "Szymon Janikowski",
+          "bio": "deweloper i lider o szerokich horyzontach. Wywodzi się ze środowiska Java ale w życiu robił też Front-end, był Scrum Masterem i pełnił obowiązki Project Manager’a. Jego ulubione tematy znajdują się na pograniczu biznesu i IT. Interesuje się Domain Driven Design, architekturą oraz wszelkimi aspektami pracy zespołowej. W tej chwili działa jako konsultant i freelancer pod marką ITLIBRIUM współpracując z Bottega IT Minds."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=_OUAMzrKna8"
+    },
+    {
+      "title": "Pokusy programowania przekrojowego",
+      "description": "Pracując nad dużymi systemami, które często przejmujemy w stanie dużej złożoności lub po prostu wielkiej kuli błota nie zawsze chcemy/możemy robić rzeczy \"na piechotę\".\n\nPowiem Wam co rozumiem przez \"problemy przekrojowe\" i jak można je rozwiązać bez wywracania systemu do góry nogami.\n\nOpowiem o drodze jaką przeszedłem od rozwiązań wysokopoziomowych, poprzez rozwiązania niskopoziomowe, kończąc na zakazanych technikach programowania, które zmieniły mój sposób myślenia.",
+      "speakers": [
+        {
+          "name": "Michał Karpiński",
+          "bio": "programista z zamiłowania, absolwent WMiI UMK. Od 14 lat pracuje przy tworzeniu oprogramowania dla biznesu. Obecnie szef technologiczny projektu Re_Forms 21. W wolnych chwilach żegluje i gra na pianinie."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=NxpznJ0E3aA"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/46-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

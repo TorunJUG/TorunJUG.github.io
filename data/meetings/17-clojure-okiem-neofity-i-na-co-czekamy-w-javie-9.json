@@ -1,0 +1,32 @@
+{
+  "number": 17,
+  "slug": "17-clojure-okiem-neofity-i-na-co-czekamy-w-javie-9",
+  "title": "Clojure okiem neofity i Na co czekamy w Javie 9",
+  "description": "Toruń JUG #17: Clojure okiem neofity · Na co czekamy w Javie 9",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Clojure okiem neofity",
+      "speakers": [
+        {
+          "name": "Paweł Kapała"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=V5YbEN6uuHQ"
+    },
+    {
+      "title": "Na co czekamy w Javie 9",
+      "speakers": [
+        {
+          "name": "Dominik Przybysz"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=x_Iqt-yGMGE"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

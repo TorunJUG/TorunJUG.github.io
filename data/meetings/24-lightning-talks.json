@@ -1,0 +1,79 @@
+{
+  "number": 24,
+  "slug": "24-lightning-talks",
+  "title": "Lightning Talks",
+  "description": "Toruń JUG #24: The Power of Networking · TorunJUG.getSrc(), raport z placu boju · Żywa dokumentacja RESTa · X.Y.Z, czyli wszystko o wersjach artefaktów · Jest! testy jednostkowe według Facebooka! · @NotNull w Javie",
+  "startDate": "2016-06-29T18:00:00+02:00",
+  "endDate": "2016-06-29T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/24-spotkanie-torun-jug-lightning-talks/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "The Power of Networking",
+      "speakers": [
+        {
+          "name": "Thomas Sundberg"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=Yr56zsNh4cY"
+    },
+    {
+      "title": "TorunJUG.getSrc(), raport z placu boju",
+      "speakers": [
+        {
+          "name": "Zbyszko Papierski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=Efvq0nERDjw"
+    },
+    {
+      "title": "Żywa dokumentacja RESTa",
+      "speakers": [
+        {
+          "name": "Krzysztof Pobożan"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=3lFvUF4Js8c"
+    },
+    {
+      "title": "X.Y.Z, czyli wszystko o wersjach artefaktów",
+      "speakers": [
+        {
+          "name": "Sebastian Łaskawiec"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=F4py1aqXkrw"
+    },
+    {
+      "title": "Jest! testy jednostkowe według Facebooka!",
+      "speakers": [
+        {
+          "name": "Wojciech Dzikowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=ploFNLwMv1I"
+    },
+    {
+      "title": "@NotNull w Javie",
+      "speakers": [
+        {
+          "name": "Maciej Boniewicz"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=DYUnEo06fYE"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/24-spotkanie-torun-jug-lightning-talks/",
+    "youtube": 6,
+    "generatedAt": "2026-11-24"
+  }
+}

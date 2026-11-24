@@ -1,0 +1,32 @@
+{
+  "number": 3,
+  "slug": "3-jak-szukac-kilka-slow-o-lucene-i-jej-znajomych-i-historia",
+  "title": "Jak szukać? Kilka słów o Lucene i jej znajomych i Historia pewnego szkieletora. Walking Skeleton",
+  "description": "Toruń JUG #3: Jak szukać? Kilka słów o Lucene i jej znajomych · Historia pewnego szkieletora. Walking Skeleton",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Jak szukać? Kilka słów o Lucene i jej znajomych",
+      "speakers": [
+        {
+          "name": "Zbyszko Papierski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=_9AnMQNxQuE"
+    },
+    {
+      "title": "Historia pewnego szkieletora. Walking Skeleton",
+      "speakers": [
+        {
+          "name": "Paweł Rekowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=urAUAY6bnus"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

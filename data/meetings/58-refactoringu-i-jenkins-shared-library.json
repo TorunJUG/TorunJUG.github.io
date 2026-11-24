@@ -1,0 +1,47 @@
+{
+  "number": 58,
+  "slug": "58-refactoringu-i-jenkins-shared-library",
+  "title": "\"Refactoringu\" i \"Jenkins Shared Library\"",
+  "description": "Toruń JUG #58: Refactor And Do It Safely · Over two hundred CI/CD pipelines and a single Jenkins Shared Library - a case study",
+  "startDate": "2020-01-29T18:00:00+01:00",
+  "endDate": "2020-01-29T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/58-spotkanie-torun-jug-o-refactoringu-i-jenkins-shared-library/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Refactor And Do It Safely",
+      "description": "Wszyscy to przeżyliśmy, patrząć się na migający kursor. Masz zbudować nową funkcję, ale nie wiesz gdzie i jak zacząć. Naprawiasz buga i nie masz pojęcia czemu coś innego się zepsuło. Jest to typowa sytuacja w systemach klasy Big Ball Of Mud, gdzie architektura blokuje nam rozwój biznesowy. Koniec końców, nie da się wykorzystywać całego potencjału operacyjnego naszej organizacji, bo walczymy z kodem. I wtedy pada magiczne słowo: Refactoring! Większość z nas ma wiedzę jak wygląda dobra architektura. Chodzimy na konferencje, słuchamy o Domain-Driven Design, modelowaniu, zdarzeniach i Test-Driven Developmencie. Ale rzeczywistość zadaje trudne pytanie - jak to zaaplikować w zastanych systemach? Jak przekonać ludzi do refaktoryzacji? Jak to zrobić nie mając testów...? Albo wiedzy biznesowej? Jeśli chcesz znać odpowiedzi na te pytania, ta prelekcja jest dla Ciebie. Poznamy techniki, które zadziałały w wielu innych organizacjach, podobnych do Twojej.",
+      "speakers": [
+        {
+          "name": "Jakub Pilimon",
+          "bio": "miłośnik DDD, OOP oraz TDD. Developer/Architekt pod kątem inżynierskim głównie zainteresowany modelowaniem oraz architekturą. Swój wysiłek skupia na czytelności kodu, skalowalności oraz wydajności. Podczas dotychczasowej kariery projektował oraz implementował systemy dla branży finansowej, medycznej, telekomunikacyjnej oraz energetycznej. Prywatnie fanatyk kitesurfingu, psychologii i jazdy motocyklem."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=6ADi5hWHCLk"
+    },
+    {
+      "title": "Over two hundred CI/CD pipelines and a single Jenkins Shared Library - a case study",
+      "description": "Każdy wie czym jest Jenkins, i przynajmniej raz miał z nim do czynienia. Wielu słyszało o tym, że Jenkins wspiera podejście “pipeline as code”, pozwalające definiować nam logikę procesu integracji oraz wdrożenia za pomocą pliku o nazwie Jenkinsfile. Niektórzy być może słyszeli, że jest coś takiego jak Jenkins Shared Libraries - sposób na współdzielenie kodu pomiędzy wieloma “pajplajnami”. Niewielu jednak miało okazję pracować z Jenkins Shared Libraries w środowisku, w którym ponad dwieście “pajplajnów” korzysta na co dzień z takiego rozwiązania. W prezentacji tej pokażę wam drogę, jaką Upwork.com przeszedł od Jenkins w wersji 1 (luźno powiązane zadania konfigurowane przez Jenkins UI) do Jenkins 2 declarative pipeline przy pełnym wsparciu Jenkins Shared Library. Pokażę jakie błędy popełniliśmy, jakich bibliotek i narzędzi użyliśmy do automatyzacji wdrożeń naszej biblioteki, oraz trochę liczb i metryk, które pozwalały nam podejmować możliwie najlepsze decyzje.",
+      "speakers": [
+        {
+          "name": "Szymon Stępniak",
+          "bio": "za dnia programuję (głównie) w Groovy dla Upwork.com, gdzie odpowiadam za rozwój biblioteki pomagającej w adaptacji CI/CD przy pomocy Jenkinsa. Staram się rozwiązywać problemy bez konieczności pisania choćby pojedynczej linii kodu, ale gdy już muszę coś napisać to sięgam po Groovy, Javę, a czasem nawet Haskella. Po godzinach bloguję na https://e.printstacktrace.blog, odpowiadam na pytania na Stack Overflow, i brzdąkam trochę na gitarze."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=cT5xi-CcUrE"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/58-spotkanie-torun-jug-o-refactoringu-i-jenkins-shared-library/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

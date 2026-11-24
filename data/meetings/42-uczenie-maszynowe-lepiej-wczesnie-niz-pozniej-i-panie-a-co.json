@@ -1,0 +1,47 @@
+{
+  "number": 42,
+  "slug": "42-uczenie-maszynowe-lepiej-wczesnie-niz-pozniej-i-panie-a-co",
+  "title": "Uczenie maszynowe – lepiej wcześnie niż później i Panie, a co to ta chmura? - kilka słów o AWS, a może kilkanaście",
+  "description": "Toruń JUG #42: Uczenie maszynowe – lepiej wcześnie niż później · Panie, a co to ta chmura? - kilka słów o AWS, a może kilkanaście",
+  "startDate": "2018-05-30T18:00:00+02:00",
+  "endDate": "2018-05-30T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/42-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Uczenie maszynowe – lepiej wcześnie niż później",
+      "description": "Uczenie maszynowe to dział nauki/inżynierii, którego popularność w ostatnich latach eksploduje. Ogromne zapotrzebowanie na specjalistów w tej dziedzinie widać już za oceanem, w Polsce ta dyscyplina dopiero raczkuje, w Toruniu prawdopodobnie jest jeszcze praktycznie nieobecna. Wygląda na to, że za 10-15 lat uczenie maszynowe będzie wszechobecne również na naszym podwórku, dlatego właśnie teraz jest najlepszy czas, żeby spróbować zostać tzw. data scientistem.\nW czasie wykładu pokażę, czym różni się uczenie maszynowe od „tradycyjnych algorytmów”, w jakim języku piszą data scientiści i jak zostać jednym z nich. Opowiem też o kilku szczególnie efektownych osiągnięciach ostatnich kilku lat, uzmysławiających nam, że nasze dzieci będą już dorastały w zupełnie innych czasach.",
+      "speakers": [
+        {
+          "name": "Patryk Miziuła",
+          "bio": "Data Scientist w deepsense.ai\nPo zrobieniu doktoratu z matematyki popracowałem trochę na uczelni (IMPAN). Potem postanowiłem spróbować swoich sił w uczeniu maszynowym. W firmie deepsense.ai zostałem tzw. data scientistem: uczestniczyłem w projektach dotyczących m.in. kryminologii, medycyny czy kosmetologii. Obecnie zajmuję się głównie prowadzeniem warsztatów i wykładów z uczenia maszynowego dla firm i uczelni na całym świecie. W wolnych chwilach gram na perkusji i głowię się, co by tu zrobić, żeby w Bydgoszczy żyło się lepiej."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=jI8-B8VpUZo"
+    },
+    {
+      "title": "Panie, a co to ta chmura? - kilka słów o AWS, a może kilkanaście",
+      "description": "Coraz częściej aplikacje i serwisy które tworzymy opierają się o rozwiązania IAAS i PaaS dostarczane przez AWS.\nJak się w tym odnaleźć? Na co zwrócić uwagę, by korzystać z nich w sposób bezpieczny i racjonalny pod względem architektonicznym, jak i kosztowym? Podczas prezentacji postaram się odpowiedzieć na te pytania, jak również omówić podstawowe usługi AWS.",
+      "speakers": [
+        {
+          "name": "Wojciech Orzechowski",
+          "bio": "architekt i devops współpracujący z LCloud - polskim partnerem AWS o statusie Advanced. Champion AWS Authorized Instructor prowadzący szkolenia \"Developing on AWS\" i \"DevOps Engineering on AWS\". Posiadacz 5 certyfikatów AWS."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=hClUqN6Wzt4"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/42-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

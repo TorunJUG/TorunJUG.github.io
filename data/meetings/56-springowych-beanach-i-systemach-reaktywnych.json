@@ -1,0 +1,47 @@
+{
+  "number": 56,
+  "slug": "56-springowych-beanach-i-systemach-reaktywnych",
+  "title": "\"Springowych Beanach\" i \"Systemach Reaktywnych\"",
+  "description": "Toruń JUG #56: Going reactive - beyond your app · Skąd masz tego beana??",
+  "startDate": "2019-11-27T18:00:00+01:00",
+  "endDate": "2019-11-27T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/56-spotkanie-torun-jug-o-springowych-beanach-i-systemach-reaktywnych/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Going reactive - beyond your app",
+      "description": "Jednym z kluczowych elementów w architekturze mikrousługowej jest komunikacja, w której obecnie najpopularniejszą kombinacją jest wykorzystanie standardu REST oraz protokołu HTTP. W kontekście coraz bardziej powszechnego nurtu związanego z projektowaniem reaktywnych systemów pojawia się pytanie - czy są one na pewno najlepszym wyborem? Czy musimy ograniczać się do wykorzystania synchronicznego protokołu, działającego wyłącznie w trybie żądanie-odpowiedź?\n\nW pierwszej części prezentacji przyjrzymy się obecnym standardom w komunikacji sieciowej i poddamy analizie ich przydatność w kontekście reaktywności i systemów reaktywnych. Zagłębimy się w możliwości, jakie dają nam wykorzystywane dziś powszechnie protokoły.\n\nW drugiej części skupimy się na nowym graczu na rynku protokołów aplikacyjnych - protokole RSocket. Omówię w jaki sposób jego charakterystyka (np. asynchroniczność, wsparcie dla backpressure, możliwość wykorzystania wielu protokołów transportowych) może pomóc w implementacji systemów reaktywnych. Na koniec rzucimy okiem w kod (zarówno kod implementacji RSocket w Java jak i jego wsparcia w Spring Framework) i obejrzymy go w akcji.",
+      "speakers": [
+        {
+          "name": "Maciej Sikorski",
+          "bio": "Software Engineer w Allegro, entuzjasta języków JVM-owych i TDD. Pasjonat programowania reaktywnego, od prawie 2 lat rozwija i utrzymuje reaktywne mikrousługi. Od dłuższego czasu żywo zainteresowany rozwojem projektów RSocket i R2DBC."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=QyUztxUb7EY"
+    },
+    {
+      "title": "Skąd masz tego beana??",
+      "description": "\"Dodaj adnotację X i będzie działać.\" \"Zdefiniuj beana Y i będzie działać.\" Ile razy słyszałeś to pisząc aplikacje w Spring Boocie? A czy zastanawiałeś się jak to właściwie działa? Można zrzucić odpowiedzialność na \"magię\" springa lub spring boota, ale zdecydowanie lepiej jest zrozumieć mechanizmy za to odpowiedzialne i o tym właśnie opowiem na prezentacji.",
+      "speakers": [
+        {
+          "name": "Dominik Przybysz",
+          "bio": "większość zawodowego życia spędził pisząc w językach na JVMa, ale zdarzało mu się oskryptowywać różne rzeczy w pythonie i shellu, a także tworzyć aplikacje używając ReactJS. Aktualnie developer w TouKu, committer Apache Aries oraz kontrybutor kilku opensource'owych projektów. Uwielbia testowanie (szczególnie z pomocą Spocka) oraz wszelką automatyzację w procesie wytwarzania oprogramowania. Stara się dbać o czystość kodu (własnego i cudzego) poprzez częste code review.\n\n***"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=zjN4rtoK6-A"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/56-spotkanie-torun-jug-o-springowych-beanach-i-systemach-reaktywnych/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

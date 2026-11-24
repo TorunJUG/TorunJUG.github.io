@@ -1,0 +1,47 @@
+{
+  "number": 61,
+  "slug": "61-wyszukiwaniu-i-helmie",
+  "title": "\"Wyszukiwaniu\" i \"Helmie\"",
+  "description": "Toruń JUG #61: Wprowadzenie do Helm'a · Dodać wyszukiwarkę? Żaden problem, prawda?",
+  "startDate": "2023-01-25T18:00:00+01:00",
+  "endDate": "2023-01-25T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/61-spotkanie-torun-jug-o-wyszukiwaniu-i-helmie-styczen-2023/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Wprowadzenie do Helm'a",
+      "description": "Aplikacja w Kubernetes jest odwzorowywana przez kilkanaście różnych obiektów, zapisanych jako pliki YAML.\nHelm jest narzędziem, dzięki któremu możemy dostarczyć wszystkie te pliki w jednej paczce.\nDodatkową zaletą Helm’a jest możliwość używania szablonów (template), dzięki czemu aplikację możemy instalować w różnej konfiguracji.\nPodczas spotkania opowiem czym jest Helm i jak go używać.",
+      "speakers": [
+        {
+          "name": "Krzysztof Dziankowski",
+          "bio": "Inżynier oprogramowania pracujący od 15+ lat w bydgoskim oddziale firmy Nokia. Doświadczenie programistyczne zdobył pracując przez 10 lat z Javą. Od 5+ lat zmierza w kierunku DevOps skupiając się na Kubernetes, Security i na architekturze. Prezentuje krytyczny styl myślenia. Uważa, że kod powinien być ładny. Współorganizator Bydgoszcz Java User Group."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=TfxYO32KZrA"
+    },
+    {
+      "title": "Dodać wyszukiwarkę? Żaden problem, prawda?",
+      "description": "Wyszukiwanie w produkcie często postrzegane jest jak każda inna backendowa usługa, a sam silnik traktowany jako po prostu kolejne rozwiązanie NoSQL. Prawda jest inna. Dostarczenie funkcjonalności trafnej wyszukiwarki to złożone zadanie, którego wyzwania rozwiązuje się na wielu poziomach organizacji. Już na samym starcie problematyczna staje się analiza tekstu - nasze dane tekstowe nie są ustrukturyzowane, a różne języki musimy analizować w różny sposób (sporo języków nie posiada spacji, pozwalającej łatwo oddzielić od siebie słowa), do tego dochodzi całe morze synonimów i skrótów, a to wszystko - zanim na dobre zaczniemy się bawić z trafnością.\nWłaśnie ta trafność to rdzeń naszego wyzwania.\nCo pokazać użytkownikowi, gdy wpisuje “wędkowanie”?\nKtóre ze słów w zapytaniu, jest ważniejsze od pozostałych?\nJeśli mamy dwa dokumenty, które pasują równie dobrze, który jest istotniejszy dla użytkownika?\nO co właściwie chodziło w zapytaniu “etwajk”??\nW trakcie prezentacji pokażę mały skrawek pracy search engineera. Przejdziemy szybką ścieżką od bezużytecznego zapytania SQL do czegoś, co zaczyna przynosić wartość użytkownikowi. Obraz ten będzie daleki od skończonego, ale praca przy trafności nigdy się nie kończy.",
+      "speakers": [
+        {
+          "name": "Zbyszko Papierski",
+          "bio": "T.B.D. :)"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=3O2RDPhJ_3s"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/61-spotkanie-torun-jug-o-wyszukiwaniu-i-helmie-styczen-2023/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

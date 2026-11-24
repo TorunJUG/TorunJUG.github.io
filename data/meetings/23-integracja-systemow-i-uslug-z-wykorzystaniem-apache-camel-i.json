@@ -1,0 +1,43 @@
+{
+  "number": 23,
+  "slug": "23-integracja-systemow-i-uslug-z-wykorzystaniem-apache-camel-i",
+  "title": "Integracja systemów i usług z wykorzystaniem Apache Camel i Microservices, applied",
+  "description": "Toruń JUG #23: Integracja systemów i usług z wykorzystaniem Apache Camel · Microservices, applied",
+  "startDate": "2016-05-25T18:00:00+02:00",
+  "endDate": "2016-05-25T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/23-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Integracja systemów i usług z wykorzystaniem Apache Camel",
+      "speakers": [
+        {
+          "name": "Wojciech Oczkowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=qkvRGxURnBA"
+    },
+    {
+      "title": "Microservices, applied",
+      "speakers": [
+        {
+          "name": "Nakul Mishra"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=IAaZ6ZfOplI"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/23-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

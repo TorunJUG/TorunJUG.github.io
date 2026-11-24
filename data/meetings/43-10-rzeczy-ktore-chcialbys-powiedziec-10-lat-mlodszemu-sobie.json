@@ -1,0 +1,47 @@
+{
+  "number": 43,
+  "slug": "43-10-rzeczy-ktore-chcialbys-powiedziec-10-lat-mlodszemu-sobie",
+  "title": "10 rzeczy które chciałbyś powiedzieć 10-lat młodszemu sobie i Docker dla początkujących",
+  "description": "Toruń JUG #43: 10 rzeczy które chciałbyś powiedzieć 10-lat młodszemu sobie · Docker dla początkujących",
+  "startDate": "2018-06-27T18:00:00+02:00",
+  "endDate": "2018-06-27T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/43-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "10 rzeczy które chciałbyś powiedzieć 10-lat młodszemu sobie",
+      "description": "Istnieją momenty \"Aha\" które zmieniają życie, karierę, zatrzymują czas. Czasem jest to pierwsze spojrzenie w oczy kobiety (lub mężczyzny) którą kochasz i nic już nie będzie takie samo, czasem jest to zdanie mentora które zmienia bieg Twojej kariery.\n\nTen talk składa się w połowie z mojej retrospektywy, w drugiej ze skompilowanej wiedzy ekspertów, których szanuje i podziwiam.\n\nWszystko przetestowane na własnej (lub cudzej ;) ) skórze. 100% meat.\n\nPodsumowanie wywiadów zebranych przez ostatni rok z programistami seniorami i kompilacją własnych doświadczeń i przemyśleń. Czym się tak naprawdę zajmujemy i co jest ważne? Jakie rzeczy warto byłoby robić inaczej? Na co zwracać uwagę przez pierwsze lata zbierania doświadczenia zawodowego?",
+      "speakers": [
+        {
+          "name": "Krzysztof Kaczmarek",
+          "bio": "Krzysztof jest inżynierem oprogramowania w Tooploox, trenerem w Symentis, który \"zwiedził\" absurdalnie duże i bardzo małe projekty dochodząc do wniosku że można stosować dowolne metodyki i narzędzia, tak długo jak robisz to dobrymi ludźmi i w najprostszy z możliwych sposobów. W wolnym czasie mistrz kungfu i autor naprawdę słabych dowcipów."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=PFVsZMyV_UI"
+    },
+    {
+      "title": "Docker dla początkujących",
+      "description": "Docker, z Dockerem, o Dockerze, Docker to, Docker tamto, Docker na prezydenta. Strach otworzyć lodówkę. Ale co to właściwie jest i czy może być przydatne dla zwykłego, poczciwego programisty? Podczas prezentacji dowiesz się jak zacząć swoją przygodę z tą technologią a przy okazji trochę o kontenerach, ich podstawach, wydajności i bezpieczeństwie oraz całym ekosystemie.",
+      "speakers": [
+        {
+          "name": "Marcin Stożek",
+          "bio": "Za dnia jestem programistą i devopsem, po nocach czytam co słychać na Hacker News. Wierny fan pracy zdalnej.\nBrałem udział w wielu projektach z różnych dziedzin, od bezpieczeństwa w kolejkach po Hadoopa, od monolitu do mikroserwisów.\nWyznaję automatyzację oraz wierzę, że Linux to najlepsza rzecz pod słońcem. No, może druga w kolejności zaraz po Vim ;)"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=kSzd40CeUr8"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/43-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

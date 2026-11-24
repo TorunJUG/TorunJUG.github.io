@@ -1,0 +1,43 @@
+{
+  "number": 34,
+  "slug": "34-kotlin-oraz-nowe-technologie-w-projektach-legacy",
+  "title": "Kotlin oraz nowe technologie w projektach legacy",
+  "description": "Toruń JUG #34: Back to the legacy. Jak wprowadzać technologie · Introduction to Kotlin",
+  "startDate": "2017-09-27T18:00:00+02:00",
+  "endDate": "2017-09-27T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/34-spotkanie-torun-jug-kotlin-oraz-nowe-technologie-w-projekta-ch-legacy/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Back to the legacy. Jak wprowadzać technologie",
+      "speakers": [
+        {
+          "name": "Paweł Kapała"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=6Jd0LRoUtPY"
+    },
+    {
+      "title": "Introduction to Kotlin",
+      "speakers": [
+        {
+          "name": "Grzegorz Dyrda"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=37nMmeL9qLA"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/34-spotkanie-torun-jug-kotlin-oraz-nowe-technologie-w-projekta-ch-legacy/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

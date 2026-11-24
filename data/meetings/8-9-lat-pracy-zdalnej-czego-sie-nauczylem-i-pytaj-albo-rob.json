@@ -1,0 +1,32 @@
+{
+  "number": 8,
+  "slug": "8-9-lat-pracy-zdalnej-czego-sie-nauczylem-i-pytaj-albo-rob",
+  "title": "9 lat pracy zdalnej, czego się nauczyłem ? i Pytaj albo Rób, czyli mały wstęp do CQRS",
+  "description": "Toruń JUG #8: 9 lat pracy zdalnej, czego się nauczyłem ? · Pytaj albo Rób, czyli mały wstęp do CQRS",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "9 lat pracy zdalnej, czego się nauczyłem ?",
+      "speakers": [
+        {
+          "name": "Paweł Wrzeszcz"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=Ms3jmcPQi70"
+    },
+    {
+      "title": "Pytaj albo Rób, czyli mały wstęp do CQRS",
+      "speakers": [
+        {
+          "name": "Zbyszko Papierski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=HQSeEJ6BnDM"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

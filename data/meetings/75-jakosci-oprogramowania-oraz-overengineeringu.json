@@ -1,0 +1,46 @@
+{
+  "number": 75,
+  "slug": "75-jakosci-oprogramowania-oraz-overengineeringu",
+  "title": "\"Jakości oprogramowania\" oraz \"Overengineeringu\"",
+  "description": "Toruń JUG #75: Jakość oprogramowania - od zera do produkcji i jeden krok dalej · Z armaty do muchy, czyli krótka historia overengineeringu",
+  "startDate": "2024-11-27T18:00:00+01:00",
+  "endDate": "2024-11-27T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/75-spotkanie-torun-jug-o-jakosci-oprogramowania-oraz-overengineeringu/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Jakość oprogramowania - od zera do produkcji i jeden krok dalej",
+      "description": "Cześć!\n\nZapraszamy Was na spotkanie Toruń JUG nr 75! Już 27 listopada w godzinach 18:00-20:00 na Wydziale Matematyki i Informatyki UMK (ul. Chopina 12/18) w sali S9.\n\nDla przypomnienia - jak zwykle wstęp jest wolny, obecność na wcześniejszych spotkaniach nie jest wymagana. UWAGA: ze względów formalnych musieliśmy ograniczyć liczbę osób, więc gdy wypadnie Wam nieobecność, zwolnijcie miejsce dla innej osoby! Druga rzecz - w celu poprawnej identyfikacji prosimy o podanie imienia i nazwiska w profilu meetupowym.\n\nI jeszcze trochę ogólnego info...\n\nDzięki Simplito będziecie mogli zobaczyć nagrania z tego spotkania na naszym kanale YT, a oprócz tego sporo fantów dla Was przygotowali:\n\n• Allegro -> książki,\n\n• Helion -> książki,\n\n• JetBrains -> vouchery na oprogramowanie\n\n•\n\nJak zwykle, już po wszystkim, zapraszamy Was tradycyjnie na małe after party do Deer Bear Pub ;)\n\nA teraz trochę o naszych Prelegentach i ich prelekcjach:\n\nJakość oprogramowania – od zera do produkcji i jeden krok dalej\nJako inżynierowie chcemy tworzyć rozwiązania wysokiej jakości.\nAle co to znaczy “jakość“? Czy zawsze oznacza to samo? Gdzie ją znaleźć i czy ma początek lub koniec? Czy da się ją zmierzyć i porównać? Dla kogo jest ważna? Czy niska jakość jest gorsza od wysokiej?\nPodczas naszego spotkania poszukamy odpowiedzi na powyższe pytania udając się w podróż po cyklu wytwarzania oprogramowania – od zera aż po produkcję, a nawet jeden krok dalej. W jej trakcie spojrzymy na wszystko z góry, zobaczymy różne ekstrema, odwiedzimy rozsądek, zanurkujemy w przykładach z życia wziętych, a przede wszystkim spróbujemy odnaleźć w tym wszystkim siebie i swoją rolę w drodze do jakości.",
+      "speakers": [
+        {
+          "name": "Daniel Dopierała",
+          "bio": "Programista z zamiłowania, orędownik rozsądnej jakości z wewnętrznej potrzeby. Od pięciu lat rozwija katalog i klasyfikację produktów w Allegro, obecnie w roli głównego inżyniera. W życiu prywatnym mąż i ojciec trójki dzieci z czwartym w drodze. Rodowity Poznaniak. Uwielbia twórczość Tolkiena i czyste nocne niebo.\n\nZ armaty do muchy, czyli krótka historia overengineeringu.\nCzy warto podążać za modą w IT? Tak modą, bo patrząc z boku na naszą branżę wydaje się, że wszystko musi być AI. A wcześniej Data. A wcześniej w chmurze. A jeszcze wcześniej mikroserwisowe. W tej krótkiej i pełnej skrótów myślowych prezentacji zadam wiele kontrowersyjnych pytań, np. czy API na prawdę trzeba pisać w MVC i czy warto przenosić wszystko do chmury."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=1BHaDHU9sRM"
+    },
+    {
+      "title": "Z armaty do muchy, czyli krótka historia overengineeringu",
+      "speakers": [
+        {
+          "name": "Cezary Krzyżanowski",
+          "bio": "stąpa na pograniczu światów infrastruktury i software-u od 15 lat. Na codzień krzewiciel developer experience i architekt platformy kubernetesowej. Wieczorami obieżyświat i miłośnik natury."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=S89-mu87SOA"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/75-spotkanie-torun-jug-o-jakosci-oprogramowania-oraz-overengineeringu/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

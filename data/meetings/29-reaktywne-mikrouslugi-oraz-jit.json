@@ -1,0 +1,45 @@
+{
+  "number": 29,
+  "slug": "29-reaktywne-mikrouslugi-oraz-jit",
+  "title": "Reaktywne Mikrousługi oraz JIT",
+  "description": "Toruń JUG #29: JIT me baby one more time · Reaktywne Mikrousługi w Praktyce",
+  "startDate": "2017-01-25T18:00:00+01:00",
+  "endDate": "2017-01-25T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/29-spotkanie-torun-jug-reaktywne-mikrouslugi-oraz-jit/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "JIT me baby one more time",
+      "description": "JIT, “just in time”, “hot spot”, tajemniczy, cichy bohater JVM. Dowód na stwierdzenie, że każda wystarczająco skomplikowana technologia ma w sobie element magiczny. Jeśli myślisz, że ta prezentacja będzie wypełniona praktyczna wiedzą, lub też, nie daj Boże, pozwoli Ci zrozumieć jak działa JIT. Jesteś w błędzie. Będzie to festiwal wiedzy bezużytecznej, zbędnej i nazbyt odklejonej od naszej codziennej pracy, podlanej sosem asemblera i ISA Intel x86_64. Celem tej prezentacji jest chwila zadumy i zachwytu nad pięknem technologii. Chwila refleksji jak niewiele wiemy i jak wiele skrywa się pod kolejnymi warstwami abstrakcji, bibliotek i framework’ów. Prezentacja opierać się będzie na kilku prostych przykładach w języku Java i analizą zachowania JIT. Dla szybkiego osiągnięcia stanu wspólnej świadomości, przykłady poprzedzone będą szybkim wprowadzeniem do interpretera bytecode, kompilatorów C1 i C2, technik “inline” i “escape analisys”, deoptymalizacji i narzędzi do inspekcji zachowania powyższych mechanizmów. Podczas prezentacji spotkamy takie techniki wykorzystywane przez JIT jak, class hierarchy analisys, constant propagration, loop unrolling i intrinsics. Tę prezentację sponsoruje -XX:+PrintCompliation, -XX:+PrintInlining, -XX:+PrintInterpreter oraz hsdis. O prelegencie:\n• Jarek Pałka - Od ponad 15 lat w branży IT, jako administrator baz danych, programista, architekt, manager i „inżynier od spraw katastrof”. Brałem udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami „waterfall”, Agile oraz przy braku jakichkolwiek metodyk, z tym samym zawsze skutkiem. Co doprowadziło mnie do wniosku, że nie ważne co robisz tak długo, jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych narzędzi które wykonają pracę za ciebie. W międzyczasie dałem się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST i NoSQL, by potem porzucić je by zgłębić tajniki „system thinking” i zachwycić się siłą jaką niesie z sobą „metafora” i odkryć, że rządzą nami te same prawa „natury”. Niepokorny wyznawca kościoła JVM, badacz bytecode'u i JIT oraz wszelkiej maści parserów, interpeterów i kompilatorów. Od czasu do czasu można usłyszeć moje niskiej jakości żarty na temat architektury na konferencjach w Polsce. W chwilach trener w http://symentis.pl i autor bloga na http://geekyprimitives.wordpress.com/",
+      "speakers": [
+        {
+          "name": "Jarosław Pałka"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=GXyM7IOTXOM"
+    },
+    {
+      "title": "Reaktywne Mikrousługi w Praktyce",
+      "description": "W prezentacji opowiem moją krótką przygodę z reaktywnym programowaniem. Opowiem o narzędziach, architekturze (głównie Scala, Kafka i Akka-Stream). Ale także o tym jak w organizacji przyzwyczajonej do Javy i Springa i mocno wspierającej te technologie używa się narzędzi spoza tego stacku. Będzie szczerze i konkretnie. Zapraszam! PS. Ta prezentacja będzie raczej rozwinięciem niż kopią prezentacji z JUGu w Bydgoszczy, więc zapraszam również Bydgoszczaków :) O prelegencie:\n• Krzysztof Muchewicz - Jestem programistą w Grupie Allegro. W ciągu dziesięciu lat kariery informatycznej (po)pełniłem każdą możliwą rolę w IT od programisty, poprzez lidera, menadżera, po architekta. Miałem okazję tworzyć rozwiązania w C++, .NET, Java i Scali. Programowałem i projektowałem aplikacje desktopowe, bazodanowe, webowe. Od jakiegoś czasu uczę się reaktywnych zabawek związanych z ekosystemem Scala/Akka/Spark. Prywatnie kręcą mnie buddyzm i podróże.",
+      "speakers": [
+        {
+          "name": "Krzysztof Muchewicz"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=Jvmn5Kn0N8o"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/29-spotkanie-torun-jug-reaktywne-mikrouslugi-oraz-jit/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

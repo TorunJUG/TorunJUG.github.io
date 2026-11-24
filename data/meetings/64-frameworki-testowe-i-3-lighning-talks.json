@@ -1,0 +1,69 @@
+{
+  "number": 64,
+  "slug": "64-frameworki-testowe-i-3-lighning-talks",
+  "title": "\"Frameworki testowe\" i 3 lighning-talks",
+  "description": "Toruń JUG #64: O tym jak zacząłem trzymać JSON'y w bazie · Definiowanie oczekiwań wobec Staff Engineer’ów · Multitask like a pro! · Spock vs Kotest",
+  "startDate": "2023-05-31T18:00:00+02:00",
+  "endDate": "2023-05-31T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/64-spotkanie-torun-jug-frameworki-testowe-3-lighning-talks/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "O tym jak zacząłem trzymać JSON'y w bazie",
+      "description": "Krótka historia o tym jak 50MB JSONy wylądowały w Relacyjnej Bazie Danych i o tym jak za pomocą Javy pobieram je w 80ms.",
+      "speakers": [
+        {
+          "name": "Patryk Bojańczyk",
+          "bio": "wieczny Junior, ale już taki mocniejszy ostatnio. Wielbi się w pisaniu CRUDów i spełnianiu wymagań biznesu. Od kilku lat walczy z przekonaniem, że RAM i CPU są tańsze niż programista. W wielkim świecie korporacyjnym stara się przywrócić kulturę pisania oprogramowania.\n\n* * *"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=i8gZiFr1C6I"
+    },
+    {
+      "title": "Definiowanie oczekiwań wobec Staff Engineer’ów",
+      "description": "Uzgodnienie wspólnej wizji w dużej grupie nie nie lada wyzwaniem. Wymaga sporo cierpliwości, wyrozumiałości i skupienia na sednie sprawy. A teraz wyobraź sobie, że ustalasz swój zakres obowiązków z kolegami, ze swoim Managerem oraz pionem zarządzającym - ale to jest wyzwanie!Podczas prezentacji opowiem Tobie o mojej przygodzie z definiowaniem oczekiwań wobec pozycji Staff Engineer’a w MongoDB. Opowiem Tobie o ciekawych dyskusjach, jakie prowadziłem, o uporczywym dążeniu do konsensusu, a także, o archetypach i niezbadanym terytorium mojej pracy.",
+      "speakers": [
+        {
+          "name": "Sebastian Łaskawiec",
+          "bio": "Staff Engineer zajmujący się budowaniem produktów opartych o Kubernetesa w MongoDB. Niepoprawny optymista wierzący, że wszystkie klastry są stabilne, a opóźnienie sieciowe równe zero.\n\n* * *"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=UB4C3ev2XEQ"
+    },
+    {
+      "title": "Multitask like a pro!",
+      "description": "W dzisiejszym świecie pełnym wyzwań i natłoku informacji często wymaga się od nas wielu interakcji naraz, oczekując od nas wspomnianego mutlitaskingu. W krótkim lightningu wspólnie się zastanowimy jak to robić dobrze i czy istnieje Mr. & Mrs Perfect multitasker.",
+      "speakers": [
+        {
+          "name": "Tomasz Michałek-Czerepak",
+          "bio": "Tomasz Michałek-Czerepak - doświadczony menedżer IT z wieloletnim doświadczeniem w zwinnym zarządzaniu zespołami oraz rozwoju oprogramowania. Rozpoczął swoją karierę jako programista, a następnie awansował na stanowisko Chief Architekta. Kilka lat temu przeszedł na ścieżkę managerską, w której stale doskonali swoje umiejętności. Tomasz ma pasję do zwinnego zarządzania zespołami oraz udokumentowane osiągnięcia w zwinnym prowadzeniu zespołów w kilku dużych instytucjach finansowych. W wolnym czasie Tomasz skupia się na rozwijaniu Lean Architecture Framework (LAF) i dzieleniu się swoją wiedzą na ten temat z innymi. LAF jest sposobem na kompleksowe zarządzanie architekturą, który umożliwia organizacjom dostosowanie się do zmieniających się wymagań biznesowych."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=uR8TvvLqEWk"
+    },
+    {
+      "title": "Spock vs Kotest",
+      "description": "Porównajmy frameworki testowe: Spock, Kotest i JUnit 5 na Kotlinie. Przedstawione zostaną przykłady testów napisanych w tych frameworkach takie jak: testy podstawowe, testy parametryzowane, wykorzystanie mocków i inne. Ocenimy je w oparciu o kryteria, na podstawie których Spock i JUnit 4 były wcześniej porównywane. Następnie porównamy te kryteria z JUnit 5 w połączeniu z Kotlinem. Dzięki tym informacjom będziemy mogli odpowiedzieć na pytanie, czy Spock jest niekwestionowanym liderem w świecie testów w języku Java, czy może Kotest zdobył nową pozycję króla, a może to właśnie JUnit 5 z Kotlinem dostarcza najlepsze narzędzia do testowania.",
+      "speakers": [
+        {
+          "name": "Andrii Plotnikov",
+          "bio": "Jest architektem i liderem zespołu developerskiego w firmę Soonly Finance z dużym doświadczeniem w IT. Odpowiedzialny za stworzenie architektonicznej wizji, poszukiwanie i wprowadzanie innowacji. W pracy skupia się na tworzeniu czystych, rozszerzalnych i testowalnych rozwiązaniach, które spełniają potrzeby klientów.\nUwielbia dzielić się wiedzą i ciągłe poszerzać swoje kompetencje. Wielki fan Domain-Driven Design oraz Test-Driven Development. Jest Certyfikowanym AWS Solution Architektem i Certyfikowanym Architektem Rozwiązań Reaktywnych.\n\n* * *"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=DjcTuZKQgCc"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/64-spotkanie-torun-jug-frameworki-testowe-3-lighning-talks/",
+    "youtube": 4,
+    "generatedAt": "2026-11-24"
+  }
+}

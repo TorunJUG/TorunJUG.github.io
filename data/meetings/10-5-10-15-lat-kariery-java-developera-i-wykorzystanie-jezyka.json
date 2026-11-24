@@ -1,0 +1,32 @@
+{
+  "number": 10,
+  "slug": "10-5-10-15-lat-kariery-java-developera-i-wykorzystanie-jezyka",
+  "title": "5 10 15 lat kariery Java developera i Wykorzystanie języka Groovy w testach",
+  "description": "Toruń JUG #10: 5 10 15 lat kariery Java developera · Wykorzystanie języka Groovy w testach",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "5 10 15 lat kariery Java developera",
+      "speakers": [
+        {
+          "name": "Wojciech Seliga"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=HcYRwJYMadg"
+    },
+    {
+      "title": "Wykorzystanie języka Groovy w testach",
+      "speakers": [
+        {
+          "name": "Mirosław Gołda"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=EGKOSUBGy8M"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

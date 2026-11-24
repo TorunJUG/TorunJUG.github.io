@@ -1,0 +1,47 @@
+{
+  "number": 39,
+  "slug": "39-gradle-zbudowac-zapomniane-i-jmonkeyengine-once-again",
+  "title": "Gradle - zbudować zapomniane i jMonkeyEngine once again",
+  "description": "Toruń JUG #39: Gradle - zbudować zapomniane · jMonkeyEngine once again",
+  "startDate": "2018-02-28T18:00:00+01:00",
+  "endDate": "2018-02-28T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/39-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Gradle - zbudować zapomniane",
+      "description": "Gradle to zdobywające coraz większą popularność narzędzie do automatyzowania procesu budowania aplikacji napisanych nie tylko w Javie, ale także w Groovym, Scali, Kotlinie, C++, JavaScripcie.\nDowiemy się czym jest Gradle, pobawimy się nim trochę, poznamy idee jakimi się kieruje oraz sprawdzimy jakie daje nam możliwości. Zobaczymy Gradle'a w prawdziwym życiu. Użyjemy go do zbudowania i uruchomienia starego projektu, który nie dość, że nie posiada w pełni skonfigurowanego builda, to jeszcze skrywa parę niestandardowych niespodzianek.",
+      "speakers": [
+        {
+          "name": "Adrian Woźniak",
+          "bio": "programista zawodowo związany z Javą od 11 lat. Fan usprawniania procesu budowania aplikacji oraz korzystania z nowych wersji bibliotek, wiecznie rozwiązujący problemy z tranzytywnymi zależnościami. Aktualnie zatrudniony w 4Finance IT. Prywatnie odnajduje spokój w klasycznych rockowych brzmieniach. W wolnych chwilach działa jako murarz, malarz, elektryk, cieśla a nawet drwal."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=J6DFRqQFQjw"
+    },
+    {
+      "title": "jMonkeyEngine once again",
+      "description": "W prezentacji postaram się z pomocą biblioteki jMonkeyEngine pokazać, że programowanie w 3D nie musi być straszne i wystarczy kilka kroków, by osiągnąć efekt wow. Opowiem co sprawiło, że ta biblioteka przyciągnęła moją uwagę, następnie zakoduję jakiś kawałek kodu i pokażę kilka ciekawych przykładów z wykorzystaniem jME.",
+      "speakers": [
+        {
+          "name": "Miłosz Rembisz",
+          "bio": "zawodowo programista java z 6-letnim doświadczeniem, korpo-szczur, wyznawca toZależyzmu, lubiący debugować problemy w legacy codzie, żeby móc potem git-blame’ować autora i wspólnie, w sposób konstruktywny, znaleźć optymalne jego rozwiązanie. Prywatnie ojciec, mąż, game-o-holic, czytacz fantastyki i oglądacz anime."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=5lciS9Hf3Aw"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/39-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

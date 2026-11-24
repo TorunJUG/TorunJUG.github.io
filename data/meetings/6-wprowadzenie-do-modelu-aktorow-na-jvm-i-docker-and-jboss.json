@@ -1,0 +1,32 @@
+{
+  "number": 6,
+  "slug": "6-wprowadzenie-do-modelu-aktorow-na-jvm-i-docker-and-jboss",
+  "title": "Wprowadzenie do modelu aktorów na JVM i Docker and JBoss, the perfect combination",
+  "description": "Toruń JUG #6: Wprowadzenie do modelu aktorów na JVM · Docker and JBoss, the perfect combination",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Wprowadzenie do modelu aktorów na JVM",
+      "speakers": [
+        {
+          "name": "Mikołaj Fejzer"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=GEDqUIEHoj4"
+    },
+    {
+      "title": "Docker and JBoss, the perfect combination",
+      "speakers": [
+        {
+          "name": "Marek Goldmann"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=982jJGgqPww"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

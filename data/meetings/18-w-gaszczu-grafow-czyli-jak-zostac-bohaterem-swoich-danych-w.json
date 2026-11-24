@@ -1,0 +1,23 @@
+{
+  "number": 18,
+  "slug": "18-w-gaszczu-grafow-czyli-jak-zostac-bohaterem-swoich-danych-w",
+  "title": "W gąszczu grafów, czyli jak zostać bohaterem swoich danych w Neo4j",
+  "description": "Toruń JUG #18: W gąszczu grafów, czyli jak zostać bohaterem swoich danych w Neo4j",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "W gąszczu grafów, czyli jak zostać bohaterem swoich danych w Neo4j",
+      "speakers": [
+        {
+          "name": "Jarosław Pałka"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=TfvX6Ql8ScE"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

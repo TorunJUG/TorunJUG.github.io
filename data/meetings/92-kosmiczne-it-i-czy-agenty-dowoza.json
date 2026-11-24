@@ -1,0 +1,50 @@
+{
+  "number": 92,
+  "slug": "92-kosmiczne-it-i-czy-agenty-dowoza",
+  "title": "Kosmiczne IT i Czy agenty dowożą",
+  "description": "Toruń JUG #92: Bezpieczeństwo technologii kosmicznych · Czy Twoje agenty naprawdę dowożą? Lekcje z prowadzenia „software factory”",
+  "startDate": "2026-11-25T18:00:00+01:00",
+  "endDate": "2026-11-25T20:00:00+01:00",
+  "status": "scheduled",
+  "location": {
+    "place": "WFAiIS UMK",
+    "address": "ul. Grudziądzka 5/7",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/torun-jug-92-kosmiczne-it-czy-agenty-dowoza/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Bezpieczeństwo technologii kosmicznych",
+      "description": "Kosmos przestał być domeną mocarstw, a popularyzacja tanich satelitów przeniosła na orbitę znane problemy z cyberbezpieczeństwem, takie jak brak szyfrowania czy uwierzytelniania.\n\nPodczas prelekcji pokażemy, dlaczego infrastrukturę kosmiczną można dziś porównać do rozproszonej sieci komputerowej podatnej na cyberataki i jakie ma to znaczenie dla naszego codziennego życia.\n\nOmówimy podsłuchiwanie nieszyfrowanej komunikacji satelitarnej, możliwości przejmowania kontroli nad urządzeniami (hijacking) oraz zagrożenia fizyczne, w tym rosyjskie satelity-matrioszki i ich potencjalne zastosowania militarne.\n\nPrzyjrzymy się również atakowi na system Viasat KA-SAT z 2022 roku, podczas którego wykorzystanie błędnej konfiguracji VPN umożliwiło atakującym uzyskanie dostępu do infrastruktury zarządzającej i zakłócenie łączności satelitarnej dziesiątek tysięcy użytkowników w Europie.\n\nPokażemy, że cyberbezpieczeństwo infrastruktury kosmicznej to nie tylko kwestia ochrony satelitów na orbicie, ale również systemów naziemnych, od których zależy ich działanie.",
+      "speakers": [
+        {
+          "name": "Maciej Glugla",
+          "bio": "Jestem studentem Politechniki Bydgoskiej i członkiem zarządu Hack In Space. Interesuję się cyberbezpieczeństwem oraz zastosowaniem informatyki w branży kosmicznej."
+        },
+        {
+          "name": "Olaf Szafrański",
+          "bio": "Jestem studentem informatyki stosowanej i założycielem Hack In Space - organizacji zajmującej się cyberbezpieczeństwem technologii kosmicznych.\nKoncentruję się na bezpieczeństwie satelitów, szczególnie systemów CubeSat, w których identyfikowałem podatności sprzętowe, programowe i komunikacyjne. Interesuję się również inżynierią wsteczną, bezpieczeństwem IoT i sieci komputerowych, systemami wbudowanymi oraz badaniem podatności.\n\n\"Czy Twoje agenty naprawdę dowożą? Lekcje z prowadzenia „software factory”\"\nWpuszczenie agentów AI do SDLC jest proste, trudniej sprawić, żeby to, co wyprodukują, faktycznie nadawało się na produkcję. Opowiem, jak budować własną „fabrykę oprogramowania”: agentowe pętle code review, w których jeden agent raportuje swoje błędy, a drugi je poprawia, oraz triaż, który mówi, które zadania naprawdę potrzebują człowieka. Pokażę też, co w tym układzie się psuje i dlaczego PASS powinien oznaczać spełnione progi jakości, a nie „zrobiliśmy, co się dało”"
+        }
+      ],
+      "recordingUrl": null
+    },
+    {
+      "title": "Czy Twoje agenty naprawdę dowożą? Lekcje z prowadzenia „software factory”",
+      "speakers": [
+        {
+          "name": "Artur Skowroński",
+          "bio": "Head of Application Development w VirtusLab, gdzie pomaga klientom budować i skalować złożone systemy w wymagających środowiskach. Inżynier i lider zespołów developerskich specjalizujący się w JVM, nowoczesnej architekturze chmurowej oraz zastosowaniach AI w inżynierii oprogramowania. Twórca newslettera JVM Weekly, współautor książki \"Vibe Engineering\" (Manning) i regularny prelegent na międzynarodowych konferencjach poświęconych Javie i AI"
+        }
+      ],
+      "recordingUrl": null
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/torun-jug-92-kosmiczne-it-czy-agenty-dowoza/",
+    "youtube": 0,
+    "generatedAt": "2026-11-24"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "number": 68,
+  "slug": "68-czystym-kodzie-oraz-datach-czasie-i-strefach",
+  "title": "\"Czystym kodzie\" oraz \"Datach, czasie i strefach\"",
+  "description": "Toruń JUG #68: Czysty kod - to jednak nie takie proste. · Fantastic dates and how to find them",
+  "startDate": "2024-01-31T18:00:00+01:00",
+  "endDate": "2024-01-31T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/68-spotkanie-torun-jug-o-czystym-kodzie-oraz-datach-czasie-i-strefach/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Czysty kod - to jednak nie takie proste.",
+      "description": "Skąd wiesz czy piszesz dobry kod?! Bo jest zgodny z konwencjami? Bo statyczna analiza nie wykrywa błędów? Bo przestrzega SOLID, CUPID, DRY, KISS?\nWszystkie te kryteria są niesamowicie subiektywne, bo czy zgadzamy się wszyscy czym jest pojedyncza odpowiedzialność, albo ile linii ma krótka metoda, czy dana klasa wystarczająco enkapsuluje?\nI tu pojawia się pytanie, czy da się obiektywnie oceniać kod? W 100% raczej nie, ale da się dużo bardziej niż do tej pory.",
+      "speakers": [
+        {
+          "name": "Łukasz Szydło",
+          "bio": "Programista pasjonat, fan “Software Craftsmanship” i zwinnego podejścia do wytwarzania oprogramowania.\nLubi proste rozwiązania skomplikowanych problemów. Na co dzień zajmuje się tematami z zakresu architektury aplikacji, Domain-Driven Design, Continuous Delivery, technologii Java oraz testowania automatycznego.\nPrywatnie mąż, ojciec szóstki dzieci.\n* * *"
+        }
+      ],
+      "recordingUrl": null
+    },
+    {
+      "title": "Fantastic dates and how to find them",
+      "description": "Did your software ever crash after moving to a different time zone? Did daylight saving ever made you having repeated timestamps in logs? Should we care about a leap second? And in what timezone the Moon is?\nDate and time is 1st class citizen in Java for a couple of years already, but this domain has a lot of traps and caveats. Together we will try to tame that fantastic beast!",
+      "speakers": [
+        {
+          "name": "Arkadiusz Sokołowski",
+          "bio": "20 years of practical Java & other JVM languages experience. Lecturing Java at Jagiellonian University. Likes to solve problems, not to code. Currently working as Senior Manager, Product & Engineering at Allegro."
+        }
+      ],
+      "recordingUrl": null
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/68-spotkanie-torun-jug-o-czystym-kodzie-oraz-datach-czasie-i-strefach/",
+    "youtube": 0,
+    "generatedAt": "2026-11-24"
+  }
+}

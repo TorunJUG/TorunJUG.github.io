@@ -1,5 +1,5 @@
               <article class="meeting-card">
-                <div class="meeting-card-meta"><span class="meeting-number">#{{ meeting.number }}</span><time datetime="{{ meeting.day }}">{{ meeting.dateLabel }}</time></div>
+                <div class="meeting-card-meta"><span class="meeting-number">#{{ meeting.number }}</span>{% if meeting.day %}<time datetime="{{ meeting.day }}">{{ meeting.dateLabel }}</time>{% else %}<span>data nieznana</span>{% endif %}</div>
                 <h3><a href="{{ meetingsBase }}{{ meeting.url }}">{{ meeting.cardTitle }}</a></h3>
                 <p>{{ meeting.speakersLabel }}</p>
                 {%- if meeting.recordings > 0 %}

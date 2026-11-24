@@ -1,0 +1,47 @@
+{
+  "number": 60,
+  "slug": "60-micronaut-i-self-sovereign-identity",
+  "title": "\"Micronaut\" i \"Self-Sovereign Identity\"",
+  "description": "Toruń JUG #60: Micronaut Framework i deklaratywny klient HTTP - praktyczne wprowadzenie · The Hitchhiker's Guide to the Self-Sovereign Identity",
+  "startDate": "2022-12-07T18:00:00+01:00",
+  "endDate": "2022-12-07T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/60-spotkanie-torun-jug-o-micronaut-i-self-sovereign-identit-y/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Micronaut Framework i deklaratywny klient HTTP - praktyczne wprowadzenie",
+      "description": "W prezentacji tej skupimy się na praktycznych aspektach tworzenia aplikacji webowych z wykorzystaniem Micronaut Framework oraz przyjrzymy się dokładnie deklaratywnemu klientowi HTTP. Oprócz tego, dowiesz się czym jest Micronaut Framework, co ma wspólnego ze Springiem i co tak właściwie odróżnia oba te frameworki, a także zobaczysz jak tworzyć aplikacje odporne na często występujące problemy w komunikacji sieciowej. A wszystko to pokazane w praktyczny sposób podczas sesji live-coding.",
+      "speakers": [
+        {
+          "name": "Szymon Stępniak",
+          "bio": "Zawodowy programista od 2007r. z bogatym doświadczeniem na JVM (Java, Groovy, Grails, Spring Boot, Micronaut etc.). Backend Expert we francuskiej firmie Agorapulse, twórca setek nieskończonych projektów, a ostatnio autor serii niewielkich acz użytecznych code snippetów ukazujących możliwości Micronaut Framework - themnfiles.com"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=flONl00VuAk"
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Self-Sovereign Identity",
+      "description": "Obecnie w kontekście zarządzania naszymi cyfrowymi tożsamościami królują Facebook i Google z swoimi wtyczkami \"Zaloguj z...\". Takie podejście do zarządzania danymi osobowymi niesie sporo niebezpieczeństw, a nade wszystko oddala użytkownika od jego własnych cyfrowych tożsamości.\nSelf-Sovereign Identity (SSI) to ruch mający na celu oddać użytkownikowi kontrolę nad własną cyfrową tożsamością oraz tym, komu i jakie dane przekazuje. Pod parasolem SSI, poza ruchem społecznym, kryje się także stos technologiczny implementujący zdecentralizowanych model zarządzania tożsamościami.\nPodczas prezentacji porównamy modele zarządzania tożsamościami, czym różni się SSI od już istniejących rozwiązań i - co najistotniejsze - o szczegółach samego SSI. Pomówimy o DID, Verifiable Credentials, Governance Frameworks i co w tym wszystkim robi blockchain. Zapraszam!",
+      "speakers": [
+        {
+          "name": "Wiktor Sztajerowski",
+          "bio": "Cynik, wielbiciel marnych dowcipów i koneser chemexa. Obecnie skupiony na technologiach blockchain. Bywalec salonów konferencyjnych (czasami nawet udaje, że coś wie i mądrzy się ze sceny). Na co dzień programista, architekt lub konsultant - w zależności od potrzeb. Jeden z ojców założycieli konferencji SegFault oraz członek kapituły łódzkiego JUG."
+        }
+      ],
+      "recordingUrl": null
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/60-spotkanie-torun-jug-o-micronaut-i-self-sovereign-identit-y/",
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

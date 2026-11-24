@@ -1,0 +1,43 @@
+{
+  "number": 25,
+  "slug": "25-ci-cd-oraz-impact-mapping",
+  "title": "CI/CD oraz Impact Mapping",
+  "description": "Toruń JUG #25: Why? + Impact Mapping · Nowoczesne techniki dostarczania oprogramowania",
+  "startDate": "2016-09-28T18:00:00+02:00",
+  "endDate": "2016-09-28T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/25-spotkanie-torun-jug-cicd-oraz-impact-mapping/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Why? + Impact Mapping",
+      "speakers": [
+        {
+          "name": "Łukasz Sawicki"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=Uj4pEpIFVaQ"
+    },
+    {
+      "title": "Nowoczesne techniki dostarczania oprogramowania",
+      "speakers": [
+        {
+          "name": "Sławomir Piotrowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=NniEiQ9nxLw"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/25-spotkanie-torun-jug-cicd-oraz-impact-mapping/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "number": 36,
+  "slug": "36-emulacja-konsoli-game-boy-w-javie-i-czym-nie-jest-apache",
+  "title": "Emulacja konsoli Game Boy w Javie i Czym nie jest Apache Kafka?",
+  "description": "Toruń JUG #36: Emulacja konsoli Game Boy w Javie · Czym nie jest Apache Kafka?",
+  "startDate": "2017-11-29T18:00:00+01:00",
+  "endDate": "2017-11-29T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/36-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Emulacja konsoli Game Boy w Javie",
+      "speakers": [
+        {
+          "name": "Tomasz Rękawek"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=uKv-DCKXWmg"
+    },
+    {
+      "title": "Czym nie jest Apache Kafka?",
+      "speakers": [
+        {
+          "name": "Mariusz Strzelecki"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=7Xjy2ewPJFA"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/36-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

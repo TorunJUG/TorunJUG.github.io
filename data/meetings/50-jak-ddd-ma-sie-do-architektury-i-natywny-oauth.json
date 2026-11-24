@@ -1,0 +1,47 @@
+{
+  "number": 50,
+  "slug": "50-jak-ddd-ma-sie-do-architektury-i-natywny-oauth",
+  "title": "Jak DDD ma się do Architektury? i Natywny OAuth",
+  "description": "Toruń JUG #50: Jak DDD ma się do Architektury? · Natywny OAuth",
+  "startDate": "2019-03-27T18:00:00+01:00",
+  "endDate": "2019-03-27T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/50-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Jak DDD ma się do Architektury?",
+      "description": "Jak to jest z tą architekturą i Domain Driven Design? Czy jedno zastępuje drugie, czy może są zupełnie niezależne? Co to jest Bounded Context, Moduł, Komponent, Serwis? Czy architekt musi rozumieć biznes i co ewentualnie może mu to dać? Co z tym wszystkim wspólnego mają mikroserwisy?\nSpojrzymy na architekturę i DDD z dużej wysokości, z nieco \"filozoficznej\" perspektywy po to, aby zobaczyć dlaczego niektóre podejścia sprawdzają się dobrze, a inne nie. Głębokie rozumienie podstawowych zasad jest nam naprawdę potrzebne. Może ono pomóc w świadomym i odpowiednim doborze środków technicznych, które będą sprawdzały się w dłuższej perspektywie i to nie tylko przez przypadek.\nArchitekt to rola a nie stanowisko więc wszystkie te kwestie dotyczą całych zespołów, a nie garstki wybrańców.",
+      "speakers": [
+        {
+          "name": "Marcin Markowski",
+          "bio": "deweloper, lider techniczny, zwolennik podejścia Software Creftsmanship i ścisłej współpracy z biznesem. Specjalizuje się w modelowaniu, implementacji Domain Driven Design i projektowaniu architektury systemów."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=YEBWenEQ5MI"
+    },
+    {
+      "title": "Natywny OAuth",
+      "description": "Protokół OAuth, który powstał w świecie WWW do współdzielenia zasobów pomiędzy serwisami, stał się również standardowym protokołem\nzewnętrznego uwierzytelniania aplikacji WWW. Wydawało się, że cokolwiek poza przeglądarką, jest na krótkiej ścieżce do wymarcia.\nSmartfony odmieniły ten trend, powodując renesans \"apek\". A wraz z\nwysypem natywnych aplikacji, powstało zapotrzebowanie na użycie w nich popularnych serwisów uwierzytelniania jak i dostępu do usług WWW:\nopartych o OAutha.\nNa prezentacji pokażę jakie trudności niesie realizacja OAutha w aplikacji natywnej, dlaczego często realizacje takie są dziurawe, a także jak zintegrować OAuth w aplikacji zgodnie z najlepszymi obecnie praktykami. Przykłady będą oparte o platformę Android, jednak znakomita większość zawartości ma zastosowanie również na iOS a nawet pisząc pod Linuxem czy MS Windows.",
+      "speakers": [
+        {
+          "name": "Krzysztof Benedyczak",
+          "bio": "zaczynając, w nieco już omszałej epoce, od pisania w asemblerze 8086 oraz kontrybucji do jądra Linuxa, przeszedł długą drogę do programowania w jego ulubionym obecnie języku: Javie. Przez wiele lat związany ze środowiskiem naukowym, współtworzył polską i europejską infrastrukturę komputerową dla badaczy wszelkich maści, włącznie z odkrywcami bozonu Higgsa. Obecnie pracuje dla prężnego startupu z San Francisco, próbując wykorzystać żyrafy do predykcji przyszłości biznesu. Od długiego czasu obraca się również w pobliżu systemów uwierzytelniania, co zaowocowało open source’ową platformą Unity IdM. W pracy najbardziej ceni sobie używanie szarych komórek, a najmniej sztywne schematy i informatyczne mody."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=inbEynIQHKM"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/50-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

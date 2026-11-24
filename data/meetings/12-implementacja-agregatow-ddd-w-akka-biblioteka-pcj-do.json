@@ -1,0 +1,50 @@
+{
+  "number": 12,
+  "slug": "12-implementacja-agregatow-ddd-w-akka-biblioteka-pcj-do",
+  "title": "Implementacja Agregatów (DDD) w Akka, Biblioteka PCJ do naukowych obliczeń równoległych i 2 kolejne prelekcje",
+  "description": "Toruń JUG #12: Implementacja Agregatów (DDD) w Akka · Biblioteka PCJ do naukowych obliczeń równoległych · Fork/Join Framework · Designing API for mobile apps",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Implementacja Agregatów (DDD) w Akka",
+      "speakers": [
+        {
+          "name": "Krzysztof Muchewicz"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=Q-S98sVk3Q4"
+    },
+    {
+      "title": "Biblioteka PCJ do naukowych obliczeń równoległych",
+      "speakers": [
+        {
+          "name": "Marek Nowicki"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=w-7U1vA8UMk"
+    },
+    {
+      "title": "Fork/Join Framework",
+      "speakers": [
+        {
+          "name": "Adam Chyła"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=RaDFePrKtks"
+    },
+    {
+      "title": "Designing API for mobile apps",
+      "speakers": [
+        {
+          "name": "Wojtek Erbetowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=XeG0yH59TCA"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 4,
+    "generatedAt": "2026-11-24"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "number": 66,
+  "slug": "66-architekturze-systemow-i-zonglerce-danymi",
+  "title": "\"Architekturze systemów\" i \"Żonglerce danymi\"",
+  "description": "Toruń JUG #66: Praktyczne Podejścia do Architektury Systemów: Studia Przypadków · Żonglerka danymi z Singer.io i Meltano",
+  "startDate": "2023-10-25T18:00:00+02:00",
+  "endDate": "2023-10-25T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/66-spotkanie-torun-jug-o-architekturze-systemow-i-zonglerce-danymi/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Praktyczne Podejścia do Architektury Systemów: Studia Przypadków",
+      "description": "W dzisiejszym złożonym krajobrazie technologicznym, projektowanie skutecznej architektury systemów jest zadaniem wymagającym i pełnym wyzwań. W tej prelekcji skupię się na praktycznych podejściach do architektury systemów, analizując rzeczywiste przypadki z różnych firm i projektów.\nPokażę w jaki sposób identyfikowano źródła problemów, jakie rozwiązania były brane pod uwagę i jakie ostatecznie zostały zaimplementowane.\nPrzedstawie modele architektoniczne, metodyki i narzędzia, które były używane do analizy opisanych problemów.",
+      "speakers": [
+        {
+          "name": "Sławomir Piotrowski",
+          "bio": "programista, architekt z doświadczeniem w branży finansowej, ubezpieczeniowej, a ostatnio farmaceutycznej. Entuzjasta zwinnego prowadzenia projektów. Expert CI/CD. Kontrybutor open-source. Współzałożyciel CompactIO."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=qQVDQsZhxL0"
+    },
+    {
+      "title": "Żonglerka danymi z Singer.io i Meltano",
+      "description": "Żyjemy w świecie danych. \"Big Data\" kiedyś było buzzwordem, teraz jest codziennością dla wielu z nas, a popyt na przerzucanie danych z kubełka do kubełka nie ustaje. Pośród wielu rozwiązań do integracji danych ostatnio natknąłem się na ciekawą parę: standard Singer.io, opisujący interfejs przerzucania danych i Meltano - narzędzie do prostego zarządzania konfiguracją przepływów danych. System wspiera setki źródeł i kilkadziesiąt destynacji dla różnej maści danych, umożliwia proste transformacje w locie i bardziej zaawansowane po wpięciu w środku Postgresa.\nPodczas prelekcji opowiem Wam, co sprawiło że Singer.io i Meltano skradły moje serce. Wspólnie skonfigurujemy kilka strumieni danych i popatrzymy co dzieje się pod spodem. Może nie będzie to codzienne narzędzie magików JVMa, ale przy jakiejś okazji może zaoszczędzić Wam paru(nastu) godzin dłubaniny.",
+      "speakers": [
+        {
+          "name": "Mariusz Strzelecki",
+          "bio": "Niegdyś programista, od 9 lat inżynier danych. Fan prostych rozwiązań. Prywatnie: biegacz i tata trojga."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=FekYQxB__3M"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/66-spotkanie-torun-jug-o-architekturze-systemow-i-zonglerce-danymi/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

@@ -91,16 +91,30 @@ const youtubeVideoId = (value, field) => {
   return videoId;
 };
 
+const optionalString = (value, field) => (value === undefined || value === null ? null : requiredString(value, field));
+
+/** Inicjały do zastępczego awatara, gdy prelegent nie ma zdjęcia: „Jan Kowalski” → „JK”. */
+const initials = (name) =>
+  name
+    .split(/\s+/)
+    .filter((part) => /^\p{L}/u.test(part))
+    .map((part) => part[0].toUpperCase())
+    .filter((_, i, all) => i === 0 || i === all.length - 1)
+    .join("");
+
 const normalizeSpeaker = (speaker, prefix) => {
-  const photo = requiredString(speaker?.photo, `${prefix}.photo`);
-  if (!PHOTO_PATTERN.test(photo)) {
+  // Zdjęcie i bio są opcjonalne – historyczne spotkania często ich nie mają.
+  // Bez zdjęcia szablony pokazują kafelek z inicjałami.
+  const photo = optionalString(speaker?.photo, `${prefix}.photo`);
+  if (photo && !PHOTO_PATTERN.test(photo)) {
     throw new Error(`pole „${prefix}.photo” musi być nazwą pliku graficznego umieszczonego w src/static/speakers`);
   }
   const name = requiredString(speaker?.name, `${prefix}.name`);
   return {
     id: speakerId(name),
     name,
-    bio: requiredString(speaker?.bio, `${prefix}.bio`),
+    initials: initials(name),
+    bio: optionalString(speaker?.bio, `${prefix}.bio`),
     photo,
   };
 };
@@ -121,7 +135,7 @@ const normalizeTalk = (talk, index) => {
 
   return {
     title: requiredString(talk?.title, `${prefix}.title`),
-    description: requiredString(talk?.description, `${prefix}.description`),
+    description: optionalString(talk?.description, `${prefix}.description`),
     speakers: rawSpeakers.map((speaker, i) => normalizeSpeaker(speaker, `${prefix}.speakers[${i}]`)),
     recordingUrl,
     videoId,
@@ -133,27 +147,30 @@ const structuredData = (meeting) => ({
   "@type": "Event",
   name: `Toruń JUG #${meeting.number} – ${meeting.title}`,
   url: meeting.canonicalUrl,
-  startDate: meeting.startDate,
-  endDate: meeting.endDate,
+  ...(meeting.startDate ? { startDate: meeting.startDate, endDate: meeting.endDate } : {}),
   eventStatus: EVENT_STATUSES[meeting.status],
   eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
-  location: {
-    "@type": "Place",
-    name: meeting.location.place,
-    address: {
-      "@type": "PostalAddress",
-      streetAddress: meeting.location.address,
-      addressLocality: meeting.location.city,
-      addressCountry: "PL",
-    },
-  },
+  ...(meeting.location
+    ? {
+        location: {
+          "@type": "Place",
+          name: meeting.location.place,
+          address: {
+            "@type": "PostalAddress",
+            ...(meeting.location.address ? { streetAddress: meeting.location.address } : {}),
+            addressLocality: meeting.location.city,
+            addressCountry: "PL",
+          },
+        },
+      }
+    : {}),
   organizer: { "@type": "Organization", name: "Toruń JUG", url: `${SITE_URL}/` },
   performer: meeting.talks.flatMap((talk) =>
     talk.speakers.map((speaker) => ({
       "@type": "Person",
       name: speaker.name,
-      description: speaker.bio,
-      image: `${SITE_URL}/static/speakers/${speaker.photo}`,
+      ...(speaker.bio ? { description: speaker.bio } : {}),
+      ...(speaker.photo ? { image: `${SITE_URL}/static/speakers/${speaker.photo}` } : {}),
     })),
   ),
 });
@@ -181,11 +198,16 @@ export function normalizeMeeting(data, file) {
       throw new Error(`nazwa pliku musi odpowiadać slugowi: ${slug}.json`);
     }
 
-    const start = parseDate(data.startDate, "startDate");
-    const end = parseDate(data.endDate, "endDate");
-    if (end.date <= start.date) throw new Error("„endDate” musi być późniejsze niż „startDate”");
-    if (formatDate(start.date) !== formatDate(end.date)) {
-      throw new Error("szablon obsługuje spotkania rozpoczynające się i kończące tego samego dnia");
+    // Daty są opcjonalne (najstarsze spotkania nie mają znanej daty), ale tylko obie naraz.
+    let start = null;
+    let end = null;
+    if (data.startDate || data.endDate) {
+      start = parseDate(data.startDate, "startDate");
+      end = parseDate(data.endDate, "endDate");
+      if (end.date <= start.date) throw new Error("„endDate” musi być późniejsze niż „startDate”");
+      if (formatDate(start.date) !== formatDate(end.date)) {
+        throw new Error("szablon obsługuje spotkania rozpoczynające się i kończące tego samego dnia");
+      }
     }
 
     const status = data.status ?? "scheduled";
@@ -207,29 +229,33 @@ export function normalizeMeeting(data, file) {
       title,
       cardTitle: data.cardTitle ? requiredString(data.cardTitle, "cardTitle") : title,
       description: requiredString(data.description, "description"),
-      startDate: start.text,
-      endDate: end.text,
+      startDate: start?.text ?? null,
+      endDate: end?.text ?? null,
       status,
       template,
-      location: {
-        place: requiredString(data.location?.place, "location.place"),
-        address: requiredString(data.location?.address, "location.address"),
-        city: requiredString(data.location?.city, "location.city"),
-      },
-      meetup: {
-        url: requiredUrl(data.meetup?.url, "meetup.url"),
-        label: requiredString(data.meetup?.label, "meetup.label"),
-      },
+      location: data.location
+        ? {
+            place: requiredString(data.location.place, "location.place"),
+            address: optionalString(data.location.address, "location.address"),
+            city: requiredString(data.location.city, "location.city"),
+          }
+        : null,
+      meetup: data.meetup
+        ? {
+            url: requiredUrl(data.meetup.url, "meetup.url"),
+            label: requiredString(data.meetup.label, "meetup.label"),
+          }
+        : null,
       talks: data.talks.map(normalizeTalk),
       url: `${slug}.html`,
       canonicalUrl: `${SITE_URL}/spotkania/${slug}.html`,
       pageTitle: data.pageTitle || `Toruń JUG #${number} – ${title}`,
       ogDescription: data.ogDescription || `Tematy, prelegenci i informacje o ${number}. spotkaniu Toruń JUG.`,
       ogImage: data.ogImage ? requiredUrl(data.ogImage, "ogImage") : `${SITE_URL}/static/media/cover.jpg`,
-      day: isoDay(start.date),
-      dateLabel: formatDate(start.date),
-      timeLabel: `${formatTime(start.date)}–${formatTime(end.date)}`,
-      year: Number(isoDay(start.date).slice(0, 4)),
+      day: start ? isoDay(start.date) : null,
+      dateLabel: start ? formatDate(start.date) : null,
+      timeLabel: start ? `${formatTime(start.date)}–${formatTime(end.date)}` : null,
+      year: start ? Number(isoDay(start.date).slice(0, 4)) : null,
     };
 
     meeting.recordings = meeting.talks.filter((talk) => talk.recordingUrl).length;

@@ -6,7 +6,9 @@
   "scripts": {
     "start": "eleventy --serve",
     "build": "npm run clean && eleventy",
-    "clean": "node -e \"require('node:fs').rmSync('_site',{recursive:true,force:true})\""
+    "clean": "node -e \"require('node:fs').rmSync('_site',{recursive:true,force:true})\"",
+    "crossweb:links": "node scripts/crossweb/collect-links.mjs",
+    "crossweb:details": "node scripts/crossweb/fetch-details.mjs"
   },
   "engines": {
     "node": ">=20"

@@ -1,0 +1,32 @@
+{
+  "number": 4,
+  "slug": "4-akka-play-spray-scalatra-spark-z-perspektywy-sbt-i",
+  "title": "Akka, Play, Spray, Scalatra, Spark z perspektywy sbt i Testujemy z Arquillianem",
+  "description": "Toruń JUG #4: Akka, Play, Spray, Scalatra, Spark z perspektywy sbt · Testujemy z Arquillianem",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Akka, Play, Spray, Scalatra, Spark z perspektywy sbt",
+      "speakers": [
+        {
+          "name": "Jacek Laskowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=vLMRwMeWDTs"
+    },
+    {
+      "title": "Testujemy z Arquillianem",
+      "speakers": [
+        {
+          "name": "Sebastian Łaskawiec"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=q5FYE3h8SNY"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

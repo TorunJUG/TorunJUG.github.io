@@ -1,0 +1,29 @@
+{
+  "number": 15,
+  "slug": "15-scrum-na-co-dzien",
+  "title": "Scrum na co dzień",
+  "description": "Toruń JUG #15: Scrum na co dzień",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "Scrum na co dzień",
+      "speakers": [
+        {
+          "name": "Rafał Bryk"
+        },
+        {
+          "name": "Maciej Tafliński"
+        },
+        {
+          "name": "Piotr Modzelewski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=8MQBKtlSNUo"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

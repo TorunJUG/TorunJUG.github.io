@@ -1,0 +1,74 @@
+{
+  "number": 57,
+  "slug": "57-antykruchosc-ikigai-jak-dozyc-100-lat-pracujac-jako",
+  "title": "Antykruchość, Ikigai - Jak dożyć 100 lat pracując jako programista? i 3 kolejne prelekcje",
+  "description": "Toruń JUG #57: Antykruchość · Ikigai - Jak dożyć 100 lat pracując jako programista? · Git and Docker Tips and Tricks · DevOps way to go · Keycloak - uwierzytelnianie i autoryzacja w świecie mikro-serwisów",
+  "startDate": "2019-12-18T18:00:00+01:00",
+  "endDate": "2019-12-18T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/57-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Antykruchość",
+      "speakers": [
+        {
+          "name": "Szymon Janikowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=IMhoyap0nZo"
+    },
+    {
+      "title": "Ikigai - Jak dożyć 100 lat pracując jako programista?",
+      "speakers": [
+        {
+          "name": "Paweł Kapała"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=hHNssgc_hiw"
+    },
+    {
+      "title": "Git and Docker Tips and Tricks",
+      "speakers": [
+        {
+          "name": "Sławomir Piotrowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=UmepwzZfwIs"
+    },
+    {
+      "title": "DevOps way to go",
+      "description": "Prezentacja skupi się na praktycznym podejściu do zagadnienia DevOps. Będziecie mogli posłuchać/zobaczyć:\n- Czym jest DevOps, dlaczego tak szybko zdobywa popularność\n- DevOps pipeline na przykładzie prostej aplikacji Javy (za pomocą Jenkins)\n- DevSecOps - uzupełnienie pipeline'a o elementy bezpieczeństwa (SAST DAST)\n- DevTestOps - uzupełnienie pipeline o elementy testów jednostkowych oraz funkcjonalnych (JUnit oraz Selenium)\n- AIOps - wspomnę czym jest, oraz z czym się to je",
+      "speakers": [
+        {
+          "name": "Dawid Dacewicz",
+          "bio": "DevOps Engineer w Posti Messaging, entuzjasta metodologii DevOps, automatyzacji oraz bezpieczeństwa. Pasjonat rozwiązań chmurowych."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=FX7vMsYuUIQ"
+    },
+    {
+      "title": "Keycloak - uwierzytelnianie i autoryzacja w świecie mikro-serwisów",
+      "description": "Nazwa użytkownika i hasło… Niby niewiele, a można na tej podstawie zrobić bardzo dużo. Ale jak to się ma do mikro-serwisów? Jak to się dzieje, że nie musimy się logować do wielu stron w firmie, tylko do jednej? I co to są te “tokeny”? Na te i inne pytanie postaram się odpowiedzieć podczas mojej prezentacji. Zabiorę Was w świat uwierzytelniania i autoryzacji. Sprawdzimy, co jest ten oAuth i czy uprawnienia można oddelegować (a jak tak, to gdzie?).",
+      "speakers": [
+        {
+          "name": "Sebastian Łaskawiec",
+          "bio": "jest programistą zajmującym się projektami Keycloak i Red Hat Single Sign-on w firmie Red Hat. Sebastian zajmuje się przede wszystkim integracją z chmurami opartymi o kontenery, takimi, jak OpenShift czy Kubernetes. W wolnym czasie, zajmuje się badaniami nad wykorzystaniem Uczenia Maszynowego w automatycznym utrzymaniu i optymalizacji infrastruktury - nurcie NoOps. Prywatnie, ojciec, gitarzysta i domowy piwowar."
+        }
+      ],
+      "recordingUrl": null
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/57-spotkanie-torun-jug/",
+    "youtube": 4,
+    "generatedAt": "2026-11-24"
+  }
+}

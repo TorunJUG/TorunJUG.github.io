@@ -1,0 +1,47 @@
+{
+  "number": 37,
+  "slug": "37-biblioteka-pcj-aplikacje-rownolegle-w-javie-i-zanim",
+  "title": "Biblioteka PCJ - aplikacje równoległe w Javie? i Zanim założysz startup",
+  "description": "Toruń JUG #37: Biblioteka PCJ - aplikacje równoległe w Javie? · Zanim założysz startup",
+  "startDate": "2017-12-20T18:00:00+01:00",
+  "endDate": "2017-12-20T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/37-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Biblioteka PCJ - aplikacje równoległe w Javie?",
+      "description": "Wzrastająca popularność Javy jako języka dla wykonywania symulacji, spowodowała duży popyt na rozszerzenia i biblioteki Javy służące do przetwarzania równoległego. Dobrym przykładem może być Parallel Java czy Java Grande, ale one nie zostały szeroko zaadoptowane. Titanium jest trudny do użycia, ponieważ wprowadza nowa składnie do języka i jest zaimplementowany w oparciu o tłumaczenie kodu programu napisanego w zmodyfikowanym języku Java na język C a następnie kompilacje. Wśród innych rozwiązań można wymienić Apache Hadoop czy Apache Spark pozwalające na równoległe wykonywanie obliczeń w modelu Map-Reduce, do którego pewne problemy ciężko, jeśli w ogóle się da, dopasować. Biblioteka PCJ została stworzona od zera z wykorzystaniem najnowszej wersji języka Java SE 8. W trakcie projektowania główny nacisk położono na zgodność ze standardami Java. PCJ została stworzona jako samodzielna biblioteka, która nie wymaga żadnych modyfikacji języka ani nie wykorzystuje żadnych dodatkowych bibliotek. Programista wykorzystujący PCJ nie jest zmuszony do dołączania bibliotek, które nie są częścią standardowej dystrybucji Java. Biblioteka PCJ jest rozwijana od paru lat w ICM UW i WMiI UMK, pozwala na zrównoleglanie aplikacji i uruchamianie ich na komputerach wieloprocesorowych (od PC-ta do Cray'a), skaluje się do setek tysięcy rdzeni obliczeniowych. W trakcie wykładu zostanie zaprezentowana najnowsza wersja biblioteki (PCJ5) wraz z podstawowymi przykładami użycia.",
+      "speakers": [
+        {
+          "name": "Marek Nowicki",
+          "bio": "Marek Nowicki (https://twitter.com/faramir2) - Asystent w Zakładzie Obliczeń Równoległych i Rozproszonych WMiI UMK, lider toruńskiego JUGa. Programista-naukowiec związany z językiem Java, zajmujący się głównie obliczeniami równoległymi w środowisku wielowęzłowym w tymże języku. Autor biblioteki PCJ."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=P3N_K-jiq2A"
+    },
+    {
+      "title": "Zanim założysz startup",
+      "description": "Większość opracowań dotyczących przyczyn dla których startupy upadają wymienia dwie kategorie powodów:\n\n• biznesowe (brak product/market fit, skończyły się pieniądze, słaby marketing)\n\n• komunikacyjne (zespół nie dogadywał się między sobą albo z inwestorem).\n\nW tej prezentacji pokaże inną perspektywę. Moim zdaniem kluczowy jest inny poziom - indywidualnych potrzeb założycieli startupu. Krótko mówiąc tego co ich najbardziej “kręci” w pomyśle startupu. Będzie o przykładach z mojego doświadczenia - systemie obiegu dokumentów, który nie doczekał się klientów, udanym, ale nieopłacalnym narzędziu dla programistów (Codebrag) i biznesowym sukcesie SoftwareMill oraz firm, którym aktualnie doradzam.\n\nNa podstawie tych przykładów opowiem o modelu projektowania biznesu dla programistów opartym o 3 aspekty: własnych potrzeb, ambicji technicznych oraz potrzeb rynku. Z takiej analizy często wyłania się trzecia droga, np. założenia softwarehouse’u zamiast tworzenia ryzykownego startupu produktowego. Przyjdź zanim założysz startup. Jeśli już założyłeś, też przyjdź - spojrzysz na swój biznes z zupełnie innej perspektywy.",
+      "speakers": [
+        {
+          "name": "Paweł Wrzeszcz",
+          "bio": "Paweł Wrzeszcz (https://twitter.com/pawelwrzeszcz) - Agile Coach and Business Mentor. With over 11 years’ experience in IT, including 7 years on the business side, Paweł is bridging the gap between: two worlds: IT and business. Previously at SoftwareMill as co-founder and Board Member. Currently as an Agile Coach he supports companies in becoming more effective using Agile and Scrum. He also mentors people with an IT background who want to develop their own business."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=uexOmZ8p8ZQ"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/37-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

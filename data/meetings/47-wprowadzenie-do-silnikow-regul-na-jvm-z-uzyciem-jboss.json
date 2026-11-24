@@ -1,0 +1,47 @@
+{
+  "number": 47,
+  "slug": "47-wprowadzenie-do-silnikow-regul-na-jvm-z-uzyciem-jboss",
+  "title": "Wprowadzenie do silników reguł na JVM z użyciem JBoss Drools. i Podstawy czystego kodu. Powtórka.",
+  "description": "Toruń JUG #47: Wprowadzenie do silników reguł na JVM z użyciem JBoss Drools. · Podstawy czystego kodu. Powtórka.",
+  "startDate": "2018-12-19T18:00:00+01:00",
+  "endDate": "2018-12-19T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/47-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Wprowadzenie do silników reguł na JVM z użyciem JBoss Drools.",
+      "description": "W tej prezentacji chciałbym pokazać przykłady użycia mechanizmów JBoss Drools na wybranych problemach opisanych za pomocą reguł i faktów zamiast tradycyjnego podejścia obiektowego.\nDodatkowo pojawi się ramowa historia silników reguł, wnioskowania hybrydowego oraz sposobów deklaratywnej reprezentacji wiedzy takiej jak logika biznesowa.\nPrzybliżę także konsekwencje zastosowanie takiego mechanizmu dla zespołu programistów na przykładzie doświadczenia z projektami komercyjnymi oraz postaram się nakreślić kiedy warto wypróbować silnik reguł, a kiedy jednak lepiej nie.",
+      "speakers": [
+        {
+          "name": "Mikołaj Fejzer",
+          "bio": "doktorant trudniący się użyciem uczenia maszynowego i eksploracji danych do wspomagania wytwarzania oprogramowania, entuzjasta programowania funkcyjnego. Zawodowo rozwija systemy płatnościowe oraz bankowe, obecnie w firmie 4Finance IT.\nhttps://github.com/mfejzer"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=wYt9xkijHoU"
+    },
+    {
+      "title": "Podstawy czystego kodu. Powtórka.",
+      "description": "Na spotkaniu spróbuję przypomnieć czym jest \"Czysty Kod\" według Uncle Boba oraz zaprezentować najważniejsze (według mnie) podstawowe zasady wytwarzania takiego kodu. Oprócz tego spróbuję rozważyć jakie są zalety, wady i co tak naprawdę daje nam takie podejście, na podstawie doświadczenia własnego oraz innych deweloperów.\nJeśli wcześniej nie miałeś styczności z \"Clean Code\" to prezentacja powinna być ciekawym wstępem do tematu. A jeśli temat znasz to być może będzie to dobra okazja do powtórki.",
+      "speakers": [
+        {
+          "name": "Marcin Pilaczyński",
+          "bio": "szeregowy java developer z około 10-letnim stażem. Gorący zwolennik pracy zespołowej i Scruma. W wolnej chwili lubi pobawić się Raspberry Pi programując “domowe projekty” w C. Uzależniony od muzyki i roweru."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=KzMMXKhPOOY"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/47-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

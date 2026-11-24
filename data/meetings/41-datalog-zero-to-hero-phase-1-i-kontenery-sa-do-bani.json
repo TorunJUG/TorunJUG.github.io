@@ -1,0 +1,47 @@
+{
+  "number": 41,
+  "slug": "41-datalog-zero-to-hero-phase-1-i-kontenery-sa-do-bani",
+  "title": "Datalog: Zero to Hero (Phase 1) i Kontenery są do bani...",
+  "description": "Toruń JUG #41: Datalog: Zero to Hero (Phase 1) · Kontenery są do bani...",
+  "startDate": "2018-04-25T18:00:00+02:00",
+  "endDate": "2018-04-25T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/41-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Datalog: Zero to Hero (Phase 1)",
+      "description": "Databases, databases everywhere! Which one do I need?\" - You need all of them; you need none of them; you're asking all the wrong questions! This talk is about solving the data vs code impedance mismatch with 1970's technology (chevron mustache is optional).",
+      "speakers": [
+        {
+          "name": "Norbert Wójtowicz",
+          "bio": "is a recovering empty-stack developer, whose magic 8-ball predicts that Clojure and ClojureScript will be in your future toolbox. You can find his code and ramblings in various corners of the internet, under the felicitous handle @pithyless."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=_vK1F9qfsTM"
+    },
+    {
+      "title": "Kontenery są do bani...",
+      "description": "Tak, kontenery są do bani i kropka. To, że łatwo się je uruchamia, to jeszcze nic nie znaczy. A to, że zapewniają izolację między aplikacjami jest żadnym argumentem - maszyny wirtualne chwaliły się tym od dawna. A jednak, kontenery mają niesamowitą siłę przyciągania. Czy rzeczywiście jesteśmy u progu rewolucji kontenerowej? A może to wszystko to kolejny buzzword? Sprawdźmy!",
+      "speakers": [
+        {
+          "name": "Sebastian Łaskawiec",
+          "bio": "na co dzień pracujący w firmie Red Hat zajmujący się projektami Infinispan, Red Hat Data Grid oraz OpenShift. Amator rozwiązań cloudowych i szybkich protokołów komunikacyjnych. Prywatnie zapalony piwowar domowy."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=zxpifQLJrfg"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/41-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

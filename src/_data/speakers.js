@@ -12,7 +12,7 @@ const TOP_SIZE = 3;
  *              wystąpienia do najstarszego.
  *
  * Prelegent jest rozpoznawany po imieniu i nazwisku; zdjęcie i bio pochodzą
- * z jego najnowszego wystąpienia.
+ * z jego najnowszego wystąpienia, w którym je podano.
  */
 export default async function () {
   const meetings = await loadMeetings(); // od najnowszego
@@ -23,8 +23,12 @@ export default async function () {
       for (const speaker of talk.speakers) {
         const id = speakerId(speaker.name);
         if (!byId.has(id)) {
-          byId.set(id, { id, name: speaker.name, bio: speaker.bio, photo: speaker.photo, talks: [] });
+          byId.set(id, { id, name: speaker.name, initials: speaker.initials, bio: null, photo: null, talks: [] });
         }
+        // Zdjęcie i bio z najnowszego wystąpienia, które je ma (spotkania są od najnowszego).
+        const entry = byId.get(id);
+        entry.photo ??= speaker.photo;
+        entry.bio ??= speaker.bio;
         byId.get(id).talks.push({
           title: talk.title,
           recordingUrl: talk.recordingUrl,

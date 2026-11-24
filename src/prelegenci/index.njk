@@ -48,7 +48,7 @@ nav:
           "numberOfItems": {{ speakers.all | length }},
           "itemListElement": [
           {%- for speaker in speakers.all %}
-            { "@type": "ListItem", "position": {{ loop.index }}, "item": { "@type": "Person", "name": {{ speaker.name | dump | safe }}, "url": "{{ site.url }}/prelegenci/#{{ speaker.id }}", "image": "{{ site.url }}/static/speakers/{{ speaker.photo }}" } }{% if not loop.last %},{% endif %}
+            { "@type": "ListItem", "position": {{ loop.index }}, "item": { "@type": "Person", "name": {{ speaker.name | dump | safe }}, "url": "{{ site.url }}/prelegenci/#{{ speaker.id }}"{% if speaker.photo %}, "image": "{{ site.url }}/static/speakers/{{ speaker.photo }}"{% endif %} } }{% if not loop.last %},{% endif %}
           {%- endfor %}
           ]
         }

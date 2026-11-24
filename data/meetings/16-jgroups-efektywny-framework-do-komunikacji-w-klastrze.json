@@ -1,0 +1,23 @@
+{
+  "number": 16,
+  "slug": "16-jgroups-efektywny-framework-do-komunikacji-w-klastrze",
+  "title": "JGroups, efektywny framework do komunikacji w klastrze",
+  "description": "Toruń JUG #16: JGroups, efektywny framework do komunikacji w klastrze",
+  "status": "completed",
+  "talks": [
+    {
+      "title": "JGroups, efektywny framework do komunikacji w klastrze",
+      "speakers": [
+        {
+          "name": "Sebastian Łaskawiec"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=r-Z3-8Do2UQ"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": null,
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

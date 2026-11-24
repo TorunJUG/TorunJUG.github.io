@@ -1,0 +1,50 @@
+{
+  "number": 51,
+  "slug": "51-developer-s-torment-the-documentation-i-transakcyjne",
+  "title": "Developer's Torment: The Documentation i Transakcyjne przetwarzanie w JPA - jak wiele można zepsuć",
+  "description": "Toruń JUG #51: Developer's Torment: The Documentation · Transakcyjne przetwarzanie w JPA - jak wiele można zepsuć",
+  "startDate": "2019-04-24T18:00:00+02:00",
+  "endDate": "2019-04-24T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/51-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Developer's Torment: The Documentation",
+      "description": "1. \"Developer's Torment: The Documentation\"\n(prezentacja odbędzie się w języku polskim)\n\nYou start a new job. You’re excited - new domain, new knowledge to ingest, new practices to learn. Unfortunately, once you start digging into things, excitement starts to fade and is replaced by frustration. It turns out that there is no way to find out about the product unless you somehow get a hold of sales pitch presentation. You can only learn about architecture if you talk to “that guy” and only if he’ll have 3 hours to spare (spoiler alert: he won’t). In short - tribal knowledge is the only way to go.\nDocs say we use Cassandra to store our data? Well, we did - in 2010.\n\nIs there no way out of this hell? Does onboarding process have to be the rite of passage, where your enthusiasm is crushed by the heavy weight of hopelessness? How to write and maintain documentation in the way, that it is an actual advantage to you and yours, and not a pile of shame?\n\nDuring our talk, we’ll analyze what are the actual issues with the docs, do we actually need it and how to go with quality, not quantity. Don’t worry, we won’t leave you without the tools to tackle this beast.",
+      "speakers": [
+        {
+          "name": "Jakub Marchwicki",
+          "bio": "Programista od kilkunastu lat, architekt od kilku, analityk czasami, konsultant jak trzeba, manager z wyboru, trener z zamiłowania, wannabe entrepreneur z marzeń, lider Java User Group w Gdańsku. Jest spora szansa, że nic z tego nie robię dobrze, ale próbuje… i wyciąga wnioski z porażek. Złośliwi mówią, że nie umie programować, ale miewa niezłe pomysły."
+        },
+        {
+          "name": "Zbyszko Papierski",
+          "bio": "Software engineer/architect, with strong addiction to product side of the solution. Previously responsible for useful categorization in Allegro, nicer API in Jira and lately for better Log Analytics in Dynatrace. After hours handles code-related Tricity JUG initiatives (like Hackengarten) in the meanwhile trying to learn his first (and probably last) oriental language.\n\n2. \"Transakcyjne przetwarzanie w JPA - jak wiele można zepsuć\"\n\nTransakcyjne przetwarzanie w Java Persistence Api i Java EE - Co w tym może być trudnego? Wystarczy to tu, to tam dać 'REQUIRED', a jak mamy odrobinę więcej fantazji to może i 'REQUIRES_NEW' prawda? Będzie działać... przez większość czasu. W mojej prezentacji pokażę kilka typowych haczyków, które czekają na nieświadomych niebezpieczeństw programistów zachłyśniętych łatwością pracy z JPA w środowisku transakcyjnym."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=v3mGJgMGaNk"
+    },
+    {
+      "title": "Transakcyjne przetwarzanie w JPA - jak wiele można zepsuć",
+      "speakers": [
+        {
+          "name": "Wojciech Oczkowski",
+          "bio": "Prowadzący własną działalność specjalista do spraw trudnych, zawodowo rozwiązuje problemy związane z projektowaniem architektury systemów, integracją, wydajnością i jakością kodu. Znajduje obsesyjną wręcz przyjemność w wynajdowaniu sensu w cudzym kodzie. Prywatnie rozwiązuje problemy związane z wychowaniem 2 dzieciaków i znajdowaniem czasu na żeglowanie i czytanie literatury fantastycznej. Jeden z liderów i założycieli Bydgoszcz JUG."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=tKfDdtjYYi8"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/51-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

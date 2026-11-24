@@ -1,0 +1,35 @@
+{
+  "number": 73,
+  "slug": "73-tanim-ai-oraz-keycloaku-w-praktyce",
+  "title": "\"Tanim AI\" oraz \"Keycloaku w praktyce\"",
+  "description": "Toruń JUG #73: Praktyczne przykłady autentykacji z Keycloakiem",
+  "startDate": "2024-06-26T18:00:00+02:00",
+  "endDate": "2024-06-26T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/73-spotkanie-torun-jug-o-tanim-ai-oraz-keycloaku-w-praktyce/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Praktyczne przykłady autentykacji z Keycloakiem",
+      "speakers": [
+        {
+          "name": "Michał Puchawski",
+          "bio": "DevOps/Java Developer w ecom.software. Fan eksperymentów i wprowadzania nowinek do kodu. Poza pracą, zwiedza kraj na motocyklu."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=JGl89Kq8BGc"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/73-spotkanie-torun-jug-o-tanim-ai-oraz-keycloaku-w-praktyce/",
+    "youtube": 1,
+    "generatedAt": "2026-11-24"
+  }
+}

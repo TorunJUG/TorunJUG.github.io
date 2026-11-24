@@ -92,7 +92,7 @@ W szablonach dane są automatycznie escapowane. Surowy HTML trzeba wstawić jawn
 
 1. Skopiuj `data/meetings/meeting.example.json` do `data/meetings/<numer>-<slug>.json`, np. `data/meetings/92-kotlin-i-spring.json`. **Nazwa pliku musi być równa polu `slug` + `.json`**, a slug zaczyna się od numeru spotkania.
 2. Uzupełnij dane (opis pól poniżej). Opisy prelekcji skopiuj z wydarzenia na Meetupie.
-3. Zdjęcia prelegentów (najlepiej kwadratowe, ok. 300 × 300 px) wrzuć do `src/static/speakers/`, a w JSON-ie podaj samą nazwę pliku.
+3. Zdjęcia prelegentów (najlepiej kwadratowe, ok. 300 × 300 px) wrzuć do `src/static/speakers/`, a w JSON-ie podaj samą nazwę pliku. Zdjęcie jest opcjonalne: bez niego strona pokazuje kafelek z inicjałami.
 4. Sprawdź lokalnie: `npm start`.
 5. `git commit` + `git push`. Po 1–2 minutach zmiana jest na stronie.
 
@@ -110,12 +110,15 @@ Plik JSON można też edytować w przeglądarce na GitHubie (ikona ołówka → 
 | `slug` | tak | Adres podstrony: małe litery ASCII, cyfry, myślniki; zaczyna się od `<number>-`. |
 | `title` | tak | Tytuł spotkania (nagłówek podstrony i kafelka). |
 | `description` | tak | Opis do `<meta name="description">`. |
-| `startDate`, `endDate` | tak | ISO 8601 ze strefą czasową, np. `2026-09-23T18:00:00+02:00`. Ten sam dzień. |
+| `startDate`, `endDate` | nie* | ISO 8601 ze strefą czasową, np. `2026-09-23T18:00:00+02:00`. Ten sam dzień, oba albo żadne. Bez nich strona pokazuje „data nieznana”. |
 | `status` | nie | `scheduled` (domyślnie), `completed`, `cancelled`, `postponed`. Używane w Schema.org i na kafelku. |
-| `location.place`, `.address`, `.city` | tak | Miejsce spotkania. |
-| `meetup.url`, `meetup.label` | tak | Link i etykieta przycisku do wydarzenia na Meetupie. |
-| `talks[]` | tak | Co najmniej jedna prelekcja: `title`, `description`, `speakers[]`, `recordingUrl`. |
-| `talks[].speakers[]` | tak | Prelegenci: `name`, `bio`, `photo` (nazwa pliku z `src/static/speakers/`). |
+| `location.place`, `.address`, `.city` | nie* | Miejsce spotkania (`place` i `city` wymagane, jeśli podano `location`). |
+| `meetup.url`, `meetup.label` | nie* | Link i etykieta przycisku do wydarzenia (Meetup, a dla importowanych spotkań Crossweb). |
+| `talks[]` | tak | Co najmniej jedna prelekcja: `title`, `description` (opcjonalny), `speakers[]`, `recordingUrl`. |
+| `talks[].speakers[]` | tak | Prelegenci: `name`, opcjonalnie `bio` i `photo` (nazwa pliku z `src/static/speakers/`). |
+| `importedFrom` | nie | Ustawia skrypt importu; oznacza plik wygenerowany automatycznie. |
+
+* Pola opcjonalne istnieją z myślą o historycznych spotkaniach. Nowe spotkania powinny je mieć.
 | `talks[].recordingUrl` | nie | Link do filmu na YouTube albo `null`. |
 | `template` | nie | `v1` (domyślnie, odtwarzacz `youtube-nocookie.com`) lub `v2` (dwie kolumny na desktopie, przycisk do nagrania na telefonie). |
 | `cardTitle` | nie | Inny tytuł na kafelku niż na podstronie. |
@@ -137,6 +140,50 @@ Strona `prelegenci/` powstaje automatycznie z prelekcji we wszystkich plikach sp
 - Ranking obejmuje tylko spotkania, które mają plik w `data/meetings/`. Dopisanie starszych spotkań automatycznie uzupełni liczniki.
 
 Napis na kafelku zależy od danych: „2 nagrania”, „Nadchodzące spotkanie” (dla `scheduled` bez nagrań) albo „Nagranie niedostępne / Nagrania niedostępne”.
+
+## Import historycznych spotkań z Crossweb
+
+Starsze spotkania (#19–#80) są opisane na [crossweb.pl](https://crossweb.pl/cykle-wydarzen/torun-jug/wydarzenia/). Dwa skrypty pobierają te dane do `data/crossweb/`. Ten katalog nie trafia na stronę, to materiał do przygotowania plików w `data/meetings/`.
+
+| Krok | Polecenie | Wynik |
+|---|---|---|
+| 1. Lista wydarzeń | `npm run crossweb:links` | `data/crossweb/events-list.json`: URL, tytuł, data i numer spotkania (`null` dla warsztatów, afterparty itp.) |
+| 2. Szczegóły | `npm run crossweb:details` | `data/crossweb/events.json`: pełny tytuł, data, miejsce, prelegenci, opis (tekst i HTML), linki z opisu |
+
+Opcje kroku 2 (przekazywane po `--`, np. `npm run crossweb:details -- --only 60,61`):
+
+- `--all`: pobierz też wydarzenia bez numeru (domyślnie tylko numerowane spotkania),
+- `--only 60,61`: tylko wybrane numery,
+- `--delay 5000`: przerwa między zapytaniami w ms (domyślnie 5 s, żeby nie obciążać serwisu),
+- `--refresh`: pobierz strony ponownie zamiast z cache.
+
+Pobrany HTML jest zapisywany w `data/crossweb/cache/` (poza gitem). Ponowne uruchomienie, np. po poprawce parsera, nie odpytuje więc Crossweb jeszcze raz.
+
+W Crossweb nie ma spotkań #1–#18 ani #72. Crossweb nie podaje też godziny zakończenia spotkania.
+
+### Krok 3: połączenie z nagraniami z YouTube
+
+Listę filmów z kanału pobiera się narzędziem [yt-dlp](https://github.com/yt-dlp/yt-dlp):
+
+```shell
+yt-dlp --flat-playlist -J https://www.youtube.com/@TorunJUG/videos > data/youtube-videos-ytdlp.json
+```
+
+Potem skrypt łączy Crossweb i YouTube w pliki `data/meetings/<numer>-<slug>.json`:
+
+```shell
+node scripts/import-meetings.mjs                       # zapisuje nowe spotkania
+node scripts/import-meetings.mjs --dry-run             # tylko raport
+node scripts/import-meetings.mjs --overwrite-imported  # ponownie generuje pliki z polem importedFrom
+node scripts/import-meetings.mjs --only 31,72          # wybrane spotkania
+```
+
+- **Zasada 1:1:** tytuły i opisy prelekcji oraz bio prelegentów są przenoszone ze źródeł bez redakcji. Skrypt zdejmuje tylko otaczający cudzysłów tytułu i „Imię Nazwisko – ” z początku bio.
+- **Ręcznie przygotowane pliki** (bez pola `importedFrom`) nigdy nie są zmieniane.
+- **Filtr filmów:** zapowiedzi, `TorunJUG.getSrc()`, Hackathorn, Toruń JUG Day 2017, prezentacje sponsorów i podsumowania działalności są pomijane. Reguły i formaty tytułów są opisane w komentarzach na początku skryptu.
+- **Nazwiska:** skróty i zdrobnienia z tytułów filmów („M. Nalepa”, „Arek Sokołowski”) są zamieniane na pełne imię tylko wtedy, gdy ta osoba występuje z pełnym imieniem w Crossweb lub w istniejących plikach.
+- **Raport** `data/meetings-import-report.md` zawiera listę zapisanych spotkań, ostrzeżenia do ręcznego sprawdzenia i wszystkie odrzucone filmy z powodem odrzucenia.
+- Diagnostyka jednego spotkania: `DEBUG_MEETING=31 node scripts/import-meetings.mjs --dry-run --only 31`.
 
 ## Deployment (GitHub Pages)
 

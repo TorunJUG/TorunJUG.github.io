@@ -1,0 +1,43 @@
+{
+  "number": 62,
+  "slug": "62-duzo-o-javie-i-jvmie",
+  "title": "Dużo o Javie i JVMie!",
+  "description": "Toruń JUG #62: Project Valhalla - Codes like a class, behaves like an int · JVM Iceberg... we need to go deeper",
+  "startDate": "2023-03-29T18:00:00+02:00",
+  "endDate": "2023-03-29T20:00:00+02:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/62-spotkanie-torun-jug-duzo-o-javie-i-jvmie/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Project Valhalla - Codes like a class, behaves like an int",
+      "speakers": [
+        {
+          "name": "Arkadiusz Sokołowski"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=ga83laKH5uI"
+    },
+    {
+      "title": "JVM Iceberg... we need to go deeper",
+      "speakers": [
+        {
+          "name": "Artur Skowroński"
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=iZXkj1JHfRc"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/62-spotkanie-torun-jug-duzo-o-javie-i-jvmie/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}

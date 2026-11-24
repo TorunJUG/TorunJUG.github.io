@@ -1,0 +1,47 @@
+{
+  "number": 45,
+  "slug": "45-zwinna-architektura-na-przykladach-i-massive-concurrency",
+  "title": "Zwinna architektura na przykładach i Massive concurrency - model aktorów w świecie multi-core na przykładzie języka Erlang",
+  "description": "Toruń JUG #45: Zwinna architektura na przykładach · Massive concurrency - model aktorów w świecie multi-core na przykładzie języka Erlang",
+  "startDate": "2018-10-31T18:00:00+01:00",
+  "endDate": "2018-10-31T20:00:00+01:00",
+  "status": "completed",
+  "location": {
+    "place": "WMiI UMK",
+    "address": "ul. Chopina 12/18",
+    "city": "Toruń"
+  },
+  "meetup": {
+    "url": "https://crossweb.pl/wydarzenia/45-spotkanie-torun-jug/",
+    "label": "Opis wydarzenia w Crossweb"
+  },
+  "talks": [
+    {
+      "title": "Zwinna architektura na przykładach",
+      "description": "Agile i architektura to słowa, które na pozór nie pasują do siebie. Gdzie tu czas na zastanawianie się nad architekturą systemu, gdy zwinne podejście nakazuje jak najbardziej koncentrować się na dowiezieniu najbliższego sprintu? Jednakże \"Zwinna Architektura\" to pojęcie, które od około dekady zaczęło nabierać swojego niezależnego i unikalnego sensu. W tej prezentacji postaram się pokazać, jak zaskakująco odmienne jest zwinne podejście do architektury od tego tradycyjnego.",
+      "speakers": [
+        {
+          "name": "Sławomir Piotrowski",
+          "bio": "programista, architekt z doświadczeniem w branży płatnościowej, bankowej i ubezpieczeniowej. Certyfikowany Scrum Master. Kontrybutor open-source."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=J9FyxU-gbOg"
+    },
+    {
+      "title": "Massive concurrency - model aktorów w świecie multi-core na przykładzie języka Erlang",
+      "description": "Prawo Moora (\"średnio co dwa lata ilość tranzystorów w procesorach zwiększa się dwukrotnie\") traktowane dosłownie przestaje działać. W praktyce jednak utrzymuje się ono w mocy - \"moc obliczeniowa komputerów podwaja się co 24 miesiące\". Wynika to z tego, że od dłuższego czasu zauważamy zmianę trendu i zamiast nacisku na przyspieszanie rdzeni, zwiększamy w procesorach ich ilość.\n\nRenesans technik programowania funkcyjnego, zabawy z immutable data i modelowaniem obliczeń równoległych są tego efektem. W Javie biblioteki standardowe typu Java Concurrency wzbogacane są o immutable data, a o strumieniach i funkcyjnym podejściu do obliczeń nie trzeba nawet wspominać. Scala i model aktorów implementowany przez toolkit Akka zyskuje coraz większą popularność. Inspiracją dla tych narzędzi był język Erlang, w którym pojęcie procesu i komunikacja między procesami z użyciem \"message passing\" są wbudowane w podstawy jezyka i jego wirtualnej maszyny.\n\nPodczas prezentacji w praktyczny sposób omówię model procesu, komunikacji między procesami oraz pokażę jak może to ułatwić życie podczas projektowania, implementowania i przede wszystkim utrzymania software dla systemów wielordzeniowych.",
+      "speakers": [
+        {
+          "name": "Sebastian Smyczyński",
+          "bio": "projektant software, algorytmik, developer. Współzałożyciel i od 11 lat team leader w zespole programistycznym Simplito. Miłośnik i praktyk programowania funkcyjnego, w szczególności Erlanga. Pasjonat i nauczyciel tanga argentyńskiego."
+        }
+      ],
+      "recordingUrl": "https://www.youtube.com/watch?v=XStRGIYf7gI"
+    }
+  ],
+  "importedFrom": {
+    "crossweb": "https://crossweb.pl/wydarzenia/45-spotkanie-torun-jug/",
+    "youtube": 2,
+    "generatedAt": "2026-11-24"
+  }
+}
